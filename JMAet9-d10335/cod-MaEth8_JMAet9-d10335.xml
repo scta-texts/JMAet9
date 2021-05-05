@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 4</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 4</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d10335"><!-- mair-l3c4 -->
+            <head xml:id="JMAet9-d10335-Hd1e103">Caput 4</head>
+            <p xml:id="JMAet9-d10335-d1e106">
+               <lb ed="#P" n="20"/>
+               <quote xml:id="JMAet9-d10335-Qd1e110" type="lemma">VOluntatem autem</quote> &amp;c. In hoc quarto capite Aristoteles de voluntate &amp; eius obiecto determinat. 
+      <lb ed="#P" n="21"/>Voluntatem autem pro suo actu elicito crebriter ponunt: discriminis gratia hanc volitionem atque 
+      noli<lb ed="#P" n="22" break="no"/>tionem moderni theologi dicunt. Duas opinationes erroneas circa voluntatis obiectum recitat: 
+      <lb ed="#P" n="23"/>quarum vna tenet quod per se bonum siue realiter bonum est voluntatis obiectum adaequatum. Alii vero tenent bonum 
+      <lb ed="#P" n="24"/>solum apparens esse voluntatis obiectum. Per tres conclusiones difficultatem soluit. dicit ergo in primordio sic, 
+      <lb ed="#P" n="25"/>Voluntatem esse ipsius finis tamquam obiecti, iam dictum est: sed eius duae sunt positiones: vna est ponentium 
+      volun<lb ed="#P" n="26" break="no"/>tatem esse solius veri boni. idcirco hi verum bonum diffiniunt, quod est voluntate affectabile: &amp; volunt nos ea non 
+      <lb ed="#P" n="27"/>velle: quae non recte cupimus: nam ea mala sunt: Nos autem vt illorum fert opinatio. nihil nisi bonum volumus: 
+      <lb ed="#P" n="28"/>&amp; continuo si id volumus bonum est, at erat forte malum. Ponatur esse tale. Ac si sic argumentaretur. Solum 
+      <lb ed="#P" n="29"/>verum bonum est affectabile a voluntate: sed malus vult aliquid quod est malum: ergo malum est bonum. Vel sic 
+      for<lb ed="#P" n="30" break="no"/>malius. Omne affectabile a voluntate est verum bonum: sed hoc (demonstrando malum) est affectabile a 
+      vo<lb ed="#P" n="31" break="no"/>luntate: igitur hoc est verum bonum. In darii. Conclusio est falsa, &amp; minor nota per experientiam: ergo maior est 
+      <lb ed="#P" n="32"/>falsa, &amp; per consequens prior opinatio pessumit.
+    </p>
+            <p xml:id="JMAet9-d10335-d1e140">
+               <pc type="pilcrow">¶</pc> Secunda conclusio. Voluntas no est solum apparentis boni. 
+      Pro<lb ed="#P" n="33" break="no"/>batio, quia secundum eos nihil suapte natura erit bonum, sed vnicuique illud est affectabile quod ei videtur bonum: 
+      <lb ed="#P" n="34"/>ac vni hoc videtur bonum, &amp; eius propositum alteri bonum: ergo contraria sunt bona, quod est inconveniens: nam cum 
+      <lb ed="#P" n="35"/>vnum alicui appareat bonum eorum sententia bonum est, &amp; cum idem alteri appareat malum eorundem opinione malum 
+      <lb ed="#P" n="36"/>est: idem igitur est bonum &amp; malum, quae absurda existunt atque nimirum audientibus displicent: diffiniri ergo 
+      po<lb ed="#P" n="37" break="no"/>test reuera bonum quod simpliciter voluntate affectabile est, secundum quid vero est vnicuique bonum quod cuique 
+      vi<lb ed="#P" n="38" break="no"/>detur. Postea ponit conclusionem hypotheticam. Studioso illud est a voluntate affectabile quod vere est bonum: 
+      <lb ed="#P" n="39"/>vitioso autem secundum quid, quicquid contigerit, hoc est quod apparet bonum. Sic in valore hanc copulatiuam 
+      <lb ed="#P" n="40"/>probat. Quemadmodum se habent boni cibi in corporibus, sic affectabilia in animis (sicut enim per esculenta 
+      <lb ed="#P" n="41"/>corpora aluntur, sic affectabilia rationi consentanea, sunt voluntatis pabulum: sed corporibus bene 
+      dispo<lb ed="#P" n="42" break="no"/>sitis cibi illi sunt salubres, qui reuera sunt tales, quibus dulcia, dulcia, &amp; amara amara apparent: iis autem 
+      <lb ed="#P" n="43"/>quorum corpora sunt aegrota &amp; inualetudine languent, non haec ipsa sed alia quae in rei veritate non sunt 
+      <lb ed="#P" n="44"/>salubria, sed secundum gustum praue dispositum dulcia amara, &amp; contra suspicantur. Febre enim correptus ob 
+      hu<lb ed="#P" n="45" break="no"/>morum copiam a stomacho descendentum habet linguam &amp; palatum infectum, &amp; saluberrimus cibus assumptus 
+      <lb ed="#P" n="46"/>his crudis humoribus miscetur, quare bonum malum censet ob congeriem assumptam malam: cibum 
+      salu<lb ed="#P" n="47" break="no"/>tiferum inutilem putat, vinum acre quia intus penetrat, quod reuera est malum, bonum arbitratur, sic de 
+      graui<lb ed="#P" n="48" break="no"/>tate suo more dicatur. Debilis paruum onus graue existimat: sed robustus &amp; in corpore incolumis bene 
+      <lb ed="#P" n="49"/>id diiudicat. Et sicut est in corpore, ita est in animo: quia argumentum a notiore ad ignotius procedit. 
+      <lb ed="#P" n="50"/>Proinde ab his quae corporis sunt nota, occultiora animae mostrat. Studiosus singula recte iudicat, &amp; 
+      <lb ed="#P" n="51"/>in singulis rebus quod vere tale est cognoscit. Habitus eius secundum rectae rationis dictamen est procreatus, &amp; 
+      <lb ed="#P" n="52"/>delectabiliter in actus sui habitus quilibet progreditur. In vnoquoque enim habitu sunt propria quaedam 
+      bo<lb ed="#P" n="53" break="no"/>na &amp; iucunda: at in veritate habenda studiosus antecellit quasi regula &amp; illorum mensura existens. lustus enim 
+      <lb ed="#P" n="54"/>est lex animata, quinto Ethicorum. Voluptate multitudo imperita decipitur: quae licet non sit bona, tamen 
+      <lb ed="#P" n="55"/>bona apparet. Multi &amp; signanter praui, voluptatem sequuntur tamquam bonum: dolorem vero tamquam malum exhorrent 
+      <lb ed="#P" n="56"/>&amp; aufugiunt.
+    </p>
+            <p xml:id="JMAet9-d10335-d1e198">
+               <pc type="pilcrow">¶</pc> Circa voluntatem dubitatur, Primo, per quid agens a proposito ab agente naturali 
+      <lb ed="#P" n="57"/>differat. Secundo, per quid voluntas in actum suum exit. Tertio, an malum potest esse voluntatis 
+      <lb ed="#P" n="58"/>obiectum. Quarto, an voluntas cuilibet iudicio rationis se conformare &amp; cuilibet se difformare potest. 
+    </p>
+            <p xml:id="JMAet9-d10335-d1e208">
+               <lb ed="#P" n="59"/>⁋ Ad primam dubitationem respondetur, quod potentia rationalis est agens potens suapte natura actum 
+      <lb ed="#P" n="60"/>elicere &amp; non elicere, omnibus causis positis ad actum requisitis, deo parato ad productionem actus 
+      <!--93.xml-->
+      <pb ed="#P" n="39-v"/>
+               <lb ed="#P" n="1"/>concurrere. Ignis enim potest calefactibile calefacere, atque non calefacere si deus non coomperetuntur, vt 
+      <lb ed="#P" n="2"/>de pueris in camino regis Babylonis contigit: sed illud ab extrario euenit. Deo parato cooperari. 
+      <lb ed="#P" n="3"/>ignis non potest non calefacere obiectum approximatum obice secluso, secus est de voluntate: Deo 
+      <lb ed="#P" n="4"/>enim parato ad coagendum, voluntas potest suum actum producere atque ipsum suspendere: est enim 
+      <lb ed="#P" n="5"/>libeta libertate contradictionis, vt diligendo ac non diligendo: item contrarietatis, vt diligendo ac 
+      <lb ed="#P" n="6"/>odiendo.
+    </p>
+            <p xml:id="JMAet9-d10335-d1e233">
+               <pc type="pilcrow">¶</pc> Ad secundum dicitur, quod voluntas seipsa &amp; sine actu elicito praeuio actum producit, alioqui 
+      <lb ed="#P" n="7"/>si quilibet actus priorem praesupponet, non habebitur vnus actus elicitus sine infinitis praecedentibus: 
+      <lb ed="#P" n="8"/>quo nihil est absurdius.
+    </p>
+            <p xml:id="JMAet9-d10335-d1e243">
+               <pc type="pilcrow">¶</pc> Ad tertiam dubitationem respondetur, quod vltra opiniones duas erroneas 
+      <lb ed="#P" n="9"/>ab Aristotele recitatas theologorum sunt opinationes his apparentiores: quarum vna tenet 
+      volun<lb ed="#P" n="10" break="no"/>tatem esse liberam respectu cuiustibet obiecti libertate contradictionis, &amp; etiam libertate 
+      contrarie<lb ed="#P" n="11" break="no"/>tatis, nisi respectu duorum. Non enim potest nolle deum esse &amp; velle miseriam. Ponantur 
+      proposi<lb ed="#P" n="12" break="no"/>tiones: Prima. Malum potest esse obiectum voluntatis. Patet in nolendo. Secunda propositio. Malum 
+      <lb ed="#P" n="13"/>potest esse obiectum voluntatis in prosequutione, hoc est volendo. Patet, quando est adulterinum &amp; 
+      <lb ed="#P" n="14"/>sophisticum bonum, vt aliena coniunx circa libidinosum actum. Tertia propositio, voluntas 
+      regu<lb ed="#P" n="15" break="no"/>lariter non fertur prosequutiue, nisi in bonum verum vel apparens. Bonum enim omnia appetunt 
+      <lb ed="#P" n="16"/>primi huius primo: &amp; hoc in litera innuere videtur: consonatque Dionysius in libro de Diuinis 
+      no<lb ed="#P" n="17" break="no"/>minibus inquiens, Nullus operatur ad malum aspiciens. Quarta propositio. Malum voluntas potest 
+      <lb ed="#P" n="18"/>velle in quo nulla ratio boni est ostensa. Patet, voluntas potest velle obiectum in quo non est ostensa 
+      <lb ed="#P" n="19"/>ratio boni vel mali, ex libertatis plenitudine. Socrates enim de hoc malo notitiam habere potest per 
+      <lb ed="#P" n="20"/>quam nec bonitas nec malitia huius rei ei ostenditur, quare non potest id tunc velle. Ostenditur mihi 
+      <lb ed="#P" n="21"/>regem esse in prandio, sine consideratione vlla bonitatis: dico, opto illi bene esse. Quinta 
+      propositio<lb ed="#P" n="22" break="no"/>voluntas potest velle malum ostensum esse malum, &amp; non ostensum per aliquam rationem boni, ex sua 
+      <lb ed="#P" n="23"/>libertate. Patet, respectu aliquorum obiectorum. potest voluntas elicere actus contrarios: &amp; non videtur 
+      ne<lb ed="#P" n="24" break="no"/>gandum quin potest illud respectu cuiuscumque obiecti, cum libertatem voluntatis id stipet. Secundo. 
+      Volun<lb ed="#P" n="25" break="no"/>tas potest velle impossibile, ex superius annotatis, &amp; pari iure nolle necessarium (appellationem 
+      ra<lb ed="#P" n="26" break="no"/>tionis secludo) ergo potest velle illud in quo nulla occurrit ratio bonitatis, vltra bonitatem quam 
+      <lb ed="#P" n="27"/>auet in suae libertatis experimento. loquimur de obiectiua bonitate. Apprehendat illud obiectum sub vna 
+      <lb ed="#P" n="28"/>notitia mali, quare non potest velle illud. Tertio. possum nolle deum esse, quia possum necessarium nolle 
+      <lb ed="#P" n="29"/>esse, in quo nulla ratio mali apparet: ergo pari iure possum velle miseriam esse in qua nulla est ratio boni. 
+      <lb ed="#P" n="30"/>At dicis est ratio displicibilitatis in deo eo quod punit, &amp; sic malitia sophistica in eo est causa odii, secundum 
+      <lb ed="#P" n="31"/>eius verba, odio habuerunt me gratis. Et, Ascendit fumus eorum qui te oderunt semper. Quicquid de illo 
+      <lb ed="#P" n="32"/>sit, probabile est vt bonum transcendenter sumptum est entis passio, sic est obiectum voluntatis in volendo: &amp; 
+      <lb ed="#P" n="33"/>quacumque rem miseram ponis, poenam aut culpam vel harum congeriem, voluntas illam potest velle: non autem 
+      <lb ed="#P" n="34"/>regulariter nec ita facit, sed ex sua foecunditate id ei repugnare non videtur.
+    </p>
+            <p xml:id="JMAet9-d10335-d1e305">
+               <pc type="pilcrow">¶</pc> Ad quartum dicitur, quod 
+      <lb ed="#P" n="35"/>potest velle qualiter dictatur, sed interdum non erit ita in re sicut vult: patet hic. Habeat intellectus hoc 
+      <lb ed="#P" n="36"/>dictamen: nihil est volitum: voluntas potest habere hunc actum, nihil est volendum: licet non exequatur id quod 
+      <lb ed="#P" n="37"/>intellectus dictat: tamen vult qualiter intellectus dictat. &amp; si intellectus habeat hoc iudicium, nulli 
+      iudi<lb ed="#P" n="38" break="no"/>cio se conformat: voluntas potest velle nulli iudicio se conformare: licet non sit ita, in re finaliter uelit. 
+      <lb ed="#P" n="39"/>ob reflexionem.
+    </p>
+            <p xml:id="JMAet9-d10335-d1e322">
+               <pc type="pilcrow">¶</pc> Ambigis quare dicit in exordio huius capitis: voluntas est finis: videtur enim non 
+      <lb ed="#P" n="40"/>esse propterea mediorum in finem. Responsio. Voluntas ad actum suum elicitum hic extenditur quem Neoterici vt 
+      <lb ed="#P" n="41"/>nuperrime retulimus volitionem atque nolitionem nuncupant. Et voluntas contra electionem distinguitur, &amp; tunc 
+      <lb ed="#P" n="42"/>est solius finis. Electio enim est mediorum in finem, &amp; sic capite praecedenti vocabulum Aristoteles cepit. 
+      Ser<lb ed="#P" n="43" break="no"/>mones autem secundum subiectam materiam sunt sumendi. Alio modo pro omni actu potentiae volitiuae accipitur: 
+      <lb ed="#P" n="44"/>&amp; hoc communius, &amp; sic ad mala ac impossibiliu extenditur.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

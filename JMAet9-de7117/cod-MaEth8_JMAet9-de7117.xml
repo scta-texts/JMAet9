@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 8</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 8</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-de7117"><!-- mair-l2c8 -->
+            <head xml:id="JMAet9-de7117-Hd1e103">Caput 8</head>
+            <p xml:id="JMAet9-de7117-d1e106">
+      <!--71.xml-->
+               <pb ed="#P" n="28-v"/>
+               <lb ed="#P" n="1"/>
+               <quote xml:id="JMAet9-de7117-Qd1e114" type="lemma">CVm autem tres sint dispositiones</quote>. In hoc capite ponit philosophus expositionem extremorum 
+      <lb ed="#P" n="2"/>&amp; medii ad extrema. Et tres conclusiones ponit: quarum Prima est. Et medium extremis &amp; 
+      <lb ed="#P" n="3"/>Cextrema inter se aliquo modo aduersantur: sunt enim, vt dictum est, tres dispositiones, hoc 
+      <lb ed="#P" n="4"/>est qualitates ad bonum &amp; malum disponentes, quarum duae vitia sunt, vnum in excessu, &amp; alterum 
+      <lb ed="#P" n="5"/>in defectione, &amp; tertia virtus, quae &amp; mediocritas quaedam est: sed media dispositio extremis 
+      contra<lb ed="#P" n="6" break="no"/>ria est: nam aequale quando confertur ad minus, maius esse videtur.
+    </p>
+            <p xml:id="JMAet9-de7117-d1e129">
+               <pc type="pilcrow">¶</pc> Nota quod virtus bifariam 
+      consi<lb ed="#P" n="7" break="no"/>deratur, vt superius diximus: vno modo vt est quaedam mediocritas: alio modo vt est quoddam bonum: 
+      <lb ed="#P" n="8"/>quomodo ex vna parte extremis simul sumptis tamquam pesti ac malo. Vt autem est mediocritas duobus 
+      <lb ed="#P" n="9"/>extremis opponitur, quorum vnum est ex vna parte vt excessus, alterum ex altera parte, vt defectus. Et sic 
+      <lb ed="#P" n="10"/>medium quandam relationem subit &amp; comparatum ad maius, minus apparet: sic medii habitus respectu 
+      <lb ed="#P" n="11"/>defectionum exuperant in habitudine excessuum, deficiunt tam in affectibus quam in operationibus. 
+      Exen<lb ed="#P" n="12" break="no"/>plariter illud propalor fortis: cum ad timidum confertur audax, cum ad audacem formidolosus esse 
+      <lb ed="#P" n="13"/>videtur. Item temperans respectu insensatitemperans: respectu autem intemperati insensatus putatur. 
+      <lb ed="#P" n="14"/>Et si liberalis ad illiberalem &amp; auarum conferatur prodigus apparebit: si vero ad prodigum illiberalis: &amp; ita 
+      <lb ed="#P" n="15"/>in similibus. At extrema illa vt audax, timidus, intemperans, insensibilis, palam inter se 
+      contrarian<lb ed="#P" n="16" break="no"/>tur. Igitur &amp; medii illi habitus extremis contrariantur. Reiicit enim a se vnum extremorum ipsum 
+      <lb ed="#P" n="17"/>medium, alterum extremum versus potius in alterum extremum &amp; contra: &amp; hoc non est nisi quia 
+      me<lb ed="#P" n="18" break="no"/>dium vtrique extremo aduersatur: hinc audax fortem, timidum: &amp; timidus fortem, audacem appellat, &amp; ita 
+      <lb ed="#P" n="19"/>in reliquis. Medium propterea extremis &amp; extrema inter se quodammodo opponuntur.
+    </p>
+            <p xml:id="JMAet9-de7117-d1e163">
+               <pc type="pilcrow">¶</pc> Sequitur secunda 
+      <lb ed="#P" n="20"/>conclusio quae dicit. Haec cum hoc pacto inter sese opponantur, maior est extremorum contrarietas inter 
+      <lb ed="#P" n="21"/>se quam ad medium. Hanc conclusionem bifariam probat, primo sic. Illa contraria quae magis distant 
+      <lb ed="#P" n="22"/>magis aduersantur: quemadmodum magnum &amp; paruum magis inter se distantquam ab aequali, hoc est a 
+      <lb ed="#P" n="23"/>medio rei inter illa. Secundo sic. Illa inter quae nulla est similitudo magis contrariantur, quam illa, inter quae 
+      <lb ed="#P" n="24"/>est aliqua similitudo: sed medii ad extrema est aliqua similitudo, nam liberalitas aliquam affinitatem 
+      <lb ed="#P" n="25"/>cum illiberalitate, aliquam cum prodigalitate habet: magis igitur inter se extrema distant. Nam 
+      diffi<lb ed="#P" n="26" break="no"/>niantur contraria per plurimum distare: siquidem contraria sunt, quae sub eodem genere posita maxime a 
+      <lb ed="#P" n="27"/>seinuicem distant: &amp; eidem subiecto vicissim assunt a quo mutuo sese reiiciunt. Ex postpraedicamentis. 
+      <lb ed="#P" n="28"/>Extrema igitur quae maxime distant maxime inter se sunt contraria. Ipsorum igitur maior est 
+      opposi<lb ed="#P" n="29" break="no"/>tio quam extremorum ad medium.
+    </p>
+            <p xml:id="JMAet9-de7117-d1e190">
+               <pc type="pilcrow">¶</pc> Sequitur tertia conclusio. At vero medio in aliquibus excessus, in 
+      aliqui<lb ed="#P" n="30" break="no"/>bus defectus magis est ipsi medio oppositus, vnde timiditas magis fortitudini quam audacia contrariatur: &amp; 
+      <lb ed="#P" n="31"/>intemperantia magis temperantiae quam insensibilitas opponitur. Et istud ob duo contingit. primum ex parte 
+      <lb ed="#P" n="32"/>rei, secundum ex nostra parte sumitur. Ex parte autem rei, nam quando vnum extremorum medio est similius &amp; 
+      <lb ed="#P" n="33"/>propinquius, tunc non ipsum sed eius oppositum est ipsi medio magis oppositum: vt quia audacia similior 
+      <lb ed="#P" n="34"/>est sortitudini: timiditas autem quae est defectus dissimilior &amp; remotior, propterea timiditas magis 
+      for<lb ed="#P" n="35" break="no"/>titudini opponitur. Secunda causa ex parte nostra est haec, extrema illa magis contraria videntur ad quae 
+      <lb ed="#P" n="36"/>natura propensi &amp; inclinati sumus: vt nos ad voluptatem proniores sumus quam ad voluptatum 
+      abstinen<lb ed="#P" n="37" break="no"/>tias: proinde intemperantia est magis contraria temperantiae quam insensibilitas: quia ab illo ad quod sumus 
+      <lb ed="#P" n="38"/>naturaliter inclinati, cum maiori difficultate recedimus tendendo ad medium: &amp; facilius a medio ad 
+      <lb ed="#P" n="39"/>illud recedimus. Haec igitur magis contraria dicimus, inquit, ad quae magis sit accretio, hoc est 
+      augmen<lb ed="#P" n="40" break="no"/>tum, &amp; ipsa hominis inclinatio. Modestiam in litera pro insensibilitate ponit. 
+    </p>
+            <p xml:id="JMAet9-de7117-d1e221">
+               <lb ed="#P" n="41"/>⁋ Dvbitatur Primo, an extrema plus opponantur sibi mutuo quam ipsi virtuti. Et probatur quod non.  
+      <lb ed="#P" n="42"/>virtus enim non opponitur vitio: ergo dubitatio falsum supponit. Antecedens patet. Non 
+      opponi<lb ed="#P" n="43" break="no"/>tur relatiue nec contradictorie, vt notum est: nec videtur quod ipsa priuatiue, aut contrarie opponantur 
+      <lb ed="#P" n="44"/>cum non maxime distent: igitur. Secundo vitium vitio contrariatur: ergo non contrariatur 
+      vir<lb ed="#P" n="45" break="no"/>tuti: tenet consequentia, quia tantum vnum vni est contrarium. primo caeli. Tertio genere differentia 
+      <lb ed="#P" n="46"/>maxime a seinuicem distant: sed extrema vitia sunt in eodem genere: virtus &amp; vitium sunt in 
+      di<lb ed="#P" n="47" break="no"/>uersis generibus. In oppositum est Aristoteles.
+    </p>
+            <p xml:id="JMAet9-de7117-d1e239">
+               <pc type="pilcrow">¶</pc> Ad primum dicitur, quod virtus non est vitii virtus: 
+      <lb ed="#P" n="48"/>ergo non opponuntur relatiue nec alter terminorum in priuatiuis: &amp; non opponuntur 
+      contradicto<lb ed="#P" n="49" break="no"/>rie: relinquitur igitur quod contrarie opponuntur: non enim sunt plures species oppositionis 
+      incom<lb ed="#P" n="50" break="no"/>plexe, ex postpraedicamentis. Quomodo voco hic incomplexionem ex artibus liquere reor. Et licet 
+      <lb ed="#P" n="51"/>virtus maxime a vitio non distet: non tamen sequitur quin contrarientur: solum sequitur non 
+      contra<lb ed="#P" n="52" break="no"/>riantur contrarietate propriissime sumpta. Album enim &amp; puniceum contrariantur, sicut candidum 
+      <lb ed="#P" n="53"/>&amp; pullum in eodem genere contrarietatis.
+    </p>
+            <p xml:id="JMAet9-de7117-d1e258">
+               <pc type="pilcrow">¶</pc> Ad secundum nego consequentiam. Probatio verum 
+      ha<lb ed="#P" n="54" break="no"/>bet de contrarietate propriissime dicta &amp; de contrarietate rerum.
+    </p>
+            <p xml:id="JMAet9-de7117-d1e266">
+               <pc type="pilcrow">¶</pc> Ad tertium dicitur, quod aliquam 
+      <lb ed="#P" n="55"/>affinitatem extrema habent quam medium non habet cum aliquo extremo, quia continentur sub 
+      <lb ed="#P" n="56"/>eodem genere vitii: sed quantum ad bonum &amp; malum virtus &amp; vitium plus contrariantur: vnum 
+      <lb ed="#P" n="57"/>enim sub genere boni, alterum sub genere mali includitur. Et quia est difficile attingere medium: 
+      <lb ed="#P" n="58"/>forte facilior est transitus de extremo in extremnm quam de extremo in medium: tamen de extremo 
+      <lb ed="#P" n="59"/>in medium rei prius quam in extremum transitur: quinto physicorum: sed de medio ratione dico id non  
+      <lb ed="#P" n="60"/>oportere: sed aliam conuenientiam virtus habet cum extremo, sicut Aristoteles in litera dicit, vt 
+      ses<lb ed="#P" n="61" break="no"/>quipedale plus cum bipedali &amp; pedali conuenit quam bipedale cum pedali. De conuenientia secundum 
+      sub<lb ed="#P" n="62" break="no"/>stantiam hinc &amp; illinc nunc est maior, nunc vero minor. Duo actus eiusdem speciei, immo idem actus 
+      <lb ed="#P" n="63"/>numero sensim sub virtute &amp; vitio implicatur: vt volo dare decem minas huic, &amp; volo dare decem 
+      <lb ed="#P" n="64"/>minas huic: vnus actus potest esse liberalitas, alter vero pecuniae profusio, &amp; prodigalitas.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

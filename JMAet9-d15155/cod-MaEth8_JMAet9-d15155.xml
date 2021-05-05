@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d15155"><!-- mair-l4c1 -->
+            <head xml:id="JMAet9-d15155-Hd1e103">Caput 1</head>
+            <!-- alias="mair-l4c1p1" -->
+            <p xml:id="JMAet9-d15155-d1e108">
+               <lb ed="#P" n="41"/>
+               <quote xml:id="JMAet9-d15155-Qd1e112" type="lemma">DEinceps autem de liberalitate dicamus</quote>. Prima huius primicapitis quarti libri 
+      <lb ed="#P" n="42"/>conclusio est. Liberalitas est mediocritas in erogandis &amp; accipiendis pecuniis. Patet. 
+      <lb ed="#P" n="43"/>Vnaquaeque virtus est tantum circa illam materiam circa quam operatio respondens laudatur. 
+      <lb ed="#P" n="44"/>Quando dicit liberalitatem esse circa pecuniam generale dat documentum ad 
+      deprehen<lb ed="#P" n="45" break="no"/>dendum circa quod obiectum est quaelibet virtus. Quia enim virtus est circa bonum 
+      laudabi<lb ed="#P" n="46" break="no"/>se, ideo quaelibet virtus est circa illa circa quae operatio virtutis laudatur. Q 
+      lau<lb ed="#P" n="47" break="no"/>detur circa pecuniam probat per aliqua negatiua in quibus aliae virtutes efferuntur 
+      <lb ed="#P" n="48"/>&amp; dicit deinceps, vt dicenda dictis in calce tertii assumat. Non enim in bellicis rebus vti ipse fortis: nec in 
+      <lb ed="#P" n="49"/>iis in quibus temperans puta in gustu aut tactu, nec rursus in iudiciis laudatur ipse liberalis: sed iustitia 
+      <lb ed="#P" n="50"/>in hoc laudanda venit: sed in dandis &amp; capiendis pecuniis laudatur. Capere etiam interdum est liberalitatis. 
+      <lb ed="#P" n="51"/>Pecunias hic vocamus omnia quorum aestimatio pecunia mensuratur, vt bos, equus, vestis, liber. Pecunia 
+      <lb ed="#P" n="52"/>a pecore denominatur, quia omnis pecuniae pecus fuit radix. Adhuc in quarta aetate post orbem conditum 
+      <lb ed="#P" n="53"/>regibus Ilsrael Moab centum millia arietum annua pendebat. 5. Regum. . Apes, oues, boues, capras, &amp; praeter 
+      <lb ed="#P" n="54"/>hominem, omne animal quod in hominis est peculio pecus vocitamus: sed etiam fucos qui sunt apes non 
+      <lb ed="#P" n="55"/>mellificantes dixit Virgilius pecus. Ignauum fucos pecus a praesepibus arcent. Hicantequam vlterius 
+      pro<lb ed="#P" n="56" break="no"/>grediamur videtur liberalitas non esse solum circa ea quae pecunia mensurantur: quoniam donum doctrinae 
+      <!--128.xml-->
+      <pb ed="#P" n="56-r"/>
+               <lb ed="#P" n="1"/>non potest pecunia aestimari, teste Sapiente, &amp; tamen doctrinam doctor liberaliter darem potest. Item corpus 
+      <lb ed="#P" n="2"/>hominis non potest numismate mensurari: &amp; tamen liberalitatis est corpus tuum alicui gratis exhibere in 
+      <lb ed="#P" n="3"/>seruitutis obsequium.
+    </p>
+            <p xml:id="JMAet9-d15155-d1e159">
+               <pc type="pilcrow">¶</pc> Ad ista respondetur. Datur liberaliter quod dantis est siue quo ad vsum rei, siue quo 
+      <lb ed="#P" n="4"/>ad eius dominium. Doctor non dat scientiam discipulo, sed dat auditori suum laborem, quem habet in docendo,  
+      <lb ed="#P" n="5"/>nonnumquam gratis, nonnumquam mercede: sic homo dat corporis sui vsum indigenti liberaliter aut pro pecunia, 
+      <lb ed="#P" n="6"/>&amp; non corpus suum.
+    </p>
+            <p xml:id="JMAet9-d15155-d1e171">
+               <pc type="pilcrow">¶</pc> Sequitur secunda conclusio. Circa pecunias excessus est prodigalitas, &amp; defectus est 
+      illi<lb ed="#P" n="7" break="no"/>beralitas semper medium, &amp; extrema sunt circa eandem materiam, aliter &amp; aliter. Vult dicere quod cum liberalitas 
+      <lb ed="#P" n="8"/>sit circa pecuniam prodigalitas &amp; illiberalitas etiam sunt circa pecuniam: quia medium &amp; extrema semper sunt 
+      <lb ed="#P" n="9"/>circa idem. Illiberalitatem &amp; auaritiam iis accommodamus qui plus pecuniis quam par sit inhiant &amp; student. 
+    </p>
+            <p xml:id="JMAet9-d15155-d1e184">
+               <lb ed="#P" n="10"/>⁋ Sequitur tertia conclusio. Prodigalitatem autem interdum aliis vitiis nectimus atque inuoluimus vt 
+      intempe<lb ed="#P" n="11" break="no"/>rantiae: nam eos qui incontinentes viuunt &amp; per luxum patrimonia profundunt, prodigos vocamus. Ea propter 
+      <lb ed="#P" n="12"/>flagitiosissimi esse videntur: multa enim vitia simul committunt.
+    </p>
+            <p xml:id="JMAet9-d15155-d1e193">
+               <pc type="pilcrow">¶</pc> Sequitur quarta conclusio. Tales multis 
+      <lb ed="#P" n="13"/>vitiis impliciti non sunt proprie prodigi. Nam proprie is est prodigus qui vnico vitio est irretitus: quale 
+      <lb ed="#P" n="14"/>est patrimonium profundere. Est enim prodigus qui seipsum perdit dum fortunae bona ex quibus viuitur, 
+      dis<lb ed="#P" n="15" break="no"/>sipat. Et propterea pur rebus suis seruandis potest homo in vitae periculo cum raptore dimicare. Et hoc 
+      <lb ed="#P" n="16"/>modo prodigalitatem proprie capimus.
+    </p>
+            <p xml:id="JMAet9-d15155-d1e207">
+               <pc type="pilcrow">¶</pc> Quinta conclusio. Diuitiis contingit &amp; bene &amp; male vti. Probatur 
+      <lb ed="#P" n="17"/>sic. Quorumcumque est aliqua vtilitas, illis contingit &amp; bene &amp; male vti: opes sunt huiusmodi, igitur. Virtutibus 
+      <lb ed="#P" n="18"/>nemo male vtitur: vitiis nemo bene: fortunae bonis &amp; bene &amp; male. Atqui is omnibus optime vtitur 
+      <lb ed="#P" n="19"/>qui virtutem ad bene vtendum illis rebus habet: talis autem est liberalis, igitur.
+    </p>
+            <p xml:id="JMAet9-d15155-d1e219">
+               <pc type="pilcrow">¶</pc> Sexta conclusio. Viri 
+      libera<lb ed="#P" n="20" break="no"/>lis potius munus est erogare illis quibus oportet, quam vnde oportet accipere, &amp; non accipere vbi non opor 
+      <lb ed="#P" n="21"/>tet. Hanc multifariam probat. Pirmo, quia consumptio &amp; datio pecuniae est eius vsus: &amp; acceptio &amp; 
+      custo<lb ed="#P" n="22" break="no"/>dia magis sunt possessio quam vsus: sed benefici magis est vti pecuniis quam eas in arca reconditas possidere: 
+      <lb ed="#P" n="23"/>quamobrem liberalis magis est erogare quibus oportet quam accipere vnde oportet, vel non accipere vnde 
+      <lb ed="#P" n="24"/>non oportet. Secundo sic, ad virtutem magis spectat beneficia conferre quam bene pati: beatius enim est dare quam 
+      ac<lb ed="#P" n="25" break="no"/>cipere, vt dicebat dominus noster lesus, cuius nomen est super omne nomen. Item bene operari quam a 
+      <lb ed="#P" n="26"/>foedis abstinere, est pulchrius: sed bene elargiri est bene operari: accipere vero est bene pati &amp; non accipee 
+      <lb ed="#P" n="27"/>vbi accipere non oportet est non operari turpia, siue ab inquinamentis abstinere. Tertio, bene danti gratiae 
+      <lb ed="#P" n="28"/>debentur quae non debentur non accipienti. Quarto, dantem magis laudamus quam non accipientem. Quinto, 
+      vir<lb ed="#P" n="29" break="no"/>tus est circa difficile: multo autem facilius est non accipere quam dare, igitur. Sexto, dantes liberales dicuntur &amp; 
+      <lb ed="#P" n="30"/>obidipsum laudantur, ergo. Septimo, liberales potissimum omnium ferme studiosorum amantur: id ideo 
+      <lb ed="#P" n="31"/>est quia prosunt erogando. Vult dicere quod inter omnes virtute redimitos potissimum liberales diligimus, 
+      <lb ed="#P" n="32"/>quia nobis conferunt, hoc est a vulgo ob bonum vtile, sed iustitia &amp; fortitudo ob bonum honestum magis 
+      di<lb ed="#P" n="33" break="no"/>liguntur. Nec propterea sequitur liberalitatem esse nobilissimam virtutem. Mirabilis est modus in vulgo 
+      <lb ed="#P" n="34"/>non diligente consanguineum nisi eis eroget. dicunt enim de sacerdote, esto quod sua (potius sacerdotii 
+      bo<lb ed="#P" n="35" break="no"/>na quae dei sunt dicam) in pios vsus conferat: vellem talem esse mortuum, quia mihi nihil dat. Quid 
+      <lb ed="#P" n="36"/>enim mihi is prodest? Prudenter loquendo dicere habent: Placet enim mihi quod probe viuat, &amp; domino 
+      <lb ed="#P" n="37"/>citra fucum inseruiat. Proinde liberalis dignius est officium, dare quibus oportet: qui vnde oporter accipe. 
+      <lb ed="#P" n="38"/>aut vnde non oportet non accipere.
+    </p>
+            <p xml:id="JMAet9-d15155-d1e266">
+               <pc type="pilcrow">¶</pc> Dubitatur, vtrum possimus bene vti pecuniis: &amp; an liceat opes omnes 
+      <lb ed="#P" n="39"/>abiicere, vel vt religiosi faciunt abdicare &amp; relinquere. Respondetur, quod pecuniae sunt instrumenta bene 
+      <lb ed="#P" n="40"/>agendi vt liberalitatis &amp; magnificentiae bene vtenti. Bene enim prudens &amp; liberalis pecunia vtitur. 
+      <lb ed="#P" n="41"/>In casu tamen preciosae merces tempore periculi proiiciuntur in mare. Si vero Crates aut alius quispiam 
+      <lb ed="#P" n="42"/>philosophorum sua in mare proiecerit, in hoc carpendus est. Poterat enim ea inopibus dare, &amp; seruare 
+      <lb ed="#P" n="43"/>de quo ipse postea viueret. Satius est habere mediocritatem opum, teste Sapiente quam omnino poenuriam, quia 
+      <lb ed="#P" n="44"/>erit anxius ad viuendum. Secus est in religione, vbi viro prouidetur mendicitate in fide nota licita &amp; 
+      ho<lb ed="#P" n="45" break="no"/>nesta, vel aliter.
+    </p>
+            <p xml:id="JMAet9-d15155-d1e287">
+               <pc type="pilcrow">¶</pc> Alia conclusio. Liberalis honestatis gratia erogat. Cuiussibet enim virtutis actus sunt 
+      <lb ed="#P" n="46"/>honesti: liberalitas autem est virtus, igitur.
+    </p>
+            <p xml:id="JMAet9-d15155-d1e296">
+               <pc type="pilcrow">¶</pc> Alia conclusio. Cum voluptate aut sine molestia liberalis dat. 
+      <lb ed="#P" n="47"/>Probatur. Eius datio ab habitu emergit: nec plagae interea occurrunt voluptatem praepedientes vti in for 
+      <lb ed="#P" n="48"/>tudine: id enim quod per virtutem efficitur voluptate afficit: aut sane fit cum indolentia.
+    </p>
+            <p xml:id="JMAet9-d15155-d1e306">
+               <pc type="pilcrow">¶</pc> Alia conclusio. Is qui 
+      <lb ed="#P" n="49"/>erogat quibus non oportet aut non honestatis gratia, sed ob aliquam aliam causam, non liberalis: sed alius 
+      <lb ed="#P" n="50"/>quidam denominabitur. Supple a fine propter quem erogat: si vt maius habeat, illiberalis: si vt laudetur, 
+      <lb ed="#P" n="51"/>vt multa adulatoribus &amp; histrionibus dando, iactabundus &amp; ambitiosus: si ob luxum, incontinens. 
+    </p>
+            <p xml:id="JMAet9-d15155-d1e318">
+               <lb ed="#P" n="52"/>⁋ Alia conclusio. Is qui dando dolet, non est liberalis. Patet, non recte censet in intellectu: ergo 
+      pruden<lb ed="#P" n="53" break="no"/>tia vacat, sine qua non est liberalitas nec vlla virtus. Talis enim honestis actibus dandi pecunias 
+      an<lb ed="#P" n="54" break="no"/>teponit.
+    </p>
+            <p xml:id="JMAet9-d15155-d1e327">
+               <pc type="pilcrow">¶</pc> Hactenus posuit Philosophus conclusiones de datione, nunc consequenter ponit quatuor 
+      pro<lb ed="#P" n="55" break="no"/>prietates liberalis: quae sunt, non accipee indebitum, non petere alienum, accipere de suo, curare de proprio 
+      emo<lb ed="#P" n="56" break="no"/>lumento circa acceptionem. Et dicit primo. At vero neque liberalis capiet vnde non oportet: nam 
+      huius<lb ed="#P" n="57" break="no"/>modi acceptio non est eius qui pecunias magni impendit, nec ad postulandum est procliuis: facile namque 
+      be<lb ed="#P" n="58" break="no"/>neficia suscipere non est hominis beneficia conferentis. Et sic liberalis duo vitat: recipere scilicet beneficia ab 
+      <lb ed="#P" n="59"/>iis a quibus non oportet, &amp; non importunus est ab aliis petitor. Sicut in naturalibus, in qualitatibus 
+      pri<lb ed="#P" n="60" break="no"/>mis ea quae est potissimum actiua vt calor, est minime resistiua, &amp; contra.
+    </p>
+            <p xml:id="JMAet9-d15155-d1e346">
+               <pc type="pilcrow">¶</pc> Alia conclusio. Verum 
+      libe<lb ed="#P" n="61" break="no"/>ralis accipiet vnde oportet, ex propriis inquam rebus, hoc est dominus ex suis agris aut colonis. 
+      Sa<lb ed="#P" n="62" break="no"/>cerdotium habens ex sibi subiectis. luxta illud, Sumite psalmum &amp; date tympanum. Et dignus est 
+      <lb ed="#P" n="63"/>mercenarius mercede sua. Non quia honestum est ex suis capere, licet in hoc non peccet sed meretur, 
+      <lb ed="#P" n="64"/>gloriosum non putatur, sed vt viuat &amp; aliis eroget. 
+      <!--129.xml-->
+      <pb ed="#P" n="56-v"/>
+            </p>
+            <p xml:id="JMAet9-d15155-d1e365">
+               <lb ed="#P" n="1"/>⁋ Alia conclusio. Liberalis est adeo propensus sua exuperanter dare, vt sibiipsi pauciora relinquat. Non 
+      <lb ed="#P" n="2"/>congregat pecuniam in immensum pro filiae dote, aut arce struenda, pro sabrica tamen templi sacerdos 
+      <lb ed="#P" n="3"/>liberalis nonnihil colliget, nec quibusuis dabit hoc est dignis &amp; indignis: sed solum dignis, vt habeat 
+      <lb ed="#P" n="4"/>quibus elargiri oportet. Est enim liberalis non ad seipsum respicere &amp; ad suum commodum temporale, sed ad 
+      <lb ed="#P" n="5"/>aliorum indigentiam: &amp; pauperum inopiam pro virili releuare. Sitientes potat, famelicos cibat, nudos 
+      ope<lb ed="#P" n="6" break="no"/>rit, mortuos sepelit. &amp; similia misericordiae opera facit. Liberalitas est pia &amp; prudens dispensatrix: 
+      mi<lb ed="#P" n="7" break="no"/>nora bona (quae sunt fortunae) quae aliis erogat: bona virtutum quae praestantissima sunt, sibi seruat: non 
+      impin<lb ed="#P" n="8" break="no"/>guabit pinguem porcum, vt aiunt, non dabit locupletibus nisi vt tantundem recipiat amicitiae gratia: nisi 
+      <lb ed="#P" n="9"/>ratio efflagitat iacturam non dando euitabit.
+    </p>
+            <p xml:id="JMAet9-d15155-d1e388">
+               <pc type="pilcrow">¶</pc> Alia conclusio. At enim pro facultatibus ipsa 
+      libera<lb ed="#P" n="10" break="no"/>litas dicitur, hoc est habet respectum ad substantiam suam: si pauca habeat, pauca dare est necesse: quia 
+      libe<lb ed="#P" n="11" break="no"/>ralitas non consistit in multitudine rerum quaedantur, sed in habitu dantis, hoc est in animo, vel potius 
+      <lb ed="#P" n="12"/>in habitu proprie dicto, puta quod habitus liberalitas ex actibus suis bonis emerserit. Laudatur mulier 
+      <lb ed="#P" n="13"/>illa euangelica apud Lucam, quae aera minuta duo in gazophylacium posuit super aliis: alii enim ex 
+      <lb ed="#P" n="14"/>superfluis, haec ex sibi necessariis posuit &amp; sibi ipsi subtraxit. Et sic actus mulieris aequalia dando cum 
+      <lb ed="#P" n="15"/>locuplete, plus meritorius est ob difficultatem operis prouenientem sine culpa sua. Infert Aristoteles 
+      co<lb ed="#P" n="16" break="no"/>rollatium. Nil prohibet eum esse magis liberalem qui pauciora largitur, si modo minores sint ei 
+      faculta<lb ed="#P" n="17" break="no"/>tes. Patet de vidua praefata, si tantundem ponit cum Croeso, Tantalo, aut Myda. Postea ponit aliquas 
+      con<lb ed="#P" n="18" break="no"/>ditiones liberalis. Circa possessionem magis liberales sunt qui non compararunt sibi facultates, sed ab aliis 
+      <lb ed="#P" n="19"/>acceperunt, siue dono ab amicis, parentibus aut dominis: tales enim non sunt experti indigentiam, quae 
+      <lb ed="#P" n="20"/>est obex liberalitatis. Praeterea opera sua amant omnes, vt filios parentes &amp; opera sua poetae. Gloriantur 
+      <lb ed="#P" n="21"/>enim mortales in vrbibus constructis aut in diuitiis a se congestis vt poetae in poematibus suis. Teren 
+      <lb ed="#P" n="22"/>tium Comoediarum scriptorem produnt quidam se in fiumen praecipitasse ob comoedias quae in mare 
+      <lb ed="#P" n="23"/>ceciderant: tantum ille imprudens sua adamabat scripta. Similia circa tempora sua vel antea poetis aliis 
+      <lb ed="#P" n="24"/>Aristoteles accidisse intellexerat. Et addo quod quae quis facile lucratur, facile exponit. Patet de 
+      emolu<lb ed="#P" n="25" break="no"/>mento per aleam quaesito, &amp; talium luctionum, ac filiorum diuitum nihil operantium, &amp; vrbes incolentium. 
+      <lb ed="#P" n="26"/>qui parentum bona in tertio haerede saepe profligant. Non sic agricolae: quia indisciplinate in ocio &amp; luxu 
+      <lb ed="#P" n="27"/>a multis viuitur in vrbium deliciis: non sic autem in ruris tuguriis &amp; laboribus.
+    </p>
+            <p xml:id="JMAet9-d15155-d1e433">
+               <pc type="pilcrow">¶</pc> Ponitur alia conclusio. 
+      <lb ed="#P" n="28"/>Liberalis non facile ditatur, cum non sit ad capiendum &amp; conseruandum pronus: sed ad erogandum propensus. 
+      <lb ed="#P" n="29"/>Neque pecunias propter ipsas, hoc est gratia earum magnipendit sed causa dandi: quocirca fortuna 
+      accu<lb ed="#P" n="30" break="no"/>satur, quod homines bonis fortunae digni non sunt opulenti. Contingit idipsum non ab re facile, vt is qui 
+      <lb ed="#P" n="31"/>non adhibet diligentiam vt habeat pecunias &amp; eas teneat non sit locuples: attamen non dabit quibus non 
+      <lb ed="#P" n="32"/>oportet.
+    </p>
+            <p xml:id="JMAet9-d15155-d1e450">
+               <pc type="pilcrow">¶</pc> Alia conclusio. Tyranni non facile sunt prodigi. Patet: qui exuperant in dando suas 
+      faculta<lb ed="#P" n="33" break="no"/>tes transcendendo sunt prodigi: tyranni non sunt huiusmodi: quia commune bonum in suum emolumentum 
+      <lb ed="#P" n="34"/>convertunt. Postea resumit aliqua eorum quae de liberalitate dicta sunt. Quia oppositorum eadem est disciplina, 
+      <lb ed="#P" n="35"/>vt prodigalitas cognoscatur dicit. Cum igitur liberalitas sit mediocritas circa dandas &amp; accipiendas 
+      pe<lb ed="#P" n="36" break="no"/>cunias, liberalis dabit in quibus oportet &amp; quod oportet tam in magnis quam in pusillis. Et per hoc a 
+      <lb ed="#P" n="37"/>magnifico differt qui solum versatur circa magna. Et quia cum voluptate exponit per hoc ab illiberali 
+      <lb ed="#P" n="38"/>seiungitur, qui tristatur in dando. Nam virtus circa vtrumque scilicet acceptionem &amp; dationem versatur, licet 
+      <lb ed="#P" n="39"/>principaliter circa dationem, &amp; secundario circa acceptionem. Vtrumque facit vt oportet: sequitur enim 
+      datio<lb ed="#P" n="40" break="no"/>nem bonam talis acceptio: quia enim sua dat, oportet vt capiat ab eisdem quibus dedit aut ab aliis: ea vero 
+      <lb ed="#P" n="41"/>quae non est talis acceptio sicut oportet est contraria. Ea quae sese consequuntur simul stant, contraria nonase 
+      <lb ed="#P" n="42"/>compatiuntur in eodem subiecto.
+    </p>
+            <p xml:id="JMAet9-d15155-d1e477">
+               <pc type="pilcrow">¶</pc> Ponitur alia conclusio. Quia si praeter id quod oporteat liberalis nonnihil 
+      <lb ed="#P" n="43"/>conferat, dolebit sane cum mediocritate &amp; non multum: ad virtutem enim attinet vt pro quibus oportet 
+      <lb ed="#P" n="44"/>&amp; vt oportet voluptas fiat ac dolor.
+    </p>
+            <p xml:id="JMAet9-d15155-d1e487">
+               <pc type="pilcrow">¶</pc> Alia conclusio. In rebus pecuniariis liberalis est leuis: nam 
+      pe<lb ed="#P" n="45" break="no"/>cunias non multi facit: propterea in eis iacturam facile tolerabit, immo magis moleste fert si quid cum 
+      <lb ed="#P" n="46"/>oportuerit non det quam doleat si quid dederit cum non oportuerit, naeque Simonidis poetae sententiam 
+      oppo<lb ed="#P" n="47" break="no"/>situm asserentis probat.
+    </p>
+            <p xml:id="JMAet9-d15155-d1e499">
+               <pc type="pilcrow">¶</pc> Ponitur alia conclusio. Prodigus in ipsis delinquit non solum in dando &amp; 
+      <lb ed="#P" n="48"/>accipiendo, sed etiam in delectatione &amp; tristitia. Non enim laetatur nec dolet pro quibus oportet, hoc 
+      <lb ed="#P" n="49"/>per ea quae dicturi sumus, patebit.
+    </p>
+            <!--alias="mair-l4c1p2"-->
+            <p xml:id="JMAet9-d15155-d1e512">
+               <lb ed="#P" n="41"/>Postea de vitiis loquens dicit sicut praedictum est prodigalitas &amp; illiberalitas opponuntur secundum 
+      super<lb ed="#P" n="42" break="no"/>abundantiam &amp; defectum in duobus, is dando scilicet &amp; accipiendo. Illae superabundantiae &amp; defectus contrario 
+      <lb ed="#P" n="43"/>modo sumuntur &amp; sub datione impendia insumptusque facere comprehendimus, vt amicum meis magnis 
+      <lb ed="#P" n="44"/>impensis alere: quod autem opposito modo sumantur, patet: nam prodigalitas in dando &amp; non in accipiendo  
+      <lb ed="#P" n="45"/>superat. at capiendo &amp; retinendo deficit. Auaritia vero contra, in dando deficit, in capiendo &amp; tenendo  
+      <lb ed="#P" n="46"/>excedit. In paruis tamen ne obnoxius dare videatur non deuiat: parua imperceptibiliter capit, non autem 
+      <lb ed="#P" n="47"/>magna.
+    </p>
+            <p xml:id="JMAet9-d15155-d1e530">
+               <pc type="pilcrow">¶</pc> Alia conclusio. Haec duo puta excedere in dando, &amp; deficere in capiendo, non multum in 
+      <lb ed="#P" n="48"/>prodigo perseuerant. Nam difficile est ex nulla parte capientem magno tempore sua profligare: cito deficiunt 
+      <lb ed="#P" n="49"/>sic erogantium priuatorum patrimonia: qui autem id agunt, sunt prodigi.
+    </p>
+            <p xml:id="JMAet9-d15155-d1e540">
+               <pc type="pilcrow">¶</pc> Alia conclusio. Atque non 
+      <lb ed="#P" n="50"/>paulo melior est prodigus illiberali &amp; auaro, immo est multo melior. Abusiue comparatiuum capiendo:  
+      <lb ed="#P" n="51"/>nam proprie est minus malus, vt melius est perdere digitum quam manum. Probatur haec conclusio Primo. 
+      <lb ed="#P" n="52"/>Nam prodigus &amp; ab aetate &amp; egestate curari potest, &amp; se ad medium reuocare: non autem sic auarus. Ac 
+      <lb ed="#P" n="53"/>si sic diceret. Ille cuius malitia cito curatur est minus malus, quam ille cuius malitia non facile curatur: 
+      <lb ed="#P" n="54"/>sed sic est de prodigo, &amp; non sic de auaro, igitur. Consequentia est nota cum maiore. Minorem in litera 
+      <lb ed="#P" n="55"/>ostendit duobus modis, &amp; per inopiam, &amp; per aetatem. Minor vallari potest de filio prodigo qui ad pa¬ 
+      <!--131.xml-->
+      <pb ed="#P" n="57-v"/>
+               <lb ed="#P" n="1"/>trem opibus consumptis redit. Et patet ratione. Cum Prodigui sa pmsicurit nmneticdirum ci 
+      <lb ed="#P" n="2"/>potest habere mutuodicereque solet cum gemitu: si mea haberem, 5e st pei habet poim intoleo 
+      <lb ed="#P" n="3"/>cautior ero. Themistocles in iuuenta ita perditr vite fuit vt Nodetius puc cum ersaitlitarum, iu 
+      <lb ed="#P" n="4"/>postea vitae sue errata optime emendauit. ldem de Labio maximo &amp; Sili lgmus. Lindu xtatu exrueu 
+      <lb ed="#P" n="5"/>optime castigarunt: &amp; pia mater vitm taedio sese laqueo mortem sibi cunscuit&amp; tanem Thenitode oct 
+      <lb ed="#P" n="6"/>vix cuiquam Grecorum in gioria cessit. luuenes perdite vitae nonnumquam tesipitun. Sundli mo ad ceicluscpi. 
+      <lb ed="#P" n="7"/>Prodigus habet ea quae sunt viri liberalis, vt dat &amp; non accipit: quamquam neium fact rt oponet. &amp; si dee 
+      <lb ed="#P" n="8"/>ret, qui facilius reducitur ad medium, est facilius curabilis: sed sic est de proligi non vtilibenui. ixitur 
+      <lb ed="#P" n="9"/>Minorem in litera probat: quia maior est peruia cum consequente. Si enim prodignad illa recte facenda assus. 
+      <lb ed="#P" n="10"/>scat vel a suo mutetur modo fiet liberalis: non autem est sic de auaro, igi. Quiptoput non prauis est 
+      mo<lb ed="#P" n="11" break="no"/>ribus prodigus. Non enim ingenerosi est in dando excedere, &amp; non capere in pudnis est atque stlidi, &amp;
+      be<lb ed="#P" n="12" break="no"/>minibus erit fabula. Insuper qui multis prodest non est ita malus sicut ille qui nemini prodest. Prodigus 
+      <lb ed="#P" n="13"/>plerisque prodest: auarus autem nulli, nec sibi: cum pecuniam in arca reconditam imtiliter teneat: nec ea in sibi 
+      <lb ed="#P" n="14"/>necessariis exponat. Thesaurizat enim &amp; nescit cui congreget ea: sed haec de prodigo simplici dicta sunt, 
+      <lb ed="#P" n="15"/>Postea de prodigo illiberalitati mixto loquitur, inquiens. Sunt plerique prodigorum vt dictum est in fronte 
+      <lb ed="#P" n="16"/>huius capitis) aliis vitiis mixti: qui accipiunt vnde non oportet, &amp; hoc ipso sunt illiterale: ad capiendum 
+      <lb ed="#P" n="17"/>autem sunt praecipites: quia erogare cupiunt, &amp; quia cito eis facultates esunt, ficet negpecunt. ltaque ex 
+      alie<lb ed="#P" n="18" break="no"/>nis dare coguntur. Et quia nulla est eis honestatis cura, sine vllo discrimine endique capiunt, nunc matuo 
+      <lb ed="#P" n="19"/>non soluturi: nunc dando obligationem de soluendo in a termino quem negligenter praetertunt: nunc ponendo 
+      <lb ed="#P" n="20"/>vadimonia adulterina, quae videntur autea, &amp; est in eis aurum sophisticum. Nnc cum cautione vadimoni 
+      <lb ed="#P" n="21"/>vsum ad mediam ditur quaerunt quod non reddunt, vt patet de cratere argentes,. coni, annulo, &amp; caeteris id  
+      <lb ed="#P" n="22"/>genus: quapropter nec dationes ipsorum liberales sunt neque honestae, sed nonnumquam quos expediat 
+      inope<lb ed="#P" n="23" break="no"/>esse (quia diuitis abutuntur) locupletes faciunt dant enim neretricibus, lenonibus, histionibus, &amp; 
+      adula<lb ed="#P" n="24" break="no"/>toribus: at iis qui moderatis sunt moribus &amp; etiam indigi dant nihil assentatoribus aut aliam talem 
+      volu<lb ed="#P" n="25" break="no"/>ptatem afferentibus dant multa: quamobrem &amp; plerique ipsorum intemperantes sunt, cum enim facile dent procliues 
+      <lb ed="#P" n="26"/>ad sumptus in flagitiis faciendis sunt, quia meretrices auere eis facilem luxus occasionem ministrant. Et quia 
+      <lb ed="#P" n="27"/>non ad honestatem viuunt ad voluptates declinant. Hoc summopere notato: qui non viuunt ad honestatem 
+      <lb ed="#P" n="28"/>ad voluptates tempus transigere declinant. Nunc latrunculis seu scacariis tessellis, nunc alea ludunt, nunc alia 
+      <lb ed="#P" n="29"/>capiuntur illecebra: honeste autem viuentibus tempus deest, tempestatis poenuriam causantur: quemadmodum 
+      <lb ed="#P" n="30"/>sunt ocio literario dediti, opifices laboriosi, Ruricolae agros arant, dulcedine cantionis aut 
+      fistulatio<lb ed="#P" n="31" break="no"/>nis linguae ad labia capiuntur. Reges &amp; principes oculati de republica bene disponentes bonam vitae partem 
+      <lb ed="#P" n="32"/>transigunt. Alii oscitantes &amp; veterno torpentes ad inhonestas confugiunt voluptates. Caeterum duo 
+      ho<lb ed="#P" n="33" break="no"/>minem ab intemperantia retrahunt scilicet amor pecuniae ne inutiliter exponatur, &amp; amor honestatis. His 
+      duo<lb ed="#P" n="34" break="no"/>Dus loris fractis, homo ad intemperiem praeceps declinat.
+    </p>
+            <p xml:id="JMAet9-d15155-d1e637">
+               <pc type="pilcrow">¶</pc> Alia conclusio. Prodigi emendatio magna 
+      sol<lb ed="#P" n="35" break="no"/>licitudine procurari debet: nam si diligentia negligatur in superiora mala recidit, at diligentia adhibita 
+      <lb ed="#P" n="36"/>ad medium redit.
+    </p>
+            <p xml:id="JMAet9-d15155-d1e647">
+               <pc type="pilcrow">¶</pc> Sequitur de auaritia, &amp; ponitur haec conclusio. Auaritia est morbus insanabilis. 
+      <lb ed="#P" n="37"/>Probatur. Vitium cuius causa vitari non potest, est insanabile: sed causa illiberalitatis euitari non potest, 
+      <lb ed="#P" n="38"/>igitur. Consequentia tenet cum maiore: &amp; minor patet in litera. Etenim senectus &amp; imbecillitas omnes auaros 
+      <lb ed="#P" n="39"/>efficit. Secundo, toti speciei humanae magis est innata auaritia quam prodigalitas. Fiunt enim plures 
+      pecunia<lb ed="#P" n="40" break="no"/>rum cupidi quam ad dandum proni: quid ergo mirum, si difficilius curet. Tertio, longe auritiae vitium extenditur, 
+      <lb ed="#P" n="41"/>multosque nodos habet quibus hominem irretit: &amp; cum in duobus (vt summatim dicatur, consistat, vt in 
+      defe<lb ed="#P" n="42" break="no"/>ctu dandi &amp; in excessu capiendi: non tamen omnibus integra adest, sed nonnumquam discindit. Nam sunt qui tantum in  
+      <lb ed="#P" n="43"/>capiendo exuperant, &amp; alii in dando deficiunt: &amp; ii omnes quos vocamus parcos, tenaces, aridos in dando 
+      defi<lb ed="#P" n="44" break="no"/>ciunt: sed neque aliena capiunt nec accipere volunt. Quidam enim in dando deficiunt ob quandam modestiam &amp; 
+      tur<lb ed="#P" n="45" break="no"/>pium rerum cautionem. Videntur aliqui vel saltem sic dicunt sua, propterea conseruare ne interdum ob rerum 
+      pexenu<lb ed="#P" n="46" break="no"/>riam cogantur aliquid turpe facere: &amp; de his est ipse cymini fector &amp; quiuis talis. Cyminum est legumen quod 
+      <lb ed="#P" n="47"/>stomachi torminibus, oculorum morbis, &amp; comitiali morbo medetur. Quidam hic locum sic exponunt. Dum 
+      <lb ed="#P" n="48"/>ferme mensuram haerbarum impleret &amp; medietas cymini poterat complere mensuram, vilem eam herbam vir 
+      aua<lb ed="#P" n="49" break="no"/>rus secuit. propterea probrose cymin fector dictus est. Alii quia sectores sunt qui spe lucri res 
+      condenna<lb ed="#P" n="50" break="no"/>torum emunt &amp; diuendunt: interpretantur fectatorem cymini emptorem terum quarumlibet damnati etiam cyrmini 
+      <lb ed="#P" n="51"/>quod ille ad condiendum cadauer suum seruauerat: aut rei vilis propolam. i. praeemptorem vt pluris vendat. Iste 
+      <lb ed="#P" n="52"/>ab exuperatione non dandi nomem habuit tale: quidam veto ob metum alienis abstinent quod facile non 
+      arbitran<lb ed="#P" n="53" break="no"/>tur se aliena capere &amp; alios non caperesua. ldeo nihil accipiunt ab ipsis nec eis quicquam tribuunt. Alii sunt qui 
+      <lb ed="#P" n="54"/>in capiendo exuperant vndique capientes, quales sunt illi qui illiberalia exercent opera, vt lenones (leno est 
+      <lb ed="#P" n="55"/>scortorum vtriusque sexus prostitutor &amp; venditor, ex turpi illo quaestu victitans. Et foeneratores qui ad 
+      <lb ed="#P" n="56"/>foenus siue ad vsuram dant, quorum nummi nummos foede (vt Aristoteles primo Politicorum ait) pariunt: &amp; 
+      <lb ed="#P" n="57"/>qui dant parua pro magnis. Hi homines accipiunt vbi non oportet: commune est his omnibus turpix 
+      <lb ed="#P" n="58"/>lucri comparatio. In hoc omnes conveniunt &amp; omnes gratia lucri &amp; eiusce quidem parui probra sustinent. Narm 
+      <lb ed="#P" n="59"/>illos qui grandia vnde non oportet accipiunt, vt faciunt tyranni hostiliter regna inuadentes &amp; spoliantes 
+      taen<lb ed="#P" n="60" break="no"/>pla, non illiberales sed perniciosos, impios, iniustos, sceleratos, &amp; sacrilegos appellamus. Vt Dionyssum 
+      <lb ed="#P" n="61"/>Syracusanum, qui deorum gentilium fana spoliabat, cachinno dictitans deos oportere locupletare egen tex. 
+    </p>
+            <p xml:id="JMAet9-d15155-d1e707">
+               <lb ed="#P" n="62"/>⁋ Circa dicta dubitatur. Primo, an idem potest esse prodigus &amp; illiberalis, vt Aristoteles dicit. 
+      Argumen<lb ed="#P" n="63" break="no"/>tor enim, quod non, quia tunc contraria eidem competerent: prodigalitas enim illiberalitati contraria est. Secundo, si 
+      So<lb ed="#P" n="64" break="no"/>crates elcit nunc actum prodigalitatis, nunc illiberalitatis &amp; alternatim, an etit liberalis. Videtur quod sic 
+      <!--132.xml-->
+      <pb ed="#P" n="58-r"/>
+               <lb ed="#P" n="1"/>tantum enim deficit quantum exuperat: ergo stat in medio. Tertio, quomodo auantitia est incurabilis, &amp; 
+      <lb ed="#P" n="2"/>an potest curari in senibus. Quarto, sub qua virtute cardinali liberalitas includitur. Quinto, an omnia 
+      <lb ed="#P" n="3"/>sua dans egenis &amp; religionem ingrediens sit prodigus.
+    </p>
+            <p xml:id="JMAet9-d15155-d1e728">
+               <pc type="pilcrow">¶</pc> Ad primam dubitationem respondetur affirmatiues 
+      <lb ed="#P" n="4"/>nulla est contrarietas inter actum prodigalitatis &amp; illiber alitatis nisi fuerint circa idem obiectum cum eisdem 
+      <lb ed="#P" n="5"/>circumstantiis &amp; pro eodem tempore.
+    </p>
+            <p xml:id="JMAet9-d15155-d1e738">
+               <pc type="pilcrow">¶</pc> Ad secundum dicitur, quod talis numquam erit liberalis.
+    </p>
+            <p xml:id="JMAet9-d15155-d1e744">
+               <pc type="pilcrow">¶</pc> Ad tertium dicitur, quod 
+      <lb ed="#P" n="6"/>difficulter est curabilis. Communiter enim dicitur, Omnia vir vitia dimittit quando senescit, praeter auaritiam 
+      <lb ed="#P" n="7"/>quae sola senescere nescit. Multorum indiget senex, plenus pollicitorum quibus non credit, quia toties se 
+      fal<lb ed="#P" n="8" break="no"/>sum &amp; deceptum expertus est: vult propterea sua seruare vt vitam calamitosam conseruet meliori via ab 
+      <lb ed="#P" n="9"/>aerumna qua potest. Plerique eius bona subtrahunt: propterea sollicitus est circa conseruationem suorum: 
+      <lb ed="#P" n="10"/>aliqui tamen sunt senes liberales.
+    </p>
+            <p xml:id="JMAet9-d15155-d1e761">
+               <pc type="pilcrow">¶</pc> Ad quartam dubitationem respondetur, quod sub nulla virtute cardinali 
+      li<lb ed="#P" n="11" break="no"/>beralitas includitur tamquam species alicuius virtutis cardinalis: est pars potentialis, tamen cum iustitia &amp; cum ea 
+      <lb ed="#P" n="12"/>habet maiorem affinitatem &amp; convenientiam quam cum aliqua alia virtute: &amp; hoc est ipsam ad iustitiam tamquam ad partem 
+      <lb ed="#P" n="13"/>potentialem reduci. aliqui ob vnam proprietatem in hac virtute repertam eam ad vnam cardinalem virtutem, alii 
+      <lb ed="#P" n="14"/>ad aliam ob aliam proprietatem reducunt. Sed vt discrimen inter liberalitatem &amp; iustitiam plenius intelligas: 
+      <lb ed="#P" n="15"/>scito quod iustitia &amp; liberalitas, Primo in hoc conveniunt, quod vtraque virtus est ad alterum. Secundo conveniunt, quod 
+      <lb ed="#P" n="16"/>sunt circa bona fortunae ambae, ac inter se dispescuntur. Auaritia interdum iniustitiam complectitur 
+      quemad<lb ed="#P" n="17" break="no"/>modum Ezechielis. aa, scribitur. Principes eius in medio eius, quasi lupi rapientes praedam ad effundendum 
+      <lb ed="#P" n="18"/>sanguinem, &amp; auare lucra sectando. Interdum nomem auaritiae cum illiberalitate coincidit, &amp; tunc illiberalitas 
+      <lb ed="#P" n="19"/>est vitium quo quis magis ardenter quam oportet, aut plus aequo fortunis afficitur: esto quod nolit capere alienum. 
+      <lb ed="#P" n="20"/>Ecce quid est illiberalitas &amp; est semper vitium: non tamen teterrimum, quia inhiat suis plus quam ratio dictat, in  
+      <lb ed="#P" n="21"/>quibus voluptatis plus quam ratio expostulat accipit. Vnde auaritia non semper est mortalis: patet quando  
+      <lb ed="#P" n="22"/>liberalitati opponitur, nonnumquam iustitiae aduersatur, &amp; sic est deterior. Tunc eum furtum, rapinam, &amp; huiusmodi 
+      <lb ed="#P" n="23"/>monstra implicat: &amp; sic est ex suo genere mortalis: non autem vt liberalitati opponitur, sed saepius venialis. 
+      <lb ed="#P" n="24"/>Inordinatus amor pecuniarum non est mortalis, nisi praeponatur charitati dei &amp; proximi. Caeterum 
+      cumu<lb ed="#P" n="25" break="no"/>lare opes in immensum licitis mediis est illicitum. Sufficit fortunas pro se &amp; suis sufficienter habere. 
+      At<lb ed="#P" n="26" break="no"/>tamen quispiam inferioris sortis vt negociator, agricola ve, dignus superiore statu, potest ad eum nummos 
+      <lb ed="#P" n="27"/>cumulare: verum sciat iste inferioris status, quod cum suam humilem sortem mutauerit non sic viuet tranquille 
+      <lb ed="#P" n="28"/>&amp; sub modio positus. Liberalitas mouet hominis affectum vt hic teneat medium &amp; illiberalis praeter 
+      ra<lb ed="#P" n="29" break="no"/>tionem colligit, vbi non est colligendum: &amp; retinet quando dandum est. Colligit stricte ab inopibus quibus est 
+      <lb ed="#P" n="30"/>subueniendum: &amp; habet superflua quae indigentibus amicis non communicat. Immo est ita sibi &amp; suis percus vt 
+      <lb ed="#P" n="31"/>eis saepius necessaria desint. Iniustitia est in ordine ad alterum, vt qui inordinate aufert ab altero vel 
+      re<lb ed="#P" n="32" break="no"/>tinet alterius rem quam non restituit. Stat virum nullum habere affectum ad pecuniam sibi applicandam, &amp; esse iniustum 
+      <lb ed="#P" n="33"/>vt sola causa nocendi, occido porcos vicini mei aut eius domum incendo, in his sum iniustus, nullo tamen 
+      <lb ed="#P" n="34"/>modo illiberalis aut auarus sum. Auaritia est contra liberalitatem &amp; iustitiam. Contra liberalitatem puer quanto 
+      <lb ed="#P" n="35"/>homo inordinatum affectum habet ad pecuniam colligendam &amp; seruandam: sine tali affectu homo numquam dicetur 
+      aua<lb ed="#P" n="36" break="no"/>rus, licet sit iniustus, vt in combustione domus dictum est. Si rem vicini mei accipiam pro quanto tollo 
+      alie<lb ed="#P" n="37" break="no"/>num, sum iniustus. Accipiunt morales auaritiam tamquam genus ad illiberalitatem &amp; ad iniustitiam &amp; ad conflata ex 
+      <lb ed="#P" n="38"/>his: huiusmodi sunt foenus, simonia, furtum, rapina.
+    </p>
+            <p xml:id="JMAet9-d15155-d1e827">
+               <pc type="pilcrow">¶</pc> Ad vltimam dubitationem dicitur, quod talis non est 
+      pro<lb ed="#P" n="39" break="no"/>digus, sed generose liberalis: cum omnia sua relinquit inopibus propter deum, &amp; frugem sanctioris vitae 
+      ca<lb ed="#P" n="40" break="no"/>pit. Prodigus praeter rationem erogat sicut illiberalis, praeter rationem retinet, vt cum multum diues inopi 
+      <lb ed="#P" n="41"/>non succurrit.
+    </p>
+            <p xml:id="JMAet9-d15155-d1e839">
+               <pc type="pilcrow">¶</pc> Redeo ad literam. Alia conclusio est. Aleatores, fures, &amp; latrones illiberales sunt. Aleator 
+      <lb ed="#P" n="42"/>enim iactibus aleae operam praestat vel rem suam fortunae committit: quilibet talis fortuitus ad aleam 
+      exten<lb ed="#P" n="43" break="no"/>ditur: dicimus iacta est alea. Fur claneulum res aufert alienas. Latro, qui tenebrarum opportunitate 
+      <lb ed="#P" n="44"/>fretus aliena capit. Latro per vim capit, non autem fur: sicque hic capitur. Nam hi omnes in turpi lucro 
+      <lb ed="#P" n="45"/>versantur: cuncta causa quaestus agunt, ob quaestum talia probra tolerant, sane aleatores ab amicis quibus 
+      <lb ed="#P" n="46"/>potius dandum est lucrantur. Fures &amp; latrones similiter ob lucrum extrema pericula sustinent &amp; in 
+      sor<lb ed="#P" n="47" break="no"/>dido lucro occupantur.
+    </p>
+            <p xml:id="JMAet9-d15155-d1e859">
+               <pc type="pilcrow">¶</pc> Vltima conclusio. Non ab re illiberalitas est magis liberalitati contraria quam 
+      <lb ed="#P" n="48"/>prodigalitas. Probatio. Illiberalitas est maius flagitium quam ipsa prodigalitas, &amp; vbique peius vitium 
+      ma<lb ed="#P" n="49" break="no"/>gis virtuti aduersatur quam minus malum. Secundo probat hoc ipsum, quia homines pluries illiberalitate 
+      <lb ed="#P" n="50"/>quam prodigalitate delinquunt: &amp; illud vitium in quo homines crebrius peccant, magis virtuti aduersatur. 
+      <lb ed="#P" n="51"/>Et illud intelligitur de prodigo simplici, qui non cum prodigalitate illiberalitatis labe est aspersus: 
+      <lb ed="#P" n="52"/>&amp; illud est communiter. Stat tamen dare illiberalem venialiter, &amp; prodigum simplicem in casum 
+      mor<lb ed="#P" n="53" break="no"/>taliter peccantem: sed hoc solum est in casu. 
+    </p>
+            <p xml:id="JMAet9-d15155-d1e878">
+               <lb ed="#P" n="54"/>⁋ Dubitatur hic primo, quomodo liberalis moleste fert nonnumquam suam dationem vt in literam philosophus 
+      <lb ed="#P" n="55"/>dicit. Secundo, quae sunt leges ipsius liberalis. Tertio, quod vitium est maxime odiosum. Quarto, an 
+      alea<lb ed="#P" n="56" break="no"/>tor teneatur restituere id quod in vero ludo aleae iactu lucratur. Quinto, an vsura est peccatum, &amp; 
+      quo<lb ed="#P" n="57" break="no"/>modo committitur. Sexto, an Plato liberali dono aliquid capiens a Sorte sit obnoxius tantundem restituere. 
+    </p>
+            <p xml:id="JMAet9-d15155-d1e889">
+               <lb ed="#P" n="58"/>⁋ Ad primam dubitationem respondetur, quod liberalis numquam aegrem fert quod erogat inquantum est liberalis: sed  
+      <lb ed="#P" n="59"/>si deceptus det plus quam oporteat, vel cui non oportet, vt locupleti &amp; hypocritae nebuloni qui se simulat 
+      <lb ed="#P" n="60"/>inopem aut probum. cu oppositum sciuerit indigne fert quod egit, licet in agendo non peccauerit, sed 
+      <lb ed="#P" n="61"/>in rei veritate bene egit, &amp; reuera etiam a liberalitate tenebrose cognita. Si ego hominem ex ignorantia 
+      <lb ed="#P" n="62"/>inuincibili trucidem cum id rescio, doleo: non quod peccauerim ita faciendo: sed quia talis casus obuenit 
+      <lb ed="#P" n="63"/>mihi.
+    </p>
+            <p xml:id="JMAet9-d15155-d1e905">
+               <pc type="pilcrow">¶</pc> Ad secundam respondetur, quod eius leges &amp; proprietates sunt, vel ad has anhelet qui liberalis 
+      cu<lb ed="#P" n="64" break="no"/>pitur esse: cibare fame affectos, potare sitientes, operire nudos, mortuos inhumare more Tobiae, egenos 
+      <!--133.xml-->
+      <pb ed="#P" n="58-v"/>
+               <lb ed="#P" n="1"/>in hospitium suscipere, &amp; indifferenter omnes vbi aliunde hospitium habere nequeunt, vt Abraam qui 
+      <lb ed="#P" n="2"/>in conualle Mambre expectauit hospites. Inopibus succurrere, signanter his qui mendicare rubore 
+      <lb ed="#P" n="3"/>verentur. Hi enim magis inter omnes egenos affliguntur. Si extremam necessitatem habentem quenuis nouit, vel 
+      no<lb ed="#P" n="4" break="no"/>scere debuit talem, praetereat, charitas dei in illo non manet: etiam honestate propria posthabita. Martinus 
+      <lb ed="#P" n="5"/>chlamydem tali pauperi putato generose partiuit. Si ipse in necessitate constitutus fuerit sibi primo 
+      suc<lb ed="#P" n="6" break="no"/>currat nisi alter reipublicae sit multo vtilior. Omnia sunt communia existenti in extrema necessitate, 
+      <lb ed="#P" n="7"/>immo si antiquus possessor rei quae est mihi necessaria aeque cito ad hanc necessitatem mecum peruenerit 
+      <lb ed="#P" n="8"/>probabiliter non illi dabo, licet duplici iure ad eum pertinere videatur. Necessitas cum possessione ius duplicant. 
+    </p>
+            <p xml:id="JMAet9-d15155-d1e935">
+               <lb ed="#P" n="9"/>⁋ Quantum spectat ad beneficiatorum stipem erogendam id notetur. Si sacerdotium habeat extra omnem litem 
+      <lb ed="#P" n="10"/>in pacifica patria sufficit redditus trimestrium sumptuum, hoc est quartae partis anni, habere prae manibus, 
+      <lb ed="#P" n="11"/>reliquum pie exponendo non fingat sibi casus mathematicos deliteant bello quod incidere potest, de quo 
+      co<lb ed="#P" n="12" break="no"/>lor est nullus. Cito det indigenti vel qui meruit. Qui cito dat bis dat, male dat qui munera tardat, vt 
+      <lb ed="#P" n="13"/>veteri prouerbio dicitur. Molesta est verbosa promissio. Qod praestare potes (inquit Cato) ne bis 
+      promi<lb ed="#P" n="14" break="no"/>seris vlli. Ne sis verbosus dum vis vrbanus haberi. Non sis prodigus verbi, saepius promittens: fac quod 
+      <lb ed="#P" n="15"/>semel promiseris. Talis est liberalis. Pollicitis diues quilibet esse potest, Quidius tamen dicit, vtere 
+      cau<lb ed="#P" n="16" break="no"/>tione contra talem. Praestat retinere simulatum amicum quam ei exprobrando facere eum hostem. Hoc facies si eius 
+      <lb ed="#P" n="17"/>fucum te scire intelligat. Detur res iuste possessa, alioqui ad restitutionem dans est obnoxius. Tertio 
+      requi<lb ed="#P" n="18" break="no"/>ritur donum esse statui eius cui datur conveniens, vt Iber aut aequiualens scholastico, militi arma militiae, 
+      <lb ed="#P" n="19"/>vt arcus, pharetra, romphea. Non detur nociuum illi cui datur, esto quod etiam perat, vt gladium amenti &amp; 
+      vi<lb ed="#P" n="20" break="no"/>num temulento dabis num quam, nec pecuniam iuueni amico tuo, aut alteri quam putas fore ei occasionem 
+      propin<lb ed="#P" n="21" break="no"/>quam peccandi. Requiritur locus &amp; tempus. Quaedam in propatulo honeste dantur, vt militaria dona, equi &amp; 
+      <lb ed="#P" n="22"/>eleemosyna ab habentibus patrimonium crucifixi, vt caeteris sit exemplum. Similiter sua sacerdotia 
+      exponen<lb ed="#P" n="23" break="no"/>di: &amp; ipse dans inani gloriae non est subiectus re ipsa licet alii falso eum praedicent id ob inanem gloriam facere. 
+      <lb ed="#P" n="24"/>Quaedam dabis clanculum vt honestis inopia pressis, nullo sciente, nonnumquam dabis &amp; nescietur vnquam a quo 
+      <lb ed="#P" n="25"/>illud prouenit vt diuus Nicolaus magnam auri molem pauperi vicino ne filias prostitueret, sic fecit 
+      <lb ed="#P" n="26"/>vt Archesilaus philosophus qui sacculum plenum nummis ad caput Cresebii aegrotantis &amp; penuria 
+      labo<lb ed="#P" n="27" break="no"/>rantis cum eum visitaret clam sub puluinum iecit, volebat enim gratiam latere. Alter tamen haud ingratus dixit 
+      <lb ed="#P" n="28"/>aliis pecunia inuenta: hic Archesilai (vt nosco) est ludus. Dicebat accipientem honestum furem (vt ita 
+      lo<lb ed="#P" n="29" break="no"/>quar) prodere, vt ad similia alii animarentur ne sua laude etiam apud homines fraudantetur. Officium 
+      alte<lb ed="#P" n="30" break="no"/>rius multis narrare memento. Ne videaris ingratus &amp; immemor beneficii accepti: sed dantis saepius est 
+      <lb ed="#P" n="31"/>dissimulare. At vereor ne hic Ethnicus nostros pinguia sacerdotia habentes &amp; similia non facientes 
+      <lb ed="#P" n="32"/>confundat.
+    </p>
+            <p xml:id="JMAet9-d15155-d1e990">
+               <pc type="pilcrow">¶</pc> Ad tertium respondetur, quod sicut paulo ante recitauimus, inter omnes studiosos liberalis maxime 
+      <lb ed="#P" n="33"/>amatur. Inter morales virtutes liberalitate non est alia faciens magis habentem diligi. Consequens est illiberalem 
+      <lb ed="#P" n="34"/>odii nexibus esse implicitum &amp; tam deo quam hominibus odibilem, esse signum tyrannis &amp; grassatoribus ad sagit 
+      <lb ed="#P" n="35"/>tam: vt eius bona auferant, eum iniuste vexent, &amp; saepius interimant. Nihil autem est absurdius auaritia in sene. 
+      <lb ed="#P" n="36"/>Quid per deum immortalem est stultius quam quo minus viae restat eo plus viatici colligere. Licet iuuenis 
+      <lb ed="#P" n="37"/>vita est incerta, grandis tamen natu omnino diu viuere nequit: sicut enim bulla aquae euanescit. Nimirum 
+      ty<lb ed="#P" n="38" break="no"/>ranni generis est faex. Hic nebulosus circa caduca supputanda anxius insudat. Quantum opes excessiuae 
+      cre<lb ed="#P" n="39" break="no"/>scunt, tantum earum sine freno etiam coalescit amor. secundum illud luuenalis, Crescit amor nummi quantum ipsa 
+      <lb ed="#P" n="40"/>pecunia crescit. Thomyris Massagetarum regina cuius filium Cyrus interemerat, Cyro per insidias capto &amp; 
+      <lb ed="#P" n="41"/>eius capite in vtrem sanguinis plenum communiecto dixit, Sanguinem sitisti Cyre, sanguinem bibe. Sunt qui Crasso 
+      <lb ed="#P" n="42"/>Romanorum ferme ditissimo a Parthorum rege qui eum ceperat dictum: Aurum sitisti Crasse, autum bibe. Crasso 
+      <lb ed="#P" n="43"/>igitur opes erant exitiale &amp; praesentaneum venenum. Ad multa flagitia haec lues auaritiae impellit: secundum illud  
+      <lb ed="#P" n="44"/>Virgilianum. Quid non mortalia pectora cogis Auri sacra fames? Pecuniae obediunt omnia inquit 
+      <lb ed="#P" n="45"/>Ecclesiastes. Et auaritiam omnium malorum radicem altisonus Euangelii praeco Paulus dixit. 
+    </p>
+            <p xml:id="JMAet9-d15155-d1e1025">
+               <lb ed="#P" n="46"/>⁋ Ad quartam dubitationem respondetur negatiue, posito quod non committatur fraus in ludo: quia si sic esset 
+      <lb ed="#P" n="47"/>furtum, &amp; si vterque sua sponte ludat, puta neuter est coactus per metum. Si Socrates requirat Platonem 
+      lu<lb ed="#P" n="48" break="no"/>dere, qui libere potest cessare &amp; ludere, quia Socratem non metuit: iam vterque sua sponte in proposito ludit: &amp;. 
+      <lb ed="#P" n="49"/>metu ludere non cogitur, &amp; sic ludentes &amp; lucrantes habent dominium pecuniae lucratae vel vsum ad 
+      exponendun<lb ed="#P" n="50" break="no"/>Quando recreationis gratia duo etiam sacerdotes ludunt &amp; parum m aleam collocant vt vigilantius 
+      animad<lb ed="#P" n="51" break="no"/>uertant, nulla est restitutio fienda, &amp; minus quando deperditum in potum aut pisciculum communem exponitur: 
+      <lb ed="#P" n="52"/>illic enim amittens partem rei perditae acquirit, illudque honeste fit. Pari iure si aliquis ociosus non potest 
+      absti<lb ed="#P" n="53" break="no"/>nere a lomno &amp; ei dormitio officit, luditque ne dormiat &amp; lucrum est exiguum, talis ludus est meritorius: 
+      <lb ed="#P" n="54"/>Cauendum tum est a sequela ne scholastici &amp; iuuenes ex hoc malum sugantexemplum. Probatur tum non reqiuiri 
+      <lb ed="#P" n="55"/>restitutionem. Ex torneamentis, scaccario ludo &amp; similibus contractibus ambiguis. Probatur etiam haec 
+      conelusto<lb ed="#P" n="56" break="no"/>negatiua aliter, vterque est dominus pecuniae. suae vel habet vsum pecuniae ad sic exponendum supponot 
+      <lb ed="#P" n="57"/>possunt convenire quod victor alterius pecunia habeat. Tertio sic argumentor ad idem, in Scaccario ludo 
+      per<lb ed="#P" n="58" break="no"/>tractum regis, reginae &amp; aliorum lucrans habet dmnium pecuniae lucratae: sic in iactu retis emendo pisces 
+      incer<lb ed="#P" n="59" break="no"/>tos: in hasticis ludis seu torneamentis, ludendo spherula, &amp; aliis ludis ambiguis: ergo &amp; in alearum ludo. 
+      Di<lb ed="#P" n="60" break="no"/>cis quod non est simile, quondom alearum ludus est vetitus: &amp; conceditur repetitio ad. 5o. annos. Cisto tituloalearum. Ifi¬ 
+    </p>
+            <p xml:id="JMAet9-d15155-d1e1060">
+               <lb ed="#P" n="61"/>⁋ Contra hoc argumentor: In plerisque locis non viuitur legibus imperialibus sed municipalibus, 
+      quan<lb ed="#P" n="62" break="no"/>obrem leges imperatoris illic non habent robur. Secundo, illa lex est abrogata etiam vbi. leges imperiales 
+      <lb ed="#P" n="63"/>sunt in viridi obseruantia. Modo consuetudo veniens post humanam legem eam euertit. Vbique 
+      consue<lb ed="#P" n="64" break="no"/>tudo tantum facit post humanam positiuam legem, quantum facit vnum vis scriptum post aliud. At dicis aliquorum 
+      <!--134.xml-->
+      <pb ed="#P" n="59-r"/>
+               <lb ed="#P" n="1"/>more, non vsus non inducit consuetundinem: si quis est passus damnum &amp; agere noluit non est abrogata lex 
+      <lb ed="#P" n="2"/>concedens tali posse agere actione legis Aquiliae: nec contra illam est inducta consuetudo, quia lex ad vsum 
+      <lb ed="#P" n="3"/>non necessitat: sed dat agendi facultatem.
+    </p>
+            <p xml:id="JMAet9-d15155-d1e1082">
+               <pc type="pilcrow">¶</pc> Contra hoc argumentor. Licet hoc sit verum per non vsum 
+      <lb ed="#P" n="4"/>in contrarium tamen lex est abrogata per vsum contratium inquantum aliquando repetentibus non est ius datum, 
+      <lb ed="#P" n="5"/>quia repetenti deperditum in foro tituli &amp; contradictorio modo non datur actio nec sententia 
+      restitutio<lb ed="#P" n="6" break="no"/>nis debere fieri perdenti. Non est vero simile quin in tanto ludentium coetu istud non semel sit practicatum. 
+      <lb ed="#P" n="7"/>Insuper opposito dato omnes non restituentes tale lucrum damnabis: quod non videtur concedendum. 
+      <lb ed="#P" n="8"/>Ex hac conclusione si vera est, sequitur quod ludens non tenetur ad restitutionem lucri. verum vbi lex 
+      imperia<lb ed="#P" n="9" break="no"/>lis aut municipalis non est abrogata per oppositam consuetudinem, sed lex in suo robore perdurat restitutio 
+      <lb ed="#P" n="10"/>est facienda. qui perdidit ob legem &amp; ludere &amp; rei acceptionem prohibentem. Forte ais, cum turpitudo 
+      ver<lb ed="#P" n="11" break="no"/>setur vtrinque potior est conditio possidentis . cite. de condi. ob. fur. ca. I. Respondetur, hoc est verum nisi ius 
+      con<lb ed="#P" n="12" break="no"/>tractum irritat. Ad iustam translationem dominii requiritur vt contractus non irritetur a lege vltra 
+      par<lb ed="#P" n="13" break="no"/>tium consensum.
+    </p>
+            <p xml:id="JMAet9-d15155-d1e1109">
+               <pc type="pilcrow">¶</pc> Contra hoc instatur. Hac via alea ludentibus cornua aperiuntur qui sic ludentes 
+      pec<lb ed="#P" n="14" break="no"/>cant, quod est inconveniens. Responsio, multa retrahunt virum a lusu, plerique alea ludentes 
+      depauperan<lb ed="#P" n="15" break="no"/>tur, iurant sine causa, signanter cum perdunt ob impatientiam qua agitantur, &amp; omnia perdita amittens dare 
+      <lb ed="#P" n="16"/>cogitur cum lucratur matrifamilias &amp; familiae, candelae &amp; conuiuiolum medietatem lucri absumunt &amp; res 
+      <lb ed="#P" n="17"/>sic acquisita non perdurat. Quando vides aleones, aut aleatoria detinentes locupletes? Vir talis tamquam stolidus 
+      <lb ed="#P" n="18"/>notatur qui omnia quae habet profligat. Si autem quis ob ista non arceatur nescio quo freno a ludo 
+      re<lb ed="#P" n="19" break="no"/>trahetur. Ipsum peccare interludendum nihil probat de restitutione. Patet de quaestu sordido meretricis 
+      <lb ed="#P" n="20"/>&amp; lenonis. Meretrix turpiter suum corpus locat pro cuius vsu capit pecuniam quam restituere non tenetur, 
+      <lb ed="#P" n="21"/>modo capiat ab habente dominium sic transferre, vtpote quando est dominus rei. Non video religiosum qui 
+      <lb ed="#P" n="22"/>habet vsum rei, posse in meretricem hac via tranfferre dominium: attamen in operarium pecuniae dominium 
+      <lb ed="#P" n="23"/>quod non habet transfert. Similiter ad taxillos abbas parum recreationis gratia ludit &amp; in victorem 
+      do<lb ed="#P" n="24" break="no"/>minium tranfsfert: quando lyricini recreationis gratia nonnihil dat lyricon dominium habet. Sed abbas 
+      <lb ed="#P" n="25"/>in casu solatii plus capit interludendum qui recreatione eget: ergo concedi potest illud esse licitum:. 
+    </p>
+            <p xml:id="JMAet9-d15155-d1e1141">
+               <lb ed="#P" n="26"/>⁋ Ad quintum respondetur, quod vsura est peccatum, patet per Aristotelem hic in litera, &amp; primo Officiorum 
+      <lb ed="#P" n="27"/>ex Tullio in lumine naturali loquentibus. Et Lucae. S. Mutuum date nihil inde sperantes. Et laudatur 
+      <lb ed="#P" n="28"/>qui pecuniam suam non dedit ad vsuram, vtque cognoscatur eius natura praemittatur eius diffinitio. In hoc 
+      <lb ed="#P" n="29"/>Panetium qui id praetermisit Tullius. i. Offcarpit. Vsura est volitio capiendi lucrum vltra sortem, vi mutui. 
+      <lb ed="#P" n="30"/>vt do Socrati mutuo decem, capio ab eo ratione illius mutui, quia solutionem expecto duodecim. Ecce 
+      <lb ed="#P" n="31"/>hic capio duo vltra decem quae sunt mea sors. haec volitio propterea est vsura. ldem est si nollem dare 
+      <lb ed="#P" n="32"/>mutuo nisi lucrum vltra sortem haberem. Et sermo est de temporali lucro, &amp; non spirituali quod homo consequitur 
+      <lb ed="#P" n="33"/>ratione mutui dati mutuatatio, ita quod vsurarius semper est opulentior quam fuerit ratione mutui: si solum 
+      <lb ed="#P" n="34"/>habeat suum vel alias ei debitum vel tantum quantum ex suo lucrari potest praecise vltra labores impensas &amp; 
+      <lb ed="#P" n="35"/>periculum non est vsura. Do tibi decem mutuo qui iam pridem mihi octo debebas quae soluere recusas: 
+      <lb ed="#P" n="36"/>do inquam decem quatenus habeam. is. Non committo vsuram: non enim habeo lucrum vltra sortem cum 
+      <lb ed="#P" n="37"/>non sim opulentior post contractum quam esse debeam etiam ex te, non committo vsuram. Pari forma do Platoni 
+      <lb ed="#P" n="38"/>scholastico decem mutuo principaliter, volo eius inopiae succurrere intendens quod lectionem meam 
+      visita<lb ed="#P" n="39" break="no"/>bit, &amp; sic lucrabor. &amp;, non est vsuta, non enim sum pecuniosior quam esse debeam &amp; ratione mutui &amp; ratione 
+      <lb ed="#P" n="40"/>laboris. Capio. &amp;x. quae capio a quolibet alio in mea classe. Hoc iure molitor pistori dat centum mutuo 
+      <lb ed="#P" n="41"/>principaliter propter deum, secundario vt id suum molendinum ille frumentum molendum curet, alioqui 
+      <lb ed="#P" n="42"/>non daturus, sine labe vsurae. Seclusa enim causa minus principali, saepius totus effectus secluditur. 
+      Ca<lb ed="#P" n="43" break="no"/>nonicus ad matutinum surgit habiturus pecuniam, alioqui non iturus nec id est simoniacum. Pari forma 
+      <lb ed="#P" n="44"/>sacerdos celebrat habiturus pecuniam, alioqui non celebrabit sine omni simoniae sorde. Si isti 
+      mutuato<lb ed="#P" n="45" break="no"/>res habeant lucrum vltra sortem, non est vi mutui sed ratione laboris. Vlterius patet, quod ratione damni 
+      <lb ed="#P" n="46"/>emergentis id mutuo homo potest capere tantum quantum iacturae ipse incurrit, ratione illius mutui: &amp; 
+      po<lb ed="#P" n="47" break="no"/>test pacisci, vel iudex hoc statuere si non soluatur ei in tali termino, habebit nonnihil vltra surtem: &amp; 
+      <lb ed="#P" n="48"/>qualibet ebdomada qua non soluetur praetermisso termino habebit duo: &amp; hoc supposito quod libentius 
+      <lb ed="#P" n="49"/>aut ita libenter haberet suam sortem sicut illud quod in pactum deducit vel iudex imponet. Nam illud, capit 
+      <lb ed="#P" n="50"/>ratione poenae iuridice inflictae: quia imponitur mutuatario limes soluendi mutuanti: &amp; eo termino 
+      trans<lb ed="#P" n="51" break="no"/>gresso dabit &amp; sortem &amp; nonnihil vltra: quia ratione poenae illud incrementum iniungitur ob cautionem ne 
+      <lb ed="#P" n="52"/>iacturam mutuator incurrat, &amp; vt mutuatarius sit sollicitior pecuniam in termino statuto reponere. 
+      <lb ed="#P" n="53"/>Etiam potest capere ratione lucri cessantis tantum quantum lucretur iudicio prudentum defalcatis, labore, 
+      impen<lb ed="#P" n="54" break="no"/>sis &amp; periculo. Res enim non tantum valet in periculo quantum extra discrimen, etiam impensas maiores 
+      face<lb ed="#P" n="55" break="no"/>ret in campis quam domi. Etiam non haberet tantundem mei labore quantum ipso laborante. Consulat tamen 
+      <lb ed="#P" n="56"/>suae famae iste taliter mutuo tradens censeatur foenerator.
+    </p>
+            <p xml:id="JMAet9-d15155-d1e1211">
+               <pc type="pilcrow">¶</pc> 
+               <name xml:id="JMAet9-d15155-Nd1e1216">Ioannes Buri</name>, mouet quaestionem vsuraei 
+      <lb ed="#P" n="57"/>quia mos est in aliquibus ciuitatibus vt ait, quod primores ciuitatis accipiunt pecuniam orphanorum 
+      <lb ed="#P" n="58"/>ad certos annos quibus nonnihil orphanis ministrant: &amp; iterum in fine totum restituunt, videturque 
+      <lb ed="#P" n="59"/>vsura. <name xml:id="JMAet9-d15155-Nd1e1226">Ioannes</name> circa hoc varia tangit &amp; nihil ad solutionem dubitationis motae. Dico quod isti orphani l 
+      <lb ed="#P" n="60"/>emunt ius leuandi quotannis tantam pecuniae summam a communitate, vel communitas loco tutorum curatorum ve 
+      <lb ed="#P" n="61"/>hoc eis facit, &amp; licitum est plerisque ita facere, vt alias in. ix. distinctionem. &amp;. Sententiarum fusius disserimus. 
+    </p>
+            <p xml:id="JMAet9-d15155-d1e1235">
+               <lb ed="#P" n="62"/>⁋ Dubitatur. Si quispiam mihi nonnihil liberali dono contulerit, an sim obnoxius tantundem illi restituere. 
+      <lb ed="#P" n="63"/>Respondetur, quod solum debito honestatis ad hoc deuincior: &amp; si omisero quicquam ei refundere non pecco. Mere 
+      <lb ed="#P" n="64"/>gratis mihi illud praebuit: non intendens me obligari ad similia verbo aut facto: in eum tum peccans grauius 
+      <!--135.xml-->
+      <pb ed="#P" n="59-v"/>
+               <lb ed="#P" n="1"/>delinquo ob beneficium mihi collatum. Et si ei non succurro in casu praecepti, magis pecco. Collatio enim 
+      <lb ed="#P" n="2"/>muneris inme meam transgressionem auget: quemadmodum ille qui a deo gratiam gratis datam suscepit 
+      gran<lb ed="#P" n="3" break="no"/>diorem labem transgrediendo incurrit quam alter talia non acquirens. Dum enim augentur dona, rationes crescunt 
+      do<lb ed="#P" n="4" break="no"/>norum, vt inquit <ref xml:id="JMAet9-d15155-Rd1e1256">Gregorius in Homelia</ref>, &amp; in horis canonicis de confessore pontifice id dicimus. Et hoc si 
+      <lb ed="#P" n="5"/>beneficium sit notum: si vero sit occultum inuincibiliter vt est speciale auxilium nonnumquam, magnitudo gratiae 
+      <lb ed="#P" n="6"/>gratum facientis. praedestinatio, aut simile, non aggrauat peccatum: secus est vbi vincibiliter ignoretur. Hinc 
+      <lb ed="#P" n="7"/>dicimus in quartum Sententiarum, quod recidiuans plus peccat ob ingratitudinem, quia deus ei suam offensam 
+      igno<lb ed="#P" n="8" break="no"/>uit, &amp; aequiualenter facit duo peccata, licet ratione ingratitudinis saepius non attingat grauitatem alterius 
+      <lb ed="#P" n="9"/>actus, vt in festo peccans vnico actu bifariam peccat &amp; duo peccata facit: terminus numeralis illic cadit 
+      <lb ed="#P" n="10"/>in connotatum peccati, vnico actu binas difformitates facit.
+    </p>
+            <p xml:id="JMAet9-d15155-d1e1273">
+               <pc type="pilcrow">¶</pc> At dicis. Non sequitur: Iste est vituperabilis 
+      <lb ed="#P" n="11"/>quia fornicator, &amp; vituperabilis quia ingratus, ergo duo sunt peccata: quemadmodum non sequitur. Iste est 
+      vi<lb ed="#P" n="12" break="no"/>tuperabilis quia fornicator, &amp; vituperabilis quia transgressor: ergo fornicatio &amp; transgressio duo sunt 
+      <lb ed="#P" n="13"/>peccata. Respondeo, quod prior consequentia est bona: posterior vero mala. Nec vllo modo est simile 
+      trans<lb ed="#P" n="14" break="no"/>gressio est superius ad fornicationem nec cum ea ponit in numerum.
+    </p>
+            <p xml:id="JMAet9-d15155-d1e1287">
+               <pc type="pilcrow">¶</pc> Dubitatur finaliter quas cautiones 
+      ob<lb ed="#P" n="15" break="no"/>seruabat ipse beneficus. Respondetur, benefici non est gratificari malis ad eorum facinora fouenda ea propter 
+      <lb ed="#P" n="16"/>Marcus Crassus non benefice egit Caesari pecuniam suppeditando. hoc Caesarem insolentiorem reddidit. Secunda 
+      <lb ed="#P" n="17"/>cautio est. det beneficus sua pro facultate: si facultatem transiliat est stolidus, det honesti gratia, &amp; non ob 
+      <lb ed="#P" n="18"/>ostentationem, interdum in publico inopibus in aliorum aedificationem, timidus in occulto pauperibus 
+      eroga<lb ed="#P" n="19" break="no"/>bit ne turgeat.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

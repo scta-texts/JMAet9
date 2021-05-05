@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 10</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 10</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-de3470"><!-- mair-l1c10 -->
+            <head xml:id="JMAet9-de3470-Hd1e103">Caput 10</head>
+            <p xml:id="JMAet9-de3470-d1e106">
+               <lb ed="#P" n="16"/>
+               <quote xml:id="JMAet9-de3470-Qd1e110" type="lemma">ESt ne igitur</quote>. Istud est secundum caput huius tertii tractatus in quo duas dubitationes tangit. 
+      <lb ed="#P" n="17"/>Prior est an quis potest dici felix dum viuit, &amp; an quis potest dici felix post mortem. Occasionem 
+      <lb ed="#P" n="18"/>istud inuestigandi ex dictis in fine capituli praecedentis accepit, vbi dicebatur, si quispiam in 
+      calami<lb ed="#P" n="19" break="no"/>tates Priami incidat is non est felix. Posterior &amp; quam secundo indagat, an amicorum viuentium 
+      infortu<lb ed="#P" n="20" break="no"/>nium &amp; prosperitates in mortuos redundent. Quantum ad priorem dubitationem, perquirit an aliquis 
+      <lb ed="#P" n="21"/>sit dicendus felix in vita. Dicit ergo in principio sic, Quaestio incidit an aliquis dum viuit dici potest felix, 
+      <lb ed="#P" n="22"/>an iuxta Solonis atheniensis sententiam spectare oportet finem vitae. Hoc controuersiam &amp; dubitationem 
+      <lb ed="#P" n="23"/>habet &amp; potest bifariam intelligi. Vno modo quod quando est mortuus, est felix, quia positus extra mala. 
+      Se<lb ed="#P" n="24" break="no"/>cundo me do, quia tunc verum est dicere certitudinaliter iste est aut fuit felix. Haec prior via est aliena a 
+      <lb ed="#P" n="25"/>philosopho aut ponente felicitatem in humana operatione virtutis consistere: defunctus enim non 
+      opera<lb ed="#P" n="26" break="no"/>tur secundum virtutem. dicitque quod hunc modum conuellere non opus est: quia id non voluit legislator Solon, sed 
+      se<lb ed="#P" n="27" break="no"/>cundo modo: quem modum sic oppugnat, mortuus non est positus extra mala, quia mortuo accidunt mala 
+      <lb ed="#P" n="28"/>&amp; inhonorationes, honores: infortunia, &amp; fortunia amicorum viuentium: nam viuenti etiam non sentienti 
+      <lb ed="#P" n="29"/>haec contingunt: sicut saepius in vita contingit mihi in gallia commoranti, sic in effectu arguit, homini 
+      <lb ed="#P" n="30"/>viuenti licet non sentienti potest bonum vei malum contingere, proinde &amp; mortuo: tenet consequentia. 
+      <lb ed="#P" n="31"/>quia non est discrimen, nisi sicut difsert non sentiens a sentiente, &amp; per consequens si homo dum viuit ob 
+      infor<lb ed="#P" n="32" break="no"/>tunia contingentia non potest dici felix: sequitur etiam ob talia contingentia post mortem non erit felix. Quaestio 
+      <lb ed="#P" n="33"/>nem praedictorum occasione interponit, ad qua vtrinque disputat. Potest enim fieri vt quispiam ad vitae periodum puer 
+      <lb ed="#P" n="34"/>be vixerit fatisque concesserit humanis, &amp; magnam circa natos varietatem contingere. perspicuum enim est filios 
+      lo<lb ed="#P" n="35" break="no"/>ga post intercapedine multifatiam posse a parentum tramite &amp; vita degredi: &amp; absurdum est si felix modo  
+      <lb ed="#P" n="36"/>miser modo felix fieret. quod tamen accideret si ipsum ponerent felicem. Post haec ad alteram partem dispu 
+      <lb ed="#P" n="37"/>tat inquiens. Absonum etiam videtur si posteriorum res parentibus non essent curae, pro aliquo saltem 
+      pu<lb ed="#P" n="38" break="no"/>sillo tempore. Hanc quaestionem obiter incidentem in sequenti capite absoluit, nunc vero eam relinquens 
+      <lb ed="#P" n="39"/>ait. Sed redeundum est ad id quod prius est dubitatum &amp; ex hoc forte veritas elucebit. Porro &amp; si exitum 
+      ex<lb ed="#P" n="40" break="no"/>pectare oportet &amp; tunc dicere quenquam beatum, non quod tunc beatus sit, sed tunc recte dicimus iste fuit 
+      bea<lb ed="#P" n="41" break="no"/>tus, quomodo absurdum non videtur tunc cum est felix, nos non posse vere felicem appellare? hoc autem 
+      <lb ed="#P" n="42"/>est absurdum, igitur dum viuit dici potest esse felix. Vult dicere quod absonum est dicere de aliquo quod fuerit fe 
+      <lb ed="#P" n="43"/>lix, de quo nunqui praesentialiter verum erat dicere iste est felix: cum quaelibet propositio de praeterito 
+      ve<lb ed="#P" n="44" break="no"/>ra prius habuit vnam de praesenti veram, vel habuisset si fortuna fuisset: cum in morte socratis, hoc est in 
+      <lb ed="#P" n="45"/>primo instanti non esse eius verum est dicere socrates fuit felix, prius verum erat dicere Socrates est felix &amp; 
+      <lb ed="#P" n="46"/>hoc non nisi in vita, igitur. Sequitur. Quia viuentes. dicere hic remouet motiuum Solonis, quod fuit, 
+      con<lb ed="#P" n="47" break="no"/>tingit fortunas saepius circulariter moueri circa quempiam, qui nunc est locuples, nunc inops: at felicitas 
+      <lb ed="#P" n="48"/>est quoddam permanens &amp; stabile. Probat, quod nemo est felix per respectum ad bona externa, quia bona &amp; 
+      <lb ed="#P" n="49"/>mala fortunae sunt saepicule variabilia instabilia &amp; incerta: ergo si ex bonis externis felicitas dependeret, 
+      <lb ed="#P" n="50"/>ipsa esset instabilis &amp; variabilis instar comeleontis. Cameleon autem circa phasin amnem atque in India 
+      cre<lb ed="#P" n="51" break="no"/>briter gignitur, animal figura &amp; magnitudine lacerti, tardi motus, ad cuiustibet circumstantis colorem mu 
+      <lb ed="#P" n="52"/>tatur, &amp; quia in paucis aliis id inuenitur eo mirabilius putatur: idem de cancro tradunt. aere pascitur, si 
+      <lb ed="#P" n="53"/>Plinius est verus relator, quod &amp; Quidius sensit sic canens, 
+      <lb ed="#P" n="54"/>Id quoque quod ventis animal nutritur, &amp; aura, 
+      <lb ed="#P" n="55"/>Protinus assimulat tetigit quoscunque colores. 
+      <lb ed="#P" n="56"/>Caeterum felicitas est bonum firmum &amp; solidum. Nam est rationi dissentaneum felicitatem fortunam 
+      se<lb ed="#P" n="57" break="no"/>qui, in qua probe aut improbe viuere non est situm quamuis opus sit in humana vita bonis externis, sed 
+      re<lb ed="#P" n="58" break="no"/>spectu felicitatis ipsa sunt accidentaria, Secundo, operationes secundum virtutem dominae sunt felicitatis, &amp; contra 
+      <!--43.xml-->
+      <pb ed="#P" n="14-v"/>
+               <lb ed="#P" n="1"/>riae contrarii, hoc est contrariae operationes, sunt dominae miseriaes per dominam hic causalitatem &amp; 
+      re<lb ed="#P" n="2" break="no"/>ctricem accipito. Eam ob rem fortuna non dominatur felicitati. Attestatur huic sententiae &amp; illud quod 
+      <lb ed="#P" n="3"/>nunc ambigimus. Nulla est maior in rebus humanis constantia quam in operationibus quae ex virtute 
+      ma<lb ed="#P" n="4" break="no"/>nant. Enimuero virtutes &amp; earum operationes stabiliores ipsis scientiis esse videntur: &amp; maxime eae 
+      <lb ed="#P" n="5"/>quae caeteris antecellunt, hoc est felicitates. propterea quod in virtutum operationibus beati continuatissime 
+      <lb ed="#P" n="6"/>&amp; iugissime viuunt. Et illud est causae quare minus illarum obliuio fiat: Recte igitur id quod 
+      quaeri<lb ed="#P" n="7" break="no"/>tur ipsi felici competit. Etit igitur felix fixus &amp; inconcussus per vitam. Nam semper aut maxime ea 
+      <lb ed="#P" n="8"/>aget &amp; contemplabitur quae a virtute emergunt. Fortunam etiam pulcherrime feret: &amp; ex omni parte 
+      <lb ed="#P" n="9"/>concinne, eleganter aut aequaliter (cum sit patiens) aequanimiter aduersa tolerabit, quoniam ipse est 
+      bo<lb ed="#P" n="10" break="no"/>nus atque quadratus. Quod dupliciter exponendum venit. primo de quadrato geometrico, quod est 
+      <lb ed="#P" n="11"/>corpus cubicum habens sex superficies quadratas, vt alea seu tessera (quidam taxillum alii adhuc ineptius 
+      <lb ed="#P" n="12"/>decium vocant) quod corpus quoquouersum in altum proiectum semper super costam stabilem a tanta al 
+      <lb ed="#P" n="13"/>titudine cadit. Solemus prouerbialiter dicere cum sors futura non potest homini male contingere, is non  
+      <lb ed="#P" n="14"/>potest nisi super pedes cadere. Possunt istae sex superficies moraliter assignari. vt superficies suprema sit 
+      <lb ed="#P" n="15"/>in lege superioris obsequendo superiori: superficies inferior quod est in lege inferiori, quod homo rationabiliter 
+      <lb ed="#P" n="16"/>suis quibus praeest praecipiat. anterior superficies est opus futurum. posterior, opus praeteritum. dextera 
+      <lb ed="#P" n="17"/>prosperitas siue potiora bona. De Christo enim dicimus, sedet ad dexteram patris. hoc est in potioribus 
+      <lb ed="#P" n="18"/>bonis: &amp; cadent a latere tuo mille, a dextris tuis decem millia. vbi per latus aduersa intelliguntur: per 
+      <lb ed="#P" n="19"/>dextram prospera. Felix positus in medio non conscendit super se, non ambulat in mirabilibus super 
+      se<lb ed="#P" n="20" break="no"/>sed superioribus vbi ratio efflagitat patet, non praecipitanter irruit in sub se constitutos. sed 
+      humanita<lb ed="#P" n="21" break="no"/>te in eos vtitur, non ante se improuide more stultorum temere aliquid tentat. prouidet futura ex 
+      prae<lb ed="#P" n="22" break="no"/>teritis ex quorum collatione futura praesagit, non a dextris frangitur, sed tunc cautius incedit, sciens 
+      ad<lb ed="#P" n="23" break="no"/>uersas calamitates saepius rebus laetis incidere. Non in sinistris frangitur, sed patientia more 
+      patientissi<lb ed="#P" n="24" break="no"/>mi lob reluctatur. Secundo de quadrato arithmetico intelligitur: ponendo formulam quadratorum 
+      mo<lb ed="#P" n="25" break="no"/>re Pythagorae. 
+      <!-- figure/graphic here-->
+      <!--<graphic ><!-\- figure of table with numbers -\-></graphic>-->
+               <lb ed="#P" n="26"/>Numerus quadratus ex 
+      du<lb ed="#P" n="27" break="no"/>ctu alicuius numeri in 
+      se<lb ed="#P" n="28" break="no"/>ipsum oritur. vt &amp; io: 
+      qua<lb ed="#P" n="29" break="no"/>ternarius in se in effectu 
+      de<lb ed="#P" n="30" break="no"/>narium continet qui est 
+      nu<lb ed="#P" n="31" break="no"/>merorum limes, amplius 
+      <lb ed="#P" n="32"/>ascendendo sunt numerorum 
+      <lb ed="#P" n="33"/>multiplicationes. 
+      quaterna<lb ed="#P" n="34" break="no"/>rius seipso est quadratus. 
+      <lb ed="#P" n="35"/>partes habet tria duo &amp; 
+      <lb ed="#P" n="36"/>vnum, quae quaternario iun 
+      <lb ed="#P" n="37"/>ctae decem procreant. 
+      <lb ed="#P" n="38"/>Sequitur in litera. Cum autem a fortuna multa eueniant. dicit quod nulla fortuna transmutat felicem. 
+      <lb ed="#P" n="39"/>Enucleatur sic, aut illa fortuna est exilis aut magna, si exigua, siue fuerit secunda siue aduersa apud 
+      feli<lb ed="#P" n="40" break="no"/>cem non est magni momenti, nec eius vitam variabit: si magna extiterit &amp; prospera, felicitatem auget 
+      <lb ed="#P" n="41"/>&amp; non attenuat, vsus talis eufortunii studioso est perbellus: sin leua fuerit, licet beatum laedat &amp; 
+      dolo<lb ed="#P" n="42" break="no"/>res afferat, &amp; aliquas eius operationes impediat, artamen in iis ipsis ipsius honestas perlucet. Quia 
+      ta<lb ed="#P" n="43" break="no"/>les aduersitates felix leniter &amp; inuicto perfert animo. Non est Aristoteles huiusce sententiae cum stoicis 
+      <lb ed="#P" n="44"/>quod in studiosum aut felicem non cadat tristitia, non enim fert aequanimiter ob insensibilitatem more 
+      <lb ed="#P" n="45"/>agrestis: sed quia est generosi &amp; magni animi vir. Qa si operationes dominae sunt (vt retulimus) nullus 
+      <lb ed="#P" n="46"/>felix facile fiet miser aut contra. Hoc duplici ratione roborat. Prima, operationes secundum virtutem 
+      <lb ed="#P" n="47"/>sunt dominae felicitatis: &amp; contrariae operationes miseriae, vt dictum est: sed operans secundum virtutem 
+      <lb ed="#P" n="48"/>nunquam odiosum aut improbum aget. Secunda, vere bonus &amp; sapiens fortunam omnem genercse 
+      perfe<lb ed="#P" n="49" break="no"/>ret: &amp; pro rerum facultate optima aget. exemplum dat de principe militiae, qui castris optime vt bello con 
+      <lb ed="#P" n="50"/>ducunt vtitur, sic bonus sutor siue alutarius ex optimis datis pellibus quam optimum potest calceum 
+      confi<lb ed="#P" n="51" break="no"/>cit: sic vestiarius: hoc est vestium opifex, &amp; ita vestium resertor, &amp; ita in aliis omnibus. Quae cum ita sint, 
+      <lb ed="#P" n="52"/>miser quidem nunquam fuerit ipse felix. Patet, quia vnus actus felicitatis felicem non denominat, sed tem 
+      <lb ed="#P" n="53"/>poris longitudo: felix est homo heroicus, proinde a vitiis abhorret, quare miser non fiet: beatus tamen non 
+      <lb ed="#P" n="54"/>erit si in Priami calamitates incidat: hoc est perfecte felix, &amp; cum splendore, etiam iudicio populari, 
+      non<lb ed="#P" n="55" break="no"/>propterea sequitur, non erit felix. Primo apud sapientes si aequanimitatem teneat plurimum laudabitur, 
+      <lb ed="#P" n="56"/>&amp; perfecte felix iudicabitur: vt lob. opinione vulgarium in felicitate actiua Aristoteles aurem 
+      accommo<lb ed="#P" n="57" break="no"/>dat, natura duce eius principia tenendo. Non cum eo responderem, sed dicerem Socratem, lob, &amp; viros alios 
+      <!--44.xml-->
+      <pb ed="#P" n="15-r"/>
+               <lb ed="#P" n="1"/>qui masculino pectore cruciatus tulerunt, &amp; non foemineo more eiularunt, fuisse perfecte felices, &amp; sic 
+      bea<lb ed="#P" n="2" break="no"/>tos. Sed medium ponerem inter felicem &amp; miserum, non ponens more multorum, quod Priamus ob 
+      dif<lb ed="#P" n="3" break="no"/>fortunia fuisset non felix, etiam si inuicto mansisset animo. Sed sic dico quod felix est vir heroicus in vita 
+      <lb ed="#P" n="4"/>perfecti: miser vitiis sordet: mediocris vir inter hos est intermedius. Sequitur. Igitur obstat eum felicem 
+      <lb ed="#P" n="5"/>dicere qui per virtutem operatur. Secundum virtutem emunctam &amp; exactam &amp; exteris bonis 
+      sufficien<lb ed="#P" n="6" break="no"/>ter est locuples, non in quantolibet tempore scilicet minuto, sed in vita perfecta, hoc est longa, 
+      potissi<lb ed="#P" n="7" break="no"/>mum circa exitum cum animam efflat. An alia cauda adiicienda est, ita victurus atque consentanee 
+      su<lb ed="#P" n="8" break="no"/>premum diem clausurus: loquitur de facilitate ciuili: quippe cum futuritio sit nobis anceps: &amp; 
+      felicita<lb ed="#P" n="9" break="no"/>tem omnifariam perfectam dicimus. quare cum haec recta sint, quibus haec nuperrime tacta insunt &amp; fi 
+      <lb ed="#P" n="10"/>naliter inerunt, beatos illos diximus, beatos inquam homines, hoc est dicemus eos felices humana 
+      sor<lb ed="#P" n="11" break="no"/>te. Qui superiorem beatitudinis sortem inter nos expiscatur, inaniter laborat: quasi diceret non 
+      possi<lb ed="#P" n="12" break="no"/>mus beatitudinem dei &amp; supercaelestium intelligentiarum adipisci: satis itaque erit nobis posse venari 
+      bea<lb ed="#P" n="13" break="no"/>titudinem, quam homines caduco corpore adipisci valent. 
+      <lb ed="#P" n="14"/>Dubitatur primo an virtutes sint permanentiores scientiis. Secundo an positio haec Solonis sit susti E 
+      <lb ed="#P" n="15"/>nibilis. Nemo est beatus in vita. Tertio an quaelibet propositio de praeterito vaera habuerit vnam de prae 
+      <lb ed="#P" n="16"/>senti veram. Quarto an beatus aliquid mali patiatur. 
+    </p>
+            <p xml:id="JMAet9-de3470-d1e376">
+               <lb ed="#P" n="17"/>⁋ Ad primam dubitationem respondetur, quod scientia habitus, sicut &amp; quilibet habitus animi, non 
+      <lb ed="#P" n="18"/>corrumpitur nisi per applicationem contrarii, &amp; stat illud nunquam applicari: sic erit de habitu virtutis. Lo¬¬ 
+      <lb ed="#P" n="19"/>quitur enim de operatione &amp; actu virtutis, quem dicit esse permanentiorem actu scientifico: quia enim 
+      <lb ed="#P" n="20"/>semper materia circa quam est virtus, felici occurrit &amp; est bene habituatus: iugiter in actus virtutum 
+      exi<lb ed="#P" n="21" break="no"/>bit: nunc inopibus stipem elargiendo, nunc frugaliter &amp; caste viuendo, etiam inter dapes &amp; foeminas. quia 
+      <lb ed="#P" n="22"/>bene habituatus est in multis virtutum obiectis: quare non succumbit. Non ita communiter exit quis in  
+      <lb ed="#P" n="23"/>actum scientificum. Dixi communiter,. regens enim &amp; docentis officium tenens in geometria tota vita, veltin 
+      <lb ed="#P" n="24"/>grammatica, saepius in actus scientificos geometricos aut grammaticos exit quam iste probus in actus 
+      virtu<lb ed="#P" n="25" break="no"/>tum.
+    </p>
+            <p xml:id="JMAet9-de3470-d1e398">
+               <pc type="pilcrow">¶</pc> Ad secundam dubitationem potest dici quod nemo est beatus in hac vita certitudinaliter. Quidius 
+      <lb ed="#P" n="26"/>enim Soloni tertio meta, subscribit inquiens. 
+      <lb ed="#P" n="27"/>Sed scilicet vltima semper 
+      <lb ed="#P" n="28"/>Expectanda dies homini est: dicique beatus 
+      <lb ed="#P" n="29"/>Ante obitum nemo, supremaque funera debet. 
+      <lb ed="#P" n="30"/>Haec Solonis sententia partim Croesum lydorum regem liberauit, Cyrumque Maiorem cautiorem 
+      reddi<lb ed="#P" n="31" break="no"/>dit. Croesus enim opibus exuberans se omnium beatissimum falso praedicabat: &amp; quum Solon in 
+      re<lb ed="#P" n="32" break="no"/>gnum hospitaliter receptus circa thesauros eius ductus esset, petiit Croesus, quem omnium felicissimum 
+      <lb ed="#P" n="33"/>censeret, &amp; an quenquam ipso feliciorem nosset. Eo tempore Solon ab omni adulatione ( vt philosophum 
+      de<lb ed="#P" n="34" break="no"/>cet) sequestratus, Stellum Atheniensem beatum praedicat. deinde Cleobem Bythonemque exiguae fortunae 
+      <lb ed="#P" n="35"/>homines faustissimos obiisse prodidit: &amp; Croesum ne priuatis quidem aequiparauit, asseruitque neminem 
+      <lb ed="#P" n="36"/>ante vitae exitum, dici debere beatum. Croesus autem postea a Cyro Persarum imperatore victus &amp; 
+      iam<lb ed="#P" n="37" break="no"/>iamque tradendus flammis, Solonis dictum expendens maximopere illud laudauit. Qua re quidem &amp; ad 
+      <lb ed="#P" n="38"/>Cyrum delata Croesum non exussit, humanam sortem miseratus, Solonisque sententiam trutinauit. 
+      <lb ed="#P" n="39"/>Cui astipulatur luuenalis inquiens. 
+      <lb ed="#P" n="40"/>Et Croesum quem vox iusti facunda Solonis 
+      <lb ed="#P" n="41"/>Respicere extremae iussit spatia vltima vitae. 
+      <lb ed="#P" n="42"/>Fidem sententiae alludit gregoriana sententia in homilia de confessore pontifice, qua dicitur, Lauda ergo 
+      <lb ed="#P" n="43"/>post periculum, praedica securum, lauda nauigantis felicitatem, sed cum peruenerit ad portum: lauda 
+      du<lb ed="#P" n="44" break="no"/>cis virtutem cum perductus est ad triumphum. Sicut est de hac Socrates perseuerat: vel de hac Socrates 
+      <lb ed="#P" n="45"/>est martyr: tenendo quod de ratione martyrii est mortem pro veritate, aut honesto opere subire. Tales 
+      <lb ed="#P" n="46"/>enim dependent ex propositionibus contingentibus de futuro: sic loquendo saluatur dictum Solonis, 
+      <lb ed="#P" n="47"/>nec oppositum probat philosophus, licet ipse probet hanc veram: In vita Socrates est felix, supposito quod 
+      <lb ed="#P" n="48"/>belle obeat. illa de futuro est anceps, ob illud quod in posterum contingit. 
+    </p>
+            <p xml:id="JMAet9-de3470-d1e454">
+               <lb ed="#P" n="49"/>⁋ Ad tertium dubium dicitur, si deus in qualibet parte proportionali horae praeteritae crearet vnum an¬¬ 
+      <lb ed="#P" n="50"/>gelum, minoribus nos versus terminatis. iam in instante horam finiente, verum est dicere quilibet 
+      isto<lb ed="#P" n="51" break="no"/>rum angelorum prius fuit. Etiam haec est vera, primo quilibet istorum angelorum primo est. Similiter. 
+      <lb ed="#P" n="52"/>istae sunt simul verae, Socrates homo fuit: Socrates homo est. In aliis autem prius ita est in re sicut per 
+      il<lb ed="#P" n="53" break="no"/>lam de praesenti significatur, quod ita sit sicut per illam de praeterito importatur. 
+    </p>
+            <p xml:id="JMAet9-de3470-d1e468">
+               <lb ed="#P" n="54"/>⁋ Ad quartam dubitationem respondetur quod duplex est felicitas, quaedam meritoria, de qua Matthaei. v. 
+      <lb ed="#P" n="55"/>Christus loquitur, beati pauperes spiritu &amp;c. Tales possunt aduersitates pati: propterea illic Christus 
+      di<lb ed="#P" n="56" break="no"/>cit, beati qui lugent: beati qui persecutionem patiuntur. Et de tali beatitudine solum Philosophus loquitur. 
+      <lb ed="#P" n="57"/>Alia est beatitudo praemiatoria de qua theosophi loquuntur, quae nullam aduersitatem aut culpam 
+      admit<lb ed="#P" n="58" break="no"/>tit, de hac dicit psalmographus regius. Beati qui habitant in domo tua domine: in secula seculorum 
+      lau<lb ed="#P" n="59" break="no"/>dabunt te. Sed quia haec modum Aristotelis transcendit, eam missam facio. 
+      <lb ed="#P" n="60"/>Dubitatur quinto, an vnus felix sit alio felicior. Respondetur affirmatiue theologice loquendo Ioan¬ p 
+      <lb ed="#P" n="61"/>nis. xiiii. In domo patris mei mansionens multae sunt: sic secundum Aristotelem vnus est altero prae¬ per 
+      <lb ed="#P" n="62"/>stantior, licet vterque sit felix.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

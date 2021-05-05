@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 13</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 13</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d27519"><!-- mair-l6c13 -->
+            <head xml:id="JMAet9-d27519-Hd1e103">Caput 13</head>
+            <p xml:id="JMAet9-d27519-d1e106">
+               <lb ed="#P" n="27"/>COnsiderandum autem &amp;c. Adhuc de morali virtute speculandum est. Vt prudentia ad natiuam 
+      habili<lb ed="#P" n="28" break="no"/>tatem sese habet, quae non est idem sed analogum &amp; affine. Moralis virtus ad insitam virtutem sic se habet. 
+      <lb ed="#P" n="29"/>Nam omnibus singuli mores quodammodo natura inesse videntur, non cuncti mores sed singuli. Hoc 
+      <lb ed="#P" n="30"/>est inclinationes naturales quae nullam virtutem ponunt. Aliqui sunt masculini pectoris ad fortia opera 
+      <lb ed="#P" n="31"/>procliui, nonnulli ad iustitiam propensi: aliqui ad alias virtutes proni. Hoc indicio hosce habitus a 
+      virtu<lb ed="#P" n="32" break="no"/>tibus remouebis. Pecoribus atque pueris tales instinctus insunt. Leo enim cordatus, lepus pauidus, 
+      vul<lb ed="#P" n="33" break="no"/>pes astuta, citra mentem ac discursum nonnumquam laedunt: itaque non habent virtutes. Nulli iniuria est virtus. 
+      <lb ed="#P" n="34"/>vt corpus animalis bruti siue hominis caeci si moueatur in hiatum praeceps ruit, vehemen: iusque offenditur 
+      <lb ed="#P" n="35"/>atque errat. Haud secus naturalis virtus si cuipiam sine lumine rationis &amp; virtutis proprie dictae insit, 
+      oc<lb ed="#P" n="36" break="no"/>casionem praebet continuo vt affligatur. Quocirca alias virtutes indagare operaeprecium est, quae cum recta ratione 
+      <lb ed="#P" n="37"/>connectuntur, tamquam cum visuac oculo directore, ne homines tota via aberrent &amp; offendantur. Si iste 
+      natura<lb ed="#P" n="38" break="no"/>les virtutes metem (hoc est prudentiam) nanciscantur in agendo, habitus ille naturalis verae assimilabitur 
+      vir<lb ed="#P" n="39" break="no"/>tuti: non quod vnquam erit virtus, re ipsa est substantia sed virtute decorabitur: quare vt in opinatiuo, hoc est in  
+      <lb ed="#P" n="40"/>opinatiua parte animae duae sunt species habilitas atque prudentia: sic in materiali sunt duae, vna 
+      natu<lb ed="#P" n="41" break="no"/>ralis virtus proptitudo ingenii ab eo minime re ipsa discrepans: attamen notio aliud connotat. Alia est 
+      <lb ed="#P" n="42"/>etiam proprie absolute virtus: alia solum est virtus cum addito. Est deductio aequiuoci in sua aequiuocata qua  
+      <lb ed="#P" n="43"/>deriuatione diuisum de membro minus principali absolute non praedicatur. Atque earum quae non obscure est 
+      <lb ed="#P" n="44"/>virtus, non est citra prudentiam qua de re omnes virtutes Socratici prudentias esse existimant. Non delirant illo 
+      <lb ed="#P" n="45"/>quo astruunt virtutes citra prudentiam non posse existere. Aliaque assertione toto caelo aberrant. Diffinientes 
+      <lb ed="#P" n="46"/>enim virtutem dicunt, quod est habitus mentis, afferentes circa quae versatur rectamque rationem subdunt: &amp; in virtutis 
+      <lb ed="#P" n="47"/>finitione, tria stabiliunt, genus diffiniti, obiectum circa quod consistit, atque prudentiam illius rectricem. 
+      <lb ed="#P" n="48"/>Omnes igitur ominari videntur talem habitum esse secundum rationem. At vltra illorum dicta 
+      vl<lb ed="#P" n="49" break="no"/>terius progredi oportet. Is habitus est virtus qui non solum est secundum rectam rationem, verum in 
+      <lb ed="#P" n="50"/>eodem supposito cum ipsa ratione. Hoc ob naturales seruos, suopte ingenio hebetes, dominoque 
+      obsecun<lb ed="#P" n="51" break="no"/>dantes ponit. Quo fit quod hi desides non moraliter bene agunt: perinde ac serui &amp; belluae operantur. 
+      <lb ed="#P" n="52"/>Quocirca citra prudentiam nemo est bonus neque citra morum virtutem prudens. Posthaec aliorum 
+      ca<lb ed="#P" n="53" break="no"/>uillum infirmat. Aliorum erat ratio disceptantium virtutes separari posse. Hoc enim pacto ratiocinabantur. 
+      <lb ed="#P" n="54"/>Non enim quilibet est ingenio aptissimus ad omnem virtutem: vnus enim est animosus a natalibus, ac siderum 
+      <lb ed="#P" n="55"/>influxu id capiens: alius Tersitae similis suam vmbram metuens: proinde quispiam poet vnam virtutem consequi alia 
+      <lb ed="#P" n="56"/>nondum habita. Hanc argutiam strictim euacuat. Ingenueque fatetur id in naturalibus virtutibus fieri posse, 
+      <lb ed="#P" n="57"/>quae nullo modo sunt virtutes: attamen non in iis quibus absolute homo insigniter prudens denominatur. 
+      <lb ed="#P" n="58"/>Etenim cum prudentia quae est vna vnitate attributionis sicut logica, simul vniuersae inerunt. In vna enim 
+      <!--226.xml-->
+      <pb ed="#P" n="104-r"/>
+               <lb ed="#P" n="1"/>materia non est absolute prudens: quemadmodum non dicimus illum artistam qui aceruum praedicabilium ac 
+      <lb ed="#P" n="2"/>praedicamentorum numerum supputare solum didicit. Si quispiam docentium logicam inter reparandum 
+      lo<lb ed="#P" n="3" break="no"/>gicam trica circunveniatur, pleno ore a circumsedentibus dicetur, nequaquam hic est absolutus logicus: ltaque 
+      <lb ed="#P" n="4"/>si ob procellam eminentem quis a virtute labatur, minime absolute studiosus dicetur.
+    </p>
+            <p xml:id="JMAet9-d27519-d1e191">
+               <pc type="pilcrow">¶</pc> Constat vlterius 
+      <lb ed="#P" n="5"/>prudentia opus esse etiam si non esset actiua: nam vnius partis, mentis scilicet actiuae est virtus, &amp; actioni 
+      <lb ed="#P" n="6"/>confert, quia citra prudentiam ac virtutem recta electio haud completur. Virtus enim moralis scopum 
+      <lb ed="#P" n="7"/>ac prudentia conferentia ad scopum seu finem lucidissime praeparat. Ecce prudentiae praeconia. Verum tametsi 
+      <lb ed="#P" n="8"/>tantae laudis est circumspectissima prudentia, adhuc tamen est sapientia inferior. Nunc obiectum in praecedenti 
+      <lb ed="#P" n="9"/>capite nondum euacuatum breui attenuat inquiens. At vero, neque sapientiae praefertur neque praestabilioris est 
+      <lb ed="#P" n="10"/>partis animae: sicut nec medendi ars sanitati praefertur: siquidem est ob sanitatem: proinde sanitas est 
+      <lb ed="#P" n="11"/>illa praestabilior: gratia enim sanitatis iubet. Aliud autem est iubere huic, &amp; iubere de illo. Architectus 
+      <lb ed="#P" n="12"/>manufactiuae iubet atque imperat: at sapientia est caeterarum artium collatione architectura: proinde nulla 
+      <lb ed="#P" n="13"/>alia facultas illi iubet. Non enim prudentia vtitur sapientia, sed illi ancillatur, in necessariis humanae 
+      <lb ed="#P" n="14"/>vitae illi prouidens. Quantumlibet enim aquila sublimiter volauerit, eam tamen pro cibo descendete 
+      praecipi<lb ed="#P" n="15" break="no"/>tem necessum est: sic sapiens in hac miseriae valle esurit ac sitit. Sollicita Martha illi prouidet. Quod 
+      <lb ed="#P" n="16"/>enim prouida Martha contemplatrici fuit Magdalenae, hoc prudentia est sapientiae: fitque sapientiae 
+      gra<lb ed="#P" n="17" break="no"/>tia sicut actiua vita contemplatiuae, est causa. Demum simile est si quispiam asserat ciuilem facu ltatem 
+      <lb ed="#P" n="18"/>diuum esse principem, propterea quod de vniuersis atque singulis quae in ciuitate peraguntur praecipit, itaque 
+      <lb ed="#P" n="19"/>de dei maximi sempiterno cultu atque cerimoniis. 
+    </p>
+            <p xml:id="JMAet9-d27519-d1e229">
+               <lb ed="#P" n="20"/>⁋ Circa hoc caput multa ambigua occurrunt quorum praecipua per dubitatiunculas &amp; quaestic ines 
+      <lb ed="#P" n="21"/>carptim examinabo. In primis dubitatur, an sit vna prudentia circa omnia agenda.
+    </p>
+            <p xml:id="JMAet9-d27519-d1e236">
+               <pc type="pilcrow">¶</pc> Secundo, v trum 
+      <lb ed="#P" n="22"/>requiratur prudentia actualis ad actum moraliter bonum an sufficit virtualis, sicut de relatione finis dicii nus, 
+    </p>
+            <p xml:id="JMAet9-d27519-d1e245">
+               <lb ed="#P" n="23"/>⁋ Tertio, contra dicta obiico: ignorantia inuincibilis regulat actum moraliter bonum, ergo &amp; opinio a fe 
+      ir<lb ed="#P" n="24" break="no"/>tiori si est de vero.
+    </p>
+            <p xml:id="JMAet9-d27519-d1e252">
+               <pc type="pilcrow">¶</pc> Quarto, vtrum virtutes sint necessario connexae, sicut philosophus in litera innuit. 
+    </p>
+            <p xml:id="JMAet9-d27519-d1e258">
+               <lb ed="#P" n="25"/>⁋ Ad primam dubitationem affirmatiue responderunt priscorum multi, quos <name xml:id="JMAet9-d27519-Nd1e262">Buridanus</name> qui omner n 
+      <lb ed="#P" n="26"/>aetatem in artibus triuerat delire insequitur. Pono itaque alias conclusiones, quarum prima est. Non ei t 
+      <lb ed="#P" n="27"/>vna prudentia numero. Patet, nullum accidens vnum est in variis subiectis.
+    </p>
+            <p xml:id="JMAet9-d27519-d1e270">
+               <pc type="pilcrow">¶</pc> Secunda propositio. Non est? 
+      <lb ed="#P" n="28"/>eadem prudentia specialissima. Probatur, quia vbique ad distinctionem specificam obiectorum sequitur 
+      distinctio<lb ed="#P" n="29" break="no"/>specifica actuum &amp; ex consequenti habituum obiectorum: sed nulla obiecta specie distinguntur, igitur. Item 
+      <lb ed="#P" n="30"/>quis potest esse prudens in vna materia, imprudens vero in alia. Ad Aristotelem autem dico, quod prudentia 
+      <lb ed="#P" n="31"/>est vna vti logica aut alia scientia collectiue capta, quae est ex differentibus partibus conflata, quae in  
+      <lb ed="#P" n="32"/>vnum finem tendunt. In proposito quaelibet prudentia ad recte iudicandum circa agibilia 
+      versatur<lb ed="#P" n="33" break="no"/>Per prudentiae vnitatem virtutum connexionem Aristoteles probat, in quaestione illius id tangemus. 
+    </p>
+            <p xml:id="JMAet9-d27519-d1e289">
+               <lb ed="#P" n="34"/>⁋ Ad secundam respondeo, quod non: sicut nec relatio actualis in deum vt in tertio iam diximus, sufficit 
+      <lb ed="#P" n="35"/>prudentia virtualis. ludico prudentialiter in intellectu eleemosynam dandam his quinque aut centum 
+      <lb ed="#P" n="36"/>inopibus: conformo me illi iudicio in voluntate volendo parere rationi. Fortasse elicio decem aut centum 
+      vo<lb ed="#P" n="37" break="no"/>litiones dandi in particulari libere sine vlteriori iudicio: quaelibet harum volitionum liberarum est 
+      meri<lb ed="#P" n="38" break="no"/>toria in habente gratiam, &amp; ex consequenti moraliter bona ab inferiori ad superius consequentialiter. 
+      <lb ed="#P" n="39"/>Ad tertiam respondeo affirmatiue. Patet, ludico in intellectu huic vt pauperi dandam esse stipem, 
+      de<lb ed="#P" n="40" break="no"/>monstrando opulentum, qui sese inopem simulat: mereor, &amp; tamen illud iudicium est erroneum, iste est pauper: 
+      <lb ed="#P" n="41"/>licet bene ago in hac datione &amp; iudicium sit circa rectum agibile cum bene agam me conformando illi iudicio, 
+      <lb ed="#P" n="42"/>totale obiectum propositionale ob falsam implicationem est falsum: licet ea falsitas non a praxi proueniat 
+      <lb ed="#P" n="43"/>vt pote iste est pauper: at hoc non refert ad actum esse bonum, sat enim est eum aut a prudentia aut ab errore 
+      in<lb ed="#P" n="44" break="no"/>uincibili regi.
+    </p>
+            <p xml:id="JMAet9-d27519-d1e315">
+               <pc type="pilcrow">¶</pc> Circa illud quod quarto loco ambigebatur de virtutum moralium connexione. Scito quod in  
+      <lb ed="#P" n="45"/>hac parte diuersa &amp; aduersa offendo, quae mihi non placent. Aliqui enim dicunt virtutum moralium esse connexionem 
+      <lb ed="#P" n="46"/>in gradibus temperantiae &amp; in gradu heroico, non autem in gradu continentiae: de quibus in septimo loquemur, 
+      <lb ed="#P" n="47"/>Sine his gradibus conformiter ad mentem philosophi, vt putamus carptim respondebimus, Memor sis 
+      <lb ed="#P" n="48"/>modi loquendi Aristotelis. Nemo est prudens nisi bonus, &amp; vna prudentia non sufficit denominare virum 
+      <lb ed="#P" n="49"/>prudentem simpliciter &amp; perfectum: nec vna virtus sufficit denominare virum bonum simpliciter, illic em est 
+      <lb ed="#P" n="50"/>nodus rei ad hoc vt homo dicatur absolute bonus. Dicit ipse in litera, quod simpliciter bonus. i. excellenter 
+      <lb ed="#P" n="51"/>bonus est rarus repertu: patet ratione. Nemo enim est dicendus bonus excellenter &amp; simpliciter qui vituperatur 
+      <lb ed="#P" n="52"/>succumbendo, &amp; a virtutis culmine deiicitur: at si quis virtutum compaginem non habuerit succumbedo 
+      vitupera<lb ed="#P" n="53" break="no"/>bitur: sed aliqui tentati non cadunt: ergo in aliquibus imo in multis: licet comparatiue in paucis est 
+      virtu<lb ed="#P" n="54" break="no"/>tum nexus. Qua multi non cadant patet de multis mulieribus martyrio affectis. Catherina, Margareta, 
+      <lb ed="#P" n="55"/>Christina, Barbara, Apollonia, Agatha. Xenocrates &amp; plerique alii inter philosophos. tunc capio in 
+      ca<lb ed="#P" n="56" break="no"/>stitatis materia examinatam: cui mortem minatur tyrannus, si haec non fuerit in fortitudinis materia exer 
+      <lb ed="#P" n="57"/>citata actibus interioribus pudicitiam non tuebitur, cui si aureae torques, margaritae &amp; alia munera vt 
+      <lb ed="#P" n="58"/>consentiat promittantur, iterum nisi a iustitia &amp; prudentia praeseruabitur demum succumbet. Prudentia iudicat 
+      <lb ed="#P" n="59"/>iniquum esse commercium, &amp; iustitia ei reluctatur: ergo deficiente vna illarum virtutum eius virtus aut actus 
+      pericli<lb ed="#P" n="60" break="no"/>tabitur. Et non solum id verum de virtutibus cardinalibus proprie dictis, sed etiam de eis annexis vtpote 
+      li<lb ed="#P" n="61" break="no"/>beralitate mansuetudine &amp; his quae in quotidiano vsu versantur: ergo vna virtus periculo exposita pessum 
+      <lb ed="#P" n="62"/>ibit nisi ei per alias succurratur. Istae virtutes sese stipant: &amp; sicut quadratum solide stat sic virtutibus 
+      redi<lb ed="#P" n="63" break="no"/>mitus in humana tentatione non cadet. Item nemo habet perfectam prudentiam nisi versatus in omni materia 
+      <lb ed="#P" n="64"/>prudentiali actu interiori aut exteriori: ergo ipsa totalis requirit alias virtutes morales secum coassistere¬ 
+      <!--227.xml-->
+      <pb ed="#P" n="104-v"/>
+               <lb ed="#P" n="1"/>Et hoc est quod philosophus dicit, quod vna prudentia existente inhaerebunt omnes. Quaecumque enim 
+      con<lb ed="#P" n="2" break="no"/>nectuntur vni tertio, si illud infuerit &amp; illa inerunt: at aliae virtutes prudentiae annectuntur, ex saepius 
+      <lb ed="#P" n="3"/>dictis, igitur. Ambrosius super Lucam. <ref xml:id="JMAet9-d27519-Rd1e374">Augustinus de Trinitate.</ref> Gregorius. . Moralium, hanc virtutum 
+      <lb ed="#P" n="4"/>connodationem sequuntur: sic &amp; Marcus Tullius libro Tusculanarum Quaestionum. 
+    </p>
+            <p xml:id="JMAet9-d27519-d1e381">
+               <lb ed="#P" n="5"/>⁋ Contra istam virtutum connexionem argumentor. Primo sic. Socrates potest se exercitare in vna 
+      ma<lb ed="#P" n="6" break="no"/>teria, alia non occurrente: &amp; potest vnam virtutem etiam intensissimam perfectissimamque acquirere sine 
+      <lb ed="#P" n="7"/>alia, hoc in multis roborare possum quorum vitia eximias virtutes aequabant, vt Liuius de Annibale 
+      <lb ed="#P" n="8"/>poeno tradit: simile de M. Antonio Triunuiro scribunt. M. enim Antonius multis fulgebat virtutibus 
+      <lb ed="#P" n="9"/>tamque in rebus arduis quam in aduersis animum erexit: &amp; quanto magis aduersa fortuna vexabatur tanto 
+      <lb ed="#P" n="10"/>se praestantiorem exhibuit: comitate pietate insignis, omni officio singulis quibusque aderat, opibus ac 
+      <lb ed="#P" n="11"/>consilio nemini deerat: sed hasce virtutes multa vitia obscurabant. Nam inter sodales lenior illorum 
+      ille<lb ed="#P" n="12" break="no"/>cebris se ingerebat: aleam in multam noctem lusit: in ganeis ac scortorum amplexibus libenter 
+      versa<lb ed="#P" n="13" break="no"/>batur, proinde virtutes vitiis sunt sociae. Plato dicere consueuit quod praeclara ingenia sicut virtutes 
+      mul<lb ed="#P" n="14" break="no"/>tas sic quoque vitia complura effundunt. Secundo, ad hoc quod quis habeat perfecte virtutem, vel requiritur quod 
+      <lb ed="#P" n="15"/>habeat omnem virtutem in specie, vel sufficit aliqua vna intensa: si primum dederis paucos dabis 
+      vir<lb ed="#P" n="16" break="no"/>ture praeditos. Si secundum habetur intentum. Tertio, vitia non sunt connexa, ergo nec virtutes. 
+      Quarto<lb ed="#P" n="17" break="no"/>aliquae virtutes repugnant sibi mutuo vt virginitas &amp; castitas coniugalis. Quinto, bene videns, vnum 
+      <lb ed="#P" n="18"/>habet sensum perfecte: proinde pari ratione potest Socrates habere perfecte temperantiam sine 
+      fortitu<lb ed="#P" n="19" break="no"/>dine aut contra. Sexto, Ioannes Baptista, Paulus primus eremita, Antonius, Hillation, &amp; similes erant 
+      <lb ed="#P" n="20"/>viri caelo digni &amp; temperatissimi: non autem exercitati in materia fortitudinis &amp; iustitiae: proinde non  
+      <lb ed="#P" n="21"/>est haec virtutum connexio. Septimo, beata Lucia &amp; aliae quaedam tenerae virgines in viridi aetate non 
+      <lb ed="#P" n="22"/>succubuere, nec discesserunt a tramite virtutis, solamque vnam virtutem habebant: ergo non est ponenda haec 
+      <lb ed="#P" n="23"/>virtutum connexio ne probi exorbitent.
+    </p>
+            <p xml:id="JMAet9-d27519-d1e425">
+               <pc type="pilcrow">¶</pc> Istae rationes sunt apparentes &amp; theologi in Aristotelica 
+      do<lb ed="#P" n="24" break="no"/>ctrina non exercitati ob argutiolas peregrine philosophum cotra eius expressam mentm pro libito 
+      <lb ed="#P" n="25"/>ad sua capita trahunt. Verum postquam Tullius &amp; ecclesiae catholicae proceres Aristotelem imitantur: 
+      <lb ed="#P" n="26"/>turpe est ab Aristotelico fonte dilabi. Illatos igitur cauillos infirmare curauero. 
+    </p>
+            <p xml:id="JMAet9-d27519-d1e437">
+               <lb ed="#P" n="27"/>⁋ Ad primum, quod multi plus aequo ponderant. Respondetur concedendo assumptum: habebit enim vnam 
+      <lb ed="#P" n="28"/>virtutem Socrates intensam, sed illa non denominabit eum sine aliis apprime studiosum virum. castitas 
+      <lb ed="#P" n="29"/>contra carn is flatus ei aduersos eum muniet, sed contra terribilia &amp; aduersas procellas fortitudinis non  
+      <lb ed="#P" n="30"/>est sufficienter septus, &amp; per consequens facile a sua virtute vel suo actu pellendus. Marcus Antonius 
+      mu<lb ed="#P" n="31" break="no"/>lierosus &amp; parricida Tullii. Item saeuus Annibal &amp; similes praeclari duces vulgi opinatione coetum 
+      pro<lb ed="#P" n="32" break="no"/>borum minime ingrediuntur: praeclarius enim est homini suos affectus frenare quam vrbes demoliri. 
+    </p>
+            <p xml:id="JMAet9-d27519-d1e453">
+               <lb ed="#P" n="33"/>⁋ Ad secundum respondetur quod non oportet quamlibet virtutem habere in specie: in infinitum indiuidua 
+      <lb ed="#P" n="34"/>specie distincta dare potes, capiendo infinitum syncategoreumatice. Sufficit habere species communes 
+      <lb ed="#P" n="35"/>virtutum in quibus vita vulgariter voluitur.
+    </p>
+            <p xml:id="JMAet9-d27519-d1e462">
+               <pc type="pilcrow">¶</pc> Ad tertium concedo antecedens. Multa vitia repugnant &amp; 
+      <lb ed="#P" n="36"/>inter non pugnantia raro est quies: omne verum omni vero consonat: sed multa falsa sunt sibi inuicem 
+      disso<lb ed="#P" n="37" break="no"/>na, sed in via vitiorum procedens ad scelerum colluuionem est pronus. Abyssus abyssum inuocat, &amp; qui 
+      sor<lb ed="#P" n="38" break="no"/>didus est, sordescat adhuc.
+    </p>
+            <p xml:id="JMAet9-d27519-d1e474">
+               <pc type="pilcrow">¶</pc> Ad quartum conceditur antecedens. Virginitas enim est de consilio &amp; 
+      raren<lb ed="#P" n="39" break="no"/>ter in vsu in qua humana vita raro versatur: in talibus autem non est necessarius virtutum nexus. Fateor 
+      <lb ed="#P" n="40"/>tamen talia proposita conditionalia non repugnant: volo seruare castitatem coniugalem &amp; virginalem 
+      <lb ed="#P" n="41"/>si deo placet: licet non sit compossibilitas in actibus categoricis: cum enim illi actus super obiecta 
+      <lb ed="#P" n="42"/>conditionalia sint boni, virtutum generatiui sunt. Vbique enim actus boni habitus aume similes actus inclinantes 
+      <lb ed="#P" n="43"/>pariunt. Intuitiuos actus ab hac lege adimo: de quibus locupletius alias in libris Sententiarum locuti sumus, 
+    </p>
+            <p xml:id="JMAet9-d27519-d1e492">
+               <lb ed="#P" n="44"/>⁋ Ad quintum dicitur, quod non est simile: sensus enim non condependent sicut virtutes 
+    </p>
+            <p xml:id="JMAet9-d27519-d1e497">
+               <lb ed="#P" n="45"/>⁋ Ad sextum respondeo, quod omnes isti prudentia immediate &amp; pure ad superos directrice erant imbuti 
+      <lb ed="#P" n="46"/>in singulis temperantiae speciebus praeclarissima micantiaque erant lumina, erantque iustitia redimiti. Ioannes 
+      <lb ed="#P" n="47"/>Baptista militibus legem vitae atque plebeis praedicauit. Herodis iniustitiam in Philippum &amp; Herodiadis 
+      <lb ed="#P" n="48"/>incestum tragice arguit, &amp; ita ad se venientibus in ludaeae montibus, quos ipse rigidus luctator incoluit 
+      <lb ed="#P" n="49"/>leges dedit, &amp; mortis praescius (vt putatur) Herodis Herodiadisque intempestiuos concubitus rugata 
+      <lb ed="#P" n="50"/>fronte (vt par erat) reprehendit. Praeelegit enim charitatis facula conflagrans vitae, aleam iacere quam 
+      <lb ed="#P" n="51"/>senticosos vepres sinere coalescere in vinea domini: &amp; sic heroice fortis erat. Inter omnes 
+      fortitudi<lb ed="#P" n="52" break="no"/>nis species in editiore loco tamquam in specula fastigium martyrium sibi vendicat. Antonius discipulorum 
+      <lb ed="#P" n="53"/>frequentia illustratus quotidianas iustitiae lectiones inter suos classiarios edidit. Insolentes iustitia 
+      puni<lb ed="#P" n="54" break="no"/>tiua coercuit, lites &amp; iurgia inter suos pullulantia fortiter compescuit. Hae supremae virtutes fortitudinem 
+      <lb ed="#P" n="55"/>sibi facile attraxerant: &amp; sic dico de reliquis: quod &amp; in argumenti sequentis solutione lucidius patebit. 
+    </p>
+            <p xml:id="JMAet9-d27519-d1e523">
+               <lb ed="#P" n="56"/>⁋ Ad septimum respondetur in primis, quod hae sanctae foeminae erant superna speciali dei ope adiutae, &amp; ab 
+      <lb ed="#P" n="57"/>eo ad haec praeclarissima opera subeunda instigatae, quibus meritum grande non defuit. Non enim erant 
+      <lb ed="#P" n="58"/>ad id opus necessitatae, sed speciali auxilio omnibus neruis cooperatae sunt. Dico secundo, quod mirabilia 
+      habe<lb ed="#P" n="59" break="no"/>bant proposita generalia caeterarum virtutum efficacia capita, vt pote nolimus quicquam 
+      foedumsper<lb ed="#P" n="60" break="no"/>petrare: sed omne honestum cordate prosequi, quia id recta ratio dictat. Quae causalis hanc vniuersalem 
+      <lb ed="#P" n="61"/>infert, omnia dictata a ratione volumus. In talibus assuetus habet habitum vniuersalem qui ad omnem 
+      <lb ed="#P" n="62"/>actum voluntatis rationi consentaneum ostensum esse talem per minorem subsumptam inclinat. Vel 
+      <lb ed="#P" n="63"/>volumus omne id quod recta ratio praecipit, &amp; sancta vnctio docet, &amp; prudentia dictante in particulari 
+      <lb ed="#P" n="64"/>hoc est bonum, pro fide, pro iustitia, pro castitate, antequam deseratur mortem perpeti: protinus in actum 
+      <!--228.xml-->
+      <pb ed="#P" n="105-r"/>
+               <lb ed="#P" n="1"/>particularem patiendi exibant. Alias tetigimus vnum actum voluntatis efficacis circa finem cum intellectus 
+      <lb ed="#P" n="2"/>iudicio, alium actum voluntatis particularem naturaliter educere. Sicque efficaciter volens beatitudinem &amp; 
+      <lb ed="#P" n="3"/>censens esse necessarium perpeti pro fide aut alterius virtutis actu, necessitatur velle ceruicem tyranno 
+      sub<lb ed="#P" n="4" break="no"/>dere. Sic volens consequentiam esse bonam cum antecedentis volitione sequitur naturalis volitio consequen 
+      <lb ed="#P" n="5"/>tis. In morali philosophia trita est lectio, Habitum vnius virtutis mediante actu suo elicito &amp; prudentia 
+      pri<lb ed="#P" n="6" break="no"/>mum actum alterius virtutis occurrente materia producere. Et non solum hoc verum est: sed sola pia voluntas 
+      <lb ed="#P" n="7"/>cum intellectus iudicio sine alterius virtutis concursu occurrente materia actum &amp; quidem intensum 
+      pro<lb ed="#P" n="8" break="no"/>ducit grandem vel maximum secundum voluntatis conatum. Dilectio dei inclinat ad beneuolentiam eius &amp; ad 
+      <lb ed="#P" n="9"/>ei in omnibus placendum. Sic vnus actus malus inclinat, licet non necessitet in alium malum actum, vt odium So 
+      <lb ed="#P" n="10"/>cratis ad nolendum ei quicquam boni, sed ad volendum illi incommoda. Vnus ergo actus nonnumquam ad alium neces 
+      <lb ed="#P" n="11"/>sitat. Interdum vero facilitat aut difficultat, sed istud non est commune. Aristoteles omnes tales omnifariam 
+      <lb ed="#P" n="12"/>virtute praeditos non ab re putasset: speciales enim dei auxilium &amp; charitatis proprietatem ignorauit in 
+      tem<lb ed="#P" n="13" break="no"/>pestate illa qua vixit. virgunculae martyrium non sunt passae, nec motiua ad sic existimandum habuit: hoc dico pro 
+      <lb ed="#P" n="14"/>eo &amp; positionis consummatione ad hoc quod homo dicatur aliqua virtute illustris inclytusque, virtutum cardinaliam 
+      <lb ed="#P" n="15"/>&amp; quae in quotidiano vsu sunt requiritur glutinamentum, sic quod immobilis &amp; semper recte stas more quadrati in 
+      <lb ed="#P" n="16"/>via virtutis maneat, nec ad dextrum puer quacumque procellosa tempestate discendat. Et ad hoc faciundum de communi lege 
+      <lb ed="#P" n="17"/>virtutum cumulus requiritur, quia ab vno vitiorum flatu virtus vna, &amp; ab alio alia habentem protegit. Sic quod si trium 
+      <lb ed="#P" n="18"/>virtutum cardinalium habitus excellenter habeantur in conditionatis quartae sufficienter ab infesto 
+      <lb ed="#P" n="19"/>hoste protegetur: occurrente enim materia illius materiae habitus voluntatis conamine coalescit. Et 
+      si<lb ed="#P" n="20" break="no"/>concedo posse esse vnam virtutem sine alia, at illa est imperfecta, &amp; nouitiis in scholam morum conueniens: 
+      <lb ed="#P" n="21"/>sed nulla est virtus emicans &amp; egregia sine aliarum societate: &amp; hoc alii tenebrose innuunt connexionem 
+      <lb ed="#P" n="22"/>ponentes in gradu temperantiae &amp; heroico: sed sine illorum graduum peritia quos nondum attigimus, ne 
+      <lb ed="#P" n="23"/>gocium est conspicuum. Hoc in mentem reuoco, nullus absolutus logicus existimatur qui in insolubili 
+      <lb ed="#P" n="24"/>exponibili vel obligatione vulgari illaqueatur: si praesidens in vito stramineo in cauillo coram 
+      multitudi<lb ed="#P" n="25" break="no"/>ne irretiatur, cum cachinno regentes inter prandendum susurrantes dicunt: non est logicus: sic de 
+      abso<lb ed="#P" n="26" break="no"/>lute studioso dicas &amp; omnia lucida. 
+    </p>
+            <p xml:id="JMAet9-d27519-d1e606">
+               <lb ed="#P" n="27"/>⁋ Et quia interdum quaeritur vtrum Sapientia sit prudentia praestantior an contra. In primis scito quod ha 
+      <lb ed="#P" n="28"/>bitus superne infusos hic praescindimus &amp; loquimur more Aristotelico, suppono etiam Aristotelem &amp; omnes 
+      <lb ed="#P" n="29"/>graues philosophos posuisse vitam esse post hanc vitam, non tamen resurrectionem. quam e solo lumine 
+      <lb ed="#P" n="30"/>fidei haurimus. Sapientes in decimo Ethicorum dei amicos existimat &amp; ei quam acceptatissimos: quorum 
+      ple<lb ed="#P" n="31" break="no"/>rique durius in hac miseriae valle tractantur, &amp; in caelesti efferuntur: proinde in futuro seculo post corporis 
+      <lb ed="#P" n="32"/>resolutionem probis erit merces: improbis dirum supplicium. His praelibatis respondeo quod Sapientia est 
+      pru<lb ed="#P" n="33" break="no"/>dentia praestantior. haec enim est Aristotelis in naturali lumine egregie loquentis sententia superius in  
+      <lb ed="#P" n="34"/>hoc sexto dicebat. Sapientia est intellectus &amp; scientia &amp; vt caput habens, &amp; scientia honorabilissimorum: 
+      per<lb ed="#P" n="35" break="no"/>inde ac si sic diceret. Illa notitia est praestantior, quae nobilius habet obiectum, primo de anima: at sapientia 
+      <lb ed="#P" n="36"/>est huiusmodi: igitur. Minor patet: quia sapientia circa primum motorem, hoc est deum, circa intelligentias &amp; or 
+      <lb ed="#P" n="37"/>bes caelestes versatur, louem. Mercurium, &amp; Venerem hominum monstra &amp; figmenta existimans de caelesti 
+      <lb ed="#P" n="38"/>bus loquitur. Prudentia vero circa humanos actus insudat: modo absurdum est hos caelestibus conferre, vti 
+      <lb ed="#P" n="39"/>Aristoteles superius innuebat. Item Aristoteles in sapientiae actibus felicitatem ponit vt in decimo deo 
+      pro<lb ed="#P" n="40" break="no"/>pitio videbitur. Et in prooemio metaphysicae eam caeteris artibus praefert. (Extendo hic artem ad omnem habitum 
+      <lb ed="#P" n="41"/>intellectualem dicens vt homo liber sui causa &amp; non alterius est: sic metaphysica est scientia libera &amp; ipsa sola 
+      sui<lb ed="#P" n="42" break="no"/>met causa est. illic eam maxime honorandam &amp; diuinam appellat: dicitque necessariores quidem omnes sunt ipsa, 
+      di<lb ed="#P" n="43" break="no"/>gnior vero nulla. Optimus finis est solum scire, secundo metaphysicae, ergo oportet naturali ordine vt 
+      pruden<lb ed="#P" n="44" break="no"/>tiae &amp; caeterae virtutes ad eam ordinentur vel ediuerso, secundum non est dicendum ergo primum. Sicut in maiore mundo  
+      <lb ed="#P" n="45"/>est ordo ad optimum, item minore mundo in homine est vna virtus suprema, ad quam reliquae ordinantur. In nouissimo 
+      <lb ed="#P" n="46"/>capite huius libri hoc Aristoteles expressissime tenet. Insuper cognitio qua deus cognoscit se &amp; se diligit, perfo 
+      <lb ed="#P" n="47"/>ctiori modo se habet quam cognoscendo creaturas &amp; eas producendo. In priore enim stat eius beatitudo: non autem in ra 
+      <lb ed="#P" n="48"/>tione notitiae creaturarum. Primaria intentione contemplatur seipsum, secundaria creaturas: sicut dicit commentator 
+      <lb ed="#P" n="49"/>secundo caeli commento decimo tertio &amp; xvii. Ergo pari ratione notitia qua deum cognoscimus est perfe 
+      <lb ed="#P" n="50"/>ctior notitia, qua creaturam deprehendimus, quia in hoc deum aemulamur quod perfectissimo modo se habet 
+      <lb ed="#P" n="51"/>sese contemplando.
+    </p>
+            <p xml:id="JMAet9-d27519-d1e663">
+               <pc type="pilcrow">¶</pc> Contra hanc conclusionem argumentor. Primum sic. Prudentia denominat virum 
+      <lb ed="#P" n="52"/>meliorem quam metaphysica: quia sine prudentia nemo est bonus vir, neque bonus ciuis septimo politicorum, 
+      <lb ed="#P" n="53"/>sine metaphysica plerique sunt boni: igitur. Secundo &amp; ratio a priore non multum discrepat) prudens non sa 
+      <lb ed="#P" n="54"/>piens est melior metaphysico non prudente, ergo prudentia est metaphysica praestantior. Consequentia patet: 
+      <lb ed="#P" n="55"/>quia nobilior virtus nobiliorem accidentaliter hominem denominat. Antecedens patet: quia prudens non 
+      <lb ed="#P" n="56"/>metaphysicus est bonus homo simpliciter nemo est prudens nisi bonus ex philosophi litera: at 
+      metaphysi<lb ed="#P" n="57" break="no"/>cus non prudens est non bonus: patet, quia sine prudentia non acquiruntur morales virtutes. Tertio illa 
+      <lb ed="#P" n="58"/>virtus est praestantior, cuius proprius &amp; principalis effectus est melior: finis sapientiae est scire tantum: secundo 
+      <lb ed="#P" n="59"/>metaphysicae: finis prudentiae operari &amp; bene viuere secundum totum. Ad primum respondetur quod 
+      Ari<lb ed="#P" n="60" break="no"/>stoteles in septimo politicorum loquitur de felicitate politica, non de felicitate simpliciter, haec enim in 
+      spe<lb ed="#P" n="61" break="no"/>culatione, illa vero in prudentiae operibus consistit. Concedo tamen quod prudentia est melior ad bene 
+      operan<lb ed="#P" n="62" break="no"/>dum quam metaphysica: at ex illo non concluditur eius super metaphysicen praestantia. Hoc enim calle 
+      proba<lb ed="#P" n="63" break="no"/>res ordinata ad finem praeesse ipsi fini. Prudentia adminiculatur ad bene operandum: non sic est de notitia 
+      <lb ed="#P" n="64"/>intuitiua dei &amp; eius dilectione in patria, quae est ipsa charitate infusa praestantior, quam tamenn primae ad 
+      <!--229.xml-->
+      <pb ed="#P" n="105-v"/>
+               <lb ed="#P" n="1"/>Corinthios. xiii. Apostolus tantopere effert. Sic de felicitate Aristotelis dicas. Ordinata enim propter fi 
+      <lb ed="#P" n="2"/>nem sunt aliis imperfectiora, vt patet secundo Physicorum, &amp; primo &amp; decimo Ethicorum. Hanc 
+      proba<lb ed="#P" n="3" break="no"/>tionem in prooemio metaphysicae innuebat Aristoteles inquiens. Necessariores quidem omnes, dignior ve 
+      <lb ed="#P" n="4"/>ro nulla vt superius allegauimus. Etiam nego maiorem illius argumenti, vt mox in solutione secundi 
+      pa<lb ed="#P" n="5" break="no"/>tebit.
+    </p>
+            <p xml:id="JMAet9-d27519-d1e712">
+               <pc type="pilcrow">¶</pc> Ad quod respondendo casum non admitto. Nullus enim est vere metaphysicus nisi affectibus cor 
+      <lb ed="#P" n="6"/>poreis &amp; mundanis illecebris conculcatis. Ex creaturarum nanque notitia in dei perfectam notitiam 
+      deueni<lb ed="#P" n="7" break="no"/>mus, sicut innuit Apostolus ad Romanos primo &amp; secundo. Sic recte innuit philosophus segregando im 
+      <lb ed="#P" n="8"/>perfectiones creaturae a primo motore: &amp; perfectiones creaturarum ipsi communicando. Qui opes &amp; 
+      cadu<lb ed="#P" n="9" break="no"/>ca fortunae bona aut foedas voluptates multifacit, is sane secundum philosophos nec est metaphysicus nec 
+      <lb ed="#P" n="10"/>eius ianuam olfacere idoneus. Sapientia prudentiam &amp; virtutes acquisitas in apice praesupponit. Vna 
+      noti<lb ed="#P" n="11" break="no"/>tia primi motoris haud sufficit virum denominare sapientem: sed ille qui sublimiter talia multa callet. 
+      <lb ed="#P" n="12"/>Quisquiliae illae quas alii in eo libro implicant metaphysica sunt indignae, vtpote de distinctione relationis a 
+      <lb ed="#P" n="13"/>fundamento &amp; termino, &amp; de verboso triplici modo relationum, de vniuocatione entis, &amp; caeteris id genus 
+      <lb ed="#P" n="14"/>nugis. Notitiae vero quae in primum motorem, quem nos deum vocamus, &amp; in intelligentias orbium motrices, &amp; in  
+      <lb ed="#P" n="15"/>corpora caelestia diriguntur metaphysicae sunt. Similiter notitiae creaturarum pro quanto ad haec propinque 
+      ad<lb ed="#P" n="16" break="no"/>miniculantur. Opera primi motoris in superioribus maximopere emicant: quia caeli enarrant gloriam 
+      <lb ed="#P" n="17"/>dei: non angeli solum vt alii exponunt, sed caelestia illa corpora ad literam: &amp; opera manuum eius 
+      annun<lb ed="#P" n="18" break="no"/>ciat firmamentum. Speculando tot caelestes motus in octauo caelo stellarumque naturas tanta serie tantoque 
+      <lb ed="#P" n="19"/>splendore a primo motore ordinata. dico ergo quod nullus nisi heroicus meretur dici talis de quo amplius 
+      <lb ed="#P" n="20"/>in decimo dicere proponimus. 
+    </p>
+            <p xml:id="JMAet9-d27519-d1e751">
+               <lb ed="#P" n="21"/>⁋ At fortasse dicis, si nemo nisi bonus metaphysicus fuerit &amp; malitia excaecat eius intellectum a 
+      pro<lb ed="#P" n="22" break="no"/>runda talium speculatione: ergo malitia excaecat intellectum circa speculabilia: cuius oppositum innue 
+      <lb ed="#P" n="23"/>bat Aristoteles superius, hoc sexto. Responsio. Aliqua sunt speculabilia suprema, quorum notitiam 
+      habe<lb ed="#P" n="24" break="no"/>re nequimus nisi per media ordinata: &amp; affectibus suppositis, &amp; fortunis calcatis &amp; in talibus potissimum. 
+      <lb ed="#P" n="25"/>malitia excaecat intellectum, sicut expresse Apostolus ad Romanos dicit. Propterea quidem sua stoliditate 
+      <lb ed="#P" n="26"/>deorum pluralitatem ponebant &amp; mortales pro deis) colebant, non potentes cum Aristotele &amp; reliquis ve 
+      <lb ed="#P" n="27"/>re philosophis vnitatem dei &amp; similia scitu dignissima attingere. 
+    </p>
+            <p xml:id="JMAet9-d27519-d1e769">
+               <lb ed="#P" n="28"/>⁋ Ad tertium dico quod maior est vera: at finis sapientiae est fine intrinseco prudentiae melior. 
+      Pruden<lb ed="#P" n="29" break="no"/>tia enim ordinat sibi finem extrinsecum supremum opus sapientiae, &amp; ordinat conducibilia ad illum finem 
+      <lb ed="#P" n="30"/>attingendum, qui alios fines ei subordinatos continet: sicut finis supremus caeteros fines in eum ordinatos. 
+    </p>
+            <p xml:id="JMAet9-d27519-d1e778">
+               <lb ed="#P" n="31"/>⁋ Ex his sequitur quod intellectus contemplatiuus est praestabilior intellectu actiuo. Hoc est nobiliori acciden 
+      <lb ed="#P" n="32"/>ti redunitur: &amp; hoc modo est nobilior licet reipsa sit idem intellectus numero. 
+    </p>
+            <p xml:id="JMAet9-d27519-d1e785">
+               <lb ed="#P" n="33"/>⁋ Contra hoc corollarium ex dictis sequens sic argumentor. Illa virtus est praestabilior quae 
+      melio<lb ed="#P" n="34" break="no"/>rem animae particulam perficit. prudentia autem est huiusmodi, igitur. Consequentia patet cum 
+      ma<lb ed="#P" n="35" break="no"/>iore. Minor bifariam probatur, primo sic, lllud est hominis optimum quod per malitiam 
+      corrumpi<lb ed="#P" n="36" break="no"/>tur, &amp; per bestialitatem extinguitur: sed pars animae per prudentiam perfectibilis est, huiusmodi 
+      igi<lb ed="#P" n="37" break="no"/>tur. Maior huius syllogismi patebit in septimo libro: &amp; minor in hoc sexto iampridem patuit. Per 
+      tem<lb ed="#P" n="38" break="no"/>perantiam enim conseruatur prudentia &amp; per intemperantiam corrumpitur. Secundo, prudentia 
+      praeci<lb ed="#P" n="39" break="no"/>pit sapientiae: ergo est respectu eius architectonica. Antecedens patet in principio huius sexti, &amp; in tertio 
+      <lb ed="#P" n="40"/>de anima superius recitauimus. Pars vero speculatiua nihil mouet: practica autem mouet caeteras 
+      poten<lb ed="#P" n="41" break="no"/>tias. Responsio. Aristoteles in septimo Ethicorum vocat optimum in homine totam partem rationalem 
+      <lb ed="#P" n="42"/>distinctam contra partem sensitiuam, sic quod non distinguit in partem prudentialem &amp; sapientialem. Et 
+      <lb ed="#P" n="43"/>dico primo quod illa animae pars prudentialis corrumpitur per intemperantiam. Et ex consequenti 
+      quan<lb ed="#P" n="44" break="no"/>tum ad partem sapientialem, quae partem prudentialem praesupponit, dico secundo quod licet iudicium in  
+      <lb ed="#P" n="45"/>geometricis &amp; arithmeticis habeatur qualecunque, sane etiam imperfectum: non tamen in sublimibus: ea 
+      <lb ed="#P" n="46"/>propter scite dicebat Hipocrates, Eos homines qui ventri student non esse caelestes, neque bene valere corpo 
+      <lb ed="#P" n="47"/>re: eorumque animas nimio sanguine, nimia sagina esse praepeditas, ac si luto forent implicitae: &amp; propterea 
+      <lb ed="#P" n="48"/>nihil tenue, nihil caeleste meditari posse. Et ita est de plerisque aliis sceleribus, quae viri conscientiam lacerant, 
+      <lb ed="#P" n="49"/>&amp; hinc inde distrahunt. Ad aliam rationem de praecepto prudentiae, sane nequeo admirari quare in 
+      tali<lb ed="#P" n="50" break="no"/>bus confidant cum hanc rationem philosophus capite finali huius libri diluerit: nihilo tamen minus 
+      <lb ed="#P" n="51"/>adhuc paululum respondere haud pigebit. Ipsa est vtcunque praeceptiua, vt ante narrauimus, voluntati 
+      <lb ed="#P" n="52"/>qua intellectus est inferior. Secundo nego quod sapientiae praecipiat, sed ipsa tanquam ancilla sapientiae 
+      mini<lb ed="#P" n="53" break="no"/>strat, de vitae necessariis prouidendo: quia impossibile est omnino pauperem. philosophari. Aquilas, vt 
+      di<lb ed="#P" n="54" break="no"/>xi, altissime volitans in terra pro esca descendit, &amp; rerum sufficientia impedimenta studii tollit, quibus po 
+      <lb ed="#P" n="55"/>sitis acri ingenio probus vir ad speculandum suapte natura est idoneus. Omnes homines natura scire 
+      de<lb ed="#P" n="56" break="no"/>siderant primo metaphysicae. Et officiorum primo Tullius, omnes enim trahimur naturaliter &amp; 
+      duci<lb ed="#P" n="57" break="no"/>mur ad agnitiones &amp; scientiae cupiditatem. Dixi probus: si enim auarus fuerit circa scientias pecuniae 
+      lu<lb ed="#P" n="58" break="no"/>cratiuas sese obruet, vt circa legum griphos insontes saepius vexando pro marsupio implendo. Et 
+      bre<lb ed="#P" n="59" break="no"/>uiter verum liberalissimum a mundanis curis semotum metaphysica requirit: cuius obiectum quia est 
+      <lb ed="#P" n="60"/>purissimum sublimissimumque, proportionabilem intellectum efflagitat: qui in speculatione non sistit 
+      cur<lb ed="#P" n="61" break="no"/>sum suum, verum in primum motorem efferendum per voluntatem procedit: etiam in puro lumine na 
+      <lb ed="#P" n="62"/>turali procedendo. Hoc autem latius (si fata sinant) in decimum recludere proponimus.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

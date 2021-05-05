@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 12</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 12</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d27158"><!-- mair-l6c12 -->
+            <head xml:id="JMAet9-d27158-Hd1e103">Caput 12</head>
+            <p xml:id="JMAet9-d27158-d1e106">
+               <lb ed="#P" n="40"/>DVbitauerit autem quispiam &amp;c. Superius quinque virtutes intellectiuas philosophus explanauit. 
+      <lb ed="#P" n="41"/>scilicet scientiam, artem, prudentiam, intellectum, ac sapientiam: &amp; item tres habitus siue naturales 
+      apti<lb ed="#P" n="42" break="no"/>tudines prudentiae annexas. In praesentia quaedam dubia circa sapientiam atque prudentiam affert dicens. 
+      <lb ed="#P" n="43"/>Dubitauerit autem quispiam ad quidnam hi habitus sunt conducibiles. In valore ad negatiuam partem sic 
+      <lb ed="#P" n="44"/>ratiocinatur. Quippe ille habitus ad humanam felicitatem conferre minime videtur, qui insudat circa ea 
+      <lb ed="#P" n="45"/>quorum non est generatio. i. actio, vel circa contingentia vt a nobis produci queant, &amp; aliter sese habere: 
+      <lb ed="#P" n="46"/>at sapientia est de aeternis &amp; necessariis &amp; non speculatur aliquid illorum quibus homo felix efficitur. ldem 
+      <lb ed="#P" n="47"/>de prudentia satagit ostendere. Tametsi sibi vendicet quod sapientiae deest: quia circa opera nostra ac 
+      con<lb ed="#P" n="48" break="no"/>tingentia insudat. Hoc pacto in valore ratiocinatur. Habitus ille citra quem quispiam potest exercere 
+      bo<lb ed="#P" n="49" break="no"/>nas ac honestas operationes, non videtur humanae vitae conducere, at prudentia est huiusmodi: proinde 
+      <lb ed="#P" n="50"/>prudentia vitae humanae conferre non videtur. Nempe vt fit de sanis scilicet operationibus, quae a sanitate 
+      <lb ed="#P" n="51"/>profluunt: sic de operationibus iustis ac honestis quae a bono viro eliciuntur fieri videtur, ac perspicuum 
+      <lb ed="#P" n="52"/>est quod sine cognitione medicinae possunt a corpore sano sanae operationes profluere. ltaque de prudentia 
+      <lb ed="#P" n="53"/>contingit vt sine ea decorae operationes emanare queant: proinde superuacanea videtur prudentia tot 
+      la<lb ed="#P" n="54" break="no"/>boribus parta. Nosse hic oportet sanum multifariam sumi. Nunc pro causa sanitatis inductiua, vt potio 
+      <lb ed="#P" n="55"/>haerba &amp; similia: nunc pro corpore sanitatis susceptiuo, vt corpus fertur sanum in quo est sanitas. Nuns 
+      <!--223.xml-->
+      <pb ed="#P" n="102-v"/>
+               <lb ed="#P" n="1"/>pro eius operatione, vt est bona digestio bona ambulatio &amp; huiusmodi. Philosophus autem hic capit 
+      <lb ed="#P" n="2"/>sanum pro sano corpore quod sanas operationes efficit. Porro virtus animi est sanitas, sicut bona 
+      cor<lb ed="#P" n="3" break="no"/>poris habitudo corporis sanitas: &amp; quemadmodum corpore incolumes sine peritia medicinae operationes 
+      <lb ed="#P" n="4"/>sanas efficiunt: sic sani animi ornamentis sine prudentiae lumine laudabiles operationes producere videntur. 
+      <lb ed="#P" n="5"/>ltaque prudentia est inanis.
+    </p>
+            <p xml:id="JMAet9-d27158-d1e158">
+               <pc type="pilcrow">¶</pc> Fortasse dicis prudentiam conferre virtutibus acquirendis, licet sit superflua sic 
+      <lb ed="#P" n="6"/>redimitis virtutum flosculis: quia illi ad studiosos actus suo vigore impellunt. Hoc illidit inquiens. Habeant 
+      <lb ed="#P" n="7"/>non studiosi ignaros quibus pareant: sicut non requiritur medicinae peritia in eo qui valetudinem quaerit: sat est 
+      <lb ed="#P" n="8"/>medicinam physico inhaerere cui obtemperetur. Per accidens medicus seipsum curat, &amp; ita non exigitur prudentia 
+      <lb ed="#P" n="9"/>his qui virtutem adipisci student. Insuper absurdum sane videtur, si prudentia longo interstitio sapientia submis 
+      <lb ed="#P" n="10"/>sior, magis dominetur quam sapientia. In singulis dominatur si ipsa ponatur actiua in singulis, propterea vtraque 
+      <lb ed="#P" n="11"/>harum virtutum est superflua. Illud tertium potest accipi tamquam tertia dubitatio, vel secunda ratio prudentiae 
+      im<lb ed="#P" n="12" break="no"/>probatiua. Hactenus dubitauimus inum: deinde obiecta euacuat. Tertium de nobilitate sapientiae atque 
+      pru<lb ed="#P" n="13" break="no"/>dentiae ad finem capitis sequentis ex industria differt, vt accemmodatiore capiatur loco. Allata spicula 
+      trifa<lb ed="#P" n="14" break="no"/>riam repellens ante omnia vtilitatem tam sapientiae quam prudentiae declarat. Secundo, sapientiae commodum. Tertio 
+      pru<lb ed="#P" n="15" break="no"/>tiae ostendit vtilitatem, dicitque hasce virtutes propter seipsas expetendas esse etiam si nihil aliud adiumenti 
+      se<lb ed="#P" n="16" break="no"/>quatur: sunt enim partium vtrarumque scilicet contemplatiuae &amp; actiuae virtutes: deinde efficiunt non vt medicina 
+      <lb ed="#P" n="17"/>incolumitatem extrinsece &amp; instrumentaliter, sed vt ipsa sanitis sanas operationes efficit. Sapientia est 
+      cel<lb ed="#P" n="18" break="no"/>sissimus habitus contemplatiuus. Ipsa enim sapientia est pars totius virtutis pro quanto in eius opere 
+      foe<lb ed="#P" n="19" break="no"/>licitas consistit: quae cuiustibet virtutis est limes supremus. Sic prudentia est nobilissimus habitus 
+      acti<lb ed="#P" n="20" break="no"/>uus, ac in agente sunt isti habitus, &amp; non externi cum medicina. Prudentiae compendium triplex esse monstrat, 
+      <lb ed="#P" n="21"/>inquiens. Praeterea prudentia ad opus virtutis magni est momenti. Habitus virtutis moralis intentionem 
+      <lb ed="#P" n="22"/>rectam efficit: porro prudentia suo insito lumine omnia media volutat &amp; excogitat, quae ad illam 
+      exi<lb ed="#P" n="23" break="no"/>guntur. quo circa constat quod maximoperae prudentia ad virtutem confert.
+    </p>
+            <p xml:id="JMAet9-d27158-d1e203">
+               <pc type="pilcrow">¶</pc> Sequitur in litera. Quare autem partes 
+      <lb ed="#P" n="24"/>animae. In priore solutione dixit philosophus sapientiam &amp; prudentiam esse expetendas quia sunt 
+      perfectio<lb ed="#P" n="25" break="no"/>nes partium animae: ne quispiam elusus opinaretur quamlibet animae potentiam virtutem habere quae sit eius 
+      <lb ed="#P" n="26"/>perfectio: hunc errorem excludens, inquit, quod ea pars animae qua principium vegetandi consistit nullius virtutis 
+      <lb ed="#P" n="27"/>est susceptiua. Non enm possumus nostro arbitatu eam partem animae frenare. Nutritur siquidem animal 
+      tan<lb ed="#P" n="28" break="no"/>tisper dum vitales carpit auras: nutricatione autem cessante animam exhalat. Non est enim in ipsius virtute 
+      <lb ed="#P" n="29"/>situm agere aut non agere. Sequitur de eo vero quod dictum est. Ostendit prudentiam caeteris virtutibus annexam 
+      <lb ed="#P" n="30"/>&amp; quam vtilissimam ad operis studiosi elicitionem: telum in contrarium emissum confringens, quo dicebatur quod non 
+      esse<lb ed="#P" n="31" break="no"/>mus magis operatiui ob prudentiam sicut nec physici sunt robustiores ob medicinam ad digerendum opera sa 
+      <lb ed="#P" n="32"/>nitatis excercenda. Inter respondendum ait, quod paulo altius auspicandum est. Hocque principio dicendorum assumpto 
+      <lb ed="#P" n="33"/>a consentanee ad dicta in secundo libro atque quinto, videlicet quod quosdam iusta agentes iustos non appellitamus. 
+      <lb ed="#P" n="34"/>Nempe bonum ex genere siue bonum obiecti tantum, ad studiosi actus bonitatem haudquaquam sufficit: si quidem non  
+      <lb ed="#P" n="35"/>desunt facientes ea quae legibus sunt instituta inuiti vel ob ignorationem vel ob aliquod emolumentum 
+      <lb ed="#P" n="36"/>&amp; non propter operum honestatem, tales autem licet id quod studiosum decet operentur, attamen non agunt iuste 
+      <lb ed="#P" n="37"/>ac studiose. Operari autem iusta ac operariiiuste longa intercapedine distant. Operantem uste operaeprecium 
+      <lb ed="#P" n="38"/>est iustitiae trutinam ad vnguem obseruare. Quemlibet studiosum virum singula quodam affectum modo agere est 
+      <lb ed="#P" n="39"/>necesse. Modus agendi est hominem prudentia esse redimitum. Rectam electionem moralis virtus efficit. Alique 
+      <lb ed="#P" n="40"/>fines sunt generales, vt nullum malum est faciendum &amp; insons non est affligendus. Simplexque apprehensio 
+      <lb ed="#P" n="41"/>talium finium euidentium sufficiens lumen ministrat voluntati ad hoc vt in illum finem suo actu ac 
+      ha<lb ed="#P" n="42" break="no"/>bitu tendat. Circa fines intricatos particulares &amp; media ad illum scopum conducentia prudentia laborat: 
+      <lb ed="#P" n="43"/>proinde haec particularia ad aliam potentiam spectant, scilicet ad intellectum prudentiae lumine illustratum. 
+      <lb ed="#P" n="44"/>Adhuc dilucidius paululum est dicendum. Est enim quaedam potentia quam habilitatem communiter 
+      loquen<lb ed="#P" n="45" break="no"/>tes vocitant. Haecque habilitas talis est naturae vt opitulari valeat ad praestitutam intentionem pertingere. 
+      <lb ed="#P" n="46"/>Aliqui ad logices gryphos &amp; senticosos cauillos sunt idonei. Aliqui cornutos elenchos aspernantes, 
+      <lb ed="#P" n="47"/>vt quorum sunt incapaces, ad rhetorices flosculos sunt proniores. Aliqui ad carmina nascuntur. Aliqui 
+      <lb ed="#P" n="48"/>ad solutam orationem sunt promptiores: sicque in aliis artificibus. Caeterum nonnulli qui sunt bene 
+      <lb ed="#P" n="49"/>nati studiosis operationibus gaudent, prauitatemque execrantur. Et ediuerso nonnulli male nati, versuti 
+      <lb ed="#P" n="50"/>versipelles ac deploratae malitiae fiunt: attamen suo arbitratu sunt ad bonum flexibiles: quam ob rem hos 
+      <lb ed="#P" n="51"/>astutos ac vafros dicimus: illos vero generosi animi prodimus. Verumtamen ipsa prudentia non est haec 
+      <lb ed="#P" n="52"/>insita habilitas nobis congenita, quae nullum actum ponit, sed aptitudinem ac pronitatem ad actus: 
+      <lb ed="#P" n="53"/>attamen sine hac innata industria ac docilitate prudentia non fundatur. Huic oculo animae, hoc est 
+      <lb ed="#P" n="54"/>huic iutellectus acumini prudentia inhaeret: nec prudentia absque virtute persistit. Moralem virtutem 
+      <lb ed="#P" n="55"/>prudentia sibi inseparabiliter asciscit: &amp; id causae est quia agibilium ratiocinationes a fine principium 
+      <lb ed="#P" n="56"/>sibi vendicant: puta quia finis est talis vt ipsum optimum sit, verbi causa quodcumque bonum in praesentia 
+      <lb ed="#P" n="57"/>super hoc non est digladiandum. At talis finis apparebit numquam nisi studioso homini: quocirca citra 
+      vir<lb ed="#P" n="58" break="no"/>tutem prudentiales syllogismi non recte cuduntur. Prauitas enim iudicium peruertit, &amp; eo 
+      capti<lb ed="#P" n="59" break="no"/>uatum hominem ducit vt circa rerum agendarum principia homo circumscribatur. Quare patet quod 
+      <lb ed="#P" n="60"/>solus studiosus est prudens. lrretitus vitiis multa verba indigeste effutit inter quae more sturni 
+      balbu<lb ed="#P" n="61" break="no"/>tiens aliqua vera per accidens eructat: &amp; hoc in agibilibus. In speculatiuis non est prorsus excaecatus: 
+      <lb ed="#P" n="62"/>verum eius ingenium plurimum a consequutione veri retardatur. 
+    </p>
+            <p xml:id="JMAet9-d27158-d1e293">
+               <lb ed="#P" n="63"/>⁋ Quaeritur, an dictamen prudentiale in rationem obiecti cadat Oclam ita affirmat, aitque assistentiam 
+      <lb ed="#P" n="64"/>prudentiae ad actum moraliter bonum non sufficere. Hoc placitum non est mihi cordi. Paucis contrae 
+      <!--224.xml-->
+      <pb ed="#P" n="103-r"/>
+               <lb ed="#P" n="1"/>ipsum argumentor. Ex eo dogmate illiteratorum pars multo maxima nunquam actum moraliter 
+      bo<lb ed="#P" n="2" break="no"/>num eliciet. Item nec multi sapientum. ltaque nec meritorie. Hoc illatum est rationi dissentaneum. 
+      <lb ed="#P" n="3"/>Secundo, istud onerosum nulla ratione fultum non est asserendum. Dicimus itaque quod si tale dictamen 
+      <lb ed="#P" n="4"/>in actus obiectum ponatur actum perficit, verumtamen talis obiecti positio minime exigitur. Sine 
+      vl<lb ed="#P" n="5" break="no"/>teriore ariete hoc paradoxum relinquo. 
+    </p>
+            <p xml:id="JMAet9-d27158-d1e316">
+               <lb ed="#P" n="6"/>⁋ Sed obiicitur. Ex his sequetur quod nullus actus voluntatis erit intrinsece bonus. Secundo sic de actu 
+      <lb ed="#P" n="7"/>non studioso fieret actus studiosus per aliquid mere naturale, quod non est in nostra facultate situm. 
+      <lb ed="#P" n="8"/>Consequentia patet, quia post actum elicitum adueniente prudentia, naturalibus causis intellectum 
+      <lb ed="#P" n="9"/>necessitantibus, tunc actus qui prius erat non bonus ob prudentiae defectum, efficitur bonus &amp; 
+      meri<lb ed="#P" n="10" break="no"/>torius in habente gratiam, &amp; illa prudentia semota rursus actus bonus erit malus, saltem erit non 
+      bo<lb ed="#P" n="11" break="no"/>nus. Tertio, Non sufficit illa actualis prudentia assistens. Patet, quia vsu venit nunc prudentiam adesse 
+      <lb ed="#P" n="12"/>actualem. Nihilominus sine ea voluntas etiam ad nudam apprehensionem obiecti actum illum elicuisset 
+      <lb ed="#P" n="13"/>&amp; sua libertate aut propter delectationem aut alia de causa quam prudentia mouente: ita quod prudentia 
+      <lb ed="#P" n="14"/>assistens non sit illius actus effectiua causa. Quarto. Ad hoc quod actus voluntatis sit bonus 
+      requiri<lb ed="#P" n="15" break="no"/>tur huius causalis veritas: Quia recta ratio dictat, ieiuno stipem pauperi erogo. Et si sic, recta ratio 
+      <lb ed="#P" n="16"/>cadit in rationem obiecti. Quinto, Aliquis est actus necessario malus, vt odium dei: ergo dabilis 
+      <lb ed="#P" n="17"/>est actus necessario bonus. 
+    </p>
+            <p xml:id="JMAet9-d27158-d1e345">
+               <lb ed="#P" n="18"/>⁋ Ad primum concedo sequelam tam in actibus imperatis quam elicitis. In prioribus notum est. Possum 
+      <lb ed="#P" n="19"/>enim imperare eleemosynam exteriorem a duobus actibus interioribus, scilicet ab amore dei &amp; inani 
+      <lb ed="#P" n="20"/>gloria: quo facto ille actus exterior est bonus. quia ab interiore bono imperatur: &amp; malus, quia ab 
+      inte<lb ed="#P" n="21" break="no"/>riore malo imperatur. Sicut eadem propositio vocalis duabus mentalibus subordinata est vera &amp; falsa, 
+      <lb ed="#P" n="22"/>vt non deus est. ldem patet de actu elicito imperato, vt si vnus actus elicitus imperetur a duabus 
+      vo<lb ed="#P" n="23" break="no"/>litionibus, quarum altera est bona, reliqua vero mala. Et patet de solo actu elicito, vt si Socrates diligat 
+      <lb ed="#P" n="24"/>deum in priore medietate horae cum conscientia: &amp; contra eam in posteriore medietate horae: illa 
+      di<lb ed="#P" n="25" break="no"/>lectio est eadem: &amp; in secunda medietate horae mala, in priore autem bona. ldem est si actus 
+      praecipe<lb ed="#P" n="26" break="no"/>retur in vna horae medietate &amp; prohiberetur in alia: non opus est vt illa praeceptio aut vetatio 
+      ca<lb ed="#P" n="27" break="no"/>dat in rationem obiecti. Verum aliquis actus est bonus extrinsece pro quanto a bono intrinsece &amp; 
+      <lb ed="#P" n="28"/>formali deriuatur, vt actus exterior vel interior imperatus. Aliquis est intrinsece bonus quando non 
+      <lb ed="#P" n="29"/>reducitur in vlteriorem actum bonum vt actus voluntatis pure elicitus. 
+    </p>
+            <p xml:id="JMAet9-d27158-d1e374">
+               <lb ed="#P" n="30"/>⁋ Contra illud arguitur, ergo idem actus erit bonus &amp; non bonus, quum, est malus est rationi 
+      diffor<lb ed="#P" n="31" break="no"/>mis &amp; per consequens non bonus. Secundo sequitur, quod idem habitus erit virtus vno tempore &amp; vitium 
+      <lb ed="#P" n="32"/>alio tempore. Et vlterius sequitur quod idem habitus ex vitio &amp; virtute conflabitur. Ille actus tempestate 
+      <lb ed="#P" n="33"/>ea qua est bonus habitum bonum facit, &amp; tempore malitiae actum malum: &amp; ille habitus erit idem. 
+    </p>
+            <p xml:id="JMAet9-d27158-d1e385">
+               <lb ed="#P" n="34"/>⁋ Ad primum nego sequelam. Concedo tamen quod erit bonus &amp; malus rationi conformis, &amp; alicui rationi 
+      <lb ed="#P" n="35"/>difformis pro quanto est malus. Contra hoc argumentor, bonum &amp; malum sunt termini contrarii. 
+      <lb ed="#P" n="36"/>Opponuntur enim &amp; non relatiue, non contradictorie, non priuatiue: quia illi termini non magis 
+      verifican<lb ed="#P" n="37" break="no"/>tur de eodem quam termini contradictorii: ergo opponuntur contrarie. Responsio, nulla oppositione 
+      <lb ed="#P" n="38"/>terminorum opponuntur, licet respectu actus eliciti non imperati aduersentur contrarie. 
+    </p>
+            <p xml:id="JMAet9-d27158-d1e398">
+               <lb ed="#P" n="39"/>⁋ Ad secundum respondetur, quod sicut idem actus elicitus successiue erit bonus &amp; malus: sic concedi potest 
+      <lb ed="#P" n="40"/>de habituum ex consequente. concedendum est quod habitus bonus inclinabit in vitium &amp; contra. Tempore quo 
+      <lb ed="#P" n="41"/>actus est bonus, sic &amp; habitus. Sed cum ille actus idem numero vel similis prohibetur, vel est contra 
+      con<lb ed="#P" n="42" break="no"/>scientiam, habitus ad hoc inclinans erit malus. Et sic concedendum venit quod habitus qui ab actibus 
+      bo<lb ed="#P" n="43" break="no"/>nis emanat ad vitium inclinat. Nec inconuenit eum habitum totalem ex virtute &amp; vitio conflati: 
+      <lb ed="#P" n="44"/>nam hoc nihil aliud est quam ipsum emanare a duobus actibus, quorum alter est bonus, alter malus. 
+    </p>
+            <p xml:id="JMAet9-d27158-d1e414">
+               <lb ed="#P" n="45"/>⁋ Ad secundum concedo sequelam: nec illatum inconvenit: immo arguens habet id concedere quia secundum 
+      <lb ed="#P" n="46"/>eos non est actus virtutis absque dictaminis prudentialis iudicio reflexo, quo reflexe contemplatur ipsum esse 
+      <lb ed="#P" n="47"/>rectum: quo sublato actus non erit bonus. Etiam prudentia est in facultate hominis sita.
+    </p>
+            <p xml:id="JMAet9-d27158-d1e424">
+               <pc type="pilcrow">¶</pc> Ad tertium dicitur, 
+      <lb ed="#P" n="48"/>quod sufficit praesentia prudentiae actu regulans: quis tamen potest stante prudentia actum suum inficere. Licet 
+      <lb ed="#P" n="49"/>enim habeam prudentiam dictantem de ieiunio possum velle ieiunare ob inanem gloriam, vel non propterea quia 
+      <lb ed="#P" n="50"/>recta ratio iubet.
+    </p>
+            <p xml:id="JMAet9-d27158-d1e436">
+               <pc type="pilcrow">¶</pc> Ad quartum dicitur, quod illa causalis est vera, quando actus voluntatis regulatur a 
+      pru<lb ed="#P" n="51" break="no"/>dentia cum praecepto prudentiae obtemperatur.
+    </p>
+            <p xml:id="JMAet9-d27158-d1e444">
+               <pc type="pilcrow">¶</pc> Ad quintum dico, quod antecedens est propositio falsa. Bene 
+      <lb ed="#P" n="52"/>autem sequitur: odium dei necessatio est malum, ergo odium dei necessario est: consequens est falsum, 
+      <lb ed="#P" n="53"/>ergo &amp; antecedens. Secundo, odium dei potest esse &amp; non esse actus malus extra subiectum. Tertio, 
+      <lb ed="#P" n="54"/>odium dei impossibile est bene fieri: secus est de dei amore tum ob prohibitionem tum ob conscientiam 
+      <lb ed="#P" n="55"/>rectam vel erroneam dictantem deum non esse diligendum. lusuper dormiendum est &amp; de corpore 
+      <lb ed="#P" n="56"/>curandum, vel circa aliquid aliud illi amori incompossibile.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

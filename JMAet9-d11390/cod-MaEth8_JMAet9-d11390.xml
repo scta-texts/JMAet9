@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 6</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 6</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d11390"><!-- mair-l3c6 -->
+            <head xml:id="JMAet9-d11390-Hd1e103">Caput 6</head>
+            <!--alias="mair-l3c6p1"-->
+            <p xml:id="JMAet9-d11390-d1e108">
+               <lb ed="#P" n="16"/>
+               <quote xml:id="JMAet9-d11390-Qd1e112" type="lemma">FOrtitudinem itaque</quote> &amp;c. Aristoteles generatim in secundo de virtutibus est loquutus, nunc 
+      specia<lb ed="#P" n="17" break="no"/>Ftim de eisdem loquitur quatinus mediocritate homines ad virtutes alliciat, &amp; a vitiis retrahat. Non 
+      <lb ed="#P" n="18"/>enim aliter a Socrate Ethica sunt inuenta, dicente Marco Tullio. v. Tusculanarum Quaestionum: 
+      Socra<lb ed="#P" n="19" break="no"/>tes autem primus philosophiam deuocauit e caelo, &amp; in vrbibus collocauit: &amp; in domos etiam introduxit: &amp; 
+      <lb ed="#P" n="20"/>coegit de vita, moribus, rebus bonis &amp; malis quaerere. A fortitudine auspicatur hic Aristoteles. Non autem a 
+      <lb ed="#P" n="21"/>corporis neruis haec virtus emanat, nec truces carnifices quos vulgus affert in fortium coetum (vt ex 
+      <lb ed="#P" n="22"/>dicendis liquebit) adnumerandi veniunt.
+    </p>
+            <p xml:id="JMAet9-d11390-d1e129">
+               <pc type="pilcrow">¶</pc> In quatuor autem capita hic secundus tractatus distrahitur. In primo 
+      <lb ed="#P" n="23"/>obiectum circa quod fortitudo versatur monstrat. In secundo de eius operationibus ac extremis. In tertio quas 
+      <lb ed="#P" n="24"/>species simulatae fortitudinis verae fortitudini affines tractat. Quartum caput proprietates viro forti 
+      con<lb ed="#P" n="25" break="no"/>gruentes numerabit. Caput hoc est breue. quocirca si ipsum in suas partes partirer lectori taediosus forem, 
+      <lb ed="#P" n="26"/>eam ob rem ad literae explanationem accingor. Hic ostendit virum fortem versari circa mortem in bello. Prima 
+      con<lb ed="#P" n="27" break="no"/>clusio huius materiae est haec. Et si fortitudo circa timorem &amp; fiducias tamquam inter affectus versetur, non tamen 
+      <lb ed="#P" n="28"/>circa metus vniuersos atque fiducias insudat. Hic tangit obiectum ipsius fortitudinis siue viri fortis. Nam 
+      <lb ed="#P" n="29"/>prius in secundo fortitudinem esse mediocritatem circa motus &amp; fiduciam monstrauimus. Metuimus enim ea 
+      <lb ed="#P" n="30"/>quae terribilia sunt: licet in re terribilia ausibilia sint, vocabula tamen in significato formali discrepant. 
+      <lb ed="#P" n="31"/>Terribile enim difficultate obiecti pauorem inducit: oppositum connotatio ausibilis implicat. Atque vt 
+      sim<lb ed="#P" n="32" break="no"/>pliciter &amp; aprte dicamus: metuimus mala &amp; culpae &amp; poenae. Quocirca veteres metum diffiniuere 
+      expecta<lb ed="#P" n="33" break="no"/>tionem esse mali. Metus est respectu mali futuri: metuimus ergo omnia mala vt infamiam (quia cura ha 
+      <lb ed="#P" n="34"/>benda est de bono nomine) paupertatem, morbos, inimicitias, amicorum interitum, &amp; ne nobis hostes 
+      <lb ed="#P" n="35"/>parentur (Capitur inimicitia tam priuatiue quam contrarie) mortem &amp; id genus similia. Sed non circa haec omnia 
+      <lb ed="#P" n="36"/>fortitudo insudat. Nempe istorum sunt quaedam vt infamia quae semper metuere decorum est &amp; non timere turpe. 
+      <lb ed="#P" n="37"/>Qui enim insamiam timet probus &amp; verecundus est: qui vero non formidat impudens &amp; frontosus est. Dicitur 
+      <lb ed="#P" n="38"/>tamen talis a nonnullis translatitie fortis, quod simile aliquid habere videatur. Nam vterque est impauidus: attamen im 
+      <lb ed="#P" n="39"/>prudentis est nimis ardenter famam gliscere. Nec putet quispiam suam famam lacerari posse ab aemulis siue mala 
+      <lb ed="#P" n="40"/>vita, non negat: immo ingenue profitetur infamiam esse metuendam. contra eos qui frontem meretriciam iam 
+      perfri<lb ed="#P" n="41" break="no"/>cuerunt loquitur: sed dicit quod apud aliquos tales translatitie fortes appellantur: forte non apud eum. Item contingere 
+      <lb ed="#P" n="42"/>potest, vt inopia metuenda non sit, neque langor: ita vt summatim dicatur, naeque prorsus quae neque ab 
+      impro<lb ed="#P" n="43" break="no"/>bitate neque a nobis proficiscuntur, at fine culpa sua aliquis &amp; paupertatem &amp; morbos incurrit, &amp; id non est 
+      <lb ed="#P" n="44"/>timendum: sed si quis sua ignauia pauperiem incurrat, vt patrimonium dissipando, vituperandus est. Similiter si 
+      <lb ed="#P" n="45"/>indulgendo genio morbum contrahat. attamen qui haec no metuit non est fortis nisi translatitie talis appelletur. 
+      <lb ed="#P" n="46"/>Nam plerique in discriminibus bellicis meticulosi inueniuntur qui liberaliter pecuniam erogant. Ergo 
+      si<lb ed="#P" n="47" break="no"/>gnum est eos paupertatem non timere. At neque si quispiam pro liberorum atque vxoris pudicitia timet aut 
+      inui<lb ed="#P" n="48" break="no"/>dentiam metuit, aut aliquid simile timidus est. Neque fortis certe si virgis caedendus non terretur. Patet, quia 
+      <lb ed="#P" n="49"/>nullus multum laudatur talia non timendo: sed fortem omnes efferunt plurimum, igitur: &amp; hoc intellige si verberibus 
+      <lb ed="#P" n="50"/>non repente intereat. Si enim lapidibus obrutus aut scorpione caesus moriatur sustinendo, in 
+      fortitudi<lb ed="#P" n="51" break="no"/>nis actus incidit. Elatos scholasticos offendimus qui verberum diritate non mouentur plusquam statuae. 
+    </p>
+            <p xml:id="JMAet9-d11390-d1e198">
+               <lb ed="#P" n="52"/>⁋ Dubitatur Primo, quare Aristoteles a fortitudine &amp; actibus voluntatis initium scribendi in hoc 
+      <lb ed="#P" n="53"/>tertio sumpsit. Secundo, an fortitudo est virtus cardinalis, &amp; quot sunt virtutes cardinales, &amp; cur 
+      <lb ed="#P" n="54"/>tales appellitentur. Tertio quaeritur, an quilibet actus fortitudinis sit virtus cardinalis: &amp; si sic, 
+      <lb ed="#P" n="55"/>multo plures erunt quam quatuor, cum centies mille sint fortitudinis actus &amp; numero &amp; specie distin 
+      <lb ed="#P" n="56"/>cti: tum distincti specie actus sese minime intendant. Quarto, quomodo hae virtutes distinguantur. 
+    </p>
+            <p xml:id="JMAet9-d11390-d1e212">
+               <lb ed="#P" n="57"/>⁋ Ad primum dicitur, quod vt significauimus, id partim ad libitum fecit philosophus. Sicut enim 
+      intelle<lb ed="#P" n="58" break="no"/>ctus officium voluntatis actum antecedit, de intellectus virtutibus potuit non incontinue prius loqui: sed 
+      con<lb ed="#P" n="59" break="no"/>gruentiam dare potius hoc modo. Appetitus est intellectu praestantior, necnon eius virtus laudabilior: 
+      <lb ed="#P" n="60"/>propterea a virtutibus ipsius appetitus materiam auspicatur. Fortitudo etiam est temperantia praestabilior: 
+      <!--101.xml-->
+      <pb ed="#P" n="43-v"/>
+               <lb ed="#P" n="1"/>difficultas materiae id iudicat, quocirca de fortitudine orsus est. Nomen a virtute &amp; viro sumit. 
+      lusti<lb ed="#P" n="2" break="no"/>tia est id aliud, atque proprium syntagma requirit: quas ob res ipsam ad partem reseruauit. Non minus etiam 
+      <lb ed="#P" n="3"/>prudentia caeterarum uirtutum auriga suum expostulat syntagma. Alias virtutes quas potentiales nuncupant 
+      <lb ed="#P" n="4"/>post has cardinales annectit, vt eis absolutis reliqua liberius seriosiusque prosequatur. Amplius 
+      fortitu<lb ed="#P" n="5" break="no"/>do circa affectus versatur, scilicet circa iracundiam moderandam, modo prius affectus regulare conducit antequam 
+      <lb ed="#P" n="6"/>de virtutum actibus doceamus. Prius enim est homo interius mitigandus antequam externas operationes 
+      <lb ed="#P" n="7"/>producat. Ad haec circa affectum vehementem negociatur, vtpote circa iram ac partem irascibilem. Etiam 
+      forti<lb ed="#P" n="8" break="no"/>tudo est nota ac eius perturbatio quam moderat scilicet ita. Excellentia fortitudinis hoc argumento splendescit: 
+      <lb ed="#P" n="9"/>historiographi praestantum ducum elatos animos pleno ore laudant, quos ad caelum vsque extollunt: ac illorum 
+      <lb ed="#P" n="10"/>gesta cum sanctis ac eruditis exarare solent. Degeneres vero tanquam muliebres tetrice vituperant. 
+    </p>
+            <p xml:id="JMAet9-d11390-d1e249">
+               <lb ed="#P" n="11"/>⁋ Ad secundam dubitationem respondetur affirmatiue Numeratur enim cum aliis tribus lustitia, quae fortitudinem 
+      <lb ed="#P" n="12"/>a toto genere excedit: sed ipsa est in ordine ad alterum, quocirca de virtutibus voluntatis quae sunt ad se 
+      <lb ed="#P" n="13"/>prius loquutus est temperantia scilicet &amp; fortitudine. Ita Tullius &amp; Seneca, &amp; morales alii loquentes has 
+      qua<lb ed="#P" n="14" break="no"/>tuor cardinales nuncupant. Sed quare ita nuncupantur? Respondetur. Cardinale est principale: quatuor autem 
+      <lb ed="#P" n="15"/>sunt signa cardinalia scilicet signa aodiaci, &amp; caeli cardines vt astronomi dicunt: vt oriens, occidens, meridiei 
+      <lb ed="#P" n="16"/>angulus, &amp; angulus ei oppositus. Istae sunt praecipue caeli partes in quibus motus &amp; effectus solares 
+      emi<lb ed="#P" n="17" break="no"/>cant, sic sunt istae. &amp; vitrutes. prudentia est rectum iudicium agibilium, sine quo aliaeiappetitiuae virtutes in 
+      te<lb ed="#P" n="18" break="no"/>nebras convertuntur: nec virtutis appellationem sibi vendicant. Pro fide, pro patria, pro liberis, communiugibus, 
+      <lb ed="#P" n="19"/>fortunae bonis &amp; omnibus quae mortalibus sunt cara, fortitudo versatur. Authore enim lob. Militia est 
+      <lb ed="#P" n="20"/>vita hominis super terram. Crebro fortitudo occurrit, &amp; pluries temperantiae materia circa cybum potum &amp; 
+      <lb ed="#P" n="21"/>venerea: &amp; ob prauorum consuetudines probos inquietantes, pernecessaria est iustitia. Circa harum virtutum 
+      <lb ed="#P" n="22"/>materias tota humana vita versatur. Aliae autem inferiores ad has reductionem tamquam ad praecipuas habent. 
+      <lb ed="#P" n="23"/>Nec de humilitate philosophi in significantia (qua theosophi vtuntur) verbose loquuntur. Nec id quod 
+      <lb ed="#P" n="24"/>humilitatem appellamus, vsqueadeo vt Christianorum solidissima schola sic magnopere extulere. De ea 
+      <lb ed="#P" n="25"/>in quarto suo in loco. circa magnanimitatem fortasse nonnihil, si temporis augustia patiantur &amp; deus 
+      coe<lb ed="#P" n="26" break="no"/>pta secundet loquemur.
+    </p>
+            <p xml:id="JMAet9-d11390-d1e286">
+               <pc type="pilcrow">¶</pc> Ad tertium respondetur quod sic, extendendo virtutes ad actus. Alias oporteret dicere 
+      <lb ed="#P" n="27"/>quod virtus cardinalis capitur collectiue: &amp; tunc genus virtus de virtute cardinali non praedicabitur, quod est 
+      ra<lb ed="#P" n="28" break="no"/>tioni dissonum. Quaelibet ergo pars subiectiua temperantiae est temperantia, &amp; quaelibet pars subiectiua virturis 
+      <lb ed="#P" n="29"/>cardinalis est virtus cardinalis: &amp; licet non tota vita humana in illo actu aut eius habitu tamquam in 
+      cardi<lb ed="#P" n="30" break="no"/>ne versetur, tamen est pars virtutis in qua vita humana insudat: &amp; hoc satis est. Licet autem mille tales sint 
+      <lb ed="#P" n="31"/>actus aut habitus &amp; multo plures etiam specie distinctae sub harum. &amp; virtutum denominatione 
+      includuntur<lb ed="#P" n="32" break="no"/>Nec maior est haec ambiguitas quam illa quam in artibus de praedicabilium aut praedicamentorum numero 
+      tra<lb ed="#P" n="33" break="no"/>ctare solemus.
+    </p>
+            <p xml:id="JMAet9-d11390-d1e307">
+               <pc type="pilcrow">¶</pc> Insultas hic actus sub nulla istarum cardinalium virtutum imbibitur: Volo bene agere, volo 
+      <lb ed="#P" n="34"/>consentanee ad prudentiam operari. Pari modo iste actus, Volo fortiter agere ad fortitudinem non spectat: 
+      <lb ed="#P" n="35"/>patet, nec ad expectationem, inuasionem, fugam, aut cunctationem: proinde sub fortitudine non includitur. Et 
+      con<lb ed="#P" n="36" break="no"/>formiter de habitu est dicendum. Prior ratio non mouet, quia virtutes quas alii potentiales vocitant sub 
+      <lb ed="#P" n="37"/>nulla istarum implicantur. Et sunt aliquae virtutes ex parte obiecti excelsae quae sub nulla cardinea virtute 
+      <lb ed="#P" n="38"/>subduntur. Talis autem actus volo fortiter agere ad fortitudinem spectat: &amp; nullam specierum eius quae per 
+      ma<lb ed="#P" n="39" break="no"/>teriam particularem diuiduntur. Haec autem materia est omnibus fortitudinis ramis communis. Et sic in 
+      ten<lb ed="#P" n="40" break="no"/>perantia atque iustitia dicendum est.
+    </p>
+            <p xml:id="JMAet9-d11390-d1e328">
+               <pc type="pilcrow">¶</pc> Ad quartam dubitationem respondetur, quod prudentia subiecto a reliquis 
+      <lb ed="#P" n="41"/>distinguitur. Nam intellectui realiter inhaeret, &amp; non voluntati inquantum huiusmodi: licet intellectus &amp; 
+      volun<lb ed="#P" n="42" break="no"/>tas re ipsa coincidant, eorum tamen actus &amp; habitus in idem obiectum lati specie distinguuntur. Propterea de 
+      in<lb ed="#P" n="43" break="no"/>tellectu &amp; voluntate tamquam de distinctis loquimur. Ad illum ergo sensum loquendo dico prudentiam ab aliis 
+      <lb ed="#P" n="44"/>differre, quia aliud habet subiectum. lustitia autem est ad alterum, &amp; per hoc ab aliis duabus seiungitur. 
+      Tempe<lb ed="#P" n="45" break="no"/>rantia gustus &amp; tactus impetus regulat, non autem fortitudo. Tria etiam haec per obiectorum totalium 
+      <lb ed="#P" n="46"/>distinctionem seiungantur. Rarissime vlla virtus (vt ante meminimus) affectum pro obiecto habet: sed  
+      <lb ed="#P" n="47"/>res ipsas circa quas negociatur. Ingenue tamen fatebor voluntatem posse velle praestituere sibi 
+      affe<lb ed="#P" n="48" break="no"/>ctum pro partiali obiecto.
+    </p>
+            <!--alias="mair-l3c6p2"-->
+            <p xml:id="JMAet9-d11390-d1e354">
+      <!--102.xml-->
+               <pb ed="#P" n="44-r"/>
+               <lb ed="#P" n="1"/>⁋ Sequitur litera, secunda conclusio huius capitis quae est haec. Fortitudo circa intempestiuae mortis 
+      <lb ed="#P" n="2"/>discrimina insudat, sane viro forti nullus malorum tolerantior est: Terribilissimum autem omnium 
+      <lb ed="#P" n="3"/>malorum insperata mors est: omnes enim ob ipsum terrentur, est enim vitae nouissimum: post 
+      mor<lb ed="#P" n="4" break="no"/>tem enim homini aut bonum aut malum nihil esse videtur.
+    </p>
+            <p xml:id="JMAet9-d11390-d1e370">
+               <pc type="pilcrow">¶</pc> Sequitur tertia conclusio. Non circa 
+      <lb ed="#P" n="5"/>omne genus mortis, sedcirca eam quae est in bello, fortis dicitur esse. Nam non appellabitur fortis 
+      <lb ed="#P" n="6"/>circa mortem in naufragio quando nauis est a scopulis semilacera aut fracta: aut si morbo in lecto 
+      <lb ed="#P" n="7"/>decumbat, bene confidendo: quia hoc non est multum gloriosum cum euadere nequeat: sed vit 
+      for<lb ed="#P" n="8" break="no"/>tis est circa elegantissimam mortem: talis autem ea quae est in bello in maximo &amp; pulcherrimo 
+      pe<lb ed="#P" n="9" break="no"/>riculo. Quod testantur honores tuma ciuitatibus, tum a regibus instituti illis qui talia pericula 
+      glo<lb ed="#P" n="10" break="no"/>riose aggrediuntur. Post haec viri fortis diffinitionem ponit inquiens. homo fortis proprie dicitur 
+      <lb ed="#P" n="11"/>qui circa honestam mortem &amp; ea omnia quae repente contingunt, ipsamque afferunt, interritus est: hoc est 
+      <lb ed="#P" n="12"/>imperterritus. Si homo terribilia repente venientia sustinet, in hoc eius fortitudo splendet. 
+      huius<lb ed="#P" n="13" break="no"/>modi autem sunt ea quae in bello emergunt: Et in mari, &amp; in morbo, timor, secundum quod ratio 
+      ef<lb ed="#P" n="14" break="no"/>flagitat, vacat: non tamen sunt propter peritiam nauigandi securi vt nautae: sed fortes de sua salute 
+      <lb ed="#P" n="15"/>desperantes, tale genus mortis moleste ferunt, praeligunt in bello mortem oppetere. Pontiuagi enim nautae 
+      <lb ed="#P" n="16"/>ob spem euadendi bene sperant, ac ego confidenter cum a magnis oceani fiuctibus pluries mare 
+      sulcan<lb ed="#P" n="17" break="no"/>do euasi, ratus sum consequenter me tunc quoque euasurum, &amp; metum praeconceptum seposui. Insuper 
+      <lb ed="#P" n="18"/>fortes viriliter agunt in quibus vires habent locum, &amp; honestae mortis praebetur occasio: quorum neutrum in  
+      <lb ed="#P" n="19"/>hmodoi mortis genere existit. puta nec exercere vires, nec pulchrum est in tali casu mortem oppetere. Dicit 
+      <lb ed="#P" n="20"/>viriliter &amp; fortiter agunt: in quibus vires habent locum propter bellum commune: addit aliam particulam ad 
+      So<lb ed="#P" n="21" break="no"/>cratem qui potu cicutae propterea quod praedicabat dei vnitatem passus est: aut honestum est mori quorum neutrum in  
+      <lb ed="#P" n="22"/>tali genere mortis putatur. Neque enim est multum decorum in aquis mori nec illic vires locum vendicant vllum. 
+    </p>
+            <p xml:id="JMAet9-d11390-d1e415">
+               <lb ed="#P" n="23"/>⁋ Dubitatur hic primo de veritate illius. Nihil videtur bonum aut malum post mortem: videtur enim quod velit di¬ I 
+      <lb ed="#P" n="24"/>cere animam esse mortalem.
+    </p>
+            <p xml:id="JMAet9-d11390-d1e422">
+               <pc type="pilcrow">¶</pc> Secundo dubitatur, quomodo hic bellum capitur, an requiratur contrapugnatio viribus, t 
+      <lb ed="#P" n="25"/>sicut in litera innuere videtur: quia si sic, Socrates &amp; martyres qui mortem per fide tolerarunt non erant fortes. 
+    </p>
+            <p xml:id="JMAet9-d11390-d1e430">
+               <lb ed="#P" n="26"/>⁋ Dubitatur tertio, an fortitudo sit vna virtus specie.
+    </p>
+            <p xml:id="JMAet9-d11390-d1e435">
+               <pc type="pilcrow">¶</pc> Quarto dubitatur, an requiratur mors ad 
+      fortitu<lb ed="#P" n="27" break="no"/>dinis actum.
+    </p>
+            <p xml:id="JMAet9-d11390-d1e444">
+               <pc type="pilcrow">¶</pc> Respondetur ad primum, quod Aristoteles, Tullius, &amp; bene philosophantes in lumine naturali. 
+      <lb ed="#P" n="28"/>animam hominis immortalem ponunt, licet vulgarium aliqui cum nonnullis obscuris philosophis aliter 
+      opi<lb ed="#P" n="29" break="no"/>nati sint: propterea Aristoteles addidit caudam, videtur. tertio de anima, cum de ea in particulari loquitur 
+      <lb ed="#P" n="30"/>suamsopinionem circa hanc materiam ponit. Circa quam materiam Tullius in de Senectute. Pythagoricos 
+      <lb ed="#P" n="31"/>Socratem, Platonem, Tenophonte, &amp; eos omnes qui generose philosophati sunt adducit. secundo ad 
+      <lb ed="#P" n="32"/>Aristotelem dico quod de loco composito loquutus est. In mortem enim tota compago soluitur, qua 
+      <lb ed="#P" n="33"/>soluta bona fortunae, coniunx, liberi, ac reliqua abolentur. opinor quod resurrectionem ignorasse: &amp; ita 
+      <lb ed="#P" n="34"/>Pythagoram, Socratem, Platonem, cum Tenophonte bonorum animas in Elisiis campis vel 
+      amoe<lb ed="#P" n="35" break="no"/>nissimis locis a deo manuteneri credebant multo sublimius quam nos de animabus paruulorum in 
+      ori<lb ed="#P" n="36" break="no"/>ginali decedentibus dixere. Aut potissimum dico eum locutum de felicitate &amp; infelicitate huius 
+      vi<lb ed="#P" n="37" break="no"/>tae, quae quia mors vltima linea rerum finitur hac vita: &amp; ita ad mortuum non pertinent bona aut 
+      <lb ed="#P" n="38"/>mala huius vitae pro felicitate aut infelicitate in ea habenda, sed bene quantum ad statum vitae 
+      aeter<lb ed="#P" n="39" break="no"/>nae: opera enim illorum sequuntur illos. Haec fuit philosophorum opinio natura duce perbelle 
+      instru<lb ed="#P" n="40" break="no"/>ctorum.
+    </p>
+            <p xml:id="JMAet9-d11390-d1e478">
+               <pc type="pilcrow">¶</pc> Ad secundum respondetur, bellum in proposito capitur pro pugna aut praelio sicut satis 
+      <lb ed="#P" n="41"/>communiter capitur, &amp; non pro toto tempore quo homines sunt in militia. Et sic quoque bifariam 
+      ac<lb ed="#P" n="42" break="no"/>cipitur. Vno modo quando est contrapugnatio hominum. Alio modo quando non derelinquitur actus 
+      <lb ed="#P" n="43"/>bonus, non obstante mortis discrimine: puta nec committitur turpe nec committitur honestum ob imminentem 
+      <lb ed="#P" n="44"/>necem, vt in martyribus. Fortitudo virtus est in maximo &amp; optimo periculo secundum philosophum. 
+      Prae<lb ed="#P" n="45" break="no"/>clarum est sane pero iustitia &amp; fide instanter ad mortem vsque stare: quare martyres in apice fortitudinis 
+      cardi<lb ed="#P" n="46" break="no"/>nalis existunt. Sic Marcus Regulus a Poenis interemptus erat fortis. Nec est de ratione fortitudinis, 
+      <lb ed="#P" n="47"/>quod per sugam se seruare possit. Patet de illo qui in cuneo hostium circunuentus occiditur. Hoc praenotato 
+      respon<lb ed="#P" n="48" break="no"/>detur, quod bellum capitur secundo modo ab Aristotele. Probatur, quia Aristoteles dicit fortitudinem esse circa 
+      <lb ed="#P" n="49"/>mortem pulcherrimam: &amp; talem dicit esse in bello. In maximo namque fit &amp; pulcherrimo periculo. Sane mar 
+      <lb ed="#P" n="50"/>tyres corporeis viribus non contrapugnantes steterunt in pugna terribiliori, quam contropugnantes. Nam puer fide 
+      <lb ed="#P" n="51"/>&amp; iustitia mortem obierunt: proinde Marcus Attilius Regulus a Tullio tertio Officiorum, in materia 
+      for<lb ed="#P" n="52" break="no"/>titudinis maxime effertur inter fortes. Et non minus laudandus est Socrates aut alius quispiam 
+      philoso<lb ed="#P" n="53" break="no"/>phorum mortem patiens puero dei vnitate. Contrapugnans calefit &amp; minus metuit: habetque spem euadendi saepius. 
+      <lb ed="#P" n="54"/>&amp; gaudet nocere corporaliter hosti. Illud non contingit in patiente martyrium: ergo martyres erant heroice 
+      <lb ed="#P" n="55"/>fortes, &amp; in excellentissimo fortitudinis gradu: ergo hic non capitur bellum primo modo. Martyr &amp; si verbo 
+      <lb ed="#P" n="56"/>&amp; ratione. contra hostem pugnat. Morbus insuper in pabulo est hostis, &amp; patiens sustinens est fortis si 
+      apparen<lb ed="#P" n="57" break="no"/>ter semper &amp; probabiliter expectatur. Cum vehementi affectione citra aestimationem mortis placabilitatem animi 
+      <lb ed="#P" n="58"/>tenere, est secundario fortis, hoc est affinitatem cum forti magnam habet. Periculum in marinis vndis, non est 
+      <lb ed="#P" n="59"/>atrox: leuiter enim illic homo mortem sustinet. Acerba quoque est afflictio in nephrisi, quae est saeuus hostis, 
+      <lb ed="#P" n="60"/>cui si gratiose renititur cum animi placabilitate apparenter est fortis. Ob Martinum magistrum haec paululum 
+      <lb ed="#P" n="61"/>prolixius explanauimus.
+    </p>
+            <p xml:id="JMAet9-d11390-d1e529">
+               <pc type="pilcrow">¶</pc> Contra hoc instatur sic. Fortitudo est cum contrapugnatione vt Aristoteles dicit, I 
+      <lb ed="#P" n="62"/>&amp; vbi vires locum habent: sed hoc martyres non habuerunt. Rnsum est, quod erat in eis contrapugnatio intrini 
+      <lb ed="#P" n="63"/>seca contra carnem &amp; spiritum. Nemo enim carnem suam odio habet. Secundo martyres carnificibus reluctabani 
+      <lb ed="#P" n="64"/>verbo &amp; non corporis viribus: propterea ab Apostolo ad Ephesios &amp; ab aliis sanctis verissime dicuntur 
+      <!--103.xml-->
+      <pb ed="#P" n="44-v"/> 
+               <!-- duplicate page  -->
+               <!--104.xml-->
+               <pb ed="#P" n="45-r"/>
+               <!-- duplicate page -->
+               <!--105.xml-->
+               <pb ed="#P" n="44-v"/>
+               <lb ed="#P" n="1"/>fortes. At dicis capiendo bellum secundo modo, licet secunda acceptio sit priore multo latior: Plerique 
+      he<lb ed="#P" n="2" break="no"/>roici viri fortitudine hoc modo sumpta vacabant. Patet de eremicolis, coenobitis &amp; plerisque aliis 
+      glo<lb ed="#P" n="3" break="no"/>ria dignis: ergo circa has virtutes non voluitur tota humana vita. Responsio: voluitur in tota 
+      multi<lb ed="#P" n="4" break="no"/>tudine, non autem in quolibet supposito. Alii magis se circa vnam virtutem exercent, alii vero circa aliam. Nec 
+      <lb ed="#P" n="5"/>opus erat exercere se circa actus interiores materiae num quam occurrentis. Paulus enim primus eremita circa 
+      <lb ed="#P" n="6"/>orationem, Christi passionem, &amp; caelestia iugiter meditabatur, corporis insultus cohibuit &amp; in seruitutem 
+      <lb ed="#P" n="7"/>redegit: sic beatus Antonius &amp; ingens sanctorum chorus pro iustitia &amp; fortitudine excellentiora 
+      acce<lb ed="#P" n="8" break="no"/>perunt. Nec virtutum connexionem aliorum more pono, vt circa huius sextum patebit. Milites circa fortitudinem 
+      <lb ed="#P" n="9"/>&amp; eius prudentiam negociantur: iudices circa iustitiam, &amp; alii circa alias virtutes. Alienum est ab Aristotelis 
+      <lb ed="#P" n="10"/>mente quod <name xml:id="JMAet9-d11390-Nd1e579">Buridanus</name> dicit, ieiunium, vigilias, &amp; huiusmodi afflictiones ad fortitudinem attinere. 
+    </p>
+            <p xml:id="JMAet9-d11390-d1e583">
+               <lb ed="#P" n="11"/>⁋ Ad tertiam dubitationem respondetur negatiue. Nam quot sunt actus specie distincti fortitudinis, tot 
+      <lb ed="#P" n="12"/>sunt habitus eius identidem separati: sed centies mille sunt tales, igitur. Nec dubitationem istam mouissem 
+      <lb ed="#P" n="13"/>nisi propter <name xml:id="JMAet9-d11390-Nd1e591">Buridanum</name> &amp; antiquos qui secus senserint. Fateor <name xml:id="JMAet9-d11390-Nd1e594">Buridanum</name> sequi <name xml:id="JMAet9-d11390-Nd1e598">Altisiodorem</name>. <name xml:id="JMAet9-d11390-Nd1e601">Thomam</name>, 
+      <lb ed="#P" n="14"/>&amp; reliquos veteres, quod in via nominalium est peregrinum. Educatis enim in artibus nostro seculo sine 
+      vlte<lb ed="#P" n="15" break="no"/>riore probatione istud est persuasum: quare vela complico. Talibus enim neniis lectorem remoruri est taediosum. 
+    </p>
+            <p xml:id="JMAet9-d11390-d1e609">
+               <lb ed="#P" n="16"/>⁋ Ad quartum respondetur negatiue: sufficit enim &amp; requiritur nolle deserere honestum, vel velle prosequi quod 
+      <lb ed="#P" n="17"/>est rationi consentaneum in verisimili iudicio mortis, vt in bello communiter dicto si iusta causa pugnae 
+      <lb ed="#P" n="18"/>incidat, &amp; caetera ad virtutem requisita. Ex hoc corollarie infero. Primo, quod velle pati confidenter verbera 
+      <lb ed="#P" n="19"/>sine mortis colore non est actus fortitudinis. Hoc Aristoteles in litera innuit. Secundo sequitur per locum 
+      <lb ed="#P" n="20"/>ab oppositis, quod si mors verisimiliter protinus sequatur, est actus fortitudinis. Tertio sequitur, quod occidere 
+      <lb ed="#P" n="21"/>inuasorem pro vit ae tuitione, moderamine inculpatae tutelae seruato, est actus fortitudinis. Nec probatio 
+      <lb ed="#P" n="22"/>
+               <name xml:id="JMAet9-d11390-Nd1e626">Buridani</name> oppositum opinantis valet. dicit enim, quod hoc est naturale &amp; non morale: sic enim in bello se haberet 
+      <lb ed="#P" n="23"/>canis ad canem. Et ad hoc Aristotelem citat dicentem: boni vtique scilicet honesti gratia fortis sustinet &amp; operatur: 
+      <lb ed="#P" n="24"/>non propter necessitatem, sed quoniam bonum est. Illic est bellum propriissime dictum &amp; laudatur, tamquam fortis qui se 
+      <lb ed="#P" n="25"/>sic tuetur. Quarto sequitur, quod falsum est illud quod <name xml:id="JMAet9-d11390-Nd1e636">Buridanus</name> dicit in eadem quaestione de muliere percussa 
+      <lb ed="#P" n="26"/>vt consentiat adultero, vbi non eminet mortis periculum, quod ille actus est fortitudinis.
+    </p>
+            <p xml:id="JMAet9-d11390-d1e642">
+               <pc type="pilcrow">¶</pc> Contra primum 
+      <lb ed="#P" n="27"/>corollarium ex Aristotele depromptum, dubitatur vtrum mors sit bonum an malum. dicimus mortem ex 
+      operatio<lb ed="#P" n="28" break="no"/>nibus retroactae vitae considerandam: si vita in dei religione transacta est mors non est malum. Mala, inquit 
+      <lb ed="#P" n="29"/>Augustinus, mors putanda non est quam bona vita praecessit. Sin scelerate finaliter vixit mortem esse 
+      ma<lb ed="#P" n="30" break="no"/>lum est necesse. Non terribilis est mors his authore Tullio quorum laus emori non potest. Caeterum illius 
+      <lb ed="#P" n="31"/>iugis memoria reprimit a peccato dum memoratur homo quod quocumque ierit mors eius capiti semper immi 
+      <lb ed="#P" n="32"/>net. Ludat quispiam, epuletur, lasciuiat, illi insidiatur: mille casibus exponitur: impraemeditatae 
+      aegritudi<lb ed="#P" n="33" break="no"/>nes occursant: senectus certissimus nuncius senis fores continuo pulsat, fatales sorores secum comites 
+      ad<lb ed="#P" n="34" break="no"/>ducit, quae insperato fila secant. Hinc poetae acerbam mortem noctis &amp; erebi siliam produnt: quia ipsa quasi 
+      <lb ed="#P" n="35"/>e tenebris emergens inexpectato ferit ictu. Non me praeterit illud Catonianum. Linque metum leti. ldem 
+      <lb ed="#P" n="36"/>suadeo, vt letum plus aequo minime formides: sed dicere volo tempore occurrentis coinquinamenti mortem 
+      <lb ed="#P" n="37"/>in mentem reuoces: &amp; quo post aerumnosam mortem ibitur.
+    </p>
+            <p xml:id="JMAet9-d11390-d1e673">
+               <pc type="pilcrow">¶</pc> Haeres quam ob causam ait, quod fortes moleste 
+      fe<lb ed="#P" n="38" break="no"/>runt in mari mortem oppetere. Respondetur, quia nec vires inibi locum habent: ignaui secum in salo animam 
+      ef<lb ed="#P" n="39" break="no"/>flant. pulchrumque mori succurrit in armis, ait Maro. &amp; tursus. Oterque quaterque beati. Quis ante ora 
+      pa<lb ed="#P" n="40" break="no"/>trum Troiae sub moenibus altis Contigit oppetere? Graui Aneas ferebat animo inter remos, transtra 
+      <lb ed="#P" n="41"/>atque praeruptum aquae montem fato cedere, quod &amp; alii fecisse leguntur. Propterea Herculem tradunt caelum 
+      lamenta<lb ed="#P" n="42" break="no"/>tionibus implesse quod toxico summum ageret diem: furens enim virus rabie anhela eius artus extra pugnam 
+      <lb ed="#P" n="43"/>exussit. Hydrae se tabe extingui, aut a Centauris occidi optabat. Inclytum enim in bello exitum 
+      eligibilis<lb ed="#P" n="44" break="no"/>simum rebatur, &amp; post tot exantlatos labores a foemina occidi foedum censebat. Epilogando capio 
+      Lauren<lb ed="#P" n="45" break="no"/>tium martyrem, &amp; Pannonem cum Turca decertantem persistere in bello, quo aufugere potest. Socrates est a Cuneo 
+      <lb ed="#P" n="46"/>hostium inclusus, euadere nequiens, persistitque dimicando. Plato mirabili cholica aut valenter calculo affligitur 
+      <lb ed="#P" n="47"/>ad desperationem vsque medicorum. verum aequanimiter reluctatur morbo hilaritatem vultu simulans: tunc Pannoni 
+      <lb ed="#P" n="48"/>in hac materia secundum locum a Laurentio tribuo. Socrates autem est fortis extra controuersiam penitus. Nec 
+      <lb ed="#P" n="49"/>Platone fortium numero repellendus. secus est de morte in mari, aut per lentum morbum, vel vbi est spes 
+      eua<lb ed="#P" n="50" break="no"/>dendi. De Platone sum topice loquutus: sed indubitatum tenent beatum Laurentium atque martyres 
+      re<lb ed="#P" n="51" break="no"/>liquos heroice fortes extitisse.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 7</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 7</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d18780"><!-- mair-l4c7 -->
+            <head xml:id="JMAet9-d18780-Hd1e103">Caput 7</head>
+            <p xml:id="JMAet9-d18780-d1e106">
+               <lb ed="#P" n="20"/>CIrca eadem ferme est arrogantiae siue ostentationis mediocritas, quae quidem &amp; ipsa est 
+      innomi<lb ed="#P" n="21" break="no"/>nata sicut praecedens. De ea transigere expedit, siquidem si de singulis transigamus &amp; 
+      pertracte<lb ed="#P" n="22" break="no"/>mus magis ea quae circa morem sunt cognoscemus. Et simul mediocritates esse virtutes melius 
+      <lb ed="#P" n="23"/>putabimus, cum in cunctis ita cernamus esse. Et quia de iis qui in conuictu ad voluptatem doloremque 
+      <lb ed="#P" n="24"/>congrediuntur, iam dictum est: nunc consentaneum est de veracibus &amp; mendacibus similiter &amp; in 
+      ver<lb ed="#P" n="25" break="no"/>bis &amp; in operibus illorum &amp; in fictione dicamus. Deinde diffinitiones ponens dicit. Arrogans siue 
+      osten<lb ed="#P" n="26" break="no"/>tator videtur effingere speciosa quae non insunt, vel maiora quam insunt. Dissimulator ea quae insunt infi 
+      <lb ed="#P" n="27"/>ciatur aut minuit. Dissimulare est astute tegere. Dissimulamus vera &amp; ea non esse quae sunt. 
+      Simula<lb ed="#P" n="28" break="no"/>mus autem falsa. Medius vero cum sit talis vt vnumquodque quale est ipsum dicat atque ostendat, &amp; 
+      vi<lb ed="#P" n="29" break="no"/>ta &amp; sermone verax, ita viuit qualiter loquitur, &amp; fatetur quae sunt circa se nec maiora aut minora fa 
+      <lb ed="#P" n="30"/>cit. Philocratemque veriuerbio superat. Vnum quodque istorum trium contingit bifariam facere. Primo 
+      <lb ed="#P" n="31"/>propter aliquid aliud vt timorem quis negat se talem qualis est. Secundo modo contingit 
+      vnum<lb ed="#P" n="32" break="no"/>quodque istorum facere &amp; non propter aliud sed propter hoc quod in tali actu delectetur, &amp; hoc est speciali 
+      <lb ed="#P" n="33"/>ter habitui addictum. Quia vnusquisque secundum qualitatem sui habitus &amp; loquitur, &amp; operatur, &amp; 
+      <lb ed="#P" n="34"/>vitam suam ducit. Ex abundantia cordis os loquitur, inquit seruator. Nisi aliter operetur propter ali 
+      <lb ed="#P" n="35"/>quid emergens vt ob magnum emolumentum consequendum, aut malum euitandum, cuius eausa est, 
+      <lb ed="#P" n="36"/>quia omnis forma quae est principium operandi prius dat esse qui operari. Et quale esse communicat tale operari praebet, quod a 
+      <lb ed="#P" n="37"/>posteriore dinoscitur, quia operationes similes generant augmentant, &amp; saluant ipsum habitum, quare qualis est 
+      <lb ed="#P" n="38"/>vnusquisque secundm habitum, taliter operabitur si secudm habitum illum operetur, etsi aliter aliqua de causa operetur, secundm 
+      <lb ed="#P" n="39"/>illum habitum minime insudabit. Ponit aliam conclusionem inquiens. Per se mendacium improbum est &amp; vituperabile. 
+      <lb ed="#P" n="40"/>verum autem probum &amp; laudabile: ergo omne mendacium est peccatum. Nempe per se praesupponit de omni, primo posteriorum. 
+      <lb ed="#P" n="41"/>veritas proprie ad intellectum pertinet, sed hic sic non capitur: propterea Aristoteles dicit eam innominatam. Est enim 
+      ap<lb ed="#P" n="42" break="no"/>petitus habitus quo quis se talem exterius ostendit, quamlis est secundm rectam rationem. Sicut autem dicere verum, est praeceptum 
+      <lb ed="#P" n="43"/>affirmatiuum obligans puer loco &amp; tpere, sic verus in appetitu ostendit se exterius talem quamlis est intrinsecus, dum ratio 
+      <lb ed="#P" n="44"/>esflagitat, non omne verum propalat, sua enim delicta occulta haud pandit nisi vbi ratio exigit, nec sua praeconia laude 
+      <lb ed="#P" n="45"/>digna diuulgat, ne turgidus &amp; inflatus sui buccinator videatur. Medium ipsum aequa lance metitur 
+      loquen<lb ed="#P" n="46" break="no"/>do tacendoque.
+    </p>
+            <p xml:id="JMAet9-d18780-d1e167">
+               <pc type="pilcrow">¶</pc> Alia conclusio. Mendaces arrogans &amp; dissimulator ambo sunt vituperabiles, sed magis 
+      arro<lb ed="#P" n="47" break="no"/>gans. Dissimulator est mendax sicut &amp; ipse arrogans, &amp; semper in vitium capitur. Vnm dissimulare est astute 
+      tege<lb ed="#P" n="48" break="no"/>re quae insunt. Licet autem velare sepius non sit culpa, tamen cum vaframento celare est malum. Mendacium est falsa signi 
+      <lb ed="#P" n="49"/>exterioris ostensio siue per sermonem siue per aliqu signum exterius. Nec semper requiritur intentio fallendi ad mendacem, 
+      <lb ed="#P" n="50"/>licet saepius id in vsu fuerit, saepius est intentio falsum dicendi qui dicit vnum vel sermo aliquo exteriore vnum 
+      <lb ed="#P" n="51"/>ostendit &amp; oppositum habet in mente, vel dubitat de illo quod dicit mentitur. Vnde mentiri est contra mentem 
+      <lb ed="#P" n="52"/>ire. dicens enim falsum &amp; putans dicere verum, licet mendacium dicat, non tamen mentitur. Ambo 
+      men<lb ed="#P" n="53" break="no"/>daces sunt in extremo, proinde vituperabiles, sed prius de verace dicendum est. De verace in hoc loco sermo 
+      <lb ed="#P" n="54"/>nem non agitamus qui quae in stipulationibus &amp; interrogationibus &amp; confessionibus fiunt, &amp; in his quae 
+      <lb ed="#P" n="55"/>ad iustitiam aut iniustitiam attinent, verum dicit. Haec enim ad aliam virtutem accommodantur, scilicet iustitiam, sed  
+      <lb ed="#P" n="56"/>de verace hic loquimur qui in quibus hoc nihil refert cum in verbis tumn in vita ex eo vera dicit &amp; agit, quia 
+      <lb ed="#P" n="57"/>habitus ipse est talis, &amp; ipse verax &amp; talis aequus &amp; bonus esse videtur. Sane qui verum amat &amp; in 
+      qui<lb ed="#P" n="58" break="no"/>bus nihil refert vera dicit, tanto magis is vera dicet in quibus aliquid refert, vt vir bonus ipse facit, &amp; vbi 
+      <lb ed="#P" n="59"/>refert, vt turpere mendacium fugiet quod &amp; per se ipse fugiebat. Nam tale est laudabile. 
+      <!--154.xml-->
+      <pb ed="#P" n="69-r"/>
+            </p>
+            <p xml:id="JMAet9-d18780-d1e205">
+               <lb ed="#P" n="1"/>⁋ Alia conclusio. Si verax a latitudine medii deuiet magis ad dissimulationem &amp; veritatis defectionem 
+      <lb ed="#P" n="2"/>declinabit. Siquidem id aequabilius esse videtur quia excessus sunt vituperabiliores &amp; magis molesti. 
+      <lb ed="#P" n="3"/>Dum fastuosus sese effert videtur alios contemnere: propterea contemptui ab aliis traditur.
+    </p>
+            <p xml:id="JMAet9-d18780-d1e214">
+               <pc type="pilcrow">¶</pc> Alia 
+      con<lb ed="#P" n="4" break="no"/>clusio, in qua de triplici arroganti loquitur, scilicet de puro glorioso &amp; auaro. Dicit ergo primo. Qui 
+      <lb ed="#P" n="5"/>res &amp; maiores reuera insint fingit, est prauo persimilis: non tamen est malus, cum aliis non noceat: sed potius 
+      <lb ed="#P" n="6"/>est dicendus vanus quam malus, quoniam si aliquo pacto non esset malus mendacio non gauderet: nunc autem in  
+      <lb ed="#P" n="7"/>inhonesto gaudet.
+    </p>
+            <p xml:id="JMAet9-d18780-d1e229">
+               <pc type="pilcrow">¶</pc> Alia conclusio. Non omnes arrogantes aequaliter vituperandi veniunt. Nam qui 
+      <lb ed="#P" n="8"/>maiora quam assunt, alicuius causa fingit, vt gloriae aut honoris: non plurimum carpendus est vt arrogans: 
+      <lb ed="#P" n="9"/>quia honor &amp; gloria a studiosis &amp; magnanimis appetuntur: &amp; cum virtute affinitatem habent. Sin 
+      ar<lb ed="#P" n="10" break="no"/>gentum &amp; eorum quae ad argentum rediguntur immoderate cupit deformior est. Viles enim &amp; abiecti 
+      <lb ed="#P" n="11"/>circa pecuniam inordinate insudant. Arrogantem accipimus non a potentia naturali scilicet ab inclinatione 
+      <lb ed="#P" n="12"/>sed ab electione &amp; habitu. Vnde non dicitur aliquis arrogans eo quod habet aliquid de quo potest se iactare 
+      <lb ed="#P" n="13"/>&amp; efferre, sed ex eo quod hoc eligit dicitur arrogans secundum habitum, ad quem sequitur talis electio, sicut est 
+      <lb ed="#P" n="14"/>de mendaci qui propterea dicitur mendax quod mentiri eligit, vel quod mendacio gaudet, vel quia 
+      men<lb ed="#P" n="15" break="no"/>titur ob appetitum gloriae aut emolumenti. Quocirca solus iactator, puro est arrogans &amp; simpliciter: 
+      <lb ed="#P" n="16"/>alii ad alia peccata scilicet lucrum vel inanem gloriam transeunt. Qui autem gloriae causa sunt arrogantes, 
+      <lb ed="#P" n="17"/>illa sibi simulant &amp; fingunt, pro quibus homines laudantur &amp; beati dicuntur. Qui vero lucri aucupio 
+      <lb ed="#P" n="18"/>inhiant ea fingunt quorum vsus ad proximos transit: &amp; quae latere possunt an ea non insunt: vt qui 
+      fin<lb ed="#P" n="19" break="no"/>gunt se esse medicos aut vates &amp; aruspices. Difficile est hos de mendacio arguere. Multis enim modis si 
+      <lb ed="#P" n="20"/>astuti fuerint (licet in artibus illis periti non sint) euadent incogniti. Propterea graues annis, &amp; qui 
+      <lb ed="#P" n="21"/>loca remotissima visitarunt, licenter multa falso similia dicunt: quam plurimi hominum talia simulant, &amp; 
+      <lb ed="#P" n="22"/>ostentant haec in seipsis esse.
+    </p>
+            <p xml:id="JMAet9-d18780-d1e267">
+               <pc type="pilcrow">¶</pc> Alia conclusio, in qua tres gradus dissimulatorum ponit: dicit ergo primo. 
+      <lb ed="#P" n="23"/>Dissimulatores qui sua attenuant vrbaniores sunt: nam non lucri causa id facere videntur, sed ob 
+      timi<lb ed="#P" n="24" break="no"/>ditatem fastumque fugiendum: &amp; maxime hi qui gloriosa negant, vt Socrates scientiam. Dicebat enim se nihil 
+      <lb ed="#P" n="25"/>scire: dempto illo scio me nihil scire. Sic in valore dicit. Illi sunt minus vituperabiles, qui ob causam 
+      <lb ed="#P" n="26"/>minus vituperabilem operantur: sed sic est de dissimulatore: igitur. Nam minora quam insint ostentat: 
+      <lb ed="#P" n="27"/>nec dicit emolumenti gratia. Est autem audientibus permolestum audire inflatum: sua magnificantem. Hinc 
+      <lb ed="#P" n="28"/>Clitus difficulter temulentum Alexandrum sese ad caelum vsque laudantem audiuit. Qui parua &amp; manifesta 
+      <lb ed="#P" n="29"/>dissimulant delicati &amp; maliciosi sunt: &amp; tales facile spernuntur &amp; idipsum ad arrogantem attinet: vt 
+      La<lb ed="#P" n="30" break="no"/>cedaemoniorum amictus, vestitus despectos more caeterorum deferebant, vt meliores apparerent. lsti sunt 
+      <lb ed="#P" n="31"/>astuti &amp; hypocritae qui vnum verbo in paruitatem tendens dicunt, &amp; tamen oppositum operantur. 
+      Breui<lb ed="#P" n="32" break="no"/>ter isti simulant se meliores quam sint. Tertii sunt qui moderate hoc vitio vtuntur, qui non negant de se 
+      <lb ed="#P" n="33"/>gloriosa, nec etiam asserunt nimis parua: &amp; hoc vitio vtuntur in his quae non sunt manifesta. lsti sunt 
+      gra<lb ed="#P" n="34" break="no"/>tiosi.
+    </p>
+            <p xml:id="JMAet9-d18780-d1e299">
+               <pc type="pilcrow">¶</pc> Finalis huius capitis conclusio est. Haec arrogantia plus veritati aduersatur quam dissimulatio. 
+      Pa<lb ed="#P" n="35" break="no"/>tet: quia: vitium peius plus virtuti contrariatur, sed ostentatio est dissimulatione deterior, ex dictis, igitur. 
+    </p>
+            <p xml:id="JMAet9-d18780-d1e307">
+               <lb ed="#P" n="36"/>⁋ Circa dicta, plurimae dubitationes occurrunt, quarum praecipuas formabimus. In primis videtur 
+      veri<lb ed="#P" n="37" break="no"/>tas non esse virtus. Scribitur enim Prouerbiorum. ax. Laudet te alienus &amp; non os tuum: ergo probo viro 
+      <lb ed="#P" n="38"/>suam probitatem enucleare non licebit. Secundo, male agit occultus peccator peccata sua publicans in aliorum 
+      <lb ed="#P" n="39"/>scandalum. Contra cuiusmodi homines innehitur, sicut propheta. Peccata sua quasi Sodoma 
+      praedi<lb ed="#P" n="40" break="no"/>cauerunt nec absconderunt. Responsio, dicere verum est bonum ex genere, sed hoc ad actus moralis bonitatem. 
+      <lb ed="#P" n="41"/>non sufficit: requiruntur enim &amp; aliae circumstantiae quae completam bonitatem integrant. Veritas eim odium 
+      <lb ed="#P" n="42"/>parit: secundum comicum. Et tria hominum imprudentum genera vsquequaque dicunt vera. Nam, ebrius, 
+      in<lb ed="#P" n="43" break="no"/>sipiens pueri dicunt tibi verum. Peccatum occultum sacerdoti pro tempore &amp; loco est denudandum, &amp; vbi 
+      con<lb ed="#P" n="44" break="no"/>ducat bono spirituali audientium &amp; non sit aliis taedio, vel occasio ostentationis potest homo dicere bona 
+      <lb ed="#P" n="45"/>quae deus per ipsum operatus est. Sic sancti fecerunt. Virtutem primam (dicit Cato) esse puto compescere 
+      <lb ed="#P" n="46"/>linguam. Proximus ille deo est qui scit ratione tacere. Per se sic suos instituere solet vt potius mortem 
+      <lb ed="#P" n="47"/>oppetere quam secreta denudare maluerint, &amp; Pythagoras auditores prius tacere quam loqui docebat. &amp; 
+      dica<lb ed="#P" n="48" break="no"/>ciores quinquemni vocis exilio damnauerat. Sancti saepius vero sepulto ad audientium intelligentiam, verum 
+      <lb ed="#P" n="49"/>in alio sensu proferunt. Hac enim via Abraam Saram esse sibi sororem affirmauit. Sic enim Syri licet 
+      <lb ed="#P" n="50"/>non Agyptii loquebantur, &amp; primo Regum, Samuel veniens ad Bethel principaliter vt Dauid in regen 
+      <lb ed="#P" n="51"/>inungeret, &amp; a secundario ad sacrificandum de causa secundaria (quia alia fuit odiosa) respondit. Pari 
+      for<lb ed="#P" n="52" break="no"/>ma si carnifex quaerit perimere innoxium &amp; interroget me an hac transiuerit, dicam non transiuit 
+      <lb ed="#P" n="53"/>hac alium locum mentaliter monstrando, aut dum hic fui mutato per me loco. Vel non est in hac domo 
+      in<lb ed="#P" n="54" break="no"/>telligens tertiam personam. ld edo, quia materia est inuisa. Raphael angelus a Thobia quis esset 
+      interro<lb ed="#P" n="55" break="no"/>gatus respondit. Ego sum Azarias Ananiae magni filius: quod est verum secundum illorum vocabulorum 
+      <lb ed="#P" n="56"/>interpretationem. Hac etiam via Christus non negauit se Samaretanum. i. custodem secundum nominis 
+      inter<lb ed="#P" n="57" break="no"/>pretationem. Et summatim potest quis sic respondere quando non expedit nude alium sensum detegere. 
+      <lb ed="#P" n="58"/>etiam aliquid interdum subintelligendo, vt Ego sum filius tuus primogenitus Esau, intelligendo quantum 
+      <lb ed="#P" n="59"/>ad primogeniturae, quia deo volente emerat primogenituram. Hoc modo apud Marcum filius 
+      ho<lb ed="#P" n="60" break="no"/>minis dicitur nescire tempus extremi iudicii, hoc est aliis reuelandum. Per hoc aliquas ratiunculas de 
+      <lb ed="#P" n="61"/>mendacio eluere potes. Accusatus tamen coram iudice competenti de crimine quando est illius suspicio 
+      <lb ed="#P" n="62"/>vel semiplena probatio veritatem dicere tenetur. Alias autem veritatem occultam minime confitebitur, saltem 
+      <lb ed="#P" n="63"/>sponte &amp; vltro.
+    </p>
+            <p xml:id="JMAet9-d18780-d1e370">
+               <pc type="pilcrow">¶</pc> Dubitatur secundo, an mendacium potest bene fieri. Respondetur affirmatiue, prout 
+      <lb ed="#P" n="64"/>proponitur quaestio, vt iacet est modalis diuisa in aequiualentia. Patet, hoc potest bene fieri demonstran¬ 
+      <!--155.xml-->
+      <pb ed="#P" n="69-v"/>
+               <lb ed="#P" n="1"/>do volitionem qua volo proferre hanc: rex sedet quem iudico sedere, &amp; hoc est vel potest esse mendacium 
+      <lb ed="#P" n="2"/>igitur. Minor patet, ipso surgente &amp; me habente iudicium oppositum, tunc est mendacium. Igitur mendacium est 
+      <lb ed="#P" n="3"/>actus voluntatis sicut alia etia peccata commissionis. Sed aliud connotat terminus mendacium, scilicet quod 
+      <lb ed="#P" n="4"/>imperet signum exterius &amp; non sit conformitas in mente illi signo: attamen impossibile est mendacium 
+      be<lb ed="#P" n="5" break="no"/>ne fieri. Caeterum interdum est difformitas fixa quando assentio opposito intrepide &amp; sine fluctuatione: 
+      <lb ed="#P" n="6"/>interdum est ambiguitas, nec assentitur nec dissentitur: interdum mentiens intendit &amp; fallere &amp; falsum 
+      dice<lb ed="#P" n="7" break="no"/>re, interdum vnum solum &amp; sic vnum mendacium est alio grauius: etiam ex parte obiecti grauitatem capit, vt 
+      men<lb ed="#P" n="8" break="no"/>dacium in religione &amp; bonis moribus, nonnunqui falso testimonio, in dispendium fortunarum. 
+    </p>
+            <p xml:id="JMAet9-d18780-d1e400">
+               <lb ed="#P" n="9"/>⁋ Contra dicta videtur quod mendacium potest fieri sine peccato, quia deus potest in homicidio tamquam in 
+      ma<lb ed="#P" n="10" break="no"/>iore dispensare, ergo &amp; in mendacio, quod constat esse peccatum minus, saltem regulariter. Secundo, Ob grande bonum 
+      <lb ed="#P" n="11"/>mendacium est licitum, secundum <name xml:id="JMAet9-d18780-Nd1e408">Eustratium</name>, cui consentit <name xml:id="JMAet9-d18780-Nd1e411">Robertus Lincolinensis</name> &amp; <name xml:id="JMAet9-d18780-Nd1e415">Ioannes Cassianus</name> in 
+      col<lb ed="#P" n="12" break="no"/>lationibus suis. Tertio, plerique viri etiam graues inter suos vtuntur salibus &amp; iocis falsis: ergo mendacium 
+      <lb ed="#P" n="13"/>iocosum non est peccatum, &amp; tamen est mendacium. Quarto, Mendacium ironicum est mendacium, vt dicendo male 
+      <lb ed="#P" n="14"/>studentem esse optimum &amp; literis deditissimum: &amp; homines illud non iudicant peccatum. Quinto, non implere 
+      <lb ed="#P" n="15"/>promissum est mendacium: sed saepius prudens non adimplet pollicitum, igitur. Sexto, commissarius a tyranno 
+      <lb ed="#P" n="16"/>inuasus prodere peccatum occultum negat se tale peccatum audiuisse sine peccato &amp; mentitur: quia tale 
+      au<lb ed="#P" n="17" break="no"/>diuit vt suppono.
+    </p>
+            <p xml:id="JMAet9-d18780-d1e433">
+               <pc type="pilcrow">¶</pc> Ad primum nego consequentiam, vnum habet inuolutam tam malitiam, non autem aliud¬ 
+    </p>
+            <p xml:id="JMAet9-d18780-d1e439">
+               <lb ed="#P" n="18"/>⁋ Ad secundum, nego antecedens, &amp; ad authoritates omnium illorum virorum illustrium dicitur: &amp; quandoque 
+      bo<lb ed="#P" n="19" break="no"/>nus dormitat Homerus. Nec Raab Hiericuntina de mendacio laudatur, sed de pietate in lsraelitas &amp; 
+      <lb ed="#P" n="20"/>de vera religione capienda: sic Agyptiae obstetrices ob pietatem praemium a dmio consequebantur de salute 
+      <lb ed="#P" n="21"/>paruulorum, non autem pro mendacio praemium vllum susceperunt, &amp; si Dauid coram rege Achis, Regum. a. excusetu, 
+      <lb ed="#P" n="22"/>dicere consequenter necessum est non mentiebatur, sed fecit nonnihil amphibologicum quod prudenti &amp; insano 
+      <lb ed="#P" n="23"/>communeffingens sic stultum &amp; epilenticum. Prudens nonnumquam stultum agit. agebatur ibi loci de eius morte &amp; in 
+      <lb ed="#P" n="24"/>tali angustia carmen vtrum habet stultitiam simulare loco prudentia summa est. Facta semper sunt magis an 
+      <lb ed="#P" n="25"/>cipitia quam verba in tantum vt Altisiodorus theologicus haud ignobilis suspicabatur gestibus &amp; factis nullo 
+      <lb ed="#P" n="26"/>modo mendacium consistere: cui si in hoc refragamur dicimus hic Dauidem excusari a mendacio posse 
+      occul<lb ed="#P" n="27" break="no"/>tando verum quod iam retegere erat illi odiosum, sicut iniuste incarceratus in habitu minoritani aufugit. 
+    </p>
+            <p xml:id="JMAet9-d18780-d1e463">
+               <lb ed="#P" n="28"/>⁋ Ad tertium dicitur, quod falsi homines eutrapelia vtentes non mentiuntur: mendaciumque sic iocosum non est 
+      <lb ed="#P" n="29"/>mendacium.
+    </p>
+            <p xml:id="JMAet9-d18780-d1e470">
+               <pc type="pilcrow">¶</pc> Ad quartum similiter dicitur quod ipsum non est mendacium ex prolatione &amp; circumstantiis repraesentat 
+      <lb ed="#P" n="30"/>oppositum verborum absolute.
+    </p>
+            <p xml:id="JMAet9-d18780-d1e478">
+               <pc type="pilcrow">¶</pc> Ad quintum dicitur, si quispiam intendat implere pro tempore promissionis non 
+      <lb ed="#P" n="31"/>mentitur, licet ob rationabilem causam propositum mutet. Promitto Socrati suum mueronem reddere, furere 
+      <lb ed="#P" n="32"/>incipit crastina luce hodie post prandium, quonidam est amens non tenebo promissum. vel si iniqua pro misi, contractum 
+      <lb ed="#P" n="33"/>rescindam sine peccato: immo peccarem hoc ipsum adimplens. Promittit medicus visitare infirmum cras 
+      <lb ed="#P" n="34"/>sed obligatur aliunde promittens strictiori vinculo ad oppositum, tunc non adimplebit promissum. vel patronus 
+      <lb ed="#P" n="35"/>Edinburgum incolens pollicetur clienti Hadingtonensi suam opem postero die in praetorio alioqui 
+      <lb ed="#P" n="36"/>cliens dispendium incurret: sed plus iacturae patronus ob superuenientem &amp; vrgentem causam 
+      habe<lb ed="#P" n="37" break="no"/>bit quam lucri assecutus fuisset cliens patrono adueniente. eo casu aduocatus non delinquit, verum si 
+      si<lb ed="#P" n="38" break="no"/>ne rationabili causa defuerit plurimum delinquit pollicitationem haud seruans &amp; resarcire damnum 
+      in<lb ed="#P" n="39" break="no"/>de proueniens est obnoxius: nam eius culpa illi confidens alter circumvenitur.
+    </p>
+            <p xml:id="JMAet9-d18780-d1e503">
+               <pc type="pilcrow">¶</pc> Ad sextam ratiocinationem 
+      <lb ed="#P" n="40"/>respondetur, quod confessarius dicet nescio, intelligendo inter dentes ad tibi significandum. 
+    </p>
+            <p xml:id="JMAet9-d18780-d1e512">
+               <lb ed="#P" n="41"/>⁋ Tertio dubitatur, quomodo veritas declinet in vitium minus.
+    </p>
+            <p xml:id="JMAet9-d18780-d1e517">
+               <pc type="pilcrow">¶</pc> Quarto, ad quam virtutem cardinalem 
+      <lb ed="#P" n="42"/>veracitas reducatur.
+    </p>
+            <p xml:id="JMAet9-d18780-d1e525">
+               <pc type="pilcrow">¶</pc> Ad tertiam dubitationem respondetur, quod habitus veracitas immediate in suum actum 
+      <lb ed="#P" n="43"/>elicitum solum inclinat: sed prudens praeelegit descendere in extremum minus, quia minus foedum est quam 
+      descen<lb ed="#P" n="44" break="no"/>dere in extremum maius.
+    </p>
+            <p xml:id="JMAet9-d18780-d1e535">
+               <pc type="pilcrow">¶</pc> Ad quartam dubitationem respondetur veracitas est in ordine ad alterum. ad iustitiam 
+      <lb ed="#P" n="45"/>reducitur, quia cum ea inter caeteras cardinales maiorem affinitatem vsurpat: sed non continetur sub iustitia tamquam pars 
+      <lb ed="#P" n="46"/>subiectiua eius. Ecce perniciosum mendacem non satis sibi constantem, hunc produnt eum esse, memorem 
+      opor<lb ed="#P" n="47" break="no"/>tere ne sibi contradicat cuius inuentor erat. tortuosus coluber Diabolus enim est mendax &amp; pater eius 
+      <lb ed="#P" n="48"/>ait scriptura. hoc autem mendax lucratur quod illi vera proferenti haud creditur. Nihil est mendace vanius. 
+      Cre<lb ed="#P" n="49" break="no"/>tensibus haec mala nota est inusta, veritati omnia consonant. Deus est veritas. Pulchra sane virtus &amp; signanter 
+      <lb ed="#P" n="50"/>in magnis. Hinc ortum est quaesi prouerbium de verbo regio: quasi pestilentissimum est regi mentiri, si fidem 
+      falsi<lb ed="#P" n="51" break="no"/>tate violauerit omnibus est contemptui. Assentatores ablegat: sane illi placendi studio male acta regis laudant. 
+      <lb ed="#P" n="52"/>eumque suapte natura forte meticulosum Achillem faciunt, &amp; de stulto insanum reddunt. Dion Prusensis ma 
+      <lb ed="#P" n="53"/>litiam adulatorum malitia falsorum testium perniciosorem censuit: nam hi solum iudicem fallunt, minime corrumpunt: 
+      <lb ed="#P" n="54"/>illi vero laudatum corrumpunt. Reges blandientium deliciis deliniti vitium ipsum virtutem putant.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

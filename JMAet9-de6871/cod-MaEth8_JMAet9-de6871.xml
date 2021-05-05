@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 7</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 7</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-de6871"><!-- mair-l2c7 -->
+            <head xml:id="JMAet9-de6871-Hd1e103">Caput 7</head>
+            <p xml:id="JMAet9-de6871-d1e106">
+               <lb ed="#P" n="52"/>
+               <quote xml:id="JMAet9-de6871-Qd1e110" type="lemma">ETenim idipsum</quote>. Hic tertium tractatum huius secundi libri auspicatur: quem in tria capita diuidit. 
+      <lb ed="#P" n="53"/>In primo virtutem tamquam genus in species distrahit. In secundo extrema adinuicem &amp; ad medium 
+      con<lb ed="#P" n="54" break="no"/>parat, illorum contrarietatem enodans. In tertio nonnullas normas affert conducibiles pro virtutum 
+      <!--69.xml-->
+      <pb ed="#P" n="27-v"/>
+               <lb ed="#P" n="1"/>acquisitione. In hoc item capite ostendit in speciali virtutem inter vitia mendiare: &amp; continet hoc caput 
+      <lb ed="#P" n="2"/>tres partes praecipuas. In prima ponitur causa quare opus est loqui de virtutibus speciatim. In secunda 
+      <lb ed="#P" n="3"/>virtutes speciatim enumerat. In tertia ostendit in passionibus medium esse bonum &amp; laudabile. Secunda 
+      <lb ed="#P" n="4"/>ibi. Circa timores itaque fiduciasque. Tertia ibi. Sunt &amp; in affectibus. In prima igitur parte dicit, quod non 
+      <lb ed="#P" n="5"/>solum vniuersaliter &amp; generatim dicere, sed ad singularia sermonem aptare oportet. Et sequitur causa in  
+      <lb ed="#P" n="6"/>litera. In sermonibus enim quos de actibus agitamus: vniuersaliora quidem inaniora sunt particulariora 
+      <lb ed="#P" n="7"/>vero veriora existunt. Sermones vniuersales sunt inanes qui non consequuntur finem suum qui est directio 
+      <lb ed="#P" n="8"/>operationum singularium. Etiam deficiunt in aliquo particulari ob materiae varietatem: ergo semones 
+      particula<lb ed="#P" n="9" break="no"/>res sunt efficaciores: sicut in medicina corporali dicere febrientem debere frigidis curari parum est, sed  
+      <lb ed="#P" n="10"/>oportet dicere hunc cholericum huius regionis, huius aetatis &amp;c. hoc modo curari debere. Sic in virtute 
+      <lb ed="#P" n="11"/>&amp; vitiis animae, procedere oportet. Expedit igitur hoc modo virtutem duorum hincinde deficientum 
+      extre<lb ed="#P" n="12" break="no"/>morum mediocritatem ostendere. Haec igitur ex descriptione, hoc est ex virtutum partitione &amp; diuisione 
+      osten<lb ed="#P" n="13" break="no"/>denda sunt. Sequitur secunda pars principalis. Circa timores atque fidutias mediocritas est fortitudo. 
+      <lb ed="#P" n="14"/>verumenimuero qui non formidando excedit nomine caret: sunt enim pleraque quae nominibus carent, 
+      <lb ed="#P" n="15"/>&amp; ille qui confidendo exuperat audax &amp; temerarius dicitur: qui timendo exuperat &amp; confidendo deest, 
+      timi<lb ed="#P" n="16" break="no"/>dus est. Circa voluptates &amp; dolores non omnes, sed circa suam materiam, hoc est gustus &amp; tactus, est 
+      inten<lb ed="#P" n="17" break="no"/>perantia quae est magis circa voluptates, minus vero circa dolores inuigilat: quia solum ob voluptatum 
+      <lb ed="#P" n="18"/>carentiam excessus est intemperantia. Et quia perpauci circa voluptatem deficiunt: iccirco defectui nomen non 
+      <lb ed="#P" n="19"/>est impositum: sed interim insensati aut insensibiles vocentur. Circa erogandas &amp; accipiendas pecunias 
+      <lb ed="#P" n="20"/>mediocritas est liberalitas. Exuperatio autem &amp; defectio prodigalitas atque illiberalitas. His tamen 
+      con<lb ed="#P" n="21" break="no"/>trario modo exuperant &amp; deficiunt homines, quippe prodigus in erogando exuperat &amp; accipiendo 
+      de<lb ed="#P" n="22" break="no"/>ficit: illiberalis &amp; auarus opposito modo in capiendo est inexplebilis, &amp; in erogatione deficit. Atque de 
+      <lb ed="#P" n="23"/>his nunc ruditer &amp; in figura loquimur, summa solum nunc contenti: postea autem de ipsis exactius atque 
+      emun<lb ed="#P" n="24" break="no"/>ctius docebimus: &amp; signanter in quarto libro. Sunt etiam &amp; aliae circa pecunias dispositiones, hoc est 
+      vir<lb ed="#P" n="25" break="no"/>tutes &amp; vitia, quae hominem ad bonum vel ad malum disponunt, &amp; mediocritas est magnificentia. differtque a 
+      <lb ed="#P" n="26"/>liberali magnificus: quia hic circa magna, ille vero circa parua versatur. Exuperatio est ruditas circa 
+      <lb ed="#P" n="27"/>decorum, atque sordiditas, &amp; defectus pusillitas: sed quo differant extrema huius ab extremis liberalitatis, 
+      <lb ed="#P" n="28"/>posterius dicetur scilicet in quarto. Circa honorem &amp; inhonorationem mediocritas est magnanimitas, 
+      exces<lb ed="#P" n="29" break="no"/>sus lentitudo, defectus vero pusillanimitas. Et magnanimitas circa magnos honores, quemadmodum 
+      <lb ed="#P" n="30"/>magnificentia circa magnam pecuniae erogationem versatur. Liberalis circa paruam pecuniarum erogationem 
+      <lb ed="#P" n="31"/>insudat. Et similiter quemadmodum circa paruas erogationes mediocritas est liberalitas: ita &amp; circa 
+      exi<lb ed="#P" n="32" break="no"/>guos honores quaedam virtus &amp; mediocritas est, quae nomine vacat, &amp; excessus est ambitio: &amp; defectus, 
+      <lb ed="#P" n="33"/>honoris vacuitas. Interdum huiusmodi honores expetuntur vt oportet, interdum plusquam oportet, &amp; 
+      in<lb ed="#P" n="34" break="no"/>terdum minus quam oportet. Et qui huiuscemodi honoris auiditate excedit, ambitiosus appellatur: qui 
+      <lb ed="#P" n="35"/>deficit, honoris appetitione vacuus: medius innominatus est: nam habitus ipsi in medio &amp; extremis 
+      <lb ed="#P" n="36"/>nomine vacant, praeterquam in ambitioso cuius dispositio ambitio nominatur. Vnde fit vt extremi de 
+      <lb ed="#P" n="37"/>media regione certent. Hinc nos medium quandoque ambitiosum, interdum honoris appetitione carentem 
+      <lb ed="#P" n="38"/>dicimus: &amp; nunc hunc nunc illum efferimus. Verum quare illud in vsu est ex dicendis est considerandum: quia 
+      <lb ed="#P" n="39"/>de hoc, in libro quarto, capite quarto futurus est sermo: &amp; etiam in hoc secundo. lam ad reliqua 
+      perga<lb ed="#P" n="40" break="no"/>mus, &amp; de caeteris quae restant declaremus. Circa iram mediocritas est mansuetudo, exuperatio, 
+      iracun<lb ed="#P" n="41" break="no"/>dia, crudelitas, atque seueritas. Defectus, irae vacuitas. Et medius mansuetus dicitur: &amp; extremus 
+      iracun<lb ed="#P" n="42" break="no"/>dus &amp; irae vacuus, ac ferme nomina desunt. Sunt &amp; aliae tres mediocritates, vt affabilitas, veritas, 
+      co<lb ed="#P" n="43" break="no"/>mitas: quae inter se affinitatem habent, diuersae tamen sunt. Similitudinem habent, quia omnes circa 
+      <lb ed="#P" n="44"/>verborum &amp; actuum humanorum communicationem &amp; congressum insudant: differunt tamen quod vna 
+      <lb ed="#P" n="45"/>earum circa verum existit: aliae vero circa delectabile, haec in ioco, illa vero in vniuersis quae ad vitam 
+      <lb ed="#P" n="46"/>attinent: quae enucleatius sunt explicandae vt in singulis medium laudabile deprehendamus. 
+      Extre<lb ed="#P" n="47" break="no"/>ma vero constat neque recta neque laudabilia esse sed reprehensione dignissima: &amp; quiquam in multis nomina 
+      <lb ed="#P" n="48"/>desunt, licet tamen vt in reliquis explicationis causa &amp; sacilis sequentium apprehensionis, vocabula 
+      <lb ed="#P" n="49"/>effingere. Circa verum mediocritas veritas nominetur, excessus arrogantia, defectio dissimulatio. 
+      <lb ed="#P" n="50"/>Medius verax: extremi arrogans &amp; dissimilator. Circa delectabile in ioco, medium comitans &amp; 
+      vrba<lb ed="#P" n="51" break="no"/>nitas dicitur excessus scurrilitas, defectus rusticitas. Medius comis &amp; vrbanus: extremi scurra et 
+      ru<lb ed="#P" n="52" break="no"/>sticus. Circa reliquum iucundum quod est in vita mediocritas amicitia quaedam est, excessus 
+      placidita<lb ed="#P" n="53" break="no"/>tis adulatus defectus contentio atque inhumanitas. Medius vt oportet iucunda consuetudo est amicus 
+      <lb ed="#P" n="54"/>extremi, qui nullius gratia exuperat, placidus lucri gratia adulator: qui autem deficit iniucundus, 
+      con<lb ed="#P" n="55" break="no"/>tentiosus et difficilis fertur. Sunt aliqui adeo deprauato ingenio vt inter deliberandum in hominum 
+      <lb ed="#P" n="56"/>consessibus semper aliis contradicere studeant, hosce ambitiosos crediderim. Pudet eos semita communi. 
+      <lb ed="#P" n="57"/>quae tamen est tutior, incedere. Hinc methodos intentatas excogitant, et sibi solis videntur sapientes. 
+    </p>
+            <p xml:id="JMAet9-de6871-d1e246">
+               <lb ed="#P" n="58"/>⁋ Sequitur tertia pars principalis capitis, quae dicit quod non modo in virtutibus mediocritas est 
+      effe<lb ed="#P" n="59" break="no"/>renda, sed etiam in ipsis affectibus: &amp; extrema in his vituperanda. Vt verecundia quae virtus non est, vt in  
+      <lb ed="#P" n="60"/>quarto dicetur, sed affectio, extollitur. Verecundia mediocritas quaedam est: &amp; verecundus medius. Sed 
+      pa<lb ed="#P" n="61" break="no"/>uidus exuperat: quia is in vniuersis verecundatur: qui vero deficit &amp; in nullo verecundatur is est effrons 
+      <lb ed="#P" n="62"/>impudens, inuerecundus. Itidem indignatio est affectio media, &amp; inuidia excessus, maliuolentia defectus: 
+      <lb ed="#P" n="63"/>quae versantur circa dolorem &amp; voluptatem ex ipsis prouenientem quae accidunt vicinis. Et indignans medius 
+      <lb ed="#P" n="64"/>est, qui dolet cum inidonei ad honorum culmina aeuehuntur: inuidus exuperat: de omnibus dolens, hoc est 
+      <!--70.xml-->
+      <pb ed="#P" n="28-r"/>
+               <lb ed="#P" n="1"/>de successibus tam bonorum quam inidoneorum. Inuidia torquet exossatque inuidentes vt quidam tortor ex 
+      tartan<lb ed="#P" n="2" break="no"/>reis vltoribus ad hominum interniciem missus. Pallidus &amp; macer est iste hominum osor: non ridet nisi in  
+      <lb ed="#P" n="3"/>aliorum aduersitate. Maliuolus deficit etiam de bonorum aduersitatibus gaudens. Sed de his &amp; iustitia &amp; de 
+      <lb ed="#P" n="4"/>rationis virtutibus, hoc est de intellectualibus virtutibus posthac habendus est sermo. 
+    </p>
+            <p xml:id="JMAet9-de6871-d1e277">
+               <lb ed="#P" n="5"/>⁋ Dvbitatur an habens habitum virtutis potest declinare in casu a vero, hoc est mentiri. Quidam dicunt 
+      <lb ed="#P" n="6"/>quod sic: quia inmendacio iocoso &amp; officioso licet declinare a vero propter maius bonum consequendum quam est 
+      <lb ed="#P" n="7"/>tale verum a quo declinatur: vel maius malum fugiendum quam est tale mendacium iocosum vel officiosum: mendacium 
+      <lb ed="#P" n="8"/>autem secundum se, dicunt simpliciter numquam esse committendum, nisi in tali casuin quo fit recompensatio per maius 
+      bo<lb ed="#P" n="9" break="no"/>num vel minus malum. Totum illud dico esse falsum, &amp; contra doctrinam philosophi quarto Ethicorum, &amp; contra 
+      <lb ed="#P" n="10"/>veritatem. Licet quidem tacere verum in casu: veritas enim odium parit, secundum comicum: mentiri nullo modo  
+      <lb ed="#P" n="11"/>licet. In quartum &amp; alibi super hoc fusior habendus nobis est sermo: ne vero talibus credatur nunc solum illud 
+      <lb ed="#P" n="12"/>raptim diximus.
+    </p>
+            <p xml:id="JMAet9-de6871-d1e297">
+               <pc type="pilcrow">¶</pc> Dubitatur secundo quare de hisce virtutibus nominatis &amp; non omnibus, Aristoteles 
+      <lb ed="#P" n="13"/>loquitur: vtpote de humilitate, virginitate, sapientia, &amp; aliis intellectualibus.
+    </p>
+            <p xml:id="JMAet9-de6871-d1e306">
+               <pc type="pilcrow">¶</pc> Responsio Aristoteles 
+      lo<lb ed="#P" n="14" break="no"/>quutus est de communioribus de quibus postea est dogmatizaturus Nec est petenda ratio quare de 
+      forti<lb ed="#P" n="15" break="no"/>tudine ante temperantiam, &amp; sic consequenter de aliis loquutus est: ad libitum enim id fecit. Hoc dico ob multos 
+      <lb ed="#P" n="16"/>qui in talibus inanibus sese &amp; alios fatigant. Sed ordinem virtutum in speciali posuit ferme eodem modo quo 
+      <lb ed="#P" n="17"/>posthac in tertio, quinto, sexto, &amp; in sequentibus loquuturus est. Possumus tamen congruentias dare. Primo 
+      <lb ed="#P" n="18"/>virtutes affectuum regulatrices posuit scilicet fortitudinem &amp; temperantiam: deinde tractat virtutes quae res 
+      exter<lb ed="#P" n="19" break="no"/>nas considerant: demum, eas quae respiciunt quosdam actus exteriores in conversatione humana.
+    </p>
+            <p xml:id="JMAet9-de6871-d1e325">
+               <pc type="pilcrow">¶</pc> Tertio 
+      du<lb ed="#P" n="20" break="no"/>bitatur, quid est inuidia. Respondetur quod cum ob effectus, teste Aristotele, nec laudamur nec vituperamur: 
+      <lb ed="#P" n="21"/>&amp; inuidia vitium etiam capitale a Theosophis ponatur, aliter de ipsa est loquendum propter eos qui hac 
+      lu<lb ed="#P" n="22" break="no"/>rida tabe inuidiae suapte natura coinquinantur. dico inuidiam esse actum electiuum voluntatis: &amp; in primis 
+      con<lb ed="#P" n="23" break="no"/>formiter ad philosophum dico quod possum nolle prospera contingere malis: quia hoc eis &amp; reipublicae 
+      offi<lb ed="#P" n="24" break="no"/>cit: nolo hunc illiteratum aut vitiis sordentem ad sacerdotiorum culmina euehi. Et quia ad nolitionem dolor 
+      sub<lb ed="#P" n="25" break="no"/>sequitur, ex talis promotione tristior &amp; recte in medio teste Aristotele. Sub inuidia maliuolentiam alterum 
+      <lb ed="#P" n="26"/>extremum theologi intelligunt. De inuidia quo ad actum iam in secundum Sententiarum scripsimus.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

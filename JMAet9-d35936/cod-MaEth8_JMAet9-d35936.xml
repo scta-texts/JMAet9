@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 13</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 13</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d35936"><!-- mair-l8c13 -->
+            <head xml:id="JMAet9-d35936-Hd1e103">Caput 13</head>
+            <p xml:id="JMAet9-d35936-d1e106">
+               <lb ed="#P" n="45"/>
+               <quote xml:id="JMAet9-d35936-Qd1e110" type="lemma">CVm autem tres sint amicitiae</quote> &amp;c. Superius philosophus de amicitia in generali &amp; de eius speciebus in 
+      <lb ed="#P" n="46"/>speciali loquutus est. Nunc autem de amicitiae conseruatione &amp; dissolutione agit Et caput istud sex 
+      con<lb ed="#P" n="47" break="no"/>clusionibus &amp; vnius quaestionis solutione absoluitur. Dicit ergo primo. Cum autem tres sint amicitiae, vt 
+      <lb ed="#P" n="48"/>ab initio scilicet huius octaui, dictum est, vna ob virtutis bonum, secunda ob voluptatem, tertia ob vtile: Et in 
+      <lb ed="#P" n="49"/>vnaquaque alii sint pares alii, impares: hoc est iterum diuisis amicitiis illis secundum duas differentias, puta quae 
+      <lb ed="#P" n="50"/>sint inter aequales &amp; inter inaequales: Nam &amp; boni inter se fiunt amici, hoc est aequaliter boni &amp; sic pares tan 
+      <lb ed="#P" n="51"/>git: &amp; praestabilior fit amicus deteriori hoc est inferiori, qui comparatiue est deterior: &amp; ita in voluptate &amp; vti 
+      <lb ed="#P" n="52"/>litate &amp;c, sic sex amicitiae species habemus, primam ob bonum honestum inter pares: secundam ob bonum honestum 
+      <lb ed="#P" n="53"/>inter impares: &amp; sic de aliis duobus membris quadripartiendo. Post haec ponit duas leges: vnam inter pares 
+      alte<lb ed="#P" n="54" break="no"/>ram inter impares: dicitque primo sic. Pares quidem tam in amando quam in caeteris aequales esse debent: hoc est tam in  
+      <lb ed="#P" n="55"/>amore quam in aliis beneficiis eos aequalitatem seruare oportet, secundum illud dictamen legis naturae Matthaei septi¬ 
+      <!--296.xml-->
+      <pb ed="#P" n="138-r"/>
+               <lb ed="#P" n="1"/>mo: Omnia quaecumque vultis vt faciant vobis homines, haec eadem &amp; vos facite illis. Secunda lex est. Impares 
+      au<lb ed="#P" n="2" break="no"/>tem id reddent quod excellentiae ratio flagitat. Secundum illud Roma. xiii. Reddite omnibus debita. cui 
+      tri<lb ed="#P" n="3" break="no"/>butum tributum, cui vectigal vectigal: cui timorem timorem, cui honorem honorem. In epilogo haec omnia 
+      di<lb ed="#P" n="4" break="no"/>cta sunt. Post sequitur prima huius capitis conclusio. Fiunt in amicitia quae vtilitatis est gratia, non sine ra 
+      <lb ed="#P" n="5"/>tione incusationes &amp; querimoniae. Quam probat per duas conclusiones praeuias, quarum prior est. Qui namque sunt ob 
+      <lb ed="#P" n="6"/>virtutem amici proni sunt ad beneficia sibi conferenda. Beneficium est munus &amp; benefactum: non vt vulgo capitur 
+      <lb ed="#P" n="7"/>dignitas presbytero addicta quemadmodum est sacerdotium. Hanc sic probat. In illa amicitia in qua vterque 
+      ami<lb ed="#P" n="8" break="no"/>cus habet illud quod exoptat, non fiunt incusationes &amp; querelae, sed talis est amicitia ob virtutem: igitur. Conse 
+      <lb ed="#P" n="9"/>quentia tenet cum maiore. Minorem in litera probat. Nam illi qui sunt amici ob virtutem, propensi sunt ad sibi 
+      <lb ed="#P" n="10"/>mutuo benefaciendum. Ad hoc enim certatim properant &amp; contendunt. Amanti enim&amp; benefacienti quis 
+      suc<lb ed="#P" n="11" break="no"/>censet vnquam certe nullus, praesertim si gratus beneficiis respondit secundum vires suas: alioqui non est amicus, de 
+      <lb ed="#P" n="12"/>quo sermo habitus est. Quod si nonnunquam contingat vt in beneficiis quis exuperet, cum assequatur quod cu 
+      <lb ed="#P" n="13"/>pit non incusabit amicum. Vterque enim alteri bonum optat. Secunda conclusio. In amicitiis quae ob voluptatem 
+      consi<lb ed="#P" n="14" break="no"/>stunt, non multum incusationes &amp; querelae fiunt. Nam si simul degere gaudent, fit simul vtrisque quod vtrique 
+      ap<lb ed="#P" n="15" break="no"/>petunt. Non igitur tunc fiunt incusationes &amp; querimoniae. Qui si alterius consuetudo iucunda non extiterit, 
+      ri<lb ed="#P" n="16" break="no"/>diculus videbitur qui tunc alium accusabit: cum illi liceat cum illo non conuiuere. Ecce ergo exponentem negatiuam illius 
+      <lb ed="#P" n="17"/>exclusiuae per duas conclusiones probatam: quia per contradictoriam secundae exponentis illius exclusiuae 
+      sequere<lb ed="#P" n="18" break="no"/>tur quod in amicitia ob honestum aut ob vtile fierent incusationes, cum non ponantur aliae purae amicitiae. Postea 
+      <lb ed="#P" n="19"/>exponentem affirmatiuam probat quae est tertia conclusio inquiens. At in ea quae vtilitatis gratia constat locum 
+      <lb ed="#P" n="20"/>habent incusationes &amp; querimoniae, cum se mutuo pro emolumento vtantur, semper pluris indigent &amp; sese 
+      mi<lb ed="#P" n="21" break="no"/>nus quam par sit, habere putant, suntque queruli ob idipsum quod non tanta reportent quantis ipsi egent, quibus 
+      viden<lb ed="#P" n="22" break="no"/>tur iudicio suo digni: &amp; qui beneficia conferunt tot conferre nequeunt quot ii egent in quos beneficia 
+      confe<lb ed="#P" n="23" break="no"/>runtur, quare non ab re in hac amicitia incusationes fiunt &amp; querimoniae. Tota causa ergo huius querelae est 
+      <lb ed="#P" n="24"/>quia alter censet se minus a reliquo accepisse quam ipse dignus sit: contra alter non potest illi ad votum satiffacere: 
+      <lb ed="#P" n="25"/>Et gratia illius plenius intelligendi distinguit amicitia vtilem secundum distinctionem iusti. Sicut enim duplex est 
+      <lb ed="#P" n="26"/>iustum, vt patet quinti ethicorum septimo: scilicet iustum naturale quod hic morale dicitur: &amp; ius legale siue 
+      <lb ed="#P" n="27"/>legitimum hoc est ius positiuum de quo non ambigitur, &amp; communi conscripto redigitur: dicit quod ita in amicitia est 
+      <lb ed="#P" n="28"/>ob vtile. Nam quaedam est amicitia ob vtile morale, &amp; quaedam est amicitia ob vtile legale. Amicitia propter vtile 
+      <lb ed="#P" n="29"/>morale est quando vnus exhibet alteri vtilitatem secundum quod a lege statutum est, vt decem aureos pro modio 
+      triti<lb ed="#P" n="30" break="no"/>ci quando tanti in foro venditur. Fiunt igitur incusationes tum maxime cum non per easdem amicitiam commutant &amp; 
+      <lb ed="#P" n="31"/>dissoluuntur tales amicitiae. Verbi causa, vnus dat aequum amico suo tanti quanti in foro venditur: alter eum acci 
+      <lb ed="#P" n="32"/>pit secundum conuenientiam moralem, dicendo sum tibi amicus, ergo minus a me accipere debes quam aequus, va 
+      <lb ed="#P" n="33"/>let secundum legem statutam fori. Hic autem ex vna parte exigitur commutatio secundum legem, &amp; ex altera parte 
+      <lb ed="#P" n="34"/>connotatio secundum mores &amp; gratitudinem: &amp; quia non concordant, fiunt quaestus &amp; rixae. Et legitima quidem 
+      <lb ed="#P" n="35"/>amicitia ea est quae in definitis consistit, hoc est quando valor rei secundum legem positus est: &amp; quaedam est 
+      sordi<lb ed="#P" n="36" break="no"/>da vt quae est de manu in manum &amp; nihil gratificationis est iri ea: vt quando duo agricolae compares in foro 
+      ven<lb ed="#P" n="37" break="no"/>dunt post euacuationem poculi &amp; largam potationem dicunt sese amicos, sed omnia ad manum commutant. 
+      <lb ed="#P" n="38"/>Quaedam autem amicitia est liberalior vt quae ad temporis vtilitatem praestat, sed per stipulationem quid pro quo. 
+      <lb ed="#P" n="39"/>Et exemplo notum est quid in hac amicitia debetur, &amp; in controuersiam non venit. Habet tamen dilationem 
+      gra<lb ed="#P" n="40" break="no"/>tiosam: vt vendo tibi. Amensuram nunc, in foro valentem decem, pro decem: solutionem expectando. Nec termi 
+      <lb ed="#P" n="41"/>num determinatum ponimus, nec illud scripto aut testimonio roboramus, quapropter apud nonnullos in 
+      ta<lb ed="#P" n="42" break="no"/>li contractu non sunt iudicia, sed arbitrantur eos contentos esse oportere qui fide commutauerunt. Et moralis 
+      <lb ed="#P" n="43"/>non in definitis determinatisque consistit: hoc est non fit in stipulatione expressa: sed ille qui dat 
+      recompensa<lb ed="#P" n="44" break="no"/>tionem cupit, de qua tamen non fit mentio in traditione rei. Verbis vtitur ac si esset donatio libera: mentaliter 
+      <lb ed="#P" n="45"/>tamen solum commutat. Tunc si dans non recipiat aequale aut maius, incusationes &amp; rixae ab eo mouentur. Litera 
+      <lb ed="#P" n="46"/>sic habet. Sed vt amico quidem largitur, aut vt alii cuicumque quisquis is tandem sit: hoc est qui largitur vt 
+      ami<lb ed="#P" n="47" break="no"/>co aut vt alteri cuipiam: iste fidit: &amp; hoc ideo accidit quia omnes volunt bona, hoc est apparere boni &amp; 
+      hone<lb ed="#P" n="48" break="no"/>sti&amp; grati: ideo bona sua tradunt quia gratis absque stipulatione verbali solum: anteponunt autem ea quae prosunt. 
+      <lb ed="#P" n="49"/>Sicut primo elenchorum philosophus dicit. Non enim eadem volunt homines &amp; dicunt: dicunt enim 
+      decoratissi<lb ed="#P" n="50" break="no"/>mas orationes, volunt autem ea quae videntur prodesse. Atque honestum est beneficia conferre, non vt vicissim susci 
+      <lb ed="#P" n="51"/>piant, vtile vero suscipere. Sequitur quarta conclusio. Si potest igitur &amp;c. Si potest amicus amico paria 
+      re<lb ed="#P" n="52" break="no"/>pendere sua sponte id efficere debet, quia non debet amicus cogere amicum facere inuite: sic vt velit gratis reci 
+      <lb ed="#P" n="53"/>pere ab eo qui non vult gratis elargiri. Si enim recipiens beneficium simile non rependit quia dantem eum 
+      suppo<lb ed="#P" n="54" break="no"/>nit qui talis non est in rei veritate, tunc amicum vult inuitum habere, errore in principio facto. Hoc est errat in  
+      <lb ed="#P" n="55"/>principio beneficii accepti accipiens beneficium ab illo a quo non debuit. Nam ille qui beneficium contulit, non 
+      con<lb ed="#P" n="56" break="no"/>tulit illud ob illum cui datum est, sed ob lucrum inde speratum. Dissoluere ergo beneficium operaeprecium est: vt 
+      benefi<lb ed="#P" n="57" break="no"/>cio pro defunctis suscepto. Eo modo solutio est in conventionibus quae in stipulatione fiunt. Atque polliceri 
+      sci<lb ed="#P" n="58" break="no"/>licet oportet, cum posset reddere. Nam si reddere non posset nec dignum is qui dedit ipsum suo munere censuisset: 
+      <lb ed="#P" n="59"/>hoc est ille qui dedit non putabat dignum aliquid ab eo exigere, vt si darem vestem valentem viginti Socrati non 
+      ha<lb ed="#P" n="60" break="no"/>benti. iiii. indicium est quod nolo aliquid ab illo accipere. Vel sic, Oportet polliceri reddere cum posset: posse enim eum qui 
+      <lb ed="#P" n="61"/>accepit putat is qui dedit: quia alioqui non dedisset. Sequitur in litera. A principio ergo considerandum est a 
+      <lb ed="#P" n="62"/>quonam beneficium &amp; pro quo confertur, vt pro his suscipiat an vt non suscipiat illud. Cum ergo tibi praesentatur 
+      <lb ed="#P" n="63"/>beneficium, vide an gratis opinione tua bene ponderata qui illud offert det an non vtroque istorum dato tantum 
+      <lb ed="#P" n="64"/>aut maius retribuat: si enim gratis, gratum saese ostendat, quia manus manum fricat, si det vt habeat vide vtrum 
+      <!--297.xml-->
+      <pb ed="#P" n="138-v"/>
+               <lb ed="#P" n="1"/>simile aut maius rependere potes an non: si potes repende libenter, ne vincaris in beneficio: si rependere nequeas 
+      <lb ed="#P" n="2"/>hoc illi significa: &amp; sic incusationes &amp; questus euitabis. Sequitur in litera dubitatio. Existit dubitatio hoc est 
+      <lb ed="#P" n="3"/>in dubium vertitur vtrum beneficium suscipientis vtilitate metiri oportet, quod repetendum est, aut potius merito eius 
+      <lb ed="#P" n="4"/>qui beneficium contulit. Et id quidem non ab re dubitationem habet. Et vtrinque argumentatur, a parte ingrati 
+      re<lb ed="#P" n="5" break="no"/>ceptoris &amp; collatoris inflati. Primo sic. Nam qui beneficium acceperunt idipsum attenuantes dicunt ea se accepisse, quae 
+      <lb ed="#P" n="6"/>exigua erant his qui contulerunt: &amp; quae sibi ab aliis licet accipere. Contra qui contulerunt dicunt se ea contulisse quam 
+      <lb ed="#P" n="7"/>maxima suarum rerum erant, quaeque ab aliis assequi non poterant recipientes, aut in periculis aut necessitatibus 
+      tali<lb ed="#P" n="8" break="no"/>bus. Sicut vir quispiam plebeius recipiens mille ab Alexandro Macedone, dicit se parum a tali rege accipere, &amp; quod 
+      <lb ed="#P" n="9"/>licite tantum poterat a tam locuplete viro recipere. Contra autem collator suum beneficium auget, dicens se contulisse ma 
+      <lb ed="#P" n="10"/>xima, &amp; qualia non decet recipientem ab ipso recipere: aut qualia ipse non potest sibi inuenire: &amp; quod ea contulerit 
+      <lb ed="#P" n="11"/>in magnis periculis, &amp; in magnis necessitatibus, eorum qui beneficia receperunt.
+    </p>
+            <p xml:id="JMAet9-d35936-d1e307">
+               <pc type="pilcrow">¶</pc> Dubitationem soluit quintam 
+      <lb ed="#P" n="12"/>conclusionem ponendo &amp; dicendo. An quia amicitia est ob vtilitatem &amp;c. Hoc est vtilitas accipientis potius mensura 
+      <lb ed="#P" n="13"/>esse debet vt quantum vtilitatis consequutus est tantum aut plus rependat. Nam haec amicitia ob vtilitatem est: vtilitas 
+      <lb ed="#P" n="14"/>autem est eius qui beneficium suscipit. Indigus enim est beneficium suscipiens, cuius indigentiae collator succurrit, parem 
+      <lb ed="#P" n="15"/>gratiam accepturus. Tantum ergo auxilium fuit, quantum ipse vtilitatis accepit: tantumque dehet, si potest beneficium 
+      <lb ed="#P" n="16"/>rependere vel maius. ld enim honestius est. Sequitur in litera. Sexta conclusio. In amicitiis quae sunt ob virtutem 
+      <lb ed="#P" n="17"/>incusationes non sunt. In his autem amicitiis mensura referendae gratiae ex parte electionis ponderanda est: hoc est 
+      <lb ed="#P" n="18"/>ponderandus est affectus &amp; non effectus. Quare mulier euangelica quae duo minuta in gazophylacium posuit 
+      <lb ed="#P" n="19"/>plus omnibus aliis posuit, quia a sinceriori actu &amp; difficiliori: hoc est praecipuum in virtute. Nam mensura in 
+      vno<lb ed="#P" n="20" break="no"/>quoque genere est illud quod est maximum in illo, decimo metaphysicae.
+    </p>
+            <p xml:id="JMAet9-d35936-d1e332">
+               <pc type="pilcrow">¶</pc> Contra secundam conclusionem 
+      praeam<lb ed="#P" n="21" break="no"/>bulam obiicitur: Vir non potest vxorem derelinquere, ergo potest licite non delectationem incusare cum non liceat vi 
+      <lb ed="#P" n="22"/>ro cum coniuge non conuersari. Respondetur primo quod in lumine naturali difficile est ostendere diuortium esse 
+      con<lb ed="#P" n="23" break="no"/>tra legemn naturae. Sed quia conformius est ad legen naturae quod vinculum matrimonii est indissolubile. Respondetur 
+      <lb ed="#P" n="24"/>quod Aristoteles intelligit in pluribus: &amp; hoc in conclusione innuit dicens. Nec in his quam ob voluptatem constant, querelae 
+      <lb ed="#P" n="25"/>nimium sunt: acsi diceret nonnumquam sunt. Tertio dicitur quod licet vinculum matrimonii non dissoluatur, parum tamen potest quis 
+      <lb ed="#P" n="26"/>cum coniuge rixosa conversari: &amp; hoc non nisi tmpore necessitatis vt fecit Socrates cum rixosa &amp; morosa Zantippe.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

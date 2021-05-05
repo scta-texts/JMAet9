@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d32427"><!-- mair-l8c1 -->
+            <head xml:id="JMAet9-d32427-Hd1e103">Caput 1</head>
+            <!--alias="mair-l8c1p1"-->
+            <p xml:id="JMAet9-d32427-d1e108">
+               <lb ed="#P" n="47"/>
+               <quote xml:id="JMAet9-d32427-Qd1e112" type="lemma">POst haec consequens est</quote> &amp;c. Iste est octauus Ethicorum liber, in quo philosophus de 
+      ami<lb ed="#P" n="48" break="no"/>citia loquitur in superioribus voluminibus proposuit finem tanquam incendium ad 
+      virtu<lb ed="#P" n="49" break="no"/>tem, scilice: ipsam felicitatem, promiscue de actiua atque contemplatiua loquens, quamuis 
+      ple<lb ed="#P" n="50" break="no"/>rique sermonis eius potius felicitati actiuae quam contemplatiuae accomodentur felicitatem. 
+      <lb ed="#P" n="51"/>sq per virtutem descripsit, &amp; mox paulo emunctam doctrinam virtutum tradidit, tamque de 
+      vir<lb ed="#P" n="52" break="no"/>tutibus moralibus qui intellectiuis affatim docuit: &amp; cum praeter haec dicat quaedam 
+      prose<lb ed="#P" n="53" break="no"/>quenda, fugiendaque, quae stricte loquendo non sunt virtutes &amp; vitia vt continentia 
+      incontinen<lb ed="#P" n="54" break="no"/>tiaque &amp; similia: de quibus luculente in sexto disputauit. Restabat amicitia quae est virtus aut virtuti 
+      affi<lb ed="#P" n="55" break="no"/>nis enucleanda: quae ad felicem actum maxime conducit, de ea in hoc libro atque sequenti edocet. Hunc au¬ 
+      <!--268.xml-->
+      <pb ed="#P" n="124-r"/>
+               <lb ed="#P" n="1"/>tem librum in tres partes separat. In prima de amicitia personarum aequalium docet. In secunda de 
+      ami<lb ed="#P" n="2" break="no"/>citia quae est inter personas inaequales. In tertia loquitur de querimoniis &amp; accusationibus quae circa 
+      amici<lb ed="#P" n="3" break="no"/>tias contingunt. Primum caput in duas partes diuiditur, scilicet in prooemium &amp; in tractatum, secunda ibi est 
+      <lb ed="#P" n="4"/>autem controuersia. In prooemio probat ad moralem philosophum spectare de amicitia pertractare: quae 
+      <lb ed="#P" n="5"/>est huius octaui prima conclusio. Et hoc facit ne in impertinente more multorum procedere videretur. Hanc 
+      <lb ed="#P" n="6"/>conclusionem sex rationibus probat. Prima ratio est haec. De omni specie virtutis moralis: &amp; ei necessario an 
+      <lb ed="#P" n="7"/>nexis ad moralem philosophum considerare spectat: sed amicitia est virtus moralis aut aliquid ei annexum: 
+      <lb ed="#P" n="8"/>igitur. Maior est nota cum consequentiae bonitate. Propterea circa minoris probationem laborat: non 
+      mo<lb ed="#P" n="9" break="no"/>re eorum qui fusius circa nota quam ignota laborant. Secunda ratio est haec. Moralis philosophus habet 
+      doce<lb ed="#P" n="10" break="no"/>re de omnibus laudabilibus, quae ad vitam humanam sunt necessaria: sed amicitia est quoddam laudabile 
+      ne<lb ed="#P" n="11" break="no"/>cessarium ad vitam humanam: igitur. Maior patet, quia moralis philosophus determinat de his quae spectant 
+      <lb ed="#P" n="12"/>ad bene viuere: &amp; minor patet, per hoc quod amici sunt necessarii, in omni fortuna &amp; in omni aetate. Hoc sic 
+      <lb ed="#P" n="13"/>ostendit. Sunt enim necessarii locupletibus &amp; inopibus: iuuenibus &amp; senibus. Qua locupletibus 
+      pernecessa<lb ed="#P" n="14" break="no"/>rii sunt bifariam declarat. Primo ob vsum bonorum fortunae. Nulla enim est bonorum fortunae vtilitas si ex 
+      <lb ed="#P" n="15"/>ipsis nulli bene fiat: modo laudabilissimum est beneficium in amicos, collatum: igitur. Secundo opulentis 
+      ami<lb ed="#P" n="16" break="no"/>ci sunt necessarii, quoniam qui locuples est &amp; in potestate constitutus sine amicis custodiri nequit: 
+      quando<lb ed="#P" n="17" break="no"/>quidem quo quis magis bonis exterius abundat, eo magis discriminibus est subiectus. Et contra, vt 
+      luue<lb ed="#P" n="18" break="no"/>nalis cecinit. Cantabit vacuus coram latrone viator: non autem locuples. Et Alexander puerorum, pauper 
+      <lb ed="#P" n="19"/>ego ludo dum tu diues meditaris. Et nos tuti loquimur dum vos timidi taceatis. Caeterum in paupertate 
+      <lb ed="#P" n="20"/>&amp; caeteris aerumnis vnicus refugii portus amici putantur. praeterea in omni aetate amici sunt hominibus gra 
+      <lb ed="#P" n="21"/>ti. Si iuuenes sint, illis summopere amici conducunt, vt eorum vitia arceant, &amp; cohibeant. Si senes: vt illis obse 
+      <lb ed="#P" n="22"/>quium praestent vt ea perficiant quae senes ob aetatis imbecillitatem peragere nequeunt. Et si aetate sint fioren 
+      <lb ed="#P" n="23"/>tes ad clara obeunda amici conducunt. Nam Diomedes &amp; Vlysses, Nisus &amp; Eurialus plus amicitia iuncti 
+      <lb ed="#P" n="24"/>agere possunt quam separati: &amp; sic in literario ocio: duo post studium mutuo conferentes multoplus, proficiunt 
+      <lb ed="#P" n="25"/>quam separatim continuo studentes, idem dicendis horis inuenies duo simul castigatius dicunt &amp; attentius quam duo 
+      sepa<lb ed="#P" n="26" break="no"/>ratim, hoc etiam cernere est in parua materia collecta quae bonum ignem reddit: &amp; si spargeretur etiam ignita parum 
+      <lb ed="#P" n="27"/>calefaceret. Vnde fit quod cuiuscumque fortunae hominibus &amp; cuiuscuque aetatis amicitia est perutilis. Sequitur. Inesse 
+      <lb ed="#P" n="28"/>etiam amicitia. Tertia ratio ad probandam conclusionem est haec. Illa quae sunt naturaliter bona homini in 
+      adiu<lb ed="#P" n="29" break="no"/>torium vitae humanae, sunt a philosopho morali consideranda: sed amicitia est huiusmodi: igitur. Minor patet, 
+      <lb ed="#P" n="30"/>amicitia enim inest secundum naturam generati ad generatum: non solum in hominibus sed etiam in aliis animalibus, qua 
+      <lb ed="#P" n="31"/>magnam diligentiam adhibent ad suorum foetuum educationem: non quod sit in eis amicitia laudabilis: quia nec virtus nec 
+      <lb ed="#P" n="32"/>eius actus inest eis: sed quia cum amicitia affinitatem habent: &amp; amicitia in eis laxato vocabulo dici potest. 
+      Qua<lb ed="#P" n="33" break="no"/>propter amatores hominum laudamus. Dum homo in via pedum errat aut morum hoc cernere licet. Dum etiam ignotum a 
+      <lb ed="#P" n="34"/>recto tramite dilirare vides, eum ad rectum protinus reuocas: ergo indicium est quod quilibet homo est alteri amicus, 
+    </p>
+            <p xml:id="JMAet9-d32427-d1e211">
+               <lb ed="#P" n="35"/>⁋ Ciuitates etiam &amp;c. Hic, ponitur quarta ratio ad conclusionem, quae est haec. Illud pertinet ad moralem philosophum 
+      <lb ed="#P" n="36"/>per quod ciuitates in esse conseruantur: sed amicitia est huiusmodi: igitur. Consequentia tenet cum maiore. 
+      Pro<lb ed="#P" n="37" break="no"/>batur minor per legumlatores qui magis circa amicitiam quam circa iustitiam student. Concordia nanque simile 
+      <lb ed="#P" n="38"/>quid amicitiae est. Cui illud Sallustianum applaudit. Concordia paruae res crescunt, discordia vero magnae 
+      <lb ed="#P" n="39"/>dilabuntur. Et illud euangelicum, omne regnum in se diuisum desolabitur. Et si sint omnes inter se 
+      ami<lb ed="#P" n="40" break="no"/>ci, iustitia non est opus: si vero sint iusti, indigent adhuc amicitia. Illa est quinta ratio quae talis est. Illud per 
+      <lb ed="#P" n="41"/>quod magis ciuitates conseruentur quam per iustitiam, pertinet ad considerationem moralis philosophi: sed per 
+      <lb ed="#P" n="42"/>amicitiam magis quam per iustitiam conseruantur ciuitates: igitur. Minorem in litera probat philosophus: &amp; dicit: 
+      <lb ed="#P" n="43"/>ld quod maxime iustum est ad amicitiam attinere videtur, quod sic intelligo: omnium iustorum 
+      ma<lb ed="#P" n="44" break="no"/>xime iustum est ad amicos. Non solum autem est necessarium. Haec est sexta ratio, quae talis est. Philosophus 
+      <lb ed="#P" n="45"/>moralis non solum habet considerare de his quae ad vitam sunt necessaria, sed habet etiam pertractare de bono 
+      <lb ed="#P" n="46"/>honesto: sed sic est de amicitia: igitur. Minorem in litera deducit.
+    </p>
+            <p xml:id="JMAet9-d32427-d1e240">
+               <pc type="pilcrow">¶</pc> Haesitaret quispiam de huius propositionis 
+      <lb ed="#P" n="47"/>veritate. Nemo enim habens caetera omnia bona sine amicis viuere expeteret. Eius falsitas sic suadetur. 
+      Igi<lb ed="#P" n="48" break="no"/>tur tyranno metu mortis solus habitare cupit. Dicis quod talis non potest aliter viuere. Tunc sic argumentor: 
+      <lb ed="#P" n="49"/>de multis eremicolis in principio nascentis ecclesiae vt de Xachariae insigni filio: Paulo primo eremita, Anto 
+      <lb ed="#P" n="50"/>nio &amp; aliis patribus in thebaide gypti caelo dignis: qui hominum consortia fugiebant: ergo sine amicis vi 
+      <lb ed="#P" n="51"/>uere optime poterant. Secundo argumentor sic. Vir felix (politice loquendo) paucis eget: igitur. Nec ab amicis 
+      <lb ed="#P" n="52"/>dependet: quia sic ab extrinseco dependeret, quod est inconueniens. Primo enim libro dici infelicitas per se est 
+      <lb ed="#P" n="53"/>sufficiens. In oppositum est Aristoteles in litera: &amp; commentator quinto metaphysicae: virum eremitam 
+      cen<lb ed="#P" n="54" break="no"/>set neque bonum neque malum. Respondetur quod Aristoteles intellexit vt in pluribus. Aliqui tamen sunt ita 
+      <lb ed="#P" n="55"/>proterui qui in hominum societatibus ex malignitate viuere nequeunt. Quemadmodum erat Timon 
+      <lb ed="#P" n="56"/>Atheniensis qui nullum praeter vnum Peantum ad colloquium admisit. Et Antonius trium vir 
+      actia<lb ed="#P" n="57" break="no"/>ca clade fractus Timonem imitatus fuisset si non Cleopatrae illecebris ad tumultum aulicum fuisset 
+      reuo<lb ed="#P" n="58" break="no"/>catus, verum alia fuit Antonio talis solitudinis causa, verecundia enim hominum conspectum pertaesus est. In  
+      <lb ed="#P" n="59"/>clyti sane vt vitiis vacarent in solitudinem concessere. Heliam in solitudine deus coruino ministerio 
+      ciba<lb ed="#P" n="60" break="no"/>uit. Paulum thebaeum simili pastualuit. Hic Paulus nomenclaturam eremicolis reliquisse fertur. Septem 
+      <lb ed="#P" n="61"/>&amp; nonaginta annos eremum incoluit, quantum aliorum nemo, nunquam post primum a secularibus discessum 
+      <lb ed="#P" n="62"/>hominem praeter solum Antonium vidit. lsti viro similes minime sunt vituperabiles, proculdubio erant 
+      <lb ed="#P" n="63"/>heroes angelico cibatu celitus cibati, de his autem non loquitur Aristoteles, sed de praetacto Timone &amp; 
+      si<lb ed="#P" n="64" break="no"/>milibus. Tales sunt malignantis naturae quos Aristoteles primo politicorum bestiis comparat. Nam primo po¬ 
+      <!--269.xml-->
+      <pb ed="#P" n="124-v"/>
+               <lb ed="#P" n="1"/>liticorum ait quod homo natura ciuile est animal. Et qui absque ciuitate est per malitiam non per fortunam, 
+      <lb ed="#P" n="2"/>aut nequam est aut potior quam homo: si em ob prauitatem cum aliis habitare nequit nequam est. Eremicole 
+      di<lb ed="#P" n="3" break="no"/>cti, qui sibi solis sufficiunt, sunt maiores quam homines hoc est quam communiter homines sunt. Sicut 
+      Ioanne<lb ed="#P" n="4" break="no"/>baptista, a Chrysostomo in homilia decollationis eius dicitur maior homine. Commentator loquitur de eis 
+      <lb ed="#P" n="5"/>qui non bene agunt aliis: qui seruant se: quos nec pessimos nec optimos vocat. hoc est solum mediocres &amp; sic 
+      <lb ed="#P" n="6"/>nec fiunt boni neque mali. Decuiusmodi viro etiam Horatius: nec vixit male qui viuens moriensque fefellit. i. 
+      <lb ed="#P" n="7"/>latuit: non dicit quod bene vixit: sed quod non male. Vlterius adhuc argumentor, Socrates potest viuere vita com 
+      <lb ed="#P" n="8"/>muni sine his amicis demonstrando duos, &amp; sine illis quoscumque alios duos monstrando. &amp; sic de singulis: ergo 
+      <lb ed="#P" n="9"/>potest viuere sine amicis.
+    </p>
+            <p xml:id="JMAet9-d32427-d1e310">
+               <pc type="pilcrow">¶</pc> Quarto amicitia est erga paucos, ergo potest viuere, cum vno. Ad tertium 
+      di<lb ed="#P" n="10" break="no"/>co quod ratio est nulla: vt ex logica notum est. Ad quartum dicitur quod egre homo potest viuere cum solo vno 
+      <lb ed="#P" n="11"/>amico. Secundo plurale saepius capitur, promiscue, vt singulare &amp; plurale simul includat.
+    </p>
+            <p xml:id="JMAet9-d32427-d1e320">
+               <pc type="pilcrow">¶</pc> Dubitatur item 
+      <lb ed="#P" n="12"/>an amicitia sit praeferenda iustitiae. Respondetur affirmatiue. Patet ex philosopho in litera: &amp; ratione sic 
+      pro<lb ed="#P" n="13" break="no"/>batur. Nam si aliqui sint inter se amici in nullo iustitia egent. At non contra. Prius patet: si sint inter se 
+      <lb ed="#P" n="14"/>amici habent omnia quasi inter se communia quantum ad vsum: sicut secundo politicorum inquit philosophus: 
+      <lb ed="#P" n="15"/>&amp; per consequens inter eos non erunt lites. lustitia itaque. i. legalis sanctio non iusta vita, quae est amicitiae mater, 
+      <lb ed="#P" n="16"/>eis inanis erit. Secunda pars patet, dato quod in politia iustitia fuerit: adhuc amicitia requiritur patet, quia 
+      ne<lb ed="#P" n="17" break="no"/>mo est sibi sufficiens, vt dicitur primo politicorum: nec potest per seipsum omnia necessaria habere etiam via 
+      <lb ed="#P" n="18"/>iustitiae. Patet de vsu rerum commutabilium: quare homo indiget rebus aliorum per viam amicabilis gratiae 
+      <lb ed="#P" n="19"/>saepius, &amp; vt sibi mutuo inseruiant, vtque locupletes in opibus succurrant &amp; ediuerso: iuuenibus vt senes 
+      <lb ed="#P" n="20"/>opitulentur, &amp; contra: vt in expositione literae meminimus. Et Aristoteles ait, quod quidam existimant 
+      eos<lb ed="#P" n="21" break="no"/>dem &amp; eandem rem esse viros bonos &amp; amicos: acsi diceret est vir bonus ergo amicus &amp; ediuerso. In nostro 
+      <lb ed="#P" n="22"/>vulgari sermone britannico dicimus. Si non est amicus ergo est perfidus. Et Tullius in libro de amicitia, 
+      <lb ed="#P" n="23"/>amicitiam omnibus humanis bonis praefert inquiens: Ego vos tantum hortari possum vt amicitiam 
+      omni<lb ed="#P" n="24" break="no"/>bus rebus humanis anteponatis. Et paulo post dicit. Nihil a diis immortalibus datum hominibus est 
+      me<lb ed="#P" n="25" break="no"/>lioris amicitia: excepta sapientia. ldem habet Seneca in epistola quadam ad Lucilium. In hocque Scipionem Affri 
+      <lb ed="#P" n="26"/>canum maximopere extollunt quod hominum amicitiam more mercium preciosarum emere satagebant. 
+      <lb ed="#P" n="27"/>Insuper charitas acquisita ad amicitiam spectat: sed nulla virtus acquisita est ea praestantior (haec enim 
+      in<lb ed="#P" n="28" break="no"/>clinat ad deum super omnia diligendum &amp; ad omnem proximum propter deum amandum. Suadetque 
+      su<lb ed="#P" n="29" break="no"/>perioribus parere: miseris succurrere: &amp; ita de aliis eius proprietatibus) igitur. Finaliter dicitur si amicitia 
+      <lb ed="#P" n="30"/>sine iustitia inesset ciuibus inclinaret mediate hoc est mediante suo actu elicito in actus iustitiae &amp; aliarum 
+      <lb ed="#P" n="31"/>virtutum: quia inclinat immediate ad liberaliter &amp; magnifice dandum: honeste conuiuendum, &amp; sic 
+      pro<lb ed="#P" n="32" break="no"/>pinque se haberet ad iustitiam procreandam.
+    </p>
+            <!--alias="mair-l8c1p2"-->
+            <p xml:id="JMAet9-d32427-d1e373">
+               <lb ed="#P" n="48"/>
+               <quote xml:id="JMAet9-d32427-Qd1e377" type="lemma">Est autem controuersia</quote> &amp;c. Post Prooemium tractatum inchoat: in quo primo aliorum sententias de amicitia 
+      reci<lb ed="#P" n="49" break="no"/>tat, vt in septimo fecit: illudque est ei peculiare. Postea propriam inserit: more ortulani vrticas, cicutas &amp; alias her 
+      <lb ed="#P" n="50"/>bas orto inutiles primo euellentis, vt postea saluiam lactucam boraginem &amp; caeteras salutares herbas inserat. Di 
+      <lb ed="#P" n="51"/>cit itaque primo sic. Est autem controuersia de ipsa non mediocris, hoc est circa amicitiam opiniones oppsitae pul 
+      <lb ed="#P" n="52"/>lulant. Quidam enim dixerunt amicitiam esse similitudinem quandam, hoc est inter similia esse amicitiam: vt 
+      <lb ed="#P" n="53"/>monedula gaudet societate monedulae. &amp; cum ea amicitia vtitur, monedula est auis nigra dicta monedula 
+      <lb ed="#P" n="54"/>quia monetam diligit: aurum &amp; argentum clanculum capit, vt de pica &amp; talibus videre est. Alii contra, hoc est 
+      <lb ed="#P" n="55"/>contrarium inquiunt. Nam dicunt omnes figulos inter sese odium habere &amp; omnes tales. i. qui sunt vnius 
+      <lb ed="#P" n="56"/>professionis: &amp; perquirunt naturalius &amp; altius hoc est per rationes naturales. Euripides enim poeta dicit 
+      <lb ed="#P" n="57"/>Cum autem sicca tellus, ipsa certe tum hymbrem amat &amp;c. Hoc est suum contrarium: &amp; cum ether materia 
+      <lb ed="#P" n="58"/>pluuiae turget &amp; caelum tumet &amp; inflatur hymbrem auet vt cadat in sinus telluris hoc est in gremium terrae 
+      <lb ed="#P" n="59"/>&amp; eius viscera tanquam in terram siccam suum contrarium, quod diligit. Sinus nonnunquam est littus curuum 
+      <!--270.xml-->
+      <pb ed="#P" n="125-r"/>
+               <lb ed="#P" n="1"/>vt sinus adriaticus. Tertia est opinio Heraclii philosophi dicentis, contrarium esse conducens &amp; 
+      accommo<lb ed="#P" n="2" break="no"/>dum suo contratio: &amp; ex differentibus pulcherrimum concentum oriri. Et coloratur istud tam in picturis 
+      <lb ed="#P" n="3"/>quam in harmonia, ita quod contrarietas est omnium rerum amoris causa, dixitque omnia fieri per litem, quae ex contra 
+      <lb ed="#P" n="4"/>rietate est Empedocles aliter ab his sentit dicens, simile appetere simile. Naturales dubitationes philosophus 
+      <lb ed="#P" n="5"/>hic relinquit: quia huic materiae morali non sunt accommodatae. In scientiis enim debemus ex propriis 
+      pro<lb ed="#P" n="6" break="no"/>cedere, primo posteriorum. Consideremus nos hic inquit ea quae humana sunt hoc est ad hominum mores &amp; 
+      <lb ed="#P" n="7"/>affectus eorum spectant: vt an amicitia sit inter omnes mortales, &amp; an non sit possibilis inter prauos. Vel an 
+      <lb ed="#P" n="8"/>sit ponenda vna amicitiae species an plures. Et dicit quod quidam naturaliter loquentium vnam solum ami 
+      <lb ed="#P" n="9"/>citiae speciem ponebant: leui motiuo moti, vtpote hoc. Quaecunque recipiunt magis &amp; minus, hoc est 
+      opera<lb ed="#P" n="10" break="no"/>tur secundum magis &amp; minus, quia Socrates plus fratrem quam distantiorem in gradu consanguinitatis 
+      dili<lb ed="#P" n="11" break="no"/>git. Verum isti non sufficienti argumento ducuntur. Dicimus enim quod homo est nobilissimum animalium 
+      <lb ed="#P" n="12"/>&amp; charitas nobilissima qualitas: &amp; tamen inter haec multa sunt quae specie discrepant. Sed de istis antea hoc est 
+      <lb ed="#P" n="13"/>in septimo physicorum diximus. Nam ethica &amp; politica in fine vitae cum esset annosior scripsit. 
+    </p>
+            <p xml:id="JMAet9-d32427-d1e437">
+               <lb ed="#P" n="14"/>⁋ Dubitatur hic vtrum inter similia an dissimilia sit amicitia. Respondetur quod inter similia de per se L 
+      <lb ed="#P" n="15"/>est amicitia. Probatur per sapientem: omne animal diligit sibi simile. Et eccle. i. omnis caro ad similem sibi 
+      <lb ed="#P" n="16"/>coniungetur: &amp; omnis homo simili sui sociabitur. Et patet inductiue: Ques gregatim inter se viuunt non 
+      <lb ed="#P" n="17"/>cum porcis: sic porci inter se, monedulae, grues, &amp; sic de aliis animantibus. Secundum adagium vulgare 
+      sem<lb ed="#P" n="18" break="no"/>per id est &amp; erit, similis similem sibi quaerit.
+    </p>
+            <p xml:id="JMAet9-d32427-d1e450">
+               <pc type="pilcrow">¶</pc> Contra hoc argumentor. Viri eiusdem professionis de paritate 
+      <lb ed="#P" n="19"/>certantes odio se prosequuntur, aut non magna charitate, vt videmus quotidie: cui astipulatur illud Hesi 
+      <lb ed="#P" n="20"/>odi. Inuidet &amp; figulus figulo vel egenus egeno. Sicque faber fabro dulcisque poeta poetae. Insuper 
+      contra<lb ed="#P" n="21" break="no"/>ria contrariis curantur: ergo vnum contrarium conducit habenti aliud, vt laboranti tertiana quotidia 
+      <lb ed="#P" n="22"/>na aut continua febre, frigrida applicantur. Non autem in quartana. Respondetur quod prudentes eiusdem 
+      <lb ed="#P" n="23"/>artis sese fraternaliter diligunt. Sed quia hi sunt rari: quod se non charitate magna prosequuntur per accidens: 
+      fa<lb ed="#P" n="24" break="no"/>ber enim non est fabro inimicus per se. i. quia faber est, sed quia vnus alterius lucrum impedit aut exaltationem 
+      fa<lb ed="#P" n="25" break="no"/>mae vel eam denigrare videtur: quando ista non contingunt mutua beneuolentia sese persequuntur: vt dum alter 
+      <lb ed="#P" n="26"/>cessit fato superstes cum laruis non luctatur. Vel dum vnus parisii alter vero Oxoniae in eadem professione legit 
+      <lb ed="#P" n="27"/>esto quod vterque in illius professionis apice sublimatus fuerit. Nisi a casu contra se scribam: quia in fama sunt 
+      <lb ed="#P" n="28"/>praesentes acsi in eodem loco residerent. Secundum argumentum non mouet: cum vnum contrarium aliud a sua sede appel 
+      <lb ed="#P" n="29"/>lat, non est inter materiam apparens amicitia: extendendo etiam amicitiam ad inanimata qualitas alterius expultrix 
+      so<lb ed="#P" n="30" break="no"/>cietatem cum subiecto expellendae qualitatis contrahit: &amp; est ei similis cum eius incolumitati abunde conducat.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

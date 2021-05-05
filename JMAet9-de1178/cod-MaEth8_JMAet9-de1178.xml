@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 4</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 4</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-de1178"><!-- mair-l1c4 -->
+            <head xml:id="JMAet9-de1178-Hd1e103">Caput 4</head>
+            <p xml:id="JMAet9-de1178-d1e106">
+      <!--24.xml-->
+               <pb ed="#P" n="5-r"/>
+               <lb ed="#P" n="1"/>
+               <quote xml:id="JMAet9-de1178-Qd1e114" type="lemma">NVnc autem</quote> &amp;c. Hoc loco tractatum aggreditur, totus autem tractatus decem libros ab hac parte 
+      <lb ed="#P" n="2"/>AAcontinet. Primus tractatus huius primi libri quinque capitulis completur. In primo loquitur 
+      <lb ed="#P" n="3"/>de beatitudine secundum opiniones antiquorum: in secundo opiniones allatas resumit, easdem 
+      <lb ed="#P" n="4"/>quod retundit: in tertio Paradoxum Platonicum de ideis refellit: in quarto summum bonum diffinit: in  
+      <lb ed="#P" n="5"/>quinto praefata placita ad suum propositum trahit. Caeterum hoc caput in duas partes praecipuas diui 
+      <lb ed="#P" n="6"/>dit: in priore opinationes narrat generatim de ipsa felicitate. In secunda docet ordinem inuestigandi 
+      dif<lb ed="#P" n="7" break="no"/>finitionem beatitudinis, illic. At enim ne lateat nos. Prior pars duas particulas continet, in priore 
+      re<lb ed="#P" n="8" break="no"/>petit aliqua dicta vt dicendis antedicta consuat: in secunda opiniones ponit. Dicit ergo primo sic. Nunc 
+      <lb ed="#P" n="9"/>enodandum venit quod est illud summum bonum quod est omnium humanarum operationum 
+      fi<lb ed="#P" n="10" break="no"/>nis vltimus, cuius consideratio ad ciuilem (hoc est ad moralem philosophum per synecdochen) 
+      spe<lb ed="#P" n="11" break="no"/>ctat, &amp; gratia illius repetit succincte quod prius dixit, inquiens. Nunc autem repetentes, quia omnis 
+      <lb ed="#P" n="12"/>cognitio bonum quoddam, vt in prooemio explicauimus affectat, quidnam sit id quod ciuilem 
+      facul<lb ed="#P" n="13" break="no"/>tatem appetere dicimus. Per cognitionem autem &amp; doctrinam, per electionem interiorem &amp; exterio 
+      <lb ed="#P" n="14"/>rem actum includit. Quidnam sit, hoc est quis est ille finis quem ciuilis doctrina appetit.
+    </p>
+            <p xml:id="JMAet9-de1178-d1e146">
+               <pc type="pilcrow">¶</pc> Sequitur 
+      <lb ed="#P" n="15"/>litera. Nomine. Hic ponit tria dicta quorum primum est, ferme de ipso nomine felicitatis omnes con 
+      <lb ed="#P" n="16"/>ueniunt: dicit ferme, ob ignorantes quid per nomen significetur. Nam omnes nominant finem 
+      vlti<lb ed="#P" n="17" break="no"/>mum &amp; summum humanorum actuum bonum, felicitatem, licet Hebraei Graeci &amp; Latini, aliis 
+      voca<lb ed="#P" n="18" break="no"/>bulis vtantur, synonymis aut conuertibilibus vtuntur, &amp; id satis est. Nam vulgus hoc est popellus, &amp; ele 
+      <lb ed="#P" n="19"/>gantes siue sapientes putant idem esse dictum felicem esse bene degere, &amp; bene agere, &amp; licet in quid no 
+      <lb ed="#P" n="20"/>minis conueniant, inquid tamen rei plurimum discrepant. Propterea sequitur secundo, de felicitate 
+      <lb ed="#P" n="21"/>quaenam sit, hoc est quae res est, non capimus beatitudinem collectiue, Boetiano more tertio de 
+      conso<lb ed="#P" n="22" break="no"/>latione, vbi dicitur quod beatitudo est status omnium bonorum congregatione perfectus. Consonat 
+      Augus<lb ed="#P" n="23" break="no"/>quinto de ciuitate dei, dicens, beatitudo est omnium rerum optandarum plenitudo, vbi de beatitudi 
+      <lb ed="#P" n="24"/>ne patriae loquitur. Philosophorum autem turba de ea beatitudine sermocionatur quae in hac via 
+      ob<lb ed="#P" n="25" break="no"/>tineri possit. &amp; de ea sic capta digladiantur, &amp; plebs &amp; elegantes non similiter eam assignant, quidam. 
+      <lb ed="#P" n="26"/>hoc est plebei ponunt felicitatem in bono manifesto consistere, cuiusmodi sunt bona sensibilia. vt opes, 
+      <lb ed="#P" n="27"/>voluptates, honores, insensibilia vulgus ignorat. Et adhuc vulgares inter se discrepant, quia 
+      vulgari<lb ed="#P" n="28" break="no"/>um auari felicitatem infortunae bonis collocant, vt Mydas phrygius Croesus lydius a Solone risus. 
+      Ali<lb ed="#P" n="29" break="no"/>qui in voluptatibus vt voluptuarii in Epicuri schola edocti putarunt, sic Aristippus Cyrenaicae sectae 
+      <lb ed="#P" n="30"/>conditor ponebat, &amp; Eudoxus tam philosophiae quam astrologiae consultissimus, vt in decimo libro 
+      per<lb ed="#P" n="31" break="no"/>liquescet. Non paucos sectatores haec positio habuit, in quorum numero erat Philoxenus: cuius 
+      me<lb ed="#P" n="32" break="no"/>minit philosophus in tertio, &amp; Sardanapalus Assyriorum rex, qui crapulae deditissimus ad nauseam 
+      <lb ed="#P" n="33"/>endebat atque potabat inter scorta. Multique alii helluones asotiae erant mancipati. de qua re Tullius 
+      se<lb ed="#P" n="34" break="no"/>cundo libro de finibus ait. Noli mihi fingere asotos qui in mensam vomant. Istorum gulonum deus 
+      <lb ed="#P" n="35"/>venter est ait sacer Paulus. Quidam felicitatem in honore sitam putant: vt Alexan. Philippi 
+      mace<lb ed="#P" n="36" break="no"/>donis filius gloriae esurientissimus, qui cum Anaxagoras authoritate Democriti infinitos mundos 
+      <lb ed="#P" n="37"/>decerneret, inquit, heu me miserum qui ne vno quidem mundo adhuc sum potitus. Poenorum 
+      stren<lb ed="#P" n="38" break="no"/>nuissimus dux Annibal laudem sitiebat, qui apud Silium in pugna cannensi ait, mihi magna satis, 
+      <lb ed="#P" n="39"/>sat vera superque Bellandi Martis sit gloria caetera vobis Vincantur. Mvltiadis tropheum Themistocli 
+      <lb ed="#P" n="40"/>somnum surripuit, sicut Alexandri picturis in templo Herculis in Hispania lectis a Caesare secordiam 
+      <lb ed="#P" n="41"/>suam detestatus est Caesar, quod nihil tale adhuc gessisset. Et quia virtutibus aliqui splendescere nequeunt, 
+      <lb ed="#P" n="42"/>popularem auram scelerum perpetratione ambiunt, vt Herostratus cuius Valerius &amp; Gellius 
+      memi<lb ed="#P" n="43" break="no"/>nere, qui Dianae ephesinae templum exussit vt per omnia ora volitaret. Nec minus quidam 
+      partici<lb ed="#P" n="44" break="no"/>dae factitant qui post vnam atque alteram caedem perpetratam animosi praedicantur. Deum, proximum, 
+      <lb ed="#P" n="45"/>atque regem, offendunt, vt suaui gloriolae pabulo pascantur. Quidam aliquid aliud, vt habere scientiam 
+      <lb ed="#P" n="46"/>habere consanguineos claros. Saepeque vnus in diuersis felicitatemponit: vt cum est aeger in sanitate, 
+      <lb ed="#P" n="47"/>&amp; cum est sanus, &amp; inops in diuitiis, &amp; illic est, tertium discrimen vnius a seipso. Conscii ignorationis 
+      <lb ed="#P" n="48"/>&amp; ignari, quia demirantur eos. Qui vero magna vltra eos capiunt in eminente scientia beatitudinem 
+      <lb ed="#P" n="49"/>collocant, nunc in historia, nunc in geometria, aut astronomia, si eam ardenter expetant. Quidam 
+      <lb ed="#P" n="50"/>praeter haec plura bona iam commemorata, aliud bonum quod est caeteris causa essendi vt sint bona 
+      <lb ed="#P" n="51"/>curant, quod est felicitas, vt Platonici de quibus Paulo moxdicetur. Verum omnes opinationes inda 
+      <lb ed="#P" n="52"/>gare fortasse esset inane.
+    </p>
+            <p xml:id="JMAet9-de1178-d1e234">
+               <pc type="pilcrow">¶</pc> Sequitur secunda pars principalis capitis de modo procedendi in scientia: 
+      <lb ed="#P" n="53"/>quae particula sic dicit. Ne lateat nos eas rationes inter se differre quae a principiis &amp; causis ad effectus 
+      <lb ed="#P" n="54"/>proficiscuntur, ab his quae ab effectibus ad principia procedunt. Exemplum prioris rationis: vt. 
+      Ter<lb ed="#P" n="55" break="no"/>ra interponitur inter solem &amp; lunam, diametraliter ergo eclipsis lunae est. Exemplum secundi, deliquium 
+      lu<lb ed="#P" n="56" break="no"/>nae est, prominde terra aliqua inter solem &amp; lunam interseritur. Recte ergo Plato dubitabat &amp; indagabat vtrum 
+      <lb ed="#P" n="57"/>a principiis an ad principia sit ipsa via in disciplinis: quemadmodum in stadio currentibus, vtrum 
+      <lb ed="#P" n="58"/>ad calcem, hoc est ad finem exiisse animaduertant qui praemia ponunt, an contra. Accommodum est 
+      <lb ed="#P" n="59"/>exemplum Platonis. Licet enim idem sit spatium currendi, tamen principium, hoc est terminus a quo: 
+      <lb ed="#P" n="60"/>fine siue termino ad quem discrepat. Praemia autem ponuntur &amp; decernuntur interdum in fine: &amp; interdum 
+      <lb ed="#P" n="61"/>in fronte. Cursus enim est nunc a principio &amp; nunc ad principium. Nam qui exierunt a principio suo 
+      <lb ed="#P" n="62"/>vt capiant insultantes, si persequendo neque capiunt neque capiuntur, non minore arte &amp; virtute 
+      recur<lb ed="#P" n="63" break="no"/>runt ad suos quam ab eis exierant. Quocirca palma decernitur nunc exeunti a principio &amp; capienti 
+      ad<lb ed="#P" n="64" break="no"/>uersarium, nunc redeunti libere sine sui captione. Verum huic Platonicae dubitatiunculae satiffacere: 
+      <!--25.xml-->
+      <pb ed="#P" n="5-v"/>
+               <lb ed="#P" n="1"/>promptum est vbique est a notioribus inchoandum. Bifarium autem aliqua notiora dicuntur, vnon 
+      mo<lb ed="#P" n="2" break="no"/>do simpliciter, hoc est quo ad naturam. in talibus a causa ad effectum &amp; a priori ad posterius proceditur. 
+      <lb ed="#P" n="3"/>Talia simpliciter sunt notiora, sicut causa effectum praecedit, ita parilis in talibus est demonstratio. Alia 
+      <lb ed="#P" n="4"/>sunt nobis nota: &amp; nobis principia nota non sunt, a nobis notioribus ad principia discurrimus. In Ma 
+      <lb ed="#P" n="5"/>thematicis autem eadem sunt nobis nota &amp; naturae. In naturali &amp; morali philosophia frequenter princi 
+      <lb ed="#P" n="6"/>pia sunt ignotiora. hinc corollarium suboritur, inquiens, proinde moribus educatum esse oportet eum 
+      <lb ed="#P" n="7"/>qui in hac arte de honestate, iustitia &amp; omni ciuili ratione, hoc est morali, est auditurus. Est enim prin 
+      <lb ed="#P" n="8"/>cipium: esse supple bene educatum in moribus. Nam principia ex se &amp; non per alia principia cognita 
+      <lb ed="#P" n="9"/>esse debent. Et cui hoc sufficienter constiterit inquirit in cassum cur principia vera sint. Sufficit tibi 
+      <lb ed="#P" n="10"/>cognoscere reubarbarum esse purgatiuum cholerae, esto quod te lateat quomodo choleram purgat. 
+      ldenti<lb ed="#P" n="11" break="no"/>dem satis est cognoscere concupiscentiam effrenem per abstinentiam esse domabilem, licet causam a 
+      <lb ed="#P" n="12"/>priore minime cognoscas. In mathematicis, dignitates a seipso iuuenis geometra capit vt omne to 
+      <lb ed="#P" n="13"/>tum est sua parte maius. Petitiones ab ipso monitore percipit. at qui bene moribus institutus est, aut  
+      <lb ed="#P" n="14"/>iam huius doctrinae principia tenet, aut facillime a recte docente recipiet. Qui autem neque principia ha 
+      <lb ed="#P" n="15"/>bet, neque ea facile a tradente recipit, audiat Hesiodum qui inquit, Leonardo interprete. 
+      <lb ed="#P" n="16"/>Optimus ille quidem qui per sese omnia noscens: 
+      <lb ed="#P" n="17"/>Praeceptor suus ipse sibi meliora peregit. 
+      <lb ed="#P" n="18"/>Ille bonus rursum: monitus qui recta sequatur. 
+      <lb ed="#P" n="19"/>Qui neque recta videt, neque credit recta monenti: 
+      <lb ed="#P" n="20"/>Hic solus nulla parte vtilis esse probatur. 
+      <lb ed="#P" n="21"/>Quidam sic interpretantur haec Hesiodi carmina. 
+      <lb ed="#P" n="22"/>Optimus is sese qui nouit cuncta magistro, 
+      <lb ed="#P" n="23"/>Prospiciens rerum fines: meliora sequutus. 
+      <lb ed="#P" n="24"/>Dignum laude virum parentem recta monenti 
+      <lb ed="#P" n="25"/>Credimus: ille autem sibi qui non consulit, &amp; qui 
+      <lb ed="#P" n="26"/>Alterius praecepta fugit nulli vtilis est vir. 
+    </p>
+            <p xml:id="JMAet9-de1178-d1e326">
+               <lb ed="#P" n="27"/>⁋ Dubitatur an in fortunis consistat beatitudo. Respondetur quod duplices sunt opes, vt patet primo 
+      <lb ed="#P" n="28"/>politicae, scilicet naturales &amp; artificiales. Per opes naturales homini subuenitur ad defectus naturales 
+      <lb ed="#P" n="29"/>tollendos, quemadmodum sunt cibus, potus, amictus, &amp; caetera id genus. Opes artificiales ab humana arte 
+      <lb ed="#P" n="30"/>ob facilem rerum venalium commutationem inueniuntur, vt pecuniae. Hoc praelibato respondetur 
+      <lb ed="#P" n="31"/>per hanc conclusionem. Hominis felicitas non consistit in opibus. Ostenditur haec conclusio. Nam si 
+      <lb ed="#P" n="32"/>in eis consisteret, potissimum in naturalibus haberetur: sed hoc non, ergo beatitudo non habetur in  
+      <lb ed="#P" n="33"/>opibus. Tenet consequentia a tota conditionali cum destructione consequentis ad destructionem 
+      an<lb ed="#P" n="34" break="no"/>tecedentis. Probatur iam minor, huiusmodi opes quaeruntur ad hominis manutenentiam, &amp; ob eum 
+      <lb ed="#P" n="35"/>tanquam ad finem ordinantur: proinde non possunt esse eius finis. Et ex illo sequitur quod opes artificiales 
+      <lb ed="#P" n="36"/>non possunt felicitatem constituere. porro illae non quaeruntur nisi propter naturales. Pecunia enim 
+      <lb ed="#P" n="37"/>emuntur res ad humanam vitam necessariae. 
+    </p>
+            <p xml:id="JMAet9-de1178-d1e353">
+               <lb ed="#P" n="38"/>⁋ Contra hoc argumentor. Opes in hominis affectu dominantur: at beatitudo in tali consistit, 
+      igi<lb ed="#P" n="39" break="no"/>tur. Maior patet, Ecclesiastes decimo. Pecuniae obediunt omnia. Respondetur quod opinione stultorum 
+      <lb ed="#P" n="40"/>nummo omnia parent saltem corporalia, &amp; eius illecebrae, non tamen spiritualia. Prouerbiorum 
+      deci<lb ed="#P" n="41" break="no"/>moseptimo Quid prodest stulto diuitias habere cum sapientiam emere non posset? Sapientes non 
+      <lb ed="#P" n="42"/>plus iusto extollunt pecuniam: quorum iudicium in hac parte solum est trutinandum. Sicut in 
+      sa<lb ed="#P" n="43" break="no"/>porum discretione eligendus est ille qui habet eorundem gustum moderatum. 
+    </p>
+            <p xml:id="JMAet9-de1178-d1e369">
+               <lb ed="#P" n="44"/>⁋ Dubitatur an in corporis forma consistat beatitudo. Respondetur negatiue. fiuxus enim &amp; 
+      cadu<lb ed="#P" n="45" break="no"/>cus est hominis decor: &amp; non est in potestate habentis. aliqui studiosi sunt defoeto corpore &amp; languido:  
+      <lb ed="#P" n="46"/>nec possunt opem illi afferre. Beatitudo est in hominis facultate sita. Item secundm beatitudinem homo 
+      <lb ed="#P" n="47"/>beluas transcendit: sed eas in corporis praestantia non anteit: homine enim clephantus aut ceruus est 
+      <lb ed="#P" n="48"/>viuacior &amp; robustior, &amp; homo in pernicitate a timido lepore: in robore a leone vincitur: quia tamen 
+      <lb ed="#P" n="49"/>bona corporis ad animam immediate conducunt, fortunis praestant. Secundum illud ecclesiastici, tri 
+      <lb ed="#P" n="50"/>gesimo. Non est census supra censum salutis corporis. Etiam saepicule corpus speciosum, est occasio 
+      rui<lb ed="#P" n="51" break="no"/>nae, patet in vtroque sexu. 
+    </p>
+            <p xml:id="JMAet9-de1178-d1e389">
+               <lb ed="#P" n="52"/>⁋ Dubitatur an beatitudo in honoribus consistat. Respondetur negatiue. Honor enim est quid 
+      ex<lb ed="#P" n="53" break="no"/>trinsecum in honorante: &amp; alicui exhibetur ob excellentiam, &amp; est signum excellentiae ipsius 
+      hono<lb ed="#P" n="54" break="no"/>rati: modo hominis praeconium potissimum attenditur circa beatitudinem, quae est hominis 
+      perfe<lb ed="#P" n="55" break="no"/>ctum bonum, non enim appetitur honor nisi propter excellentiam. Quaerunt enim homines 
+      hono<lb ed="#P" n="56" break="no"/>rem a sapientibus, quorum opinatione sese credunt excellentes &amp; felices. Contra istud argumentor. 
+      Bea<lb ed="#P" n="57" break="no"/>titudo est praemium virtutis, ex hoc primo: at honos est virtutis praemium vt in quarto libro 
+      enuclea<lb ed="#P" n="58" break="no"/>bitur.
+    </p>
+            <p xml:id="JMAet9-de1178-d1e407">
+               <pc type="pilcrow">¶</pc> Secundo. Illud quod conuenit deo &amp; excellentissimis, maxime videtur esse beatitudo: at ho 
+      <lb ed="#P" n="59"/>nos est huiusmodi. igitur. Consequentia tenet cum maiore. Minor patet. primae ad Timotheum 
+      pri<lb ed="#P" n="60" break="no"/>mo vbi dicit Doctor gentium. Soli deo honor &amp; gloria, vt in prima horarum quotidie secudm vsum 
+      <lb ed="#P" n="61"/>Romanum legimus. Priorem obiectionem quarto Ethicorum diluit philosophus. Honos non est praemium 
+      <lb ed="#P" n="62"/>sufficiens virtutis, ob quod studiosi operantur, ac honorem ab hominibus loco praemii acceptant, quia 
+      <lb ed="#P" n="63"/>praestantius conferendum non habent.
+    </p>
+            <p xml:id="JMAet9-de1178-d1e424">
+               <pc type="pilcrow">¶</pc> Ad secundum respondetur quod caducus honor debetur 
+      su<lb ed="#P" n="64" break="no"/>perbis in excellentiae testimonium, non quod honor exhibitus eos excellentiores efficiat.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

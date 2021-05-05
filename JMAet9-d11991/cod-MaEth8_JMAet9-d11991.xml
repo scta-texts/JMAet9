@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 7</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 7</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d11991"><!-- mair-l3c7 -->
+            <head xml:id="JMAet9-d11991-Hd1e103">Caput 7</head>
+            <p xml:id="JMAet9-d11991-d1e106">
+               <lb ed="#P" n="28"/>NOn est idem vniuersis terribile &amp;c. Actus viri fortis audacis &amp; meticulosi comparat. declarans 
+      <lb ed="#P" n="29"/>fortem semper seruare medium. Prima capitis conclusio est. Terribilia non in omnibus 
+      vnifor<lb ed="#P" n="30" break="no"/>miter existunt: terribile enim puero pumilioni &amp; decrepito non est robusto viro tale. Nam ter 
+      <lb ed="#P" n="31"/>ribilium aliud hominis facultatem transcendit, &amp; illud cuilibet sanae mentis est terribile: vt terrae 
+      mo<lb ed="#P" n="32" break="no"/>tus, maris saeua procella, tonitruum. Aliud facultatis humanae mensuram non supergreditur. Et haec 
+      <lb ed="#P" n="33"/>intensione &amp; remissione, hoc est magnitudine &amp; paruitate differunt. Terribilia igitur non omnibus 
+      <lb ed="#P" n="34"/>vnomodo existunt. Parique iure ausus differunt.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e124">
+               <pc type="pilcrow">¶</pc> Secunda conclusio. Fortis omnino impauidus non est. 
+      <lb ed="#P" n="35"/>Probatur: vir fortis impauidus est vt homo: timet enim humana terribilia vt ratio effligitat, eaque to 
+      <lb ed="#P" n="36"/>lerabit honestatis causa: is enim virtutis finis est, proinde fortis non est omnino impauidus.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e134">
+      
+      Secun<lb ed="#P" n="37" break="no"/>do argumentor ad idem sic. Aliqui metuunt terribilia plusquam oporteat, aliqui vero minus &amp; deficiunt, 
+      <lb ed="#P" n="38"/>immo fit vt ea quae minime terribilia sunt perinde atque formidabilia metuant: &amp; sic delinquunt cum 
+      <lb ed="#P" n="39"/>formident ea quae metuere non oportet vt debiliorem, aut non quemadmodum oportet: hoc est plus 
+      <lb ed="#P" n="40"/>aequo: aut quando non oportet, cum sim in puerorum coetu, aut aliquid talium. Et similiter 
+      confiden<lb ed="#P" n="41" break="no"/>do &amp; non metuendo, hoc est audendo, etiam peccatur. Qui igitur ea quae oportet terribilia, gratia 
+      <lb ed="#P" n="42"/>cuius oportet, &amp; vt oportet, &amp; quando oportet, tolerat, metuit &amp; confidit, vir fortis est. Fortis enim pr 
+      <lb ed="#P" n="43"/>dignitate &amp; vt ipsa ratio iubet tam patitur quam etiam agit.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e152">
+               <pc type="pilcrow">¶</pc> Tertia conclusio. Viro forti finis decorus 
+      <lb ed="#P" n="44"/>est. Nam omnis operationis talis erit finis, vt suo habitui consentaneus sit in decoro. Et forti viro for 
+      <lb ed="#P" n="45"/>titudo honesta est: nam singula a suo fine determinantur &amp; modificantur: cum operatio fortis sit 
+      de<lb ed="#P" n="46" break="no"/>cora, finem esse decorum honestum &amp; aequum est: immo opposito admisso, operatio fortis non esset bel 
+      <lb ed="#P" n="47"/>la. Quicquid agunt homines intentio iudicat omnes vt adagialiter aiunt. Stoici fortitudinem 
+      diffi<lb ed="#P" n="48" break="no"/>nientes dixerunt eam virtutem esse pugnantem pro acquitate. Neminem itaque iniuste aggreditur, si 
+      <lb ed="#P" n="49"/>itaque secus feceris temerarius es. Fortitudo in viro forti est habitus bellus, postquam est sublimis virtus, 
+      <lb ed="#P" n="50"/>quare finis cuius gratia fortis sustinet &amp; operatur erit decorus. Ne cum aliquibus hallucineris 
+      putan<lb ed="#P" n="51" break="no"/>do omnes actus eundem finem habentes eiusdem esse speciei specialissimae, singulariter de fortitudinis 
+      <lb ed="#P" n="52"/>honesto fine loquitur, ob multos putantes fortem in vitae discrimine non posse sibi finem honestum 
+      <lb ed="#P" n="53"/>praestituere. Quocirca &amp; aliena iniuste rapientes. Vt sua augeant non sunt fortes, sed fortium inimici. 
+      <lb ed="#P" n="54"/>cum fortitudini repugnanter operentur. Nec alium iniuste inuadens est fortis. Proinde hi carnifices 
+      <lb ed="#P" n="55"/>quos imperitum vulgus vt fortes extollit, non sunt fortes.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e185">
+               <pc type="pilcrow">¶</pc> Dubitatur primo de causalitate causae i 
+      <lb ed="#P" n="56"/>finalis actui malo superuenienti.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e193">
+               <pc type="pilcrow">¶</pc> Secundo quae relatio in finem vltimum in actum moraliter 
+      bo<lb ed="#P" n="57" break="no"/>num requiratur.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e201">
+               <pc type="pilcrow">¶</pc> Ad priorem dubitationem respondetur quod nihil aliud est quam volitionem aut noli¬ 
+      <!--107.xml-->
+      <pb ed="#P" n="45-v"/>
+               <lb ed="#P" n="1"/>tionem finis causare actus medios in finem. Finis autem mouet agentem ad operandum: hoc est voli 
+      <lb ed="#P" n="2"/>tio finis mouet partim operantem ad agendum, vt volitio sanitatis est partialis causa volendi 
+      habe<lb ed="#P" n="3" break="no"/>re medicum. Non oportet finem aliquid efficere, stat ipsum non esse in rerum natura. Vt si quisquam vult 
+      <lb ed="#P" n="4"/>gladium aut vestem pro filio qui est in bello efficere, quem stat inscio patre esse e medio sublatum. Actus 
+      <lb ed="#P" n="5"/>intellectus &amp; voluntatis ampliant: sed an terminus finis &amp; efficiens similiter amplient ad logicum atti 
+      <lb ed="#P" n="6"/>net. Multa concedimus vera quae sine ampliationibus de virtute sermonis seruari nequeunt, licet 
+      ta<lb ed="#P" n="7" break="no"/>lium communiter in ampliationibus regulae non ponantur. Potest dici talis ad bonum sensum 
+      con<lb ed="#P" n="8" break="no"/>cedi: vt Aristoteles dicit hoc. Oens apostoli Dei sunt duodecim. Finis gratia cuius mouet me ad 
+      agen<lb ed="#P" n="9" break="no"/>dum, loquendo ac si talia essent.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e231">
+               <pc type="pilcrow">¶</pc> Ad secundum respondetur, quod si requireretur relatio actualis in 
+      fi<lb ed="#P" n="10" break="no"/>nem vltimum, aut habitualis ex charitate infusa aut acquisita sicut Gregorius putat, purus infidelis 
+      <lb ed="#P" n="11"/>nullum actum moraliter bonum habere potest, quod est durum, nec probari potest. Mihi autem id 
+      pla<lb ed="#P" n="12" break="no"/>citum non placet: sufficit relatio in aliquem finem creatum honestum. Non enim in quolibet actu 
+      stu<lb ed="#P" n="13" break="no"/>dioso tenetur homo de deo cogitare, &amp; si de eo cogitet, non tenetur propterea illum actum in Deum 
+      <lb ed="#P" n="14"/>referre.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e248">
+               <pc type="pilcrow">¶</pc> Contra hoc argumentor primo sic. Non summum in mentibus non est propter se diligendum 
+      <lb ed="#P" n="15"/>&amp; volendum: nulla creatura siue finis creatus est summum bonum. quamobrem non est diligendum 
+      <lb ed="#P" n="16"/>propter se: proinde propter aliud, &amp; non nisi propter Deum: igitur. Item August, negat veram virtu 
+      <lb ed="#P" n="17"/>tem pure infidelibus inhaerere. Et glossa ad Romanos. xiiii. dicit: omnis infidelium vita est peccatum. 
+    </p>
+            <p xml:id="JMAet9-d11991-d1e260">
+               <lb ed="#P" n="18"/>⁋ Prior ratio solum probat quod ille finis non est vltimatus simpliciter, nec in illum tenetur homo re 
+      <lb ed="#P" n="19"/>ferre: sat est quod est finis sufficiens in illo: vt volo resistendo pugnare ne Socrates authoritate propria me 
+      <lb ed="#P" n="20"/>interimat. Vel pro patria.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e270">
+               <pc type="pilcrow">¶</pc> August. intelligit de virtutibus &amp; earum actibus quae ad vitam aeternam 
+      <lb ed="#P" n="21"/>immediate promouent. Glossa intelligit quando ex infidelitate agit, vel semper infidelis est in 
+      pecca<lb ed="#P" n="22" break="no"/>to capiendo infidelem contrarie, &amp; etiam priuatiue si se ad bene agendum non disponat: nam si se dis 
+      <lb ed="#P" n="23"/>posuerit, tunc Deus ei fidem infunderet.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e282">
+               <pc type="pilcrow">¶</pc> Ex dictis diffinitiones extremorum colligere possumus. 
+      <lb ed="#P" n="24"/>Insanus &amp; stupidus est ille qui omnino non timendo exuperat, vt qui non metuit terrae motus &amp; suc 
+      <lb ed="#P" n="25"/>cussiones, neque fiuctus, vt de celtis perhibent. Hispaniam celtae ex gallis descendentes incolunt. 
+      Gallo<lb ed="#P" n="26" break="no"/>rum celtae miscentes nomen lberis dicuntur celtiberi. Audax est qui circa humanaadiscrimina confi 
+      <lb ed="#P" n="27"/>dendo superat, &amp; is inflatus &amp; arrogans insolenter sibi tribuens quae in eo non sunt, est viri fortis 
+      si<lb ed="#P" n="28" break="no"/>mulator siue simia: falso simulat sibi inesse fortitudinem. qualis enim est ipse fortis circa pericula, 
+      ta<lb ed="#P" n="29" break="no"/>lis videri desiderat: &amp; sic fortem quantum potest imitatur: hoc est eius mores insequitur. Ex quo 
+      sequi<lb ed="#P" n="30" break="no"/>tur vt multi audacium sua temeritate sic magnae stragis authores, &amp; pro gloria dedecus reportent. 
+      Ale<lb ed="#P" n="31" break="no"/>xander macedo saliendo in oppidum Sardeacarum seu Mallorum temere egit: multis plagis acceptis 
+      <lb ed="#P" n="32"/>pene inglorius occubuit. citra prudentiam non est fortitudo. Praeterea audaces plerumque sunt timidi: 
+      <lb ed="#P" n="33"/>nam temere sperantes pericula adeunt, &amp; vbi difficultas ingruit res formidolosas non sustinent. 
+      Ti<lb ed="#P" n="34" break="no"/>midus est qui metuendo excedit &amp; spe destituitur. Qualis fuit Xerxes Persarum rex, qui primus infu 
+      <lb ed="#P" n="35"/>ga, &amp; nouissimus in praelio, numerosissimum ductitauit exercitum, ita vt fiumina diceretur exica 
+      <lb ed="#P" n="36"/>care: inconsulto tamen bellum gessit &amp; inferuore conflictus minime perdurauit. Nulla est 
+      repugnan<lb ed="#P" n="37" break="no"/>tia quempiam esse temerarium in aggressu, &amp; periculo ingruente esse pauidum. Timet quem non 
+      opor<lb ed="#P" n="38" break="no"/>tet, puta aliquem esse ei hostem, eum inuasurum qui ei non nocebit: &amp; plus aequo, &amp; non pro 
+      dignita<lb ed="#P" n="39" break="no"/>te pauet. Omnia talia eum sequuntur. Proinde esse audacem non infert quempiam esse non timidum. 
+      <lb ed="#P" n="40"/>Deest autem in confidendo. Posthaec ponit philosophus doctrinam cognoscendi timidu, mdicens quod 
+      <lb ed="#P" n="41"/>in doloribus exuperans multum est manifestus: male sperat &amp; confidit cum vniuersa metuat. 
+      Noctur<lb ed="#P" n="42" break="no"/>nis in tenebris arborem esse spectrum falso existimat. Laruas inanes occursuras sibi fingit demisso ani 
+      <lb ed="#P" n="43"/>mo atque abiecto ambulat. Contratio modo sese fortis habet. Confidere est hominis bene sperantis. De 
+      <lb ed="#P" n="44"/>inde quarta conclusio ponitur. Audax, fortis &amp; timidus circa eandem materiam, sed vario modo 
+      la<lb ed="#P" n="45" break="no"/>borant. Quia circa timores &amp; fiducias negociantur, licet saepius res ipsas quae haec inducunt pro obie 
+      <lb ed="#P" n="46"/>ctis habeant. Fortis medium locum tenet: Audax abundat, timidus deficit. Audaces ante pericula sunt 
+      <lb ed="#P" n="47"/>praecipites &amp; animo valenti: sed cum pericula assunt, minus valent, tergiuersantur &amp; terga vertunt. 
+      <lb ed="#P" n="48"/>Fortes autem in pugna feruidi sunt &amp; ante praelium quieti. Dictum est quod fortitudo est mediocritas 
+      <lb ed="#P" n="49"/>circa terribilia &amp; metuendo &amp; confidendo ea eligens, &amp; persistens honestatis gratia, quia indecorum est 
+      <lb ed="#P" n="50"/>ea subire &amp; non perferre.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e346">
+               <pc type="pilcrow">¶</pc> Sequitur quinta conclusio &amp; finalis. Mortem sibi consciscere ob inopiam 
+      <lb ed="#P" n="51"/>fugiendam aut amorem, aut molestum aliquid non fortis est hominis, sed mollis &amp; timidi. Hanc 
+      con<lb ed="#P" n="52" break="no"/>clusionem bifariam probat. primo, quia effoeminatio est laboriosa deuitare, &amp; non fortitudo, tales 
+      au<lb ed="#P" n="53" break="no"/>tem sunt huiusmodi igitur. Secundo, mortem non subeunt decoris causa, sed vt fastidientem 
+      mole<lb ed="#P" n="54" break="no"/>stiam deuitent. Hac via sibi manus infligere non est fortitudo, quae vsquequaque est honesti causa, sed  
+      <lb ed="#P" n="55"/>mollities quaedam &amp; longioris mali formido.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e363">
+               <pc type="pilcrow">¶</pc> Ex his sequitur quod Annibal poenus alioqui dux 
+      fero<lb ed="#P" n="56" break="no"/>cissimus &amp; Cato vticensis, Mitridates, Nero, Saul sese interimentes aut facientes se occidi, &amp; Cassius 
+      iu<lb ed="#P" n="57" break="no"/>gulum feriendum praebens, non erant fortes in sui nece. Nec ipsa Lucretia ad infamiae notam 
+      abolen<lb ed="#P" n="58" break="no"/>dam. Nec mulieres quae se ob amorem (vt poeta de Didone fingit) sese occidentes fortes erant. ldem de Pyramo 
+      <lb ed="#P" n="59"/>ac Tysbe Babyloniis dico. Putabat enim Pyramus amicam suam a leone deuoratam &amp; ideo se peremit, &amp; stul 
+      <lb ed="#P" n="60"/>tum autem erat propterea muerone se transfodere. Nec minus stolida erat puella quae caeco amore 
+      in<lb ed="#P" n="61" break="no"/>ebriata vbi amicum ob sui amorem interemptum agnouit sese eodem mucrone interemit. ldem de Ero censeo. 
+      <lb ed="#P" n="62"/>Leander autem magis excusandus est. Natandi enim peritia fretus helespontici maris traiectum breuem 
+      trana<lb ed="#P" n="63" break="no"/>re sperabat. Stolidiores sunt ob exterorum bonorum iacturam sibi mortem consciscentes.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e386">
+               <pc type="pilcrow">¶</pc> Quaeritur an homo poest 
+      <lb ed="#P" n="64"/>licitae sibi manum inferre: &amp; quia Aristoteles in huius capitis fine partem negatiuam tenet, ad partem affirma¬ 
+      <!--108.xml-->
+      <pb ed="#P" n="46-r"/>
+               <lb ed="#P" n="1"/>tiuam argumentabor primo sic. Sanson occidit se. ludicum. xvi. &amp; non peccauit cum inter sanctos ad 
+      <lb ed="#P" n="2"/>Haebreos. xi. numeretur.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e403">
+               <pc type="pilcrow">¶</pc> Similiter damnatus ad mortem vt se occidat potest se occidere? Patet, 
+      iu<lb ed="#P" n="3" break="no"/>dex potest alteri praecipere occidere reum, ergo hoc ipsum ipsi reo imperare potest. Tertio capiens 
+      ci<lb ed="#P" n="4" break="no"/>cutam aut helleborum letiferum, quod arbitratur esse salubre, se interficit sine culpa.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e414">
+               <pc type="pilcrow">¶</pc> Quarto mulie 
+      <lb ed="#P" n="5"/>res in altum fiumen se praecipitantes gratia seruandae castitatis vt se a tyrannis seruarent se occidunt 
+      <lb ed="#P" n="6"/>sine peccato, quia quasdam tales ecclesia martyrum adscripsit catalogo.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e424">
+               <pc type="pilcrow">¶</pc> Quinto, damnatus ad mor 
+      <lb ed="#P" n="7"/>tem prope quem ponitur panis non comedens se occidit, &amp; non peccat.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e432">
+               <pc type="pilcrow">¶</pc> Sexto secundi 
+      Maccabaeo<lb ed="#P" n="8" break="no"/>rum. xiiii. Rasias seipsum interfecit eligens nobiliter mori potius quam subditus fieri peccatoribus.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e440">
+               <pc type="pilcrow">¶</pc> Se 
+      <lb ed="#P" n="9"/>ptimo offerens se ad martyrium est causa suae mortis, ergo occidit se. At dicis, &amp; bene, deobligatur a 
+      <lb ed="#P" n="10"/>sua vita seruanda ob materiam praecepti oppositi occurrentis.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e450">
+               <pc type="pilcrow">¶</pc> Contra ergo ad minus vbi non est 
+      <lb ed="#P" n="11"/>materia praecepti, sed consilii solum, homo est causa suae mortis, &amp; non peccat: ergo cuipiam licet 
+      occi<lb ed="#P" n="12" break="no"/>dere se sine culpa.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e460">
+               <pc type="pilcrow">¶</pc> Octauo Marcus Tullius Catonem Vticensem excusat a suo interitu primo 
+      Offi<lb ed="#P" n="13" break="no"/>ciorum. Nono rex qui est persona publica potest occidere malefactorem, at ipse est huiusmodi: ergo 
+      po<lb ed="#P" n="14" break="no"/>test sese interimere. Decimo habens pedem in compedibus &amp; habens prope se ferrum quo potest 
+      pe<lb ed="#P" n="15" break="no"/>dem abscindere, alioqui fame periturus potest abscindere pedem, &amp; licet in eius abscisione moriatur 
+      <lb ed="#P" n="16"/>est sine culpa.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e475">
+               <pc type="pilcrow">¶</pc> Vndecimo obsidentes ciuitatem letum omnibus minitantur nisi detur eis talis, vt 
+      <lb ed="#P" n="17"/>Ioab Sybam petiit. Addatur quod si ciues nolunt ob suam humanitatem talem tradere occidendum: 
+      <lb ed="#P" n="18"/>talis potest se perimere, vt salui sint omnes in ciuitate vt Codrus Atheniensium rex fecisse scribitur. 
+    </p>
+            <p xml:id="JMAet9-d11991-d1e485">
+               <lb ed="#P" n="19"/>⁋ Ad primum dicitur quod Sanson instinctu diuino sese interemit, Deus enim ei supernaturaliter tam 
+      <lb ed="#P" n="20"/>immensas vires contulit, vt se cum hostibus interemerit. Deus est causa vitae quam potest pro libito 
+      <lb ed="#P" n="21"/>tollere, Deo imperante quispiam potest se aut alium letaliter ferire. Sed vbi de Dei imperio non con 
+      <lb ed="#P" n="22"/>stat, non est faciendum. Quousque Abraham esset extreme certioratus noluit Isaac filium insontem 
+      <lb ed="#P" n="23"/>occidere, quando dicebat Deus tolle filium tunc, dixit duos filios habeo nec acquieuit innocentem oc 
+      <lb ed="#P" n="24"/>cidere: &amp; cum adiungeret vnigenitum respondit vtrunque genitrici suae esse vnigenitum, &amp; cum 
+      ap<lb ed="#P" n="25" break="no"/>poneretur quem diligis, ait vtrunque diligo, &amp; cum ab oraculo singulariter apponebatur lsaac, diuino 
+      <lb ed="#P" n="26"/>imperio acquieuit, dans exemplum non credendi phantasiae pro innocente occidendo quousque 
+      certis<lb ed="#P" n="27" break="no"/>sime doceatur.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e507">
+               <pc type="pilcrow">¶</pc> Ad secundum dico illud non licere, sicut nec debet seipsum damnare: sed aliis suum 
+      <lb ed="#P" n="28"/>casum committere, &amp; ita executionem mortis reus in seipsum non committat.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e515">
+               <pc type="pilcrow">¶</pc> Ad tertium respon 
+      <lb ed="#P" n="29"/>detur quod ignorantia inuincibilis potest quempiam ab homicidio excusare.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e523">
+               <pc type="pilcrow">¶</pc> Ad quartum responde 
+      <lb ed="#P" n="30"/>tur quod si ex instinctu diuino id perpetratum fuit, patet solutio ex primo. Secundo quod nesciebant fiumen 
+      <lb ed="#P" n="31"/>fuisse tantae altitudinis &amp; ob repentinum tyrannorum insultum &amp; flagrans seruandae castitatis desiderium 
+      <lb ed="#P" n="32"/>a culpa excusantur in toto, &amp; pro castimonia plurimum extolluntur. Mulier tamen non debet se 
+      oc<lb ed="#P" n="33" break="no"/>cidere ne cognoscatur. Nec ob pronitatem futuram in peccatum potest hoc facere. Patet quia ipsum 
+      <lb ed="#P" n="34"/>violari ipsa pro virili reluctante non est ipsi peccatum. Toleranda est mors potius quam peccetur, sed ipsa 
+      <lb ed="#P" n="35"/>sic se habendo non peccat.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e542">
+               <pc type="pilcrow">¶</pc> Ad quintum respondetur quod potest homo damnari vt non comedat vt 
+      <lb ed="#P" n="36"/>opinor, &amp; tunc potest panem appositum non mandere. Et probabiliter idem puto si damnetur ad 
+      mor<lb ed="#P" n="37" break="no"/>tem, quod ita facere potest, sed an teneatur alibi inquiretur.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e553">
+               <pc type="pilcrow">¶</pc> At dicis laudatur haec mulier quae suo la 
+      <lb ed="#P" n="38"/>cte parentem in carceribus coniectum pauit: ergo probe egit. Ergo pater comedendo bene etiam 
+      <lb ed="#P" n="39"/>egisset &amp; lactendo.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e563">
+               <pc type="pilcrow">¶</pc> Respondetur primo quod ob pietatem in patrem laudatur. Secundo quod probabile 
+      <lb ed="#P" n="40"/>est vtrunque recte egisse, sed si filia id non fecisset non deliquisset.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e571">
+               <pc type="pilcrow">¶</pc> Ad sextum respondetur quod Rasias 
+      <lb ed="#P" n="41"/>non excusatur.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e579">
+               <pc type="pilcrow">¶</pc> Ad septimum inter arguendum responsum est ad calcem vsque de consilio: &amp; illic di 
+      <lb ed="#P" n="42"/>citur per opus consilii quis deobligatur a vita seruanda, &amp; cum opus est licitum non dat his qui eum 
+      <lb ed="#P" n="43"/>occidunt causam peccandi. Intendit enim in fide vel moribus eos inducere, &amp; si alii ex sua malitia qui 
+      <lb ed="#P" n="44"/>eum occidunt peccant. nihil ad eum: quia nemo faciens quod iuste potest occasionem culpabilem aliis 
+      <lb ed="#P" n="45"/>ministrat.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e593">
+               <pc type="pilcrow">¶</pc> Ad octauum respondetur quod Cicero erat propensior aequo in Catonis laudem qui in sui nece nul 
+      <lb ed="#P" n="46"/>la via (ignoscat mihi Tullius) valet. primo Officiorum caeteros Romanos qui se Caesari probari dedide 
+      <lb ed="#P" n="47"/>runt excusat, immo inquit vitio datum esset si illi se interemissent: quia eorum vita leuior &amp; mores erant 
+      <lb ed="#P" n="48"/>faciliores. Catoni autem cum natura incredibilem tribuisset grauitatem, eamque ipse perpetua constantia roborasset sem 
+      <lb ed="#P" n="49"/>perque in eo proposito permansisset, moriendum censuit potius fuisse quam tyranni vultum aspicere.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e607">
+               <pc type="pilcrow">¶</pc> Ad nonum dici A 
+      <lb ed="#P" n="50"/>mus quod quando sententia esset taliter lata ac ipse ita ageret, nihil id contra conclusionem. Auctoritate enim 
+      priua<lb ed="#P" n="51" break="no"/>ta nulli fas est seipsum occidere. Lex enim talem malefactorem mactat.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e618">
+               <pc type="pilcrow">¶</pc> Ad decimum dicimus quod talis A 
+      <lb ed="#P" n="52"/>ignoratione inuincibili est sui homicida.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e626">
+               <pc type="pilcrow">¶</pc> Ad vndecimum dico quod casu admisso, dicta non infirmentur. A 
+    </p>
+            <p xml:id="JMAet9-d11991-d1e632">
+               <lb ed="#P" n="53"/>⁋ Dubitatur an ad martyrium actualis tolerantia mortis requiratur. Respondetur affirmatiue, probatur, concinit ec: n 
+      <lb ed="#P" n="54"/>clesia, hic est vere martyr qui pro Christi nomine sanguinem suum fudit: itaque per oppositum si sanguinem non fude L 
+      <lb ed="#P" n="55"/>rit non erit Christi martyr.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e641">
+               <pc type="pilcrow">¶</pc> Secundo ratione sic. opposito dato sequitur quod martyr poet damnari in sensu con¬ E 
+      <lb ed="#P" n="56"/>posito, consequens est inconveniens, quia iniuriam facit martyri qui orat puer martyre. Sequaela tamen patet, quia opposito 
+      <lb ed="#P" n="57"/>dato per solum actum interiorem licet non sequatur mors quis efficietur martyr signanter in periculorum praesentia. Tunc sic, 
+      <lb ed="#P" n="58"/>talis potest non mori &amp; perperam agere &amp; in mortali discedere, &amp; tamen per te est martyr: igitur. Tertio sic aliquis 
+      plu<lb ed="#P" n="59" break="no"/>ries non resuscitatus pont esse martyr, quia pluries potest adduci martyrium. Sed hanc rationem non ponderas quia ad 
+      <lb ed="#P" n="60"/>ductus coram tyranno per actuum interruptionem poest sequi mors &amp; quilibet illorum actuum denominabit eum martyrem, 
+      <lb ed="#P" n="61"/>cum hic erit tempus totale, non est idem seudm viam hanc &amp; alios.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e660">
+               <pc type="pilcrow">¶</pc> Contra istam ramensionem argumentor sic. Ex conclusio¬? 
+      <lb ed="#P" n="62"/>ne sequitur quod duo aequaliter faciant quod in eis est ad patiendum martyrium, &amp; vnus possit fieri vt sit martyr non au¬ ci 
+      <lb ed="#P" n="63"/>tem alter: vt Ioannes euangelista, &amp; alius qui in dolium feruentis olei iniectus fuisset: ille alius moriens fuisset 
+      mar<lb ed="#P" n="64" break="no"/>tyr non autem Ioannes, sed hoc est inconveniens.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e672">
+               <pc type="pilcrow">¶</pc> Ex illo vlterius sequitur quod duo aequaiter merentes inaequaliter praemia¬ 
+      <!--109.xml-->
+      <pb ed="#P" n="46-v"/>
+               <lb ed="#P" n="1"/>buntunr, quia vnus martyrum aureolam non autem alter habebit. Secundo martyr est testis veritatis, sed tam 
+      <lb ed="#P" n="2"/>coram deo quam coram hominibus, isti autem duo aequair veritati testimonium praebent. igit.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e687">
+               <pc type="pilcrow">¶</pc> Tertio, actus 
+      mar<lb ed="#P" n="3" break="no"/>tyrii non est post mortem nec in instanti mortis, ergo ante mortem: &amp; ponatur quod non moriatur, tunc habeo 
+      op<lb ed="#P" n="4" break="no"/>positum.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e697">
+               <pc type="pilcrow">¶</pc> Ad primum concedo sequalam, sed quia de praemio poest esse difficultas, dico quod si vterque decedat in 
+      gra<lb ed="#P" n="5" break="no"/>vterque habebit praemium accidentale aureolam: sicut corrupta violente quae desinit esse virgo, habebit aureolam vir 
+      <lb ed="#P" n="6"/>ginum, non enim inconvenit martyrem &amp; non martyrem habe praemia essentialia aequalia. Plerique enim sunt confessores 
+      <lb ed="#P" n="7"/>aequalem beatitudinem &amp; maiorem habentes quam iste martyr aut ille. Vt patet de illo Bonifacio Ronano viro 
+      lu<lb ed="#P" n="8" break="no"/>brico, qui orientem petens celesti rore aspsus puer fidei integritate subito martyrii palmam adeptus est: &amp; ita de 
+      <lb ed="#P" n="9"/>similibus. Secundo dico quod ad martyrium satis est applicatio actualis causae mortem inferentis ad martyrium. 
+      <lb ed="#P" n="10"/>Hac via lo. euangelistae martyrium saluabimus.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e716">
+               <pc type="pilcrow">¶</pc> Ad secundum dicitur quod licet deo notum est an pateretur 
+      <lb ed="#P" n="11"/>mortem nec ne, adhuc tamen hominibus non sufficienter constat. Multi enim in cruciatuum perceptione aut applicatione 
+      <lb ed="#P" n="12"/>retrocesserunt, &amp; si Deus id reuelaret adhuc non est martyr etiam durante tortura exteriori. Ille quidem actus 
+      <lb ed="#P" n="13"/>interior est excellens, &amp; nullus minor ad martyrium sufficit citra mortem siue sit eiusdem speciei essentialis, 
+      <lb ed="#P" n="14"/>siue non.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e730">
+               <pc type="pilcrow">¶</pc> Ad tertium dico quod illum actum dici martyrium dependet ex vno de futuro contingenti, ex hac scilicet iste 
+      <lb ed="#P" n="15"/>morietur, &amp; si moriatur &amp; a deo resuscitetur non desinit esse martyr.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e738">
+               <pc type="pilcrow">¶</pc> Dubitatur secundo puer quo est ferendum 
+      mar<lb ed="#P" n="16" break="no"/>tyrium. Vlterius dubitatur, an occisus puero fide aut iustitia sit fortis.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e746">
+               <pc type="pilcrow">¶</pc> Respondetur ad priorem dubitationem quod ex 
+      <lb ed="#P" n="17"/>quolibet actu virtutis dum est talis, poest quispiam mortem subire, verum pati mortem est praeceptum affirmatiuum puer 
+      <lb ed="#P" n="18"/>tempore &amp; loco solum obligans, at circumstantia mortis facit aliquid de praecepto desinere esse de praecepto. Sed quan 
+      <lb ed="#P" n="19"/>do manet praeceptio &amp; quando non, hoc est ad singularia descendere, in quibus iubet Plato quiescere, quia certa 
+      <lb ed="#P" n="20"/>regula dari nequit. Sapientis est circunstantias actus considerare, an actus talis sub praecepto aut 
+      con<lb ed="#P" n="21" break="no"/>silio maneat, an illorum cancellos supergrediatur. Quapropter non solum pro fide toleranda est mors, 
+      <lb ed="#P" n="22"/>sed etiam pro aliis vt pro iustitia Matthaei quinto. Beati qui persequutionem patiuntur propter iusti 
+      <lb ed="#P" n="23"/>tiam. lustus iudex potius mortem obibit quam iustitiam relinquet. Et Ioannes baptista non pro fide mor 
+      <lb ed="#P" n="24"/>tem tolerauit, sed quia moechiam carpsit. Martinus magister in de fortitudine tenet quod martyrium est 
+      <lb ed="#P" n="25"/>actus illius virtutis. In gradu tamen heroico, ad quam attinet ille actus, pro cuius persistentia patitur 
+      <lb ed="#P" n="26"/>&amp; non fortitudinis si pro iustitia patiatur, est actus iustitiae, si pro temperantia est actus temperantiae 
+      <lb ed="#P" n="27"/>in gradu tamen heroico hoc a viginti exactis annis impugnauimus. Vide. xlix. distinctionem 
+      quar<lb ed="#P" n="28" break="no"/>ti. Nunc lectorem non remorabor. Raptissime tantum aliqua dixero. Dilectio Socratis propter Deum, est 
+      <lb ed="#P" n="29"/>vsus ac fruitio, sic idem actus est iustitiae &amp; fortitudinis. Surripiens alienum vt moechetur est fur atque 
+      <lb ed="#P" n="30"/>moechus quarto Athicorum, magis tamen moechus. Qua martyrium sit actus fortitudinis, autumat 
+      <lb ed="#P" n="31"/>beatus Cyprianus in epistola ad martyres &amp; confessores in sequentem modum scribens. Obeati mar 
+      <lb ed="#P" n="32"/>tyres, quibus vos laudibus praedicem? Omilites fortissimi, robur corporis vestri quo praeconio vocis 
+      <lb ed="#P" n="33"/>explicem? Vides quod eos a fortitudine laudat, proinde eos fortes existimabat. Martinus. tenens 
+      opposi<lb ed="#P" n="34" break="no"/>tum nonnulla spicula adducit. Acriora afferimus, hebetiora postponentes. Sicque argumentatur. Oens 
+      <lb ed="#P" n="35"/>actus habentes idem obiectum commune, spectant ad eandem virtutem, sed volo iuste agere &amp; volo 
+      <lb ed="#P" n="36"/>iuste agere non obstante conditione mortis, habent idem obiectum commune, scilicet iuste agere, pri 
+      <lb ed="#P" n="37"/>or actus est solius iustitiae, ergo &amp; secundus. Forte dicis, &amp; apparenter, non omnes actus habentes idem 
+      <lb ed="#P" n="38"/>obiectum partiale spectant ad eandem virtutem, nam quandoque actus capiunt obiecta duarum virtu 
+      <lb ed="#P" n="39"/>tum aut trium ab illis obiectis denominationem capiunt.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e803">
+               <pc type="pilcrow">¶</pc> Contra hoc argumentor. Ille actus est vnus &amp; simplex, 
+      <lb ed="#P" n="40"/>ergo est vnius simplicis virtutis. Item est contra omnem moralem philosophiam dicere actum ratione plurium 
+      cir<lb ed="#P" n="41" break="no"/>cunstantiarum ad plures virtutes spectare.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e813">
+               <pc type="pilcrow">¶</pc> Secundo illa virtus est iustitia, ergo non inclinat immediate in  
+      <lb ed="#P" n="42"/>actum fortitudinis, sed omnis habitus fortitudinis inclinat immediate in actum fortitudinis.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e821">
+               <pc type="pilcrow">¶</pc> Ad priorem 
+      <lb ed="#P" n="43"/>rationem inter arguendum responsum est dempto vltimo enthymemate, Ille actus est vnus &amp; simplex, ergo 
+      <lb ed="#P" n="44"/>spectat ad vnam virtutem, illam consequentiam nego, antecedens quidem est verum. Actus enim est simplex &amp; eiusdem 
+      <lb ed="#P" n="45"/>rationis ac si esset vnius virtutis tantum, nec inconvenit eundem actum ratione plurium circumstantiarum ad plures 
+      vir<lb ed="#P" n="46" break="no"/>tutes attinere, signanter quando circumstantiae in rationem obiecti cadunt, &amp; etiam quando non ponuntur in ratione obiecti. 
+      <lb ed="#P" n="47"/>Nonne libido in templo commissa quae est intemperantia, ratione delubri est sacrilegium: sic hominem in fano interime 
+      <lb ed="#P" n="48"/>re vltra iniustitiam est Basilicae coinquinatio. Nec ita dicere est contra thicam doctrinam ex Aristotelica 
+      of<lb ed="#P" n="49" break="no"/>ficina atque theologorum scitis deproptam. Et si quispiam puer veritate fidei mortem perpetiatur, ille actus quo 
+      <lb ed="#P" n="50"/>vult non resilire a fide non obstante conditione mortis est actus fidei fortitudinis atque charitatis. Maiorem enim 
+      <lb ed="#P" n="51"/>charitatem nemo habet quam vt aiam suam puer amico ponat. Logicae considerationis est modos ineuidentes 
+      syl<lb ed="#P" n="52" break="no"/>logismorum per reductionem ad euidentem patefacere. Ac oratoris munus est sermonem concinnum ab illepido se 
+      <lb ed="#P" n="53"/>gregare, sic christiani est catholicam veritatem tueri ac pro illa mortem oppetere, ad fidem attinet, tametsi 
+      <lb ed="#P" n="54"/>habitus fidei ad actus intellectus credendi immediate inclinet.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e853">
+               <pc type="pilcrow">¶</pc> Ad secundum dicitur quod habitus sim 
+      <lb ed="#P" n="55"/>plicis virtutis nunquam inclinat immediate in actum alterius virtutis, sed immediate inclinat in suum 
+      <lb ed="#P" n="56"/>actum elicitum, &amp; mediante illo in actum alterius virtutis, sicut habitus praemissarum mediate in actum 
+      <lb ed="#P" n="57"/>conclusionis inclinat, quia vbique habitus acquisitus inclinat immediate in similes actus a quibus emer 
+      <lb ed="#P" n="58"/>sit, sed quia est habitus genitus ex actibus mixtis quo ad virtutes illae immediate actus mixtos 
+      coeffi<lb ed="#P" n="59" break="no"/>cit, inclinare enim est efficere. Insuper scito quod actus potest esse vnius virtutis elicitiuae &amp; alterius 
+      im<lb ed="#P" n="60" break="no"/>peratiue. Charitas enim habens Deum finem vltimum pro obiecto actus aliarum virtutum &amp; totius 
+      <lb ed="#P" n="61"/>vitae humanae opera imperat, sicut in primum diximus. Ars militaris quae est superior imperat equestri, ordo  
+      <lb ed="#P" n="62"/>virtutis supeioris est inferiori imperare: vt charitas suprema virtus aliis imperat, tamen ex parte operantis 
+      vir<lb ed="#P" n="63" break="no"/>tus inferior nonnunquam superiori imperat, vt temperantia fortitudini, vbi inuasa mulier a tyranno est in 
+      peri<lb ed="#P" n="64" break="no"/>culo castitatis perdendae, actum fortitudinis imperat, hoc est voluntas eius cum recta ratione &amp; actu elicito chae¬ 
+      <!--110.xml-->
+      <pb ed="#P" n="47-r"/>
+               <lb ed="#P" n="1"/>ritatis actum fortitudinis imperant. Eodem modo in vitiis vnum alteri imperat, vt cum Socrates ob 
+      <lb ed="#P" n="2"/>intemperantiam &amp; amorem mulieris ardenter amatae est in bello, timet &amp; fugit, tunc intemperantia 
+      <lb ed="#P" n="3"/>actum timiditatis imperat, quia fugere est actus metus elicitiue, &amp; actus intemperantiae imperatiuem. 
+      <lb ed="#P" n="4"/>cum ea fuga ad intemperantiae finem ordinetur.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e893">
+               <pc type="pilcrow">¶</pc> Circa ista subdubitas, an cum habitus vnius vir¬ S 
+      <lb ed="#P" n="5"/>tutis mediante suo actu elicito inclinat in alterius virtutis primum actum, an habitus concurrit ef¬ t 
+      <lb ed="#P" n="6"/>ficienter ad illum primum actum: &amp; est similis quaestio an habitus praemissarum concurrat effectiue 
+      <lb ed="#P" n="7"/>ad assensum conclusionis, sicut assensus actualis praemissarum vel vtrum est solum causa causae.
+    </p>
+            <p xml:id="JMAet9-d11991-d1e905">
+               <pc type="pilcrow">¶</pc> Re¬ E 
+      <lb ed="#P" n="8"/>spondetur, videmus auum non concurrere ad nepotis productionem, sed solum esse causam causae si 
+      ho<lb ed="#P" n="9" break="no"/>mo nullam formam educat de brutis intellige, forma tamen ignis aut aquae substantialis calorem &amp; 
+      <lb ed="#P" n="10"/>frigus producunt. Potest ergo non inconuenienter dici habitus effectiue cum actu suo elicito 
+      concur<lb ed="#P" n="11" break="no"/>rit &amp; potentia &amp; non erit ociosus. Allata de auo ac nepote minime stringunt: nam auita virtus inibi 
+      <lb ed="#P" n="12"/>sane esset superuacanea inibi enim omnis causalitas nisi mediate deesse cognoscitur, cum separetur 
+      <lb ed="#P" n="13"/>auus &amp; eius applicatio ab effectu: secus est de habitu.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 9</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 9</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d19638"><!-- mair-l4c9 -->
+            <head xml:id="JMAet9-d19638-Hd1e103">Caput 9</head>
+            <p xml:id="JMAet9-d19638-d1e106">
+               <lb ed="#P" n="4"/>
+               <quote xml:id="JMAet9-d19638-Qd1e110" type="lemma">DE verecundia autem</quote> &amp;c. Prima conclusio. Verecundia non est virtus: estque similior affectui quam habitus 
+      <lb ed="#P" n="5"/>qui est genus virtutis. Probatur haec conclusio per diffinitionem verecundiae. Diffinitur enim per 
+      <lb ed="#P" n="6"/>timorem qui est affectus sic: Verecundia est quidam dedecoris timor: sed timor est affectus: &amp; est ille 
+      <lb ed="#P" n="7"/>timor circa dedecus ferme, similiter vt circa res formidolosas timor esse solet. Nam qui verecundantur 
+      <lb ed="#P" n="8"/>erubescunt: qui vero interitum inhorrescunt pallent. Ex quo fit vt vtrumque ad corpoream passionem 
+      ac<lb ed="#P" n="9" break="no"/>commodetur: ergo magis ad affectum quam ad habitum pertinet. Probatur facile eadem conclusio. Omnis 
+      vir<lb ed="#P" n="10" break="no"/>tus est in potestate habentis: non autem verecundia. Secundo, omnis virtus est habitus, non autem verecundia. 
+      <lb ed="#P" n="11"/>Tertio, virtus non est cum corporis motu, sicut phlosophus dicit: rubor autem fit cum corporis motu: igitur. 
+    </p>
+            <p xml:id="JMAet9-d19638-d1e129">
+               <lb ed="#P" n="12"/>⁋ Secunda conclusio. Non omni aetati sed iuuenili verecundia congruit. Hanc affirmatiuam conclusionem 
+      <lb ed="#P" n="13"/>circa pudorem ponit. Erubescit, salua res est: secundum Comicum: signanter in iuuene. Sane eos qui 
+      iuue<lb ed="#P" n="14" break="no"/>nilem viuunt aetatem putamus verecundos esse oportere: quia non degunt sine perturbatione &amp; 
+      pro<lb ed="#P" n="15" break="no"/>pterea plurimum delinquunt. Per verecundiam autem arcentur a peccatis. Secundo, nos iuuenes verecundos 
+      <lb ed="#P" n="16"/>laudamus, cum Xenophontis iuuenis speciosissimi verecundiam Socrates intellexit eum ad literas 
+      alle<lb ed="#P" n="17" break="no"/>xit. Pudor &amp; laudis studium sunt iuuenibus necessariae: hoc calcar ad virtutes, illud frenum, a sordibus arcens. 
+    </p>
+            <p xml:id="JMAet9-d19638-d1e145">
+               <lb ed="#P" n="18"/>⁋ Ponitur tertia conclusio negatiua. At senem nemo laudabit quod verecundus sit. Nihil enim eorum ipsum 
+      <lb ed="#P" n="19"/>oportere putamus agere pro quibus emanare verecundia solet. Affectus sunt iam in senibus sedati: &amp; 
+      ex<lb ed="#P" n="20" break="no"/>perientia &amp; ratione iam norunt peccata esse detestanda.
+    </p>
+            <p xml:id="JMAet9-d19638-d1e154">
+               <pc type="pilcrow">¶</pc> Quarta conclusio. Homini probo verecundia non 
+      <lb ed="#P" n="21"/>congruit. Probatio. Nam verecundia pro rebus improbis fit: atque viro probo talia agenda non sunt. Verum enim 
+      <lb ed="#P" n="22"/>quaedam in rei veritate sint mala, quaedam vero hominum opinatione turpia: non refert. neutra enim sunt 
+      <lb ed="#P" n="23"/>agenda: quare non est ei verecundandum. Mouet illic dubitationem qua quispiam dubitaret de turpi secundum 
+      ho<lb ed="#P" n="24" break="no"/>minum opinionem, quod reuera non est tale. Respondet, abstinebit etiam ab illo. Siquidem a specie mali 
+      abstine<lb ed="#P" n="25" break="no"/>bit: sicut iubet Apostolus. Secundo, improbum est talem esse vt aliquid turpe agat: non aget igitur vir 
+      pro<lb ed="#P" n="26" break="no"/>bus aliquid turpe &amp; absonum. Reuera est existimare quempiam: ideo probum esse quia ita sese habet vt 
+      <lb ed="#P" n="27"/>si turpe quicquam commiserit verecundetur. Nam pudor est pro his quae quis sua sponte facit: at vir probus 
+      <lb ed="#P" n="28"/>numquam res turpes faciet. At dicet aliquis viro bono est verecundandum ex suppositione, hoc est si perperam 
+      <lb ed="#P" n="29"/>egit, verecundabitur. Hoc nihil est: in virtutibus nihil est verecundia dignum. Non sequitur, verecundari ex 
+      <lb ed="#P" n="30"/>suppositione convenit probo: ergo verecundari ei competit: cum nihil maligne saltem in magnis peccatis agant: 
+      <lb ed="#P" n="31"/>minora autem peccata non sic erant ab Ethnicis sicut a Christianorum schola nota. Etiam talia in tertio 
+      <lb ed="#P" n="32"/>Ethicorum venia digna censuit. Nullus studiosus sine his minimis degit secundum legem communem vitae. 
+      <lb ed="#P" n="33"/>Postea refellit aliam cauillationem ibi: quod si pudentia. Obiectio est, haec impudentia de turpi est prauum, 
+      <lb ed="#P" n="34"/>ergo pudor de malo est bonum, per locum ab oppositis. Responsio, non opponuntur, vtraque enim est circa 
+      <lb ed="#P" n="35"/>materiam quae virtuti aduersatur: vtrumque istorum vitium imbibit: non pudere de peccato perpetrato si aliquid  
+      <lb ed="#P" n="36"/>perpetretur: &amp; pudere de peccato commisso. Postea dicit. At vero neque continentia est virtus. Quaereret 
+      <lb ed="#P" n="37"/>aliquis ab eo quandoquidem ad bonum verecundia allicit, quare non est virtus. Respondttur. Pene vnum simile 
+      <lb ed="#P" n="38"/>dabitur: continentia no est virtus, cum adhuc passionum insultus vehementes patiatur in suo subiecto, sicut 
+      <lb ed="#P" n="39"/>verecundia cum qua affinitatem habet. differunt tamen quia continentia quae est virtuti permixta est bonus 
+      ha<lb ed="#P" n="40" break="no"/>bitus &amp; virtutis initium, &amp; virtus etiam nisi valde stricte loquendo: sed de hoc a nobis in septimo 
+      locu<lb ed="#P" n="41" break="no"/>pletior sermo (si superi sinent) fuerit. 
+    </p>
+            <p xml:id="JMAet9-d19638-d1e206">
+               <lb ed="#P" n="42"/>⁋ Dubitatur, an inhorrescens &amp; verecundus timore eodem modo secundum corpus moueantur. Respondetur 
+      <lb ed="#P" n="43"/>quod non, hic enim rubescit, si est extra aleam mortis formidat ingloriationem: propterea sanguis 
+      exterio<lb ed="#P" n="44" break="no"/>ra petit ne homo colore destituatur: ille pallet quia calor petit interiora vt cor roboret periculo 
+      immi<lb ed="#P" n="45" break="no"/>nenti resistere: &amp; tunc homo est animosior &amp; hoc si ad partes superiores moueatur, si ventrem &amp; partes 
+      infe<lb ed="#P" n="46" break="no"/>riores petat aluum dissoluit, &amp; tunc homo est metu perculsus.
+    </p>
+            <p xml:id="JMAet9-d19638-d1e219">
+               <pc type="pilcrow">¶</pc> Secundo dubitatur, quia Aristoteles dicit quod 
+      <lb ed="#P" n="47"/>solum verecundandum est de vitio. Contra, verecundatur quispiam si aluum exonerans inuenitur, vel cum propria 
+      co<lb ed="#P" n="48" break="no"/>iuge rem habens, similiter de caluitie sua vt Caesar &amp; alii de aliis corporis difformitatibus, de amicorum 
+      <lb ed="#P" n="49"/>furto &amp; probro, similiter si membra pudenda inueniantur discooperta homo erubescit, more protoplasti, 
+      <lb ed="#P" n="50"/>qui sibi perizomata exfrondibus ficulnis post peccatum assumpsit, vt pudibunda membra operiret. Hoc 
+      te<lb ed="#P" n="51" break="no"/>tigit Aristoteles. . Rhetoricae inducens disceptationem Antiphontis &amp; Dinoysii super quibusdam proximo 
+      <lb ed="#P" n="52"/>mortuis contra verecundiam reuelatis. Et patet de facto Can circa verenda patris nudi dormientis. 
+      <lb ed="#P" n="53"/>qui propterea maledictionem tetram a patre audiuit.
+    </p>
+            <p xml:id="JMAet9-d19638-d1e240">
+               <pc type="pilcrow">¶</pc> Pro harum obiectionum solutione dicas, quod 
+      ve<lb ed="#P" n="54" break="no"/>recundia vera apud prudentem &amp; constantem solum prouenit pro peccatis a nobis commissis, cum in hominum 
+      <lb ed="#P" n="55"/>notitiam deueniunt: circumspectus syllogizat vxoris impudicitiam, filiorum malitiam sibi non imputari: quare se 
+      <lb ed="#P" n="56"/>ab illo affectu praeseruat. Plerique autem sunt inconstantes &amp; aliqui sunt nimium pudentes qui gratis hoc 
+      cor<lb ed="#P" n="57" break="no"/>poris motu notantur: quibus si occultum peccatum imponatur commouentur, licet sint insontes perinde ac si 
+      <lb ed="#P" n="58"/>essent noxii. Vel dicatur quod verecundia bifariam capitur. Vno modo, pro hac passione connotando quod a vitio 
+      <lb ed="#P" n="59"/>emergat, hoc est a culpa commissa, vel ab ea ne committatur: &amp; sane ea apud prudentem maximum 
+      corpo<lb ed="#P" n="60" break="no"/>ris motum facit. Alio modo capitur pro tali affectu etiam sine culpa proueniente: at haec oculatum parum 
+      <lb ed="#P" n="61"/>nisi cum primo motu turbat. Sic etenim sibi intrinsecis: quare tristis es anima mea &amp; quare conturbas 
+      <lb ed="#P" n="62"/>me? Non peccasti. Hoc modo martyres hunc affectum pati poterant, qui coram multitudine confusibiliter 
+      <lb ed="#P" n="63"/>ducebantur ad immerita supplicia &amp; tormenta.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

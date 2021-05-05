@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 7</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 7</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d30085"><!-- mair-l7c7 -->
+            <head xml:id="JMAet9-d30085-Hd1e103">Caput 7</head>
+            <p xml:id="JMAet9-d30085-d1e106">
+               <lb ed="#P" n="7"/>
+               <quote xml:id="JMAet9-d30085-Qd1e110" type="lemma">FIt autem</quote> &amp;c. In huius septimi capitis principio nonnullas diffinitiones ponit. Et quia litera est 
+      <lb ed="#P" n="8"/>perspicua eam paucis transcurremus. Incontinens is est qui a gustus &amp; tactus voluptatibus superatur, 
+      <lb ed="#P" n="9"/>quas multi vincunt. Continens per oppositum ea oblectamenta superat. Mollis a doloribus gustus &amp; tactus 
+      <lb ed="#P" n="10"/>quos plerique superant vincit. Tales tristitias constans superat quem alii perseuerantem appellant. In horum habituum 
+      <lb ed="#P" n="11"/>nominatorum medio, plurimorum habitus ponuntur: qui non sunt omnino continentia vel constantia nec icontinentia vel 
+      <lb ed="#P" n="12"/>inconstantia vel mollitudo: &amp; versantur circa eadem. Porro cum plerique sint gradus circa vehementes atque faciles 
+      <lb ed="#P" n="13"/>voluptates aut dolores, proinde multi sint habitus necessum est. Siquidem incontinens superatur nedum a vehe 
+      <lb ed="#P" n="14"/>mentibus perturbationibus, sed interdum ab his quas multi superant. Continens quoque magnas cupiditates vin  
+      <lb ed="#P" n="15"/>cit: quod si quispiam remissas superauerit videtur minus perfectus esse quam continens. Nec est tamen imperfectus more 
+      inconti<lb ed="#P" n="16" break="no"/>nentis. Ita etiam est aliquis qui magis doloribus obnititur quam mollis &amp; minus quam constans: quocirca inter illos 
+      <lb ed="#P" n="17"/>quatuor habitus praetactos dabuntur quidam alii interstites, declinantes tamen magis ad imperfectionem &amp; 
+      <lb ed="#P" n="18"/>ad deteriores partes, hoc est magis ad mollitudinem ac inconstantiam declinant quam ad contumeliam &amp; constantiam. 
+      <lb ed="#P" n="19"/>Et licet de vtroque participant, potius tamen molles atque incontinentes dicuntur quam continentes &amp; constantes. Post 
+      <lb ed="#P" n="20"/>haec ponitur conclusio. Intemperantia deterior est incotinentia. Ad hanc probandam repetit diuisionem superius 
+      <lb ed="#P" n="21"/>positam, voluptatum gustus tactusque quaedam sunt necessariae, aliae non necessariae: &amp; necessariae sunt vsque ad  
+      <lb ed="#P" n="22"/>quendam terminum &amp; limitem, &amp; vltra illum excedendo non sunt necessariae: eodem modo est certa mensura in 
+      defi<lb ed="#P" n="23" break="no"/>ciendo. Et vt de voluptatibus est: ita etiam de earum doloribus in vsu est. Qui voluptatum excessus, hoc est 
+      <lb ed="#P" n="24"/>exuperantes voluptates ob electionem propter easipsas, naeque ob aliud quicquam inde proueniens (vt lucrum 
+      <lb ed="#P" n="25"/>vel huiusmodi) prosequitur, intemperatus dicitur, qui duas malas conditiones habet quae sequuntur, non est 
+      <lb ed="#P" n="26"/>poeniturus. Ratio est quia quaerit delectationem corporalem ex electione tamquam finem, &amp; non ob aliquem alium finem: 
+      <lb ed="#P" n="27"/>&amp; homo inhaeret immobiliter fini. Si voluptates ob lucrum quaereret esset auarus atque moechus, vt. 5 
+      <lb ed="#P" n="28"/>libro retulimus, quare incurabilis est, hoc est difficulter curabilis vel ab intrinseco non curatur, vt in  
+      <lb ed="#P" n="29"/>capite sequenti latius dicetur: incontinens aut perturbatione sedata poenitet, &amp; sic curatur: qui vero ex 
+      <lb ed="#P" n="30"/>electione deficit &amp; voluptates refugit est insensibilis &amp; intemperanti aduersus. In horum duum vitiorum 
+      me<lb ed="#P" n="31" break="no"/>dio temperantia collocatur. Ex his discrimen inter hos tres patet. Intemperatus ex electione sequitur 
+      vo<lb ed="#P" n="32" break="no"/>luptates tactus, &amp; dolores oppositos refugit. Incontinens vero non ex electione sed ex perturbatione, &amp; 
+      <lb ed="#P" n="33"/>per hoc ab intemperato differt, &amp; a molli quia incontinens agit ob delectationem. Mollis vero vincitur a 
+      <lb ed="#P" n="34"/>tristitia quam intendit aufugere. Est enim delicatus miles, ad omnem bonam palaestram inutilis. Posthaec 
+      in<lb ed="#P" n="35" break="no"/>temperatum incontinenti &amp; molli confert secundo, incontinentem molli, &amp; ponitur alia concusio. Non modo 
+      incon<lb ed="#P" n="36" break="no"/>tinenti sed molli intemperans est peior. Haec enim conclusio binas habet partes, quarum priorem sic ostendit 
+      philo<lb ed="#P" n="37" break="no"/>sophus in valore. Omnis ille est deterior qui non concupiscens ac remisse cupiens turpe committit, quam is qui 
+      <lb ed="#P" n="38"/>foedum consimile ex vehementi affectu operatur: hic autem est incontinens, ille vero intemperatus, maiorem exemplo 
+      <lb ed="#P" n="39"/>reserat, quod est tale. Si non iratus quempiam pulsauerit, plus vituperatur quam concitatus ira pulsans: quid enim 
+      <lb ed="#P" n="40"/>ageret si esset in perturbatione? Proinde intemperans est incontinente deterior. Secunda pars patet. Mollis 
+      <lb ed="#P" n="41"/>non agit ex electione, patet ex terminorum explicatione. Ecce literam. Ac eorum quos diximus, hoc est illorum 
+      <lb ed="#P" n="42"/>qui non ex electione agunt alter magis speciei mollitudinis subiicitur: alter vero absolute est 
+      inconti<lb ed="#P" n="43" break="no"/>nens. Incontinenti quidem continens opponitur, mollis autem constanti. Siquidem constantia in resistendo est: 
+      conti<lb ed="#P" n="44" break="no"/>nentia vero in superando. Reniti vero, &amp; superare longo interstitio discrepant. Continens voluptates 
+      prae<lb ed="#P" n="45" break="no"/>sentes vincit: a praesentibus autem voluptatibus incontinens superatur. Constans &amp; mollis circa dolores 
+      absen<lb ed="#P" n="46" break="no"/>tes insudant. Constans &amp; perseuerans aequanimiter fert absentiam delectabilium, nec ob absentiam dapum aut  
+      <lb ed="#P" n="47"/>vini torquetur, si talium memoria occurrit, non frangitur. Mollis vero ob absentiam delectabilium anxie 
+      <lb ed="#P" n="48"/>ringitur. Et quia voluptas praesens valentius potentiam ferit quam absens, hinc continentia perseuerantiam in ma 
+      <lb ed="#P" n="49"/>teria temperantiae excedit. Tullius in sua rhetorica perseuerantiam partem fortitudinis posuit. Vnde fit quod 
+      mol<lb ed="#P" n="50" break="no"/>lis assimilatur ignauo militi, qui antequam cum hoste congrediatur se dedit. Incontinens vero in certamen descendit, 
+      <lb ed="#P" n="51"/>sed in conflictu deferuescit atque succumbit. Continens vero digladiatur &amp; vincit, &amp; non solum a perturbatione non 
+      <lb ed="#P" n="52"/>vincitur, sed eam reprimit &amp; in nihilum redigit, &amp; in pacatum sicut a belli victoria abit.
+    </p>
+            <p xml:id="JMAet9-d30085-d1e211">
+               <pc type="pilcrow">¶</pc> Ex his ponitur 
+      con<lb ed="#P" n="53" break="no"/>clusio tamquam corollatium terminis declaratis. Continentia est magis quam continentia expetendo. Vincere enim quam non  
+      <lb ed="#P" n="54"/>vinci est praestabilius. deinde de molli loquens ait. Mollis est qui aduersus ea quae plerique superant deficit. 
+      <lb ed="#P" n="55"/>Propterea deliciis est diffluens. Deliciae enim sunt mollitudines quaedam, vt qui vestem per lutum trahit ne laborem 
+      <lb ed="#P" n="56"/>subeat. Is aegrotum imitatur qui non putat se miserum: est tamen misero persimilis. Miser est fiebilis &amp; calamitosua 
+      <lb ed="#P" n="57"/>&amp; interdum puer aegroto ponitur. Infirmitas est quoddam genus infelicitatis, laborans morbo est iudicio vulgi 
+      <lb ed="#P" n="58"/>silis misero: licet, non sit miser, si morbum patienter ferat. lusuper morbo laborans censes se non esse talem consilium me 
+      <lb ed="#P" n="59"/>dicorum haud indagat, &amp; sic in miseriam cadit: sic ipse mollis in calamitates sua mollitie incidit. Incontinens 
+      <lb ed="#P" n="60"/>&amp; Mollis differunt. llle enim vehementi perturbatione vincitur. Mollis autem deficit &amp; trahitur ab his quos 
+      pluri<lb ed="#P" n="61" break="no"/>rimi superant. Quare mollis est deterior incontinente. Et si quis ab ingentibus perturbationibus vincatur, non est dicen 
+      <!--248.xml-->
+      <pb ed="#P" n="115-r"/> 
+               <!-- 145r -->
+               <lb ed="#P" n="1"/>dus propterea incontinens aut mollis. Per hoc dubium eluit ostendens non omnem a delectatione victum esse 
+      <lb ed="#P" n="2"/>incontinentem. Patet illud, &amp; sit conclusio. Cui est ignoscendum non est incontinens nec mollis (quia isti non 
+      <lb ed="#P" n="3"/>sunt venia digni) at aliqui ab ingentibus affectibus vincuntur, id exemplariter explanat, vt erat 
+      Theo<lb ed="#P" n="4" break="no"/>decti poetae Philoctetes a vipera morsus Philoctetes diu continens vocem anguis dolore agitatus, tandem 
+      <lb ed="#P" n="5"/>acclamauit, scindite dolentem manum. Aut carcini Cercvon in alope. Lego aut careino, vt sit aut 
+      Cer<lb ed="#P" n="6" break="no"/>cyon sup. morsus carcino. i. a cancro in alope scilicet fabula Theodecti: qui etiam diu patienter morsum 
+      tole<lb ed="#P" n="7" break="no"/>rauit: sed tandem victus acerbitate doloris exclamauit. Est carcinus cancer animal aquatile: vnde 
+      carci<lb ed="#P" n="8" break="no"/>noma cancer morbus difficulter curabilis. Alopex est vulpes, vnde forte sumptum nomen fabulae. Et 
+      <lb ed="#P" n="9"/>homines ii qui risum detinent accumulatius illum effundunt, quod Xenophanto contigit. Vidi puellos vel in  
+      <lb ed="#P" n="10"/>praeceptorum praesentia in risum protumpere a quo se cohibere nequibant, qui affectus mihi puero interdum 
+      <lb ed="#P" n="11"/>contigit. Sed sup. mollis dicendus est si quis iis doloribus quibus plerique reluctari possunt, succumbit, sic quod 
+      <lb ed="#P" n="12"/>reluctari cupiditati negligi diem potest: non ob generis naturam, qualis est ea mollitudo, quae Scytharum 
+      <lb ed="#P" n="13"/>regibus ob genus inest: &amp; vt foemella delicata super, succumbit, que a maris distat natura. Talis itaque est 
+      <lb ed="#P" n="14"/>incontinens aut mollis. Non hic de virginibus &amp; cordatis mulieribus loquitur, sed de mollissimis foeminis 
+      <lb ed="#P" n="15"/>a natura: &amp; de regibus Scytharum qui a praedecessoribus hanc innatam mollitiem traxere. Auiti enim mores 
+      <lb ed="#P" n="16"/>in nepotes deriuantur. In tua patria discurre, &amp; quasdam illustrium familias bellaces atque robustas 
+      offen<lb ed="#P" n="17" break="no"/>des, alias pacificas, alias autem delicatas &amp; molles: magis curantes culinam, quam arma &amp; ephippia.
+    </p>
+            <p xml:id="JMAet9-d30085-d1e280">
+               <pc type="pilcrow">¶</pc> Alia 
+      con<lb ed="#P" n="18" break="no"/>clusio. Qui ad iocum est pronior non intemperans sed mollis est. Videtur quidem intemperans eo quod delectationem 
+      <lb ed="#P" n="19"/>in ludo quaerit, locus est quaedam laboris relaxatio. Est enim a laboribus quaedam requies. &amp; sie ad iocum 
+      pro<lb ed="#P" n="20" break="no"/>pensior ex his est hominibus qui in hac requie exuperant. Solum loquor de excessiuo in iocis, qui totum 
+      <lb ed="#P" n="21"/>tempus inaniter interit. At qui iocatur salse vt auidius postea seriis det operam prudenter agit, arcum non 
+      <lb ed="#P" n="22"/>tenendo continue tensum ne debilius feriat. locum ad ludum extendit. Hicque non capitur quies vt motui oppo 
+      <lb ed="#P" n="23"/>natur sicut quinto Physicorum, sed est retractio a serio. Demum in capitis calce vnam diuisionem ponit dicens, 
+      <lb ed="#P" n="24"/>Incontinentiae &amp; mollitiei duae sunt species: vtpote temeritas siue praeuolatio, &amp; infirmitas siue debilitas. 
+      <lb ed="#P" n="25"/>Quidam homines deliberatione facta in his quae concluduntur ob insurgentem perturbationem non persistunt, 
+      <lb ed="#P" n="26"/>quos debile: &amp; infirmos dicunt. Aliqui sunt qui ob hoc ipsum quod non consultant a perturbatione ducuntur 
+      ca<lb ed="#P" n="27" break="no"/>duntque, quos non ab retemerarios vocamus. Et quidam sunt egregie sentientes &amp; praeuidentes, &amp; seipsos 
+      ra<lb ed="#P" n="28" break="no"/>tionemque excitantes &amp; se praemunientes ne a perturbatione superentur, siue id quod mouet, oblectamentum 
+      <lb ed="#P" n="29"/>siue dolorem efficit: &amp; illos nunc continentes nunc constantes vocamus. Similes sunt illis qui praetitillati non 
+      <lb ed="#P" n="30"/>pertitillantur. Quando homines leui ictu sub axellis aut pedum plantis partibus insolitis leuiter tanguntur 
+      <lb ed="#P" n="31"/>titillantur &amp; inhorrescunt: aliqui prius se titillant &amp; sic horripilationem non incurrant. Si quis causam 
+      ti<lb ed="#P" n="32" break="no"/>tillationis praesenserit non inhorrescit quare nemo a seipso cito titillatur, maxime acuti, hoc est 
+      cho<lb ed="#P" n="33" break="no"/>ferici &amp; biliosi atra bili quos melancholicos vocant, temeraria incontinentia saepius agitantur. At illi ob 
+      <lb ed="#P" n="34"/>cholerae celeritatem, &amp; hi ob vehementiam quia vehementes imaginationes sequuntur rationem non expectant. 
+      <lb ed="#P" n="35"/>Atra bilis terrae comparata, inter habitudines difficulter ardorem exuit sicut aegre terra compacta incensa 
+      <lb ed="#P" n="36"/>ardorem amittit. Incidunt hi maxime in temerariam incontinentiam.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

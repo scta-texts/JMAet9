@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 4</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 4</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d40528"><!-- mair-l10c4 -->
+            <head xml:id="JMAet9-d40528-Hd1e103">Caput 4</head>
+    <!--alias="mair-l10c4p1"-->
+    <p xml:id="JMAet9-d40528-d1e108">
+               <lb ed="#P" n="16"/>
+               <quote xml:id="JMAet9-d40528-Qd1e112" type="lemma">SEd quidnam aut quale sit</quote> &amp;c. In hoc quarto capite post philosophorum opinationes enarratas monstrat 
+      <lb ed="#P" n="17"/>aquid est voluptas secundum propriam opinionem. Et caput quadrifariam seiugatur. In prima philosophus 
+      <lb ed="#P" n="18"/>ostendit voluptatem posse fieri in instanti more visionis. In secunda ex praecedentibus concludit eam 
+      <lb ed="#P" n="19"/>non esse motum aut generationem. In tertia voluptatis naturam declarat. In quarta nonnullas 
+      volupta<lb ed="#P" n="20" break="no"/>tis proprietates attingit. Literam aggredior. Sed quidnam, quae res aut quale, id est cuius conditionis sit ipsa 
+      <lb ed="#P" n="21"/>voluptas clarebit, si sermonem paulo altius consequenter ad dicta in septimo resumpserimus. Deinde con 
+      <lb ed="#P" n="22"/>tra Platonicos talem conclusionem ponit. Voluptas non est motus. Hanc conclusionem multifatiam 
+      mu<lb ed="#P" n="23" break="no"/>nit. Primo sic, visio in quouis tempore est perfecta, vtpote cui nihil deest quod fictum eius species hoc est 
+      <lb ed="#P" n="24"/>ornatus perficiet. Species, id est decor, vnde speciosus. Ac visioni similis est ipsa voluptas. Per locum a simi 
+      <lb ed="#P" n="25"/>li conclusionem fulcit Visio fit subito, it: quod &amp; voluptas, est enim quoddam totum integrumque neque vllo tem 
+      <lb ed="#P" n="26"/>pore voluptatem quis acciperet: cuius species si longiore tempore prorogetur perficiatur, non itaque 
+      volu<lb ed="#P" n="27" break="no"/>ptas est motus, quoniam omnis motus in tempore est. Secundo omnis motus est gratia alicuius finis vel 
+      <lb ed="#P" n="28"/>termini quo absoluto ipse tunc &amp; non prius perfectus est: vt aedificatio haud est perfecta nisi hoc absoluto 
+      <lb ed="#P" n="29"/>quod per aedificationem intenditur, in toto tempore aut in hoc totali supple In partibus temporis omnis 
+      <lb ed="#P" n="30"/>structurae motiones sunt imperfectae &amp; a toto &amp; inter se specie diuersae: situs lapidum diuersus est a columnae 
+      <lb ed="#P" n="31"/>erectione: columnarum &amp; intercolumnium &amp; laquearius apex a columnis sustentatur: &amp; hae partrium differunt 
+      <lb ed="#P" n="32"/>a templi complemento. Templi absolutio perfecta est quia nihil ei ad susceptum opus deficit. Basis &amp; 
+      la<lb ed="#P" n="33" break="no"/>quearis structura est imperfecta, lquear &amp; lacunar est trabium in tabulato connexio artificiosa quae ad 
+      or<lb ed="#P" n="34" break="no"/>namentum tabulatorum ponitur in tricliniis &amp; in atriis principum. Est enim vtraque pars, hoc est basis 
+      <lb ed="#P" n="35"/>seu fundamentum &amp; laquear sunt templi partes: &amp; hae partes specie differunt: &amp; fieri non potest vt quouis 
+      <lb ed="#P" n="36"/>in tempore motus specie perfectus accipiatur nisi toto in tempore. Et vt in aedificatione diximus: ita de 
+      <lb ed="#P" n="37"/>ambulatione &amp; caeteris motionibus sentiendum est. Ratio motio est quo ex hoc termino a quo ad hunc 
+      <lb ed="#P" n="38"/>terminum ad quem pergitur, &amp; eius species differentes sunt volatio, ambulatio salta: io &amp; similia: primum 
+      <lb ed="#P" n="39"/>alitibus, secundum gressbilibus, tertium locustis Leoni &amp; similibus conuenit: quia animae has motiones 
+      <lb ed="#P" n="40"/>efficientes specie differunt, alioqui illa animalia non differrent specie. Nec solum hoc modo diuersificantur 
+      <lb ed="#P" n="41"/>species motus secundum diuersitatem principiorum efficientium, verum in vna praefatarum specierum 
+      <lb ed="#P" n="42"/>sunt diuersae species motus, vt in ambulatione: nam idem termini non sunt in toto stadio atque in parte: 
+      <lb ed="#P" n="43"/>&amp; in alia atque in alia parte. Neque idem est transire hanc lineam &amp; illam: quia non solum Ineam meator sed  
+      <lb ed="#P" n="44"/>eam loco coniunctim pertransit: &amp; a diuersitate loci differentia localis motionis accipitur. Stat vnam par 
+      <lb ed="#P" n="45"/>tem stadii habere aquam, &amp; vnam eius partem aerem, ignem aut terram. Insuper licet sint eiusdem speciei 
+      <lb ed="#P" n="46"/>essentialis in genere naturae, differunt tamen in specie motus penes perfectum &amp; imperfectum. Quando to 
+      <lb ed="#P" n="47"/>tum est pertransitum perfectus est motus: in partis pertransitione est imperfectus. Attamen de motu hoc 
+      <lb ed="#P" n="48"/>apertum capiatur quod non in omni tempore est perfectus: &amp; multi sunt imperfecti &amp; specie differentes vti 
+      <lb ed="#P" n="49"/>diximus: quia termini ad quos qui mouentur proficiscuntur specie differunt, qui istud discrimen 
+      specifi<lb ed="#P" n="50" break="no"/>cum efficiunt. At voluptatis species in quolibet tempore quantumlibet pusillo perfecta est. vnde fit vt 
+      vo<lb ed="#P" n="51" break="no"/>luptas &amp; motus diuersa sint Voluptas est de eorum numero quae tota sunt atque perfecta, hoc est ipsa simul 
+      <lb ed="#P" n="52"/>tota acquiritur &amp; perfecta est. Aliter hoc ipsum probatur, quia in puncto moueri &amp; in non tempore nihil 
+      <lb ed="#P" n="53"/>potest: at in non tempore quis voluptate afficitur: voluptas igitur &amp; motus diuersa sunt. Quod enim in  
+      <lb ed="#P" n="54"/>ipso nunc hoc est instanti est, totum quoddam est. Ex dictis itaque patet qua via non recte diceremus 
+      volu<lb ed="#P" n="55" break="no"/>ptatem motum esse aut generationem, quod motus &amp; generatio non totorum dicuntur sed perfectibilium 
+      <lb ed="#P" n="56"/>&amp; imperfectorum &amp; eorum quae successiue producuntur. Capit generationem pro successiua materiae dispo 
+      <lb ed="#P" n="57"/>sitione ad aedificium. Visionis, puncti, vnitatis, non est generatio: nullius istorum trium est motus aut generatio cum 
+      <lb ed="#P" n="58"/>ipartibiliter rducantur. De puncto &amp; vnitate mathematice loquendo non habent partes: ergo non possunt successi 
+      <lb ed="#P" n="59"/>ue produci. Sicut nec deus poent angelum successiue efficere cum partium sit imunis. Voluptas sicut reliqua in aio quia 
+      <lb ed="#P" n="60"/>partes habet, sensim ei produci no repugnat: at ei more visionis produci impartibiliter convenit, dummodo 
+      <!--334.xml-->
+      <pb ed="#P" n="157-r"/>
+               <lb ed="#P" n="1"/>visibile subito applicatur, ita quod non est defectus ex parte eius quin visio subito producatur. 
+    </p>
+            <p xml:id="JMAet9-d40528-d1e218">
+               <lb ed="#P" n="2"/>⁋ Circa literam hanc dubitatur quomodo est discrimen specificum inter fundamentum &amp; laqueat: &amp; 
+      quo<lb ed="#P" n="3" break="no"/>modo motus in stadio toto &amp; eius parte discrepant. Respondetur quod inter multas partes domus est discri 
+      <lb ed="#P" n="4"/>men specificum: &amp; licet differentia specie non continentur vnum tamen aceruum conflant etiam partes 
+      <lb ed="#P" n="5"/>specie differentes, quarum vna aliam infert: specie differunt vt materia &amp; forma substantialis. Exacte 
+      lo<lb ed="#P" n="6" break="no"/>qui de motus essentia huic arti peregrinum est in physicam auscultationem super hoc iam meminimus. 
+      <lb ed="#P" n="7"/>Verum summatim pro litera philosophi dico quod motus distinguitur a causis effectiuis signanter intrinsecis, 
+      <lb ed="#P" n="8"/>vt saltatio progressio volatio, &amp; etiam a terminis ad quos discrimen habent. De variis speciebus motus 
+      <lb ed="#P" n="9"/>hoc est notum. Patet sic albefactio &amp; nigrefactio differunt specie, penes terminos acquirendos: &amp; sic in 
+      mo<lb ed="#P" n="10" break="no"/>tu locali tenendo motum localem distingui a mobili: tenendo lationem cum mobili idemptificari licet non 
+      <lb ed="#P" n="11"/>sit discrimen essentiale ex parte rei pro qua motus supponit, est tamen discrimen in specie motus: quemad 
+      <lb ed="#P" n="12"/>modum licet binarius duorum canum sit eiusdem speciei cum eorum ternario in genere naturae, non tamen 
+      <lb ed="#P" n="13"/>in specie specialissima numeri: quia haec duo vocabula binarius &amp; ternarius differunt in specie 
+      nume<lb ed="#P" n="14" break="no"/>ri, cum peregrinas sortiantur connotationes. Similiter pertransitiones partis stadii &amp; totius differunt 
+      <lb ed="#P" n="15"/>penes perfectum &amp; imperfectum, quod satis est. Etiam stat dare alium terminum in pertransitione huius 
+      <lb ed="#P" n="16"/>partis ab illa. vt aquam vno in loco, &amp; aerem aut lignum in alio: &amp; sic sunt alii termini ad quos specie 
+      di<lb ed="#P" n="17" break="no"/>stincti. Stadium( vt nosti) est octaua miliarii pars. Miliare quinque pedum millia mediocris hominis habet: 
+      <lb ed="#P" n="18"/>cum mille passus miliarium conflent: &amp; tursus quinos pedes quilibet passus includit: duos in quibus statur 
+      <lb ed="#P" n="19"/>&amp; tres intermedios, consequens est miliare quinque milia pedum includere: quem numerum diuide per octo 
+      <lb ed="#P" n="20"/>&amp; in quotiente numerus pedum stadii colligitur.
+    </p>
+            <!--alias="mair-l10c4p2"-->
+            <p xml:id="JMAet9-d40528-d1e265">
+               <lb ed="#P" n="53"/>⁋ Sequitur litera &amp; tertia pars huius capitis. At vero sensus omnis. Hic ponit naturam ipsius voluptatis: &amp; 
+      <lb ed="#P" n="54"/>ponitur haec conclusio. Perfectissimae operationis animae perfectissima est voluptas: omnis sensus ad 
+      sensi<lb ed="#P" n="55" break="no"/>bile est quaedam operatio vt sint: ad auditum operatio est auditio, vt visibilis ad visum est visio, &amp; ita in aliis, 
+      <lb ed="#P" n="56"/>&amp; illius sensus qui apprime est dispositus ad pulcherrimum sensibilium, operatio maxime perfecta est. Nec 
+      <!--335.xml-->
+      <pb ed="#P" n="157-v"/>
+               <lb ed="#P" n="1"/>nobis sit curae an animal cuius est sensus, an ipse sensus operari dicatur: vtrunque tamen est verum: sensus 
+      <lb ed="#P" n="2"/>actiue concurrit &amp; animal ratione partis, audire aut videre dicitur. Quandocumque aliquid conuenit vni inm 
+      <lb ed="#P" n="3"/>parti, licet perparum sit, illud tali toti conuenit, vt in exemplis datis. Secus est de albedine Athiopis in  
+      <lb ed="#P" n="4"/>dente quae eum non denominat album cum toti corpori in cemmuni albedo conuenire posset. In 
+      vno<lb ed="#P" n="5" break="no"/>quoque genere illius operatio est nobilissima quod optime disponitur ad id quod eorum quae ipsi 
+      subiiciun<lb ed="#P" n="6" break="no"/>tur hoc est sub eius obiectum cadit principalissimum est. Et haec operatio non solum est optima sed &amp; iucun 
+      <lb ed="#P" n="7"/>dissima: &amp; hoc modo in omni sensu voluptas est sic in contemplatione mentis. Vnde fit quod aliqua est voluptas 
+      <lb ed="#P" n="8"/>extensa, aliqua vero spiritualis. Similiter &amp; iucundissima est super ea quae est praestabilissima. At in mente 
+      <lb ed="#P" n="9"/>illa perfectissima est quae est illius quod perfectissime se habet ad studiosissimum eorum quae menti 
+      subii<lb ed="#P" n="10" break="no"/>ciuntur. Operatio perfectionem ab obiecto &amp; potentia bene disposita capit: vt perfectissimum visibile cum 
+      <lb ed="#P" n="11"/>perfectissimo lumine visionem perfectissimam producit: sit inter angelicam harmoniam &amp; auditum opti 
+      <lb ed="#P" n="12"/>me dispositum operatio perfectissima, hoc est auditio generatur &amp; voluptas. Sic in intellectu perfectissimum 
+      <lb ed="#P" n="13"/>cognoscibile ab intellectu est deus: ergo illius notitia est perfectissima quae est possibilis: &amp; voluptas consequens 
+      <lb ed="#P" n="14"/>est proportionabilis. Ponitur illa conclusio. Voluptas operationem perficit &amp; auget etiam secundum 
+      quem<lb ed="#P" n="15" break="no"/>libet sensum: non vt sensibile &amp; sensus qui actiue ad operationem concurrunt: &amp; cum hoc sensus recemptiue 
+      <lb ed="#P" n="16"/>operationem suscipiendo sensus sensationem partim efficit. Sed quia eam suscipit passiuum vocatur. A 
+      pas<lb ed="#P" n="17" break="no"/>sione &amp; non ab actione: sentire dicimus. Obiectum agit ad sensationem &amp; non sentit, &amp; voluptas sicut 
+      for<lb ed="#P" n="18" break="no"/>ma perficit id cuius est forma, sicut medicus est sanitas sunt causae huius quod est sanari vel esse sanum: at diuerso 
+      <lb ed="#P" n="19"/>modo, quia medicus est causa effectiua huius quod est sanare: &amp; sanitas causa finalis eiusdem. Secundum 
+      <lb ed="#P" n="20"/>vnumquenque sensum est voluptas: nam &amp; visiones &amp; auditiones &amp; reliquae sensationes voluptate afficiunt, 
+      <lb ed="#P" n="21"/>signanter si operationes sensuum ferantur in perfectissima sua obiecta &amp; semper manebit voluptas in 
+      sen<lb ed="#P" n="22" break="no"/>sus operatione dum sensibile &amp; animal cuius est sensus in tali dispositione remanent. Quandiu enim manet 
+      <lb ed="#P" n="23"/>dispositio facientis patientisque, eundem effectum permanere est necesse. Non enim voluptas perficit 
+      opera<lb ed="#P" n="24" break="no"/>tionem, vt habitus qui inest tanquam causa effectiua operationis, sed sicut quaedam finis si perueniens 
+      opera<lb ed="#P" n="25" break="no"/>tioni completae: vt pulchritudo iuuentutem viridemque aetatem perficit, cui est accidentaria. Et quia non ab 
+      <lb ed="#P" n="26"/>re quispiam inquireret quamdiu manet voluptas: ponitur haec conclusio. delectatio ita diu manet quandiu ipsa 
+      co<lb ed="#P" n="27" break="no"/>gnoscentis perfecta operatio manet. Probatur sic. Actiuo &amp; passiuo naturalibus in eadem habitudine 
+      ma<lb ed="#P" n="28" break="no"/>nentibus (vti retulimus) idem effectus manebit: at obiectum &amp; idem quod discernunt. haec siue sensus siue 
+      <lb ed="#P" n="29"/>intellectus sunt causae actiuae &amp; receptiuae voluptatis: igitur. Alia conclusio. Quandoquidem nemo 
+      volu<lb ed="#P" n="30" break="no"/>ptate aut dolore continuo perfunditur, solet quaeri qui fit vt homines non continuo voluptatem aut  
+      <lb ed="#P" n="31"/>dolorem capiant. Responsio in promptu est. Primo quia nullae res humanae sine intermissione operari 
+      pos<lb ed="#P" n="32" break="no"/>sunt: &amp; voluptas non potest esse sine operatione: igitur. Secundo, quia aliquae res nouae delectant, sed postea 
+      <lb ed="#P" n="33"/>non similiter, saepe fastidium praestant. Patet de noua coniuge, noua doctrina, &amp; omnibus vulgaribus. omne 
+      <lb ed="#P" n="34"/>enim rarum est carum. De quandam matrona referunt quae cupiebat quendam in agone victorem videre. 
+      <lb ed="#P" n="35"/>quem tempore conflictus haud cognorat. Sed cum maritum suum esse didicit, strennuitatem perinde ac 
+      <lb ed="#P" n="36"/>si nullius momenti esset paruipendit. In r ligionum &amp; caeterorum statuum exordiis istud quotidie 
+      contem<lb ed="#P" n="37" break="no"/>plamur. Est quoque cunct: rum nouitas gratissima rerum (vt Naso inquit? Primo ob rationem nouam mens 
+      <lb ed="#P" n="38"/>inuitatur ad illud sicut ad epulum, vt visus ad videndum pulchrum visibile: deinde circa tale obiectum non 
+      <lb ed="#P" n="39"/>est talis consideratio, quare voluptatem extenuari &amp; obfuscari est necesse. Istud prouenit ex parte obiecti 
+      <lb ed="#P" n="40"/>non aequaliter applicati potentiae in fine &amp; in primordio. 
+    </p>
+            <p xml:id="JMAet9-d40528-d1e367">
+               <lb ed="#P" n="41"/>⁋ Deinde quaerit cur omnes voluptatem rationabiliter appetunt. Responsio est in proptu. Viuere omnes ra 
+      <lb ed="#P" n="42"/>tionabiliter affectant: vita ergo secunda est quaedam operatio &amp; quilibet circa ea insudat quae maxime amat, vt 
+      <lb ed="#P" n="43"/>musicus auditu circa concentus: licet omnibus hoc vitium cantoribus inter amicos, vt nunquam inducant ani 
+      <lb ed="#P" n="44"/>mos cantare rogati: tamen non rogatus lubens canit: &amp; discendi cupidus mente operatur: &amp; fortis circa the 
+      <lb ed="#P" n="45"/>oremata contemplanda &amp; sic in aliis: at voluptas ipsas perfectiones perficit patet in calcifice, aratore, &amp; 
+      <lb ed="#P" n="46"/>omnibus artificibus qui cantando sua artificia optime complent. Hoc ipsum patet in literario ludo &amp; 
+      omni<lb ed="#P" n="47" break="no"/>bus. Vnde &amp; Archimedes ille syracusanus ob Romanorum aduentum qui vrbem ceperunt 
+      contemplati<lb ed="#P" n="48" break="no"/>onem haud deseruit: qui ei exitialis erat. Sed hoc per accidens &amp; cessit ei ad gloriam cum in bono opere 
+      vi<lb ed="#P" n="49" break="no"/>tam finierit: igitur &amp; ipsum viuere, quod ipsi appetunt cuiuislibet viuere perficit illud quod est ei 
+      expeti<lb ed="#P" n="50" break="no"/>bile. Verum an ob voluptatem viuere volumus an voluptatem ob vitam quaerimus, hic disquirerere omit 
+      <lb ed="#P" n="51"/>tamus. Coniuncta enim sunt haec, nec separantur adinuicem vt paulo mox in materia faelicitatis in hoc 
+      <lb ed="#P" n="52"/>decimo dicetur. 
+    </p>
+            <p xml:id="JMAet9-d40528-d1e396">
+               <lb ed="#P" n="53"/>⁋ CIRca hanc materiam quaestio non dissimulanda occurrit. An aliqua creatura suum affectum possit 
+      <lb ed="#P" n="54"/>subito producere. Ad quam affrmatiue respondetur: patet auctoritate Aristotelis in litera. Et patet 
+      ratio<lb ed="#P" n="55" break="no"/>ne. Si sol conscendens super orizontem successiue illuminaret medium non parum temporis laberetur 
+      in<lb ed="#P" n="56" break="no"/>ter irradiationem orientis &amp; occidentis, quod liquet esse falsum. Item ita cito vides sidus in octauo caelo 
+      si<lb ed="#P" n="57" break="no"/>cut alitem sursum aspiciendo. At dicis species stellae sunt in medio, capio duas alites ardeant in 
+      aedi<lb ed="#P" n="58" break="no"/>tissimo aere volantem &amp; coruum super te, aeque cito vtrunque vides: ergo vtraque ales &amp; species visibiles &amp; 
+      <lb ed="#P" n="59"/>visionem efficit subito. 
+    </p>
+            <p xml:id="JMAet9-d40528-d1e414">
+               <lb ed="#P" n="60"/>⁋ Insuper voluntas elicit suum actum subito, alioqui tenendo animam Christi concurrisse ad suam 
+      beati<lb ed="#P" n="61" break="no"/>tudinem in primo instanti sui esse: non erat beata quod concedere nollem. Rursus intellectus assentiens 
+      <lb ed="#P" n="62"/>praemissis &amp; bonitati consequentiae protinus consequenti assentit. 
+    </p>
+            <p xml:id="JMAet9-d40528-d1e423">
+               <lb ed="#P" n="63"/>⁋ Contra hanc conclusionem quam alias prolixe tractamus. hic carptim obiectamus. Calor producitur 
+      <lb ed="#P" n="64"/>successiue ergo &amp; voluptas. Secundo causa praecedit effectum: ergo voluptas non est illo instanti quo eius 
+      <!--336.xml-->
+      <pb ed="#P" n="158-r"/>
+               <lb ed="#P" n="1"/>causae ad inuicem applicantur. Tertio sequitur aliquem mereri praemium infinitum in quolibet tempore 
+      <lb ed="#P" n="2"/>quantumlibet paruo merendo. Probatio in primo instanti per conclusionem &amp; probationem meretur: ac 
+      <lb ed="#P" n="3"/>in quolibet instanti primum sequenti tantum merebitur quantum in primo &amp; sic de peccato argumenta 
+      <lb ed="#P" n="4"/>bor. Ad primum concedo antecedens. Qualitas enim signanter corporalis habens contrarium successiue 
+      <lb ed="#P" n="5"/>producitur. Forma aquae corrupto calore frigus partibiliter producit, etiam tenendo nullos gradus 
+      for<lb ed="#P" n="6" break="no"/>marum contrariarum stare in eodem subiecto: sic de calore: secus est de lumine. Candela tua tantum produ 
+      <lb ed="#P" n="7"/>cit a principio quantum producit postea, sic stans, &amp; medio sic disposito. Si successiue illuminet sed 
+      successi<lb ed="#P" n="8" break="no"/>ue interdum in cubiculum introducitur non refert, &amp; si subito adducatur in sphaeram suae actiuitatis. 
+      <lb ed="#P" n="9"/>ita cito illuminabit a remotis sicut propinquis. Aliqua ergo agentia subito, aliqua vero sensim suos 
+      effe<lb ed="#P" n="10" break="no"/>ctus producunt. 
+    </p>
+            <p xml:id="JMAet9-d40528-d1e456">
+               <lb ed="#P" n="11"/>⁋ Ad secundum dicitur quod sufficit prioritas naturae inter causam &amp; effectum. Tertium argumentum diffi 
+      <lb ed="#P" n="12"/>cilioris est solutionis, ad quod dico quod licet voluntas potest actum in instanti elicere, non tamen potest il 
+      <lb ed="#P" n="13"/>lum actum in quolibet tempore remittere: nihil producitur ad hoc vt raptim fiuat octauo physicorum. 
+      <lb ed="#P" n="14"/>dum Socrates producit actum vt quatuor requiritur aliquod determinatum tempus antequam potest totum 
+      <lb ed="#P" n="15"/>illum actum remittere, ita quod non est in facultate Socratis quin ille actus secundum se vel aliquid eius 
+      ma<lb ed="#P" n="16" break="no"/>nebit in aliqua intensione graduali per aliquod certum tempus. Si Socrates duret, &amp; deus generali influen 
+      <lb ed="#P" n="17"/>tia concurrat toto illo temporis curriculo cum Socrates facit quod in se est ad illius actus corruptionem 
+      <lb ed="#P" n="18"/>non imputabitur, ad meritum peccatum ve: &amp; talia temporis interstitia sunt solum finita: ergo gratia istius 
+      <lb ed="#P" n="19"/>ratiocinationis solum finite peccabit ac bene merebitur. At si actum in toto illius temporis interuallo in  
+      <lb ed="#P" n="20"/>eadem intensione graduali continuet nihil eius resecando, aut actum tota illa morula augendo non 
+      sequi<lb ed="#P" n="21" break="no"/>tur infinitas meriti aut peccati plus quam de actu bono pure partibiliter producto. Socrates habens talem 
+      <lb ed="#P" n="22"/>actum erit continuo in maiore merito, in quolibet instanti sequenti. Verum est dicere, est in 
+      maio<lb ed="#P" n="23" break="no"/>re merito quam erat in aliquo instanti istius temporis praecedenti: &amp; patet aliunde in naturali philosophia: vt 
+      <lb ed="#P" n="24"/>nullum scrupulum more multorum capias, quando a, calor sensim producitur in a hora, tunc in b passo 
+      <lb ed="#P" n="25"/>quolibet tempore motus: verum est dicere in quocunque instanti sequenti est maior caliditas in b passo quam 
+      <lb ed="#P" n="26"/>erat in aliquo instanti praecedenti: &amp; tamen in fine motus erit determinatus, calor fortasse solum quatuor 
+      <lb ed="#P" n="27"/>aut quinque graduum secundum exigentiam agentis &amp; passi.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

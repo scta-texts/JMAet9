@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 4</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 4</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d33473"><!-- mair-l8c4 -->
+            <head xml:id="JMAet9-d33473-Hd1e103">Caput 4</head>
+            <p xml:id="JMAet9-d33473-d1e106">
+               <lb ed="#P" n="13"/>
+               <quote xml:id="JMAet9-d33473-Qd1e110" type="lemma">EX vtroque</quote> &amp;c. In hoc quarto capite amicitia ob vtile &amp; delectabile, ad amicitiam ob honestum compa 
+      <lb ed="#P" n="14"/>ratur. Septemque conclusionibus, &amp; recapitulatione quorundam dictorum hoc caput partitum est. Di 
+      <lb ed="#P" n="15"/>cit autem pro prima conclusione sic. IEa vero supple amicitia quae ob voluptatem &amp; quae ob vtilitatem 
+      <lb ed="#P" n="16"/>est, similitudinem huius (scilicet amicitiae ob honestum bonum) habent. Nam studiosi sibi mutuo &amp; iucun 
+      <lb ed="#P" n="17"/>di &amp; vtiles sunt. Est tamen discrimen, quoniam amicitia ob bonum delectabile habet delectationem pro 
+      <lb ed="#P" n="18"/>causa: amicitia vero ob honestum habet delectationem pro sequela &amp; effectu. 
+    </p>
+            <p xml:id="JMAet9-d33473-d1e125">
+               <lb ed="#P" n="19"/>⁋ Secundae conclusio. Maxime autem &amp;c. Dicit vlterius quod illae duae amicitiae comparantur amicitiae ob honestum penes 
+      <lb ed="#P" n="20"/>pmanentiam. Nam sicut amicitia ob honestum est permanens, sic amicitia ob vtile &amp; delectabile dummodo 
+      <lb ed="#P" n="21"/>quod primo requiritur illal duo concurrant, non est fiuxa, scilicet seruato vt aequale vicissim 
+      repen<lb ed="#P" n="22" break="no"/>datur, vt delectatio pro delectatione: &amp; non solum hoc modo, sed etiam ab eodem hoc est ab eadem causa. 
+      <lb ed="#P" n="23"/>Secundo requiritur, vt non solum fiat delectatio vtrisque, sed etiam fiat ab eodem delectabili secundum 
+      spe<lb ed="#P" n="24" break="no"/>ciem, sicut accidit duobus facetis, vt in colludentibus similitudo, vt mutuo disputando, sagittando, 
+      luden<lb ed="#P" n="25" break="no"/>do pila, aut huiusmodi recreatione, in qua vterque gaudet in alterius ludo. Si illud secundum omittatur non 
+      <lb ed="#P" n="26"/>erunt amicitiae permanentes, sicut accidit amatori &amp; amatae. Pone amatorem turpem sed obsequiosum 
+      <lb ed="#P" n="27"/>&amp; blandientem amatrici: &amp; amatricem pone venustam, tumiilla turpis obsequio gaudet: ipse vero 
+      aspe<lb ed="#P" n="28" break="no"/>ctu speciosae delectatur. Verum defluente horaria formositate amicitia illa soluitur. Non enim amplius in  
+      <lb ed="#P" n="29"/>melioris aspectu gaudet nec amplius se illi familiarem praestat, vnus a visu, altera a sensu auditus &amp; a famu 
+      <lb ed="#P" n="30"/>latu delectationem accipit &amp; non ab eodem. Sequitur in litera. Plerique autem &amp;c. 
+    </p>
+            <p xml:id="JMAet9-d33473-d1e154">
+               <lb ed="#P" n="31"/>⁋ Tertia conclusio qua comparat amicitias easdem &amp; earum permanentiam quantum ad mores: dicit ergo. 
+      <lb ed="#P" n="32"/>Alia est causa permanentiae ob amicitiae vtile &amp; delectabile: si ex consuetudine mores dilexerint eosdem 
+      <lb ed="#P" n="33"/>similesque mores habentes. lsti licet non fuerint homines frugi tamen ob morum similitudinem in amici 
+      <lb ed="#P" n="34"/>tia durant. Sic venationem diligentes aut aliam exercitationem: sic auarus auarum, &amp; lubricus lubricum 
+      <lb ed="#P" n="35"/>diligit: per hoc enim minus eius vitium apparebit. Sicut enim prope virtutem conspicuam, vitium 
+      foe<lb ed="#P" n="36" break="no"/>dum sordescit, quia opposita iuxta se posita clarius elucescunt, sic scelestus criminoso iunctus minus appare 
+      <lb ed="#P" n="37"/>bit talis. Diximus enim superius in primi capitis expositione: quod similitudo per se est causa amicitiae: sed qui 
+      <lb ed="#P" n="38"/>non ob voluptatem, sed vtilitatem amicitiam contraxerunt, ii &amp; minus sunt amici &amp; minus permanent: 
+      <lb ed="#P" n="39"/>puta Socrates locuples &amp; meretrix auara diligunt se inuicem: hic ob voluptatem, illa vero ob vtile. Talis 
+      <lb ed="#P" n="40"/>amicitia non est permansiua: &amp; in hoc non comparatur amicitiae studiosorum, quae est diu permanens, non  
+      <lb ed="#P" n="41"/>autem haec. Sequitur in litera qui vero sunt. Comparat amicitiam ob vtile praecise ad amicitiam honesti 
+      <lb ed="#P" n="42"/>penes permanentiam &amp; non permanentiam. Prior cum vtilitate dissoluitur. hi enim non sese sed 
+      vtilita<lb ed="#P" n="43" break="no"/>tem amabant, qua neglecta illa dissoluitur &amp; pessumit. Sequitur in litera corollarium. Fit igitur vt praui 
+      <lb ed="#P" n="44"/>prauis. Haec est secunda pars huius capitis. Nuperrime explanauit similitudinem quam habent amicitiae 
+      <lb ed="#P" n="45"/>vtiles atque iucundae cum vera amicitia: nunc discrimen earum ad veram amicitiam explicat asserens, pleraque 
+      <lb ed="#P" n="46"/>a quibus a sincera amicitia dispescuntur. Et primum asserit quod amicitia ob bonum vtile &amp; delectabile inter 
+      <lb ed="#P" n="47"/>quoscunque homines promiscue inuenitur. Amicitia autem ob bonum honestum, solum inter frugi viros. Hoc 
+      <lb ed="#P" n="48"/>probatur sic. Omnes homines quibus vtile vel delectabile est amabile, contingit esse amicos ob voluptatem 
+      <lb ed="#P" n="49"/>aut emolumentum: sed hoc cuilibet hominum generi convenit: igitur. Consequentia tenet cum maiore. Et minor 
+      <lb ed="#P" n="50"/>patet. Reuera praui possunt esse &amp; vtiles &amp; delectabiles prauis &amp; etiam studiosis: &amp; viri probi possunt esse 
+      vti<lb ed="#P" n="51" break="no"/>les &amp; delectabiles: &amp; sic neutri, hoc est mediocriter boni, possunt esse amici quibuscumque talibus, igitur. Sed boni 
+      <lb ed="#P" n="52"/>soli sunt propter seipsos amici, mali nanque seipsis non gaudent, nisi vtilitas proueniat aliqua. Sequitur in 
+      lite<lb ed="#P" n="53" break="no"/>ra. In sola enim bonorum. Hic amicitiam perfectam ad alias per dissimilitudinem comparat, &amp; hanc conclusionem inten 
+      <lb ed="#P" n="54"/>dit. Amicitiae ob honestum magnam dissimilitudinem habent ab amicitia ob vtile &amp; delectabile: &amp; hoc duabus 
+      ra<lb ed="#P" n="55" break="no"/>tionibus probat per quas duas earum differentias tangit. Primo boni sunt amici ob honestum, non autem aliae 
+      <lb ed="#P" n="56"/>imicitiae. Secunda ratio. Sola amicitia proborum &amp; intransmutabilis, igitur ipsa ab aliis differt. Antecedens patet. 
+      <lb ed="#P" n="57"/>In sola enim bonorum amicitia nulla calumnia aut criminatio locum habet. Non enim facile cuiquam &amp;c. Ponit vnam 
+      <lb ed="#P" n="58"/>exclusiuam dicens. Sola proborum amicitia est intransmutabilis. &amp; probat vtranque exponentem. primo affirmatiuam 
+      <lb ed="#P" n="59"/>quod illa est intransmutabilis: &amp; probatur sic vno praesupposito. Amicitia nonnumquam a bilinguibus &amp; versipellibus soluitur: qui 
+      se<lb ed="#P" n="60" break="no"/>ditionem inter amicos ponere solent. &amp; sic communius frangitur amicitia. Alio modo frangitur ob peccata 
+      <lb ed="#P" n="61"/>&amp; displicentias inter amicos contingentes. His suppositis argumentator sic. Ois amicitia frangibilis aut frangitur per 
+      <lb ed="#P" n="62"/>schismaticos &amp; pacis perturbatores, aut per peccata nota inter amicos. neutrum istorum inter probos contingit. 
+      <!--277.xml-->
+      <pb ed="#P" n="128-v"/>
+               <lb ed="#P" n="1"/>Quomodo enim esse posset vt Socrates aliquid mali de Platone credat, cuius probitatem integritatemque 
+      <lb ed="#P" n="2"/>iam longo tempore expertus est: &amp; per consequens nec in ipsum deliquit. Veri amici munus est secundum 
+      <lb ed="#P" n="3"/>philosophum de alio bene credere, &amp; ei nunquam iniuriam facere: &amp; habere denique omnia quae ad veram amicitiam 
+      <lb ed="#P" n="4"/>spectant. Oppositum contingit in aliis amicitiis. Indubie facillime mali mala de aliis credunt: quia eos 
+      va<lb ed="#P" n="5" break="no"/>fros iam saepius intellexerunt, ergo calumnia illic facile aditum habet. In omni regno videmus principum 
+      <lb ed="#P" n="6"/>pactiones ob vtile initas: ire saepenumero in interitum: &amp; mutuo non semel se fallunt siue iureiurando illud  
+      <lb ed="#P" n="7"/>astrinxerunt siue non. Et sequitur in litera. Nam homines eos etiam dicere consueuerunt amicos qui ob 
+      <lb ed="#P" n="8"/>vtilitatem amant. Vult dicere quod proprie loquendo amicitia ob vtile &amp; delectabile non est amicitia, vel non 
+      <lb ed="#P" n="9"/>est amicitia philosophice loquendo, sicut decet sapientem loqui: licet dici queat actus laudabilis: sed vulgus 
+      <lb ed="#P" n="10"/>ita loquitur: modo loquendum est vt plures. Secundo de caelo &amp; mundo, &amp; primo topicorum, sentiendum ve 
+      <lb ed="#P" n="11"/>ro vt sentiunt pauci. Si enim Lacedaemonii contra Thebanos pugnantes, &amp; a Megarensibus opem 
+      peten<lb ed="#P" n="12" break="no"/>tes impetrant, dicimus Lacedaemonios &amp; Megarenses amicos. Patet de pueris quos quia simul frequenter 
+      <lb ed="#P" n="13"/>degunt amicos appellitamus. Sequitur in litera. Asserere autem species amicitiae plures esse. Sequitur 
+      epi<lb ed="#P" n="14" break="no"/>logus. Dicit quod possumus asserere plures esse amicitiae species, sed praecipue &amp; proprie est ea quae est 
+      studio<lb ed="#P" n="15" break="no"/>sorum, ea ratione qua boni sunt. Caeteras autem species amicitiae per metaphoram dictas esse constat, vt 
+      <lb ed="#P" n="16"/>quatinus bonum quoddam &amp; simile in ipsis est, eatenus ipsi sunt amici. Hoc est boni sunt amici propter 
+      <lb ed="#P" n="17"/>bonum quod est in eorum vtroque. Similiter delectabile est amabile amatoribus delectationum, sicut bonum 
+      <lb ed="#P" n="18"/>vtile amatoribus vtilitatum: &amp; in hoc quandam similitudinem habent cum amicitia ad bonum honestum: 
+      <lb ed="#P" n="19"/>non tamen multum haec copulantur, hoc est cohaerent amicitia ob vtile aut delectabile: quippe quandoque 
+      <lb ed="#P" n="20"/>idem est bonum vtile &amp; delectabile interdum vero non vnde istae duae sunt amicitiae perlaccidens, quia per 
+      <lb ed="#P" n="21"/>accidens coniunguntur &amp; non vsquequaque. Et sequitur in litera. In has autem species. Dicit quod cum 
+      ami<lb ed="#P" n="22" break="no"/>citia sit in has tres species partita, praui possunt esse amici ob vtile &amp; delectabile, in hoc similes existentes 
+      <lb ed="#P" n="23"/>his hac ratione qua similitudinem subeunt, hoc est sunt similes his, hoc est studiosis. Litera est perspicua 
+      <lb ed="#P" n="24"/>demptis quibusdam difficultatibus obiter emergentibus.
+    </p>
+            <p xml:id="JMAet9-d33473-d1e282">
+               <pc type="pilcrow">¶</pc> Primo dubitatur an dentur viri neutri, qui 
+      <lb ed="#P" n="25"/>nec sunt boni nec mali. Secundo quomodofiat partitio amicitiae bonum vtile &amp; delectabile, cum omne 
+      <lb ed="#P" n="26"/>bonum sit honestum, nunquam enim est bonum vtile aut delectabile a bono honesto segregatum. videtur 
+      <lb ed="#P" n="27"/>igitur quod hac via nulla erit amicitia nisi ob honestatem
+    </p>
+            <p xml:id="JMAet9-d33473-d1e295">
+               <pc type="pilcrow">¶</pc> Ad priorem dubitationem respondetur, quod 
+      vnusquis<lb ed="#P" n="28" break="no"/>quod est in mortali aut in gratia. Charitas enim diuidit inter filios regni &amp; perditionis. xv. de trinitate 
+      capi<lb ed="#P" n="29" break="no"/>te. xviii. Et hoc post primi hominis peccatum. Non enim est improbabile quod prius homo nec erat in 
+      gra<lb ed="#P" n="30" break="no"/>tia nec in peccato productus: de secundo certum est. Modo quilibet existens in mortali est malus, &amp; existens 
+      <lb ed="#P" n="31"/>in gratia, esto quod venialia habeat est bonus. Nam veniale vocatur eo quod est venia dignum, hoc modo capiendo, non  
+      <lb ed="#P" n="32"/>datur homo neuter inter bonum &amp; malum. &amp; hic loquimur de lege dei ordinata &amp; non absoluta. Potest 
+      <lb ed="#P" n="33"/>enim deus alicui mortali non imputare nullam gratiam illi conferendo: sed loquendo more gentilium 
+      <lb ed="#P" n="34"/>philosophorum vel more vulgariter loquentium, adhuc datur homo neuter: &amp; est ille qui non est excellen 
+      <lb ed="#P" n="35"/>ter bonus &amp; paucis est criminibus irretitus. De plerisque enim quorum malitiam non percipimus, quia nulli 
+      <lb ed="#P" n="36"/>nocent dicimus talis est homo neuter: aut vnus dicit eum malum, alius vero bonum: tertius &amp; quartus 
+      <lb ed="#P" n="37"/>qui eum nouerunt dicunt eum nec bonum nec malum, sed tenere limitem inter bonum &amp; malum, 
+      a<lb ed="#P" n="38" break="no"/>tepidum &amp; virum rotundum esse. Et ita tales qui mediocriter boni siue mali denominantur neutri dici possunt. 
+    </p>
+            <p xml:id="JMAet9-d33473-d1e325">
+               <lb ed="#P" n="39"/>⁋ Contra illud argumentor. <ref xml:id="JMAet9-d33473-Rd1e329">Augustinus dicit in enchiridio</ref> quod aliqui sunt valde boni, aliqui mali, aliqui 
+      <lb ed="#P" n="40"/>mediocriter boni, aliqui mediocriter mali: &amp; recitatur de celebra. missa c. cum Marthae: ergo est discrimen 
+      <lb ed="#P" n="41"/>inter mediocriter bonos &amp; malos. Respondetur quod pauca habens peccata est mediocriter malus, &amp; pauca 
+      <lb ed="#P" n="42"/>habe ns merita mediocriter bonus: sed ad illam distinctionem diui augustini quomodo intelligenda 
+      <lb ed="#P" n="43"/>venit iam diximus in distinctionem. xlv. quarti sententiarum.
+    </p>
+            <p xml:id="JMAet9-d33473-d1e342">
+               <pc type="pilcrow">¶</pc> Et si adhuc obiicies: quia qui in vno 
+      <lb ed="#P" n="44"/>offendit factus est omnium reus. lacobi secundo. Respondetur quod non intelligitur quod in vno peccans sit 
+      <lb ed="#P" n="45"/>omnibus vitiis irretitus: sed quod sic punietur cum vno peccato mortali decedens aeternaliter, sicut decedens cum 
+      <lb ed="#P" n="46"/>multis: non autem tantum intensiue punietur. 
+    </p>
+            <p xml:id="JMAet9-d33473-d1e354">
+               <lb ed="#P" n="47"/>⁋ Ad secundum respondeo quod nunquam bonum vtile aut delectabile a bono honesto segregatur: tamen 
+      bo<lb ed="#P" n="48" break="no"/>num quod aliqui delire existimant vtile aut delectabile est sine honestate: &amp; ad tale bonum nonnunquam 
+      vti<lb ed="#P" n="49" break="no"/>le aut delectabile extenditur: loquendo priori modo de bono vtili &amp; dalectabili vtrumque horum est 
+      hone<lb ed="#P" n="50" break="no"/>stum quia rationi rectae consentaneum, sed quia non ita purum &amp; syncaerum, cum sit vtraque amicitia 
+      pro<lb ed="#P" n="51" break="no"/>pter amantis lucrum non dicitur amicitia ob honestum. Dubitatur tertio quam miseri sit ille qui amore 
+      <lb ed="#P" n="52"/>speciosae foeminae est innodatus. Respondetur quod est in valde misero statu. Paris enim Helenam ardens 
+      in<lb ed="#P" n="53" break="no"/>cendium troiae peperit, paternas opes &amp; fraternas deleuit. Aristides ac Themistocles Athenienses 
+      claris<lb ed="#P" n="54" break="no"/>simi riuales eiusdem foeminae plurimum patriae nocuerunt. Semiramidis inexplebilis libido perpetuo 
+      <lb ed="#P" n="55"/>probro proscindetur. Catilina ita ardebat Aureliam vt illius amore filium ex priore coniuge procreatum 
+      <lb ed="#P" n="56"/>necarit: Catilinae enim illas nuptias superstite filio recusauit. Campana luxuria inuictum Annibalis exerci 
+      <lb ed="#P" n="57"/>tum eneruauit. Exercitus enim Veneris illecebris pellectus militiam dedidicit. Estum amoris adolescens 
+      <lb ed="#P" n="58"/>apud Platum eiulat inquiens. lactor, crucior, agitor, stimulor, versor in amatoria rota miser examinor, 
+      <lb ed="#P" n="59"/>feror, distrahor vbi sum ibi non sum: vbi non sum ibi est animus. Alexander Thaidis meretriculae 
+      blan<lb ed="#P" n="60" break="no"/>ditiis delinitus Persepolum vrbem opulentissimam incendit. Melius respondit laidi Demostenes, Dum 
+      <lb ed="#P" n="61"/>enim Lais meretrix corinthia lentum pro nocturno concubitu ab eo peteret, ille scite respondit. Poenitere 
+      <lb ed="#P" n="62"/>tanti non emo. Qui se in literario ludo ac bono opere exercet, amoris praestigiis non est delinitus. Hicinebri 
+      <lb ed="#P" n="63"/>ans amor vitam denigrat famamque ac rem omnem pessundat.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

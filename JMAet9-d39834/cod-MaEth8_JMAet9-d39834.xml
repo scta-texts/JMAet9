@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d39834"><!-- mair-l10c2 -->
+            <head xml:id="JMAet9-d39834-Hd1e103">Caput 2</head>
+            <p xml:id="JMAet9-d39834-d1e106">
+               <lb ed="#P" n="34"/>
+               <quote xml:id="JMAet9-d39834-Qd1e110" type="lemma">EVdoxus intaque voluptatem</quote> &amp;c. Hic recitat opinionem quam Eudoxi voluptatem summum bonum arbitrabatur, 
+      <lb ed="#P" n="35"/>primo hac ratione persuasus quod vniuersa cernebat voluptatem affectare: tam ea quae rationis sunt capacia quae 
+      <lb ed="#P" n="36"/>ea quae rationis sunt expertia. In omnibus autem quod est expetibile illud est bonum, &amp; illa quod est maxime expe 
+      <lb ed="#P" n="37"/>tibile illud est optimum. Qa igitur vniuersa ad voluptatem ferantur illud ostendit eam esse summum bonum. Aiebat etiam 
+      <lb ed="#P" n="38"/>Eudoxus vnumquodque inuenire id quod est ipsi bonum: quemadmodum quodli bet animal quaerit &amp; 
+      in<lb ed="#P" n="39" break="no"/>uenit quod sibi bonum est alimentum, vt carduos &amp; tribulos asini, lacertos ciconiae, vermiculos &amp; herbas 
+      <lb ed="#P" n="40"/>pisciculi. Panem homines &amp; fere animalia domestica: vnde sunt qui putant sic dictum quod pan est totum, 
+      <lb ed="#P" n="41"/>quia toti animantium generi expetitur: Omnia autem voluptatem quaerunt. Quod igitur est cunctis bo 
+      <lb ed="#P" n="42"/>num &amp; quod cuncta desiderant id aiebat esse summum bonum. Vis rationis iacet in hoc: Illud est summum 
+      <lb ed="#P" n="43"/>bonum quod ab omnibus appetitur: si ab omnibus appetitur sua bonitate omnes ad se trahit. At 
+      volu<lb ed="#P" n="44" break="no"/>ptas est huiusmodi: igitur. Eudoxi rationi morum elegantia plus momenti tribuit quam ratio ipsa valeret, ne 
+      <lb ed="#P" n="45"/>mo credebat Sardanapalo in alimento &amp; venereis summum bonum ponenti: quia helluo &amp; lubricus erat. 
+      <lb ed="#P" n="46"/>Lurchones &amp; intemperantes contemnimus cum eorum dictis. Valde enim modestus Eudoxus videbatur 
+      <lb ed="#P" n="47"/>hoc est erat. Licet exteriora (vt in hypocritis) vix hominis probitatem concludant, in euidentibus tamen 
+      <lb ed="#P" n="48"/>vtimur illo modo loquendi vt dicamus videtur. Non enim dicebat voluptatem esse summum bonum 
+      <lb ed="#P" n="49"/>quia afficiebatur voluptatibus immo sua temperantia eas contempsit propterea plus ei credebatur. Deins 
+      <lb ed="#P" n="50"/>de ponitur ratio secunda Eudoxi quae ex parte contrarietatis accipitur &amp; est haec. Dolorem constat 
+      omni<lb ed="#P" n="51" break="no"/>bus per se fugiendum esse: igitur doloris contrarium scilicet ipsam voluptatem ab omnibus expetendam. 
+      <lb ed="#P" n="52"/>Momentum rationis in hoc stat. Cuius contrarium est malum &amp; fugiendum, ipsum est bonum: at 
+      contra<lb ed="#P" n="53" break="no"/>rium voluptatis scilicet dolor, est malum: igitur. Deinde ponit rationes Eudoxi quibus probare elaborat 
+      <lb ed="#P" n="54"/>voluptatem esse summum bonum. Illud est summum bonum quod non ob aliud neque cuiusque alterius 
+      <lb ed="#P" n="55"/>gratia expetimus: at voluptas est huiusmodi: igitur. Maior patet, quia per hoc vltimum finem in rebus 
+      <lb ed="#P" n="56"/>humanis ostendimus. Minor patet, quia sine controuersia talis est voluptas. Neminem enim interrogas cu 
+      <lb ed="#P" n="57"/>iusnam gratia indaget voluptatem: &amp; id causae est, quia ipsa voluptas est per se ipsam, expetibilis. Si enim vo 
+      <!--328.xml-->
+      <pb ed="#P" n="154-r"/>
+               <lb ed="#P" n="1"/>luptas ordinaretur ad finem altiorem, recte inquireres quare voluptatem optas: sicut recte quaeritur quare 
+      <lb ed="#P" n="2"/>comedis, &amp; rite respondetur vt viuam. Scholasticus petit campos vt ludat: ludit vt recreetur, recreatur vt 
+      <lb ed="#P" n="3"/>melius agat ac studeat &amp; illic est status. Ratio secunda Eudoxi ad probandam voluptatem esse summum 
+      bo<lb ed="#P" n="4" break="no"/>num siue quarta in ordine est haec. Illud quod cuicunque bono appositum facit illud eligibilius, est summum 
+      <lb ed="#P" n="5"/>bonum: at voluptas est huiusmodi: igitur. Minor patet ex litera: vt iustas operationes temperatas ve 
+      ma<lb ed="#P" n="6" break="no"/>gis expetibiles &amp; incrementa suscipere: vt bonum ipsum seipso bono splendescit, dulcis enim est mixtura 
+      <lb ed="#P" n="7"/>bonorum vt produnt. Sequitur prima conclusio huius capitis ex mente philosophi, qui hactenus aliorum 
+      <lb ed="#P" n="8"/>dicta recitauit. Verum haec ratio Eudoxi est flaccida, solum monstrans voluptatem esse bonum: sed non 
+      ma<lb ed="#P" n="9" break="no"/>gis quam aliud bonum: cum omne bonum cum alio est expetibilius quam ipsum solum. Sed eadem ratione cui inni 
+      <lb ed="#P" n="10"/>titur Eudoxus subtrahit Plato voluptatem summum bonum esse. Dicebat enim. Ad assumptum 
+      Eudo<lb ed="#P" n="11" break="no"/>xi sequitur voluptatem non esse summum bonum. Ad antecedens Eudoxi sequebatur oppositum 
+      conse<lb ed="#P" n="12" break="no"/>quentis vt Platonici dixerunt: quoniam si voluptas alteri bono addita vtpote prudentiae congeriem bo 
+      <lb ed="#P" n="13"/>norum meliorem facit quia vita iucunda cum prudentia, vitae iucundae soli praestat: sequitur voluptatem 
+      <lb ed="#P" n="14"/>non esse optimum quia illa congeries voluptati praestat, dicebat enim Plato summum bonum nullo 
+      addi<lb ed="#P" n="15" break="no"/>to meliorari posse. Subsequenter monstrat philosophus Platonem insufficienter respondere obiectui 
+      Eu<lb ed="#P" n="16" break="no"/>doxi dicens si nihil alteri additum totum melius facit &amp; est per se bonum: nullum bonum quo nos 
+      commu<lb ed="#P" n="17" break="no"/>nicamus est per se bonum: &amp; haec est secunda conclusio quam hic intendit. Si haec Platonis ratio vera esset 
+      <lb ed="#P" n="18"/>&amp; eius maior vera, clarum istud quoque esset: neque vllum quidem aliud esset summum bonum, quia nullum 
+      <lb ed="#P" n="19"/>vnum est eligibilius per seipsum solum quam cum aliquo illorum bonorum quae sunt bona secundum seipsa. 
+      <lb ed="#P" n="20"/>Nulla enim est virtutis bonitas quae sit eligibilior sine sapientia quam cum sapientia. Nec aliquod aliud bonum 
+      <lb ed="#P" n="21"/>quo nos communicare possumus. Tale autem bonum inter morales philosophos indagatur: de bono sepa 
+      <lb ed="#P" n="22"/>rato &amp; diuino inter sapientes non contenditur. Neque solutio Platonicorum ad primam rationem Eudoxi 
+      <lb ed="#P" n="23"/>valet. Haec est secunda conclusio huius capitis. Qui negant illud bonum esse quod omnia appetunt ii 
+      ni<lb ed="#P" n="24" break="no"/>hil omnino dicunt: &amp; sic in valore argumentatur. Omne illud est bonum quod vniuersi bonum esse 
+      cen<lb ed="#P" n="25" break="no"/>sent: &amp; quod omnes morales expetunt illud esse bonum censent: ergo illud est bonum quod vniuersi expetunt. 
+      <lb ed="#P" n="26"/>Secundo si solum ea animalia quae mentis &amp; rationis expertia sunt vt belluae &amp; amentes, voluptatem 
+      appete<lb ed="#P" n="27" break="no"/>rent tunc cum colore platonici loquerentur: ad cum ea animalia quae prudentia praedita sunt voluptatem 
+      cu<lb ed="#P" n="28" break="no"/>piant, qui fit vt aliquid apparenter dicant? Et si praui voluptatem appetant non sequitur voluptatem esse 
+      <lb ed="#P" n="29"/>malam, quia in prauis naturale bonum valentius quam ipsa per se sunt bona: puta bonum diuinum quod 
+      pro<lb ed="#P" n="30" break="no"/>prium appetit bonum vt in septimo diximus capite penultimo, omnia nanque diuinum quid habent 
+      na<lb ed="#P" n="31" break="no"/>tura. Nec etiam Platonici eluunt rationem quae de contrario assumebatur. Hic ponitur quarta conclusio. 
+      <lb ed="#P" n="32"/>Inquiunt non statim fieri: si dolor malum est voluptas est bonum: quia contrariatur malum malo &amp; 
+      am<lb ed="#P" n="33" break="no"/>bo mala scilicet extrema ei quod neutrum est: scilicet medio. Neque haec quidem inerudite dicunt quia 
+      reue<lb ed="#P" n="34" break="no"/>ra malum malo &amp; medio aduersatur prodigalitas: illiberalitati &amp; liberalitati aduersatur. Sed in proposito 
+      <lb ed="#P" n="35"/>hic non soluit: quia ambo &amp; dolor &amp; voluptas mala non sunt. Si enim ambo essent mala oporteret ambo 
+      <lb ed="#P" n="36"/>fugienda esse: quae enim in genere malo conueniunt ea ipsa in eius proprietate conuenient, fugiendum 
+      sal<lb ed="#P" n="37" break="no"/>tem nominaliter est malum: sin neutra neutrum, hoc est si neutra sint mala sed bona aut neutra neutrum 
+      <lb ed="#P" n="38"/>est fugiendum: aut similiter de vtroque censeas, si sint mala quantum ad fugiendum prosequendum aut 
+      hu<lb ed="#P" n="39" break="no"/>iusmodi. At non est ita, nam constat eos dolorem vt malum fugere, voluptatem ceu bonum petere sic 
+      igi<lb ed="#P" n="40" break="no"/>tur, &amp; opponuntur, sicque aduersantur vt bonum malo: proinde Plato haud sufficienter rationes Eudoxi 
+      <lb ed="#P" n="41"/>diluit.
+    </p>
+            <p xml:id="JMAet9-d39834-d1e257">
+               <pc type="pilcrow">¶</pc> Dubitatur de vno dicto probando: bonum bono superadditum non reddit totum praestabilius: 
+      <lb ed="#P" n="42"/>deus &amp; creatura non est praestabilior deo solo: opposito enim dato sequitur aliquid saltem congeriem esse 
+      <lb ed="#P" n="43"/>deo perfectiorem quod est rationi dissentaneum. Respondetur quod dum vna pars totius est infinitae 
+      perfe<lb ed="#P" n="44" break="no"/>ctionis a qua tota creaturae perfectio dependet, aggregatum non est illo infinito, si sit solo deo perfectius. 
+      vn<lb ed="#P" n="45" break="no"/>de fit quod asinus ex ludaea in Agyptum fugiens non portauit nobilius pondus quam Christifera virgo Christum dum 
+      <lb ed="#P" n="46"/>in vlnis portans: &amp; licet binarius almae virginis &amp; Christi specie differret a verbo incarnato, non est superior 
+      <lb ed="#P" n="47"/>perfectio in toto quam in parte: cum aggregati nobilitas a partis perfectione proficiscatur: secus in omnibus 
+      <lb ed="#P" n="48"/>creatis quare recte Aristoteles in Platonem ait: summum bonum cuicunque bono additum totum 
+      praesta<lb ed="#P" n="49" break="no"/>bilius reddit.
+    </p>
+            <p xml:id="JMAet9-d39834-d1e280">
+               <pc type="pilcrow">¶</pc> Dubitatur secundo quisnam fuit iste Eudoxus. Respondetur quod erat schinis 
+      Demosthe<lb ed="#P" n="50" break="no"/>nis aemuli filius auditorque Socratis, Platonis sodalis, patria. Gnidius: est enim Gnidus Ciliciaeciuitas fuit hic 
+      <lb ed="#P" n="51"/>mathematicus summus &amp; medicus: legesque scripsit. Fuit &amp; alter Eudoxus Rhodius historicus. Fuit &amp; 
+      <lb ed="#P" n="52"/>tertius Siculus de genere Agathoclis tyranni, poeta Comicus.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

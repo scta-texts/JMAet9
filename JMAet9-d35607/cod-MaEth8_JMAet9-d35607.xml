@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 12</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 12</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d35607"><!-- mair-l8c12 -->
+            <head xml:id="JMAet9-d35607-Hd1e103">Caput 12</head>
+            <p xml:id="JMAet9-d35607-d1e106">
+      <!--293.xml-->
+               <pb ed="#P" n="136-v"/>
+               <lb ed="#P" n="1"/>
+               <quote xml:id="JMAet9-d35607-Qd1e114" type="lemma">OMnis igitur amicitia</quote> &amp;c. Iam praemittit philosophus id quod saepenumero dixit, scilicet quod 
+      <lb ed="#P" n="2"/>omnis amicitia in quadam societate consistit: &amp; non ab re aliquis distingueret amicitiam 
+      con<lb ed="#P" n="3" break="no"/>sanguineam &amp; sodalitiam a reliquis amicitiis. Porro ciues contribules &amp; similes vt sunt hospites, 
+      <lb ed="#P" n="4"/>societates pactionibus constantes habere videntur: quocirca istae amicitiae sunt distinguendae. Amicitia 
+      <lb ed="#P" n="5"/>consanguinea a societate naturali profluit: &amp; amicitia sodalitia a mutua conuersatione a primis 
+      in<lb ed="#P" n="6" break="no"/>cunabulis proficiscitur. Et rursus consanguinea est multiplex, verum omnis ex paterna stirpe pendet. 
+      <lb ed="#P" n="7"/>Sane parentes filios vt aliquid illorum suapte natura diligunt. Ediuerso nati parentes vt aliquid ex illis 
+      <lb ed="#P" n="8"/>emanans. Verumtamen parentes vehementius natos amant quam contra. lstius amoris glutinum ex variis 
+      <lb ed="#P" n="9"/>proficiscitur. Primo quo quispiam magis causam dignoscit ob quam amat, eo feruentius amat: at 
+      ge<lb ed="#P" n="10" break="no"/>nitores magis causam cognoscunt quare filios ament quam filii: quare genitores feruentius liberos quam 
+      edi<lb ed="#P" n="11" break="no"/>uerso liberi parentes amant. Certe parentes liberos amant quis sunt ipsorum aliquid, filii enim ab ipsis 
+      <lb ed="#P" n="12"/>fluunt. Secundo, quo aliquid est magis coniunctum alicui, eo magis illud amore prosequetur: sed filius est 
+      <lb ed="#P" n="13"/>patri coniunctus vt pars eius, quia semen patris compositione filii ingreditur. pars autem genita a toto 
+      <lb ed="#P" n="14"/>dependet velut dens, pilus, &amp; manus. Tertio, qui prolixiore temporis curriculo amant plus amant quam illi 
+      <lb ed="#P" n="15"/>qui minore tempestate amant: at parentes productiore tempore natos amant quam ediuerso. Amicitiae 
+      <lb ed="#P" n="16"/>enim temporis successu incrementa suscipiunt. Modo literam quae tenebrosa est, vt poterimus aperire 
+      <lb ed="#P" n="17"/>curabimus, quae est haec, Magisque coniunctum est id ex quo natum ipsi nato, quam factum ei quod fecit. Est enim 
+      <lb ed="#P" n="18"/>ei ex quo ortum est vt dens, &amp; crinis, &amp; quiduis habenti. Nullum autem illorum id ex quo orta sunt. Ecce 
+      <lb ed="#P" n="19"/>valor rationis in hoc iacet, quo aliquis est cuipiam coniunctior eo magis illum diligit, at pater est liberis 
+      <lb ed="#P" n="20"/>coniunctior quam ediuerso: pater se habet vt totum cuius filius in prima productione est pars, pater autem 
+      <lb ed="#P" n="21"/>non est aliquid filii.
+    </p>
+            <p xml:id="JMAet9-d35607-d1e162">
+               <pc type="pilcrow">¶</pc> Sequitur in litera. Ex his autem insinuat matres magis diligere natos quam patres: 
+      <lb ed="#P" n="22"/>quia matribus est maior certitudo filiorum quam patribus, atque contractiore temporis tractu natos diligunt: 
+      <lb ed="#P" n="23"/>&amp; magis continue filios in sinu &amp; super genu fouentes dulcia oscula genis paruulorum infigunt: fratres 
+      <lb ed="#P" n="24"/>autem sese diligunt quia ex eadem stirpe immediata profluxerunt, nonnum quam ex patre tantum: nonnumquam ex 
+      <lb ed="#P" n="25"/>materno latere tantum: interdum ex vtroque parente. Quaecumque autem sunt idem vni tertio eadem identitate 
+      <lb ed="#P" n="26"/>sunt idem inter se: at fratres sunt idem parentibus: igitur. Non sunt omnino idem, sed pro modulo 
+      <lb ed="#P" n="27"/>pro quanto ad tertium referuntur. Frater enim dicitur quasi fere alter. Mutua sodalitate aluntur &amp; 
+      <lb ed="#P" n="28"/>aetate fere pares solent esse, mutuo colludunt: atque magno amore sese complectuntur: nam aequalem 
+      <lb ed="#P" n="29"/>aequalis delectat. Patrueles siue fratrueles magna charitate sese prosequuntur, &amp; alii in omnibus 
+      con<lb ed="#P" n="30" break="no"/>sanguinitatis gradibus conglutinati: propterea quod ex eadem stirpe mediate descenderunt. A communi 
+      sti<lb ed="#P" n="31" break="no"/>pite sollicite suos nexus calculant secundum accessum ad truncum propinquum magis atque minus sese 
+      di<lb ed="#P" n="32" break="no"/>ligunt: semper paritate data intellige. Cognomines quoque incredibili glutino in Britannia 
+      annectun<lb ed="#P" n="33" break="no"/>tur. Ibi loci vnus cognominem sibi nullo sanguinis vinculo iunctum nepoti ex sorore praeponit. 
+      Aua<lb ed="#P" n="34" break="no"/>ritia autem filiorum ad parentes, &amp; hominum ad deos est excellens: loquendo vt plures, per deos vnitatem dei 
+      <lb ed="#P" n="35"/>intelligit. Porro deus &amp; genitores potissimum bona pueris tribuerunt: esse, alimentum pariter &amp; 
+      educatio<lb ed="#P" n="36" break="no"/>nem. Animam creat deus citra cuius influentiam creatura omnis protinus tabescat. Talis amicitia 
+      <lb ed="#P" n="37"/>iucunditatem cum vtilitate magis quam extraneorum amplectitur. Mutuo conuiuunt, &amp; seniores iunioribus 
+      <lb ed="#P" n="38"/>prouident: &amp; quando senescant &amp; sunt decrepiti liberi illis prouident vt in pullis ciconiae contingit vbi 
+      <lb ed="#P" n="39"/>pulli effoetas matres pascunt.
+    </p>
+            <p xml:id="JMAet9-d35607-d1e207">
+               <pc type="pilcrow">¶</pc> Post haec luculente declarat quare fraterna amicitia magna 
+      arctitu<lb ed="#P" n="40" break="no"/>dine est connexa. Sunt enim sodales, moribus similes, colludunt &amp; sua secreta mutuo communicant. 
+    </p>
+            <p xml:id="JMAet9-d35607-d1e215">
+               <lb ed="#P" n="41"/>⁋ Sequitur. Viro autem &amp; vxori &amp;c. Haec amicitia non ob sanguinis nexum contrahitur: in gradibus 
+      <lb ed="#P" n="42"/>propinquis a coniugio arcentur. Hoc Aristoteles in litera subindicat. Haec autem societas natura 
+      con<lb ed="#P" n="43" break="no"/>stat. Hoc monstrans ait quod homo est animal magis coniugale quam ciuile: at est natura ciuilis homo, primo 
+      <lb ed="#P" n="44"/>Politicorum: proinde magis natura coniugale. Qui sit magis natura coniugalis quam ciuilis, duplici 
+      ra<lb ed="#P" n="45" break="no"/>tione fulcit: quarum prior est. ld est magis naturale homini quod est magis necessarium &amp; prius natura: 
+      <lb ed="#P" n="46"/>at esse coniugale est prius natura &amp; magis necessarium quam esse ciuile: quamobrem est homini natutalius, 
+      <lb ed="#P" n="47"/>quia domus prius est natura quam ciuitas atque magis necessaria. Secundo. Id quod totum animalium genus 
+      <lb ed="#P" n="48"/>comitatur &amp; est communius, est naturalius: at filiorum procreatio ad quam communiugalis societas ordinatur, 
+      <lb ed="#P" n="49"/>est huiusmodi, igitur. Atque belluarum hic est societas scopus. Genita &amp; alita prole alites &amp; caetera 
+      ani<lb ed="#P" n="50" break="no"/>malia segregantur: homines autem connubium subeunt, non solum prolis gratia generandae, sed etiam 
+      <lb ed="#P" n="51"/>causa illorum quae ad vitam conducunt. Officiaque diuersa habent, viri munus est curare illa quae foris 
+      <lb ed="#P" n="52"/>sunt, &amp; opes procurare: mulieris tractare illa quae domi sunt, sibique mutuo suppetias ferunt parta in 
+      con<lb ed="#P" n="53" break="no"/>muni ponentes vt in oeconomicis atque politicis abunde dicitur. Quocirca in hac amicitia est 
+      vtili<lb ed="#P" n="54" break="no"/>tas atque iucunditas. Vtilitas quidem, quia communi vtilitati consulunt: voluptas autem ob generationem &amp; 
+      <lb ed="#P" n="55"/>in bonis liberis, &amp; se mutuo vir &amp; vxor diligunt. Nec virtus illis defuerit modo probi sint, &amp; (vt de 
+      <lb ed="#P" n="56"/>caeteris taceam) castitatem coniugalem seruabunt. Et huius amicitiae filii sunt nodus &amp; firmamentum. 
+      <lb ed="#P" n="57"/>In cuius argumentum cum infoecunda muliere citius matrimonium dissoluitur. Filiisunt parentibus 
+      con<lb ed="#P" n="58" break="no"/>mune bonum, non possunt illos separare vt mater filias capiat &amp; pater masculos: ipsum autem commune 
+      <lb ed="#P" n="59"/>bonum hanc amicitiam conglutinat.
+    </p>
+            <p xml:id="JMAet9-d35607-d1e260">
+               <pc type="pilcrow">¶</pc> Sequitur. Quaerere autem &amp;c. Tacitae quaestioni obiter occurrenti 
+      <lb ed="#P" n="60"/>respondet. Diceret enim quispiam, domine, multa de amicitia ciuili, coniugali atque consanguineorum 
+      <lb ed="#P" n="61"/>dixisti: attamen non tradidisti normam viuendi in eis. Respondens, inquit, hoc nihil aliud est percontari 
+      <lb ed="#P" n="62"/>ac quonam pacto, hoc est iustum. Procul dubio quale est iustum: talis est viuendi modus. 
+      Conside<lb ed="#P" n="63" break="no"/>randus est personarum sexus, discretio, &amp; caetera id genus quae iustum contingunt: &amp; omnia sunt aperta. 
+      <lb ed="#P" n="64"/>Non enim idem videtur iustum amico ad animum &amp; ad extraneum nec ad sodalem ac condiscipulum esse. 
+      <!--294.xml-->
+      <pb ed="#P" n="137-r"/>
+            </p>
+            <p xml:id="JMAet9-d35607-d1e281">
+               <lb ed="#P" n="1"/>⁋ Circa hoc duodecimum caput in quo philosophus loquitur de amicitia vxoris, parentum, filiorum, fratrum 
+      <lb ed="#P" n="2"/>hospitum &amp; sodalium, quaeritur de modo diligendi inter se. Respondetur quod parentes naturalius liberos 
+      di<lb ed="#P" n="3" break="no"/>ligunt quam ab eis diligantur. Siquidem filii ab eis fluxerunt tanquam partes a toto, vt circa literam commenti 
+      su<lb ed="#P" n="4" break="no"/>mus, &amp; genitores in genitis viuunt in fama quia in propagine stirps continuatur. Filios autem plura bona a pa 
+      <lb ed="#P" n="5"/>rentibus accepisse quam eis contulisse, nil de amore naturali concludit. Et quia origo paterna est praestantior 
+      mater<lb ed="#P" n="6" break="no"/>na, filii patrem matri in casu incompossibili anteponent. Ratio seminalis patris secundum Aristotelem in. xv. de 
+      <lb ed="#P" n="7"/>animalibus &amp; secundum medicos est actiua, &amp; matris passiua. Multos angores fateor mater pro filio tulit, quem 
+      <lb ed="#P" n="8"/>forte intensius diligit quam pater: verum hoc non obstat. Matrem enim &amp; totam familiam pater sua industria alit 
+      <lb ed="#P" n="9"/>atque in moribus regit: atque plura pro natis quam mater faciet dum ratio efflagitat.
+    </p>
+            <p xml:id="JMAet9-d35607-d1e303">
+               <pc type="pilcrow">¶</pc> Dicis pater est vinosus, 
+      <lb ed="#P" n="10"/>bonorum dilapidator, puerorum in moribus neglector: mater autem casta, oculata, familiam sollicitudine pascit, 
+      <lb ed="#P" n="11"/>filios anxie erudire facit: nonne sub ea hypothesi ea est patri praeferenda? dico quod hoc non est inquantum pater aut  
+      <lb ed="#P" n="12"/>mater est, &amp; de his quae vulgo eueniunt: Potes etiam tot circunstantias in medium afferre, de extranei amore, qui cum 
+      <lb ed="#P" n="13"/>periculo suae vitae meam vitam a saeuo carnifice protexit, me postea aluit: at pater me nihil male merentem 
+      <lb ed="#P" n="14"/>domo abdicauit: vnde plus sum obnoxius barbarum quempiam patri anteponere: verum hoc non est 
+      in<lb ed="#P" n="15" break="no"/>quantum pater est &amp; in his quae communiter vsu eueniunt: quocirca si non possum releuare simul 
+      indigen<lb ed="#P" n="16" break="no"/>tiam patris &amp; matris, sed alterutrius tantum, vel grassatores illos inuadunt vel ignis comburendo domum illos 
+      <lb ed="#P" n="17"/>vero similiter comburet, patrem matre relicta e mediis flammis eripiam: vt Aineas Anchisen, sed matrem ea 
+      <lb ed="#P" n="18"/>hypothesi vxori &amp; liberis praeferam Caeterum quando seminarium dissidii inter fratres enascitur capitale odium 
+      <lb ed="#P" n="19"/>inter illos pullulat: hinc prouerbialiter aiute (inquit Aristoteles) in politicis. Non est ira sicut ira fratrum. Verum 
+      <lb ed="#P" n="20"/>tamen regulariter se tenerrime cum sorore diligunt. De his omnibus nonnulla exempla memoratu digna strictim 
+      <lb ed="#P" n="21"/>subdemus. De beati Andreae &amp; Petri fratrum amore in euangelistas locuti sumus. Israel pio dolo fraternam 
+      hae<lb ed="#P" n="22" break="no"/>reditatem emit aut potius vexationem redemit: ob infensum enim fratrem paternum solum reliquit: postliminio 
+      <lb ed="#P" n="23"/>reuersum Esau comiter suscepit, ingenitae pietatis non putatae iniuriae memor. Ioseph Israelis filius a fratribus 
+      <lb ed="#P" n="24"/>venditus hospitaliter eos suscepit eisque in omnibus fraterne succurrit. Maria soror Moysi, Moysen probro 
+      <lb ed="#P" n="25"/>sis verbis procidit iccirco deus lepra eam infecit: non destitit tamen Moyses deum suppliciter deprecari quoad 
+      le<lb ed="#P" n="26" break="no"/>prae contagio prorsus esset extincta. Pollux &amp; castor arctissime inter se dilexerunt. Pollux imortalis castorem 
+      <lb ed="#P" n="27"/>mortalem semiimmortalem vt fabulantur effecit: quod ideo fingitur quia illorum stellae situm talem in stellifera 
+      sphe<lb ed="#P" n="28" break="no"/>ra habent vt vna occidente oriatur altera. Drusum fratrem in germania extinctum Tyberius Caesar incredibili 
+      <lb ed="#P" n="29"/>ter defleuit: squaloreque obsitus pedibus cadauer romam vsque prosequebatur. Haec de fraterno amore strictim 
+      <lb ed="#P" n="30"/>delibasse sufficiat. Caeterum incredibilis est indulgentia parentum in filios: atque communiugum inter se amor reciprocus de 
+      <lb ed="#P" n="31"/>quo deinceps commentabimur. Nauiganti in cretam theseo cum aegeus pater iussisset vt si perempto 
+      mi<lb ed="#P" n="32" break="no"/>notauro incolumis rediret albis vteretur velis: at filius paterni moniti immemor lintheum nigrum 
+      teten<lb ed="#P" n="33" break="no"/>dit pater per errorem Theseum confectum putans ex alta specula ir subiectum sese mare praecipitauit. de 
+      <lb ed="#P" n="34"/>Niobes amore in filios in septimo huius locuti sumus: quae propterea in scopulum, vt poetae fingunt, 
+      diri<lb ed="#P" n="35" break="no"/>guit. Simile de Hecuba produnt quae ob filios in Troiana clade interemptos versa fingitur in canem. Cartha 
+      <lb ed="#P" n="36"/>ginenses matres tertio bello punico filios ad pelagus sequentes &amp; a filiorum complexibus auulsae partim 
+      stimu<lb ed="#P" n="37" break="no"/>lante dolore in fluctus desiliere. Romani ex omni nobilitate lectissimos adolescentes obsides a poenis 
+      pe<lb ed="#P" n="38" break="no"/>tiere quos matres ad naues vsque sunt comitatae. Olympias Alexandri magni mater refossa ossa lolae 
+      dissi<lb ed="#P" n="39" break="no"/>pauit, quia in viuum saeuire non est illi concessum in mortuum saeuiebat. Iolas, n ferebatur venenum Ale 
+      <lb ed="#P" n="40"/>xandro propinasse. Cum in cannensi strage plurimi Romanorum occubuissent aliquorum vita erat iam 
+      <lb ed="#P" n="41"/>temere deplorata, quibus repente superuenientibus matres laetitia confectae sunt. Laetitiae enim ingens mo 
+      <lb ed="#P" n="42"/>les insperate post moerorem superueniens illas extinxit. Ad atrocem nuncium mortis filii Solon 
+      consterna<lb ed="#P" n="43" break="no"/>tus animo, statim se humo afflixit: pilos cum barba manibus vellicans, iniectu quoque pulueris capillos 
+      foe<lb ed="#P" n="44" break="no"/>dauit: vestes muliebriter laniauit. Erat iam Mileti cum Thalete in foro deambulans, Thales autem ex 
+      <lb ed="#P" n="45"/>composito fictum nuncium introduxit qui interitum filii Solonis denunciaret: iccirco autem id fecit 
+      Tha<lb ed="#P" n="46" break="no"/>les vt Soloni persuaderet, non oportere sapientem rei vxoriae vacare, vt quae ex stulto insanum faciat. 
+      <lb ed="#P" n="47"/>Trita est dauidica historia ex secundo regum. Dauid ab absolone regio solio est deiectus, hoc non obstante 
+      fi<lb ed="#P" n="48" break="no"/>lium afflictum lamentabatur. Atys filius Croesi natura mutus vbi vidit hostilem gladium paterno 
+      iugu<lb ed="#P" n="49" break="no"/>lo imminentem, solutis dentium claustris prorupit in verba coercens hostem ne patrem feriret. Aneas 
+      <lb ed="#P" n="50"/>inuersam Tromiam populantibus seni patri humeros incuruauit &amp; posthabitis opibus patrem ab 
+      incen<lb ed="#P" n="51" break="no"/>dio eripuit. Leo lunior cum vnicum annum Constantinopoli imperio praefuisset Tenoni patri imperium 
+      <lb ed="#P" n="52"/>contulit.
+    </p>
+            <p xml:id="JMAet9-d35607-d1e402">
+               <pc type="pilcrow">¶</pc> Super est iam paucis vt promisimus, de amore coniugali scribere. Celebris est Penelopes amor 
+      <lb ed="#P" n="53"/>in vlyssem maritum, quae absente illo annos. xx, castitatem impollutam seruauit, multisque procorum 
+      blan<lb ed="#P" n="54" break="no"/>dimentis succubuit non. lulia vxor pompeii &amp; filia lulii Caesaris cum mariti sui vestem cruentam cerneret 
+      <lb ed="#P" n="55"/>subito pauore est consternata &amp; exanimis collapsa. Portia Catonis filia cum accepisset Brutum coniugem 
+      <lb ed="#P" n="56"/>apud Philippos interfectum haustis carbonibus se suffocauit, primam harum trium laudamus, nec secun 
+      <lb ed="#P" n="57"/>dam vituperamus. ingens enim doloris moles citra mulieris culpam poterat eam extinguere, tertiam 
+      car<lb ed="#P" n="58" break="no"/>pimus. Orpheus multis lachrymis Euridicem communiugem defleuit, amissaque coniuge omnem mulierum 
+      con<lb ed="#P" n="59" break="no"/>gressum obhorruit, &amp; soliuagus fiebili cantu luctum solabatur, ita vt poetis ansa aperiretur orpheum ad tarta 
+      <lb ed="#P" n="60"/>ra descendisse vt vxorem a plutonis antro auocaret. Arthemisiae reginae amorem in Mausoleum maritum 
+      <lb ed="#P" n="61"/>&amp; sumptuosum illi sepulchrum ab ea constructum literae collaudant omnes &amp; hominum memoria 
+      exci<lb ed="#P" n="62" break="no"/>dere non patiuntur. Haec paucula annotasse sufficiat.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

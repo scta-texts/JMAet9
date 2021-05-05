@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 12</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 12</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d39476"><!-- mair-l9c12 -->
+            <head xml:id="JMAet9-d39476-Hd1e103">Caput 12</head>
+            <p xml:id="JMAet9-d39476-d1e106">
+               <lb ed="#P" n="19"/>AT est ne &amp;c. Hic philosophus quaerit an sit delectabilissimum cum amicis conuiuere. Secundo 
+      <lb ed="#P" n="20"/>quaestionem diluit &amp; tribus conclusionibus caput absoluit. Prima conclusio est. Amicorum 
+      <lb ed="#P" n="21"/>praecipuum munus est vna conuersari simulque viuere. Hoc quadrifatiam probat. Primo quia 
+      <lb ed="#P" n="22"/>vt in amantibus suauissimum est videre, &amp; vt hunc sensum magis quam caeteros expetunt propterea quod 
+      <lb ed="#P" n="23"/>per hunc sensum est atque oritur amor, quia corporis pulchritudo &amp; decor per illum sensum apprehenditur, 
+      <lb ed="#P" n="24"/>modo obiectum conueniens mouet potentiam ad oblectamentum, sic &amp; dulcis melodia cymbali 
+      ho<lb ed="#P" n="25" break="no"/>minum aures in musica delectantis, ita &amp; cum amicis conuersari simulque viuere expetibile videtur. 
+      <lb ed="#P" n="26"/>Nam amicitia quaedam &amp; vnicuique communicatio est. Secundo vt quisque se ad se ipium habet, ita ad 
+      <lb ed="#P" n="27"/>amicum, sensus autem vnicuique circa se ipsum est expetibilis. Et circa igitur amicum. Minor est, 
+      delectabilissi<lb ed="#P" n="28" break="no"/>mum est viro scire seipsum esse. Tertio amicitiae operatio fit ipsis amicis simul conuiuendo, non igitur 
+      im<lb ed="#P" n="29" break="no"/>merito ipsi simul viuere affectant.
+    </p>
+            <p xml:id="JMAet9-d39476-d1e132">
+               <pc type="pilcrow">¶</pc> Quarto singuli amici volunt cum amicis conuersari, in illa ope 
+      <lb ed="#P" n="30"/>ratione quae est illis gratissima, &amp; gratia cuius viuere eligunt, quasi ad illam operationem totam 
+      su<lb ed="#P" n="31" break="no"/>am vitam ordinantes eligunt, quasi ad illam operationem totam suam vitam ordinantes. Hoc patet 
+      <lb ed="#P" n="32"/>inductione ex litera quae dicit. Atque quod tandem est singulis esse vel gratia cuius viuere expetunt in  
+      <lb ed="#P" n="33"/>eo enim cum amicis versari degereque volunt.
+    </p>
+            <p xml:id="JMAet9-d39476-d1e146">
+               <pc type="pilcrow">¶</pc> Quocirca alii compotant vt mercatores. Alii talorum 
+      <lb ed="#P" n="34"/>ludo simul incumbunt, hoc est tesserulas, ossa diabolo inuenta iactant. Alii sese simul exercent, hoc 
+      <lb ed="#P" n="35"/>est luctantur &amp; vna venantur, aut philosophantur vt sapientes singuli, totos dies id agentes quod  
+      <lb ed="#P" n="36"/>maxime amant, signanter totos dies dicit, vt tempus sine interruptione ponat. Sic de loco dic, 
+      <lb ed="#P" n="37"/>quae sibi gratissima sunt in loco, viuere enim simul cum amicis volentes haec faciunt, &amp; ea cum his 
+      <lb ed="#P" n="38"/>communicant quibuscum vna viuere expetunt quae maxime ipsos in vita delectant. 
+    </p>
+            <p xml:id="JMAet9-d39476-d1e163">
+               <lb ed="#P" n="39"/>⁋ Secunda conclusio. Amicitia improborum est flagitiosa. Communicant enim praua: suntque 
+      insta<lb ed="#P" n="40" break="no"/>biles, peiores etiam fiunt moribus, similes euadentes, communicant enim in malis, vt in libidine 
+      <lb ed="#P" n="41"/>furto rapina, in homicidio &amp; in aliis flagitiis, &amp; vnus alium ad malum allicit cum peruerso peruer 
+      <lb ed="#P" n="42"/>teris. Et qui tangit picem, inquinabitur ab ea. Et Satyricus, dedit haec contagio labem. Et dabit in  
+      <lb ed="#P" n="43"/>plures, sicut grex totus in agris Vnius scabie cadit &amp; prutigine porci. Vuaque conspecta liuorem 
+      du<lb ed="#P" n="44" break="no"/>cit ab vua. Et prouerbialiter dicitur. Vnica praua pecus inficit omne pecus sic de scabioso &amp; 
+      le<lb ed="#P" n="45" break="no"/>proso cum aliis dormiente &amp; de pomis marcidis paucis quae totum pomorum cumulum inficiunt 
+      <lb ed="#P" n="46"/>Et modicum fermentum totam massam secundum apostolum. 
+    </p>
+            <p xml:id="JMAet9-d39476-d1e184">
+               <lb ed="#P" n="47"/>⁋ Tertia conclusio. Proborum amicitia est proba. Patet, quia congressionibus suscipiens 
+      incremen<lb ed="#P" n="48" break="no"/>ta. Videntur etenim tales praestabiliores euadere tam agendo quam se mutuo emendando. eliciunt enim 
+      <lb ed="#P" n="49"/>ex sese mutuo ea quae placent. Hoc est bona. Vnde id recte dicitur. Disces ex studiosis nimirum 
+      opti<lb ed="#P" n="50" break="no"/>ma semper. Et psalmographus. Cum sancto sanctus eris &amp; cum peruerso peruerteris. Sed hactenus 
+      <lb ed="#P" n="51"/>de amicitia deinceps de voluptate dicamus. Hoc est de amicitia affatim hactenus dictum est, nunc 
+      au<lb ed="#P" n="52" break="no"/>tem ad loquendum de voluptate sermo habendus. 
+    </p>
+            <p xml:id="JMAet9-d39476-d1e200">
+               <lb ed="#P" n="53"/>⁋ Dubitatur circa hoc quod dixit. Per visum maximam delectationem capimus, quia multi 
+      maio<lb ed="#P" n="54" break="no"/>rem per tactum capiunt. Visus est multis ob factum impudicum. 
+    </p>
+            <p xml:id="JMAet9-d39476-d1e207">
+               <lb ed="#P" n="55"/>⁋ Respondetur quod philosophus loquitur de humano &amp; casto amore, non autem de brutali 
+      concupi<lb ed="#P" n="56" break="no"/>scentia. 
+      <lb ed="#P" n="57"/>Finis Noni.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

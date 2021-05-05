@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-de9082"><!-- mair-l3c2 -->
+            <head xml:id="JMAet9-de9082-Hd1e103">Caput 2</head>
+            <p xml:id="JMAet9-de9082-d1e106">
+               <lb ed="#P" n="27"/>
+               <quote xml:id="JMAet9-de9082-Qd1e110" type="lemma">DEterminatis autem his</quote> &amp;c. Superius de voluntario &amp; inuoluntario loquutus est philosophus 
+      <lb ed="#P" n="28"/>nunc consequenter de electione mentionem facit, &amp; in primis dicta dicendis nectit. Et ponitur 
+      <lb ed="#P" n="29"/>prima conclusio huius capitis quae dicit. Post sermonem de voluntario inuoluntarioque 
+      abso<lb ed="#P" n="30" break="no"/>lutum, consequens est loquutio de electione suscipienda. Et ne imperitorum more tam in concione quam in  
+      <lb ed="#P" n="31"/>scribendo in impertinens labatur illius determinationis geminam causam ostendit. Et hanc conclu 
+      <lb ed="#P" n="32"/>sionem bifariam stipat. Primo quia electio est virtuti familiarissima, hoc est virtuti maxime propria 
+      <lb ed="#P" n="33"/>atque coniuncta. Porro electio in eius diffinitione ponitur, &amp; ab ea proficiscitur. In valore sic argumen 
+      <lb ed="#P" n="34"/>tatur. Contemplatio illius quod est virtuti familiarissimum, ad moralem philosophum attinet, at 
+      ele<lb ed="#P" n="35" break="no"/>ctio est huiusmodi: igitur. Ipsa enim magis virtutes quam actus exteriores diiudicat: sed virtutem actus 
+      <lb ed="#P" n="36"/>exterior crebriter manifestat. Lingua enim tua manifestum te facit qualis es intrinsecus: cum ex abum 
+      <lb ed="#P" n="37"/>dantia cordis os loquatur, sed hypocrita per actum exteriorem non cognoscitur, quia sanctitudinem 
+      <lb ed="#P" n="38"/>similat. Virtus est habitus electiuus vt in secundo diximus. Secundo electio sponte nostra fit, sicut 
+      vo<lb ed="#P" n="39" break="no"/>luntarium: itaque non est extraneum, post determinationem voluntarii &amp; inuoluntarii doctrinam 
+      ele<lb ed="#P" n="40" break="no"/>ctionis suscipere.
+    </p>
+            <p xml:id="JMAet9-de9082-d1e142">
+               <pc type="pilcrow">¶</pc> Sequitur secunda conclusio in litera. Non tamen est idem. Indagat primo quid est 
+      ele<lb ed="#P" n="41" break="no"/>ctio secundum genus. Secundo quid est secundum speciem, licet per negatiuas propositiones aliquas hoc deducit. 
+      <lb ed="#P" n="42"/>Postea affirmatiuam concludit. Aristoteles artificis ingenii vir saepenumero hac manerie procedit, vnum 
+      <lb ed="#P" n="43"/>supponit tanquam notum quod electio est voluntaria. Aliud quia ignotum probat, quod non convertibilit se habet cum 
+      <lb ed="#P" n="44"/>voluntatio. Secunda igitur coclusio est haec. Electio &amp; voluntarium non prorsus indem sunt, hoc est non convertibilitur se 
+      <lb ed="#P" n="45"/>habent. Quod probatur primo sic. Illa non sunt idem convertibiit, quorum vnum latius se diffundit quam aliud, sed sic est 
+      <lb ed="#P" n="46"/>in proposito. Nam voluntarium latius se fundit. genus enim fere latius funditur quam eius spens, l enim discretum spens quanti cum 
+      <lb ed="#P" n="47"/>quanto in supponendo convertatur: &amp; idem sit trascendens, hoc est prarum in quibus ratio superior etatis &amp; inferior etatis 
+      ob<lb ed="#P" n="48" break="no"/>seruatur in significatione &amp; non in suppositione: vt aliunde videri debet. Spontaneum belluis &amp; pueris nobiscum 
+      <lb ed="#P" n="49"/>ocomune est, at electio solis hominibus est adiecta: &amp; sic ex parte subiecti conclusionem ostendit. Secdo ex parte obiecti 
+      mon<lb ed="#P" n="50" break="no"/>strat inquiens. Et repentina quae per iram contingunt voluntaria dicimus, electione vero non dicimus, quia non fiunt ex de 
+      <lb ed="#P" n="51"/>liberatione rationis. In logicali tamen materia consequentiam bonam malam ve dicimus propositionem veram ac falsam, &amp; 
+      <lb ed="#P" n="52"/>tamen omnis consequentia est propositio.
+    </p>
+            <p xml:id="JMAet9-de9082-d1e174">
+               <pc type="pilcrow">¶</pc> Sequitur tertia conclusio quae e. Non recte sentiunt qui electionem in cupiditatem, iram 
+      <lb ed="#P" n="53"/>voluptatem vel quandam opinionem diuidunt, &amp; in eis referunt esse. hoc probatur quadrifariam. Primo quia electio 
+      <lb ed="#P" n="54"/>non est communis hominibus cum rationis expertibus, electio enim rationem praesupponit: sed cupiditas &amp; ira communis belli 
+      <lb ed="#P" n="55"/>habetur. Sedo sic, Incontinens cupiens agit &amp; non eligens, is enim concupiscetiam insequitur: &amp; ediuerso continens 
+      <lb ed="#P" n="56"/>electione non cupiditate agit: igitur. Tertio sic. Electioni cupiditas aduersatur, &amp; cupiditas cupiditati 
+      <lb ed="#P" n="57"/>non repugnat, si cupiam diuitias aut paupertatem non cupio: ergo electio non est concupiscentia. Quarto sic, 
+      <lb ed="#P" n="58"/>cupiditatis est prosequi iucundum &amp; delectabile, &amp; molestum fugere: haec autem non sunt electionis: igitur. 
+      <!--85.xml-->
+      <pb ed="#P" n="35-v"/>
+               <lb ed="#P" n="1"/>Nam concupiscentia est delectabilis, quando res cupita est praesens: &amp; tristis, quando deest. Sed electio 
+      <lb ed="#P" n="2"/>nec est iucunda nec tristis, cum electio in rationis deliberatione consistat.
+    </p>
+            <p xml:id="JMAet9-de9082-d1e201">
+               <pc type="pilcrow">¶</pc> Sequitur quarta 
+      conclu<lb ed="#P" n="3" break="no"/>sio. Et tanto minus electio est ira, cum illa quae irae motu perpetrantur non emanent ab electione, vt 
+      <lb ed="#P" n="4"/>liquet. Concupiscentia autem est cum deliberatione: ergo si electio non est concupiscentia a fortiori non est ita. Nam si 
+      <lb ed="#P" n="5"/>id quod magis videtur inesse non insit, nec illud quod minus videtur inesse inerit.
+    </p>
+            <p xml:id="JMAet9-de9082-d1e214">
+               <pc type="pilcrow">¶</pc> Sequitur quinta conclusio. 
+      Ele<lb ed="#P" n="6" break="no"/>ctio non est voluntas, licet voluntati sit finitima: patet primo quia electio non est impossibilium &amp; eorum quae  
+      <lb ed="#P" n="7"/>fieri nequeunt. Q si quis eligere dixerit ea, demens reputabitur, voluntas autem est impossibilium vt 
+      immortali<lb ed="#P" n="8" break="no"/>tatis. Secundo probatur haec conclusio. Nullus eligit ea quae non possunt per ipsum fieri: electio enim est 
+      <lb ed="#P" n="9"/>solum eorum quae sunt in nra potestate, sed quispiam poest velle ea quae in sua potestate sita non sunt, vt volumus 
+      ple<lb ed="#P" n="10" break="no"/>runque aliquid vt histrionem, aut gladiatorem quempiam in certamine vincere, quod in nostra facultate collocatum 
+      <lb ed="#P" n="11"/>non est: at eligit talia nemo, sed qui per seipsum existimat posse fieri. Insuper voluntas potius est ipsius 
+      fi<lb ed="#P" n="12" break="no"/>nis, electio autem eorum quae sunt ad finem: vt sani quidem esse volumus, eligimus autem ea quibus 
+      <lb ed="#P" n="13"/>erimus sani, &amp; beati esse volumus atque ita dicimus. Eligere autem dicere non congruit: electio enim est 
+      <lb ed="#P" n="14"/>finis consiliis vt posthac patebit. Omne eligibile est consiliabile, consilium autem non est de fine. 
+      Me<lb ed="#P" n="15" break="no"/>dicus enim de coporis sanitate recuperanda minime consultat, sed de his quae ad corporis incolumita 
+      <lb ed="#P" n="16"/>tem promouent, &amp; potissimum est ei sermo de fine principali siue vltimo in suo genere: in aliis autem 
+      fi<lb ed="#P" n="17" break="no"/>nibus vnus ob alium ordinatur, sicut vna conclusio demonstrata, patet in Euclide, per totum potest 
+      <lb ed="#P" n="18"/>esse principium alterius demonstrationis, sic de finibus minus principalibus. Dignitates tamen sunt 
+      <lb ed="#P" n="19"/>indemonstrabiles: sic finis praecipuus in consultatione non ponitur: vincere enim in consultatione 
+      <lb ed="#P" n="20"/>non ponitur: sed quo pacto melius vincere possimus. Atque omnino circa ea versari videtur quae in no 
+      <lb ed="#P" n="21"/>stra sunt potestate. Hanc repetit, quia inter reliquas rationes est praecipue memoriae mandanda. 
+    </p>
+            <p xml:id="JMAet9-de9082-d1e254">
+               <lb ed="#P" n="22"/>⁋ At forte dicis hac electione medium ad finem eligimus, haec electio est volitio, ergo hac volitione 
+      <lb ed="#P" n="23"/>medium ad finem eligimus, expositorie.
+    </p>
+            <p xml:id="JMAet9-de9082-d1e261">
+               <pc type="pilcrow">¶</pc> Respondeo id esse verum, sed dicit, communiter dicimus 
+      <lb ed="#P" n="24"/>electionem esse mediorum ad finem: &amp; quia velle est communius ad vtrunque &amp; statum finis in 
+      consulta<lb ed="#P" n="25" break="no"/>tionem non ponimus, velle descriptionem fini accommodamus. 
+    </p>
+            <p xml:id="JMAet9-de9082-d1e271">
+               <lb ed="#P" n="26"/>⁋ Dubitatur primo circa dicta. Videtur enim quod electio insit belluis: nam bos hanc haerbam acceptat 
+      <lb ed="#P" n="27"/>illa repudiata. Et electio est duobus propositis vnius prae alio acceptio: ergo male dicit philosophus in  
+      <lb ed="#P" n="28"/>principio bruta non eligere.
+    </p>
+            <p xml:id="JMAet9-de9082-d1e280">
+               <pc type="pilcrow">¶</pc> Secundo dubitatur de veritate illius, concupiscentia non 
+      contraria<lb ed="#P" n="29" break="no"/>tur concupiscentiae. Nam Socrates concupiscit gloriam &amp; pecuniarum cumulum, sed sine pecuniae con 
+      <lb ed="#P" n="30"/>sumptione perit gloria, vt pecuniarum abundantia indiget retentione pecuniae.
+    </p>
+            <p xml:id="JMAet9-de9082-d1e290">
+               <pc type="pilcrow">¶</pc> Tertio dubitatur 
+      <lb ed="#P" n="31"/>an voluntas potest velle impossibile, vt se esse immortalem, quod est impossibile naturaliter 
+      loquen<lb ed="#P" n="32" break="no"/>do.
+    </p>
+            <p xml:id="JMAet9-de9082-d1e301">
+               <pc type="pilcrow">¶</pc> Quarto dubitatur an voluntas ex libertate sua potest acceptare minus bonum maiore relicto. 
+    </p>
+            <p xml:id="JMAet9-de9082-d1e307">
+               <lb ed="#P" n="33"/>⁋ Ad primam dubitationem respondetur quod electio proprie dicta non inest pecoribus: nam de ratio 
+      <lb ed="#P" n="34"/>ne illius est libere hoc relinquere. hoc accepto: quod pecudibus non conuenit. Equus enim fame pertesus 
+      <lb ed="#P" n="35"/>pabulum vndique in circunferentia habens accipit illud quod sentit conuenientissimum, &amp; optime a 
+      <lb ed="#P" n="36"/>fronte ei applicatum, quod tale sentit prosequitur: nec potest aliud. Si duo auenam equo famescenti aequa  
+      <lb ed="#P" n="37"/>liter a fronte praesentent, illud ad quod obtuitum primo affigit prosequitur, paritate data, si enim 
+      al<lb ed="#P" n="38" break="no"/>ter sit ei notus, &amp; cibum ei assuetus ministrare, illum quia plus in illo sperat protinus adit: sed 
+      quem<lb ed="#P" n="39" break="no"/>cunque adit hoc naturaliter facit, nec in eius voluntate est oppositum situm. Percutimus tamen 
+      bellu<lb ed="#P" n="40" break="no"/>as sine earum culpa, vt sic vel sic habituentur quando sunt disciplinabiles. Quo pacto canis lanii 
+      inte<lb ed="#P" n="41" break="no"/>grum bouem occisum minime attingit, frustellum ei proiectum lubens acceptat. Verbera enim timet. 
+      <lb ed="#P" n="42"/>licet famen adigatur cadauer contingere.
+    </p>
+            <p xml:id="JMAet9-de9082-d1e331">
+               <pc type="pilcrow">¶</pc> Ad secundam dubitationem respondetur, quod 
+      concupiscen<lb ed="#P" n="43" break="no"/>tiae contrariae non competunt eidem: possibile est tamen concupiscere nummorum aceruum &amp; cum 
+      <lb ed="#P" n="44"/>hoc gloriam. Pecuniarum adminiculo gloriam assequi proponit, inops &amp; apud homines inglorius 
+      <lb ed="#P" n="45"/>censetur. Et prudens secundum rectam rationem competentes expetit opes. Nemo autem simul pau 
+      <lb ed="#P" n="46"/>pertatem &amp; amplas opes concupiscere valet: &amp; licet gloria ad pecuniae consumptionem sequatur: stat 
+      <lb ed="#P" n="47"/>velle antecedens &amp; non consequens.
+    </p>
+            <p xml:id="JMAet9-de9082-d1e348">
+               <pc type="pilcrow">¶</pc> Ad tertiam dubitationem respondetur per propositiones qua 
+      <lb ed="#P" n="48"/>rum prima est. Impossibile Socrates potest velle. Patet Socrates potest velle louem perditum homi 
+      <lb ed="#P" n="49"/>nem esse sua natura immortalem &amp; deum: &amp; id est impossibile. Sed quisquiliis, &amp; appellatione rationis 
+      se<lb ed="#P" n="50" break="no"/>clusa, notetur quod duplex est actus voluntatis: quidam efficax, id est actus operationis exequutiuus obi 
+      <lb ed="#P" n="51"/>cesecluso, hanc volitionem habens quaerit media ad finis optati consequutionem, quemadmodum est 
+      <lb ed="#P" n="52"/>de sperante sanitatem qui doses, enemata, situpos &amp; similia sibi pro incolumitate appropriata quaerit. 
+      <lb ed="#P" n="53"/>nolitio efficax pari passu diffinienda venit. Volitio inefficax opposito modo diffiniatur. De sanitate 
+      <lb ed="#P" n="54"/>recuperanda desperans, vult &amp; velle potest categorice sanitatem vt reor: conditionaliter non cadit in  
+      <lb ed="#P" n="55"/>dubium, &amp; differunt isti duo actus in idem obiectum vel in similia specie lati, penes diuersum modum 
+      <lb ed="#P" n="56"/>in obiecta tendendi: vt notitia intuitiua &amp; abstractiua eiusdem obiecti nec inter illos est 
+      incompossi<lb ed="#P" n="57" break="no"/>bilitas. Hoc praemisso respondetur voluntas inefficax est impossibilium talium putatorum. Hoc vult 
+      <lb ed="#P" n="58"/>Aristoteles in litera de aliqua volitione: hoc vult hoc modo. Primus angelus aequalitatem dei 
+      appe<lb ed="#P" n="59" break="no"/>tere potuit, &amp; hoc ad peccatum sufficit. Secundo haec consequentia est nulla: apprehendo Nabuchodo 
+      <lb ed="#P" n="60"/>nosorem esse bouem errantem in sylua: ergo Nabuchodonosor potest esse bos: &amp; nullus est error nisi 
+      <lb ed="#P" n="61"/>quia a magis amplo ad minus amplum proceditur: igitur. Tertio intellectus pont intelligere multa possibilia vt hominem 
+      <lb ed="#P" n="62"/>&amp; asinum, &amp; vnire illa adinuicem sic quod illorum vnio est impossibilis, vt ho existens asinus, &amp; intellectus ad 
+      <lb ed="#P" n="63"/>illud totum terminatur: &amp; quicquid intellectus intelligit voluntas velle potest: igitur.
+    </p>
+            <p xml:id="JMAet9-de9082-d1e388">
+               <pc type="pilcrow">¶</pc> Contra illud arguitur: voluntas 
+      <lb ed="#P" n="64"/>non poest prosequi illud quod non est iudicatum ab intellectu esse prosequendum: sed intellectus non potest assen¬ 
+      <!--86.xml-->
+      <pb ed="#P" n="36-r"/>
+               <lb ed="#P" n="1"/>tire huic ergo possum esse deo aequalis: igitur.
+    </p>
+            <p xml:id="JMAet9-de9082-d1e402">
+               <pc type="pilcrow">¶</pc> Respondetur non requiritur iudicium ad illud volendum, sufficit enim 
+      <lb ed="#P" n="2"/>notitia simplex apprehensiua non iudicatiua. Omnem autem notitiam non iudicatiuam simplicem appel 
+      <lb ed="#P" n="3"/>lo siue fuerit complexa complexione distante, siue indistante.
+    </p>
+            <p xml:id="JMAet9-de9082-d1e413">
+               <pc type="pilcrow">¶</pc> Secundo argumentor contra vnam probationem 
+      conclusio<lb ed="#P" n="4" break="no"/>nis. Si ponenda esset ampliatio ad aliquas temporum differentias, hoc esset ob concessionem huius &amp; 
+      <lb ed="#P" n="5"/>similium, Socrates imaginarie est brunellus, sed illa est falsa: extrema enim non supponunt pro eoden 
+      <lb ed="#P" n="6"/>cum socrates brunellum non significet.
+    </p>
+            <p xml:id="JMAet9-de9082-d1e425">
+               <pc type="pilcrow">¶</pc> Tertio subiectum mentalis istius, Socrates existens asinus 
+      <lb ed="#P" n="7"/>imaginarie currit, pro nullo impossibili supponit, Patet, quia vel ille conceptus a rebus impossibilibus 
+      <lb ed="#P" n="8"/>producitur &amp; hoc non: nulla enim talis est: nec a rebus possibilibus, illae enim potius conceptus sui 
+      pro<lb ed="#P" n="9" break="no"/>ducunt.
+    </p>
+            <p xml:id="JMAet9-de9082-d1e437">
+               <pc type="pilcrow">¶</pc> Ad secundum concedo illatum, Socrates enim brunellum significatione aduentitia 
+      signi<lb ed="#P" n="10" break="no"/>ficat cum copula amplissima: in qua significantia est transcendens, tamen hoc non satis est ad significa 
+      <lb ed="#P" n="11"/>tionem proprie dictam. In communi modo loquendi extra hanc materiam de significatione absoluta loquimur quam termi 
+      <lb ed="#P" n="12"/>nus habet suapte natura vel ex ipositione.
+    </p>
+            <p xml:id="JMAet9-de9082-d1e449">
+               <pc type="pilcrow">¶</pc> Ad tertium dicitur quod pro re impossibili subiectum acci 
+      <lb ed="#P" n="13"/>pitur: impossibilitas illius totius a rebus possibilibus producitur. habeo in intellectu conceptum Socratis &amp; asini. 
+      <lb ed="#P" n="14"/>mens mea mediante aliquo coniungibili illos conceptus vnit, dicendo Socrates existens asinus, illud pur re. in 
+      <lb ed="#P" n="15"/>possibili accipitur.
+    </p>
+            <p xml:id="JMAet9-de9082-d1e461">
+               <pc type="pilcrow">¶</pc> Ad quartam dubitationem respondent aliqui quod stante iudicio rationis in vniuersali &amp; in particu 
+      <lb ed="#P" n="16"/>lari quod vnum est altero maius bonum, voluntas puer tunc non pot velle minus bonum maiori bono icompossibile 
+      <lb ed="#P" n="17"/>ludicium in vniuersali in proposito est iudicium quo iudicamus vnum esse simpliciter maius bonum altero, &amp; 
+      iu<lb ed="#P" n="18" break="no"/>dicium particulare est iudicium quo iudicamus secundm omnes circumstantias apparentes vnum puer tunc esse maius bonum 
+      al<lb ed="#P" n="19" break="no"/>tero, quia illud contra voluntatis libertatem censeo.
+    </p>
+            <p xml:id="JMAet9-de9082-d1e475">
+               <pc type="pilcrow">¶</pc> Contra illud sic arguo. Voluntas pont velle minus bonum 
+      <lb ed="#P" n="20"/>antequi ab intellectu ei maius bonum praesentatur, &amp; maius bonum non necessitat voluntatem in sua praesentia ad 
+      <lb ed="#P" n="21"/>eius volitionem: ergo adhuc voluntas potest continuare suam volitionem circa minus bonum.
+    </p>
+            <p xml:id="JMAet9-de9082-d1e486">
+               <pc type="pilcrow">¶</pc> Secundo 
+      <lb ed="#P" n="22"/>argumentor sic. Stante casu dubitationis voluntas est libera respectu vtriusque, libertate contradictionis, 
+      <lb ed="#P" n="23"/>potest elicere actum vel non elicere circa maius bonum: pone quod nullum actum circa maius bonum eliciat: tunc 
+      <lb ed="#P" n="24"/>quaero quaere non poest elicere vnum actum circa minus bonum, &amp; non est necessarium circa ipsum elicere nolle, 
+      er<lb ed="#P" n="25" break="no"/>go circa ipsum potest elicere velle.
+    </p>
+            <p xml:id="JMAet9-de9082-d1e500">
+               <pc type="pilcrow">¶</pc> Item plerique consulto ex voluntatis libertate maius bonum 
+      respu<lb ed="#P" n="26" break="no"/>unt &amp; minus acceptant: igitur. Item illud est contra philosophum probantem electionem non esse opi 
+      <lb ed="#P" n="27"/>nionem circa agenda. Dicit enim, quidam vere opinantur quod est melius, sed ob malitiam illud non eli 
+      <lb ed="#P" n="28"/>gunt, &amp; patet de incontinente, vide eum. Praeterea non idem homines eligere optima atque etiam 
+      opi<lb ed="#P" n="29" break="no"/>nari dicit philosophus, &amp; sequitur in eius litera ad propositum. Sed quaedam opinari, quaedam melius ob vitium au 
+      <lb ed="#P" n="30"/>tem non ea quae oportet eligere.
+    </p>
+            <p xml:id="JMAet9-de9082-d1e517">
+               <pc type="pilcrow">¶</pc> In oppositum argumentor. Minus bonum respectu maioris habet rationem 
+      <lb ed="#P" n="31"/>mali: sed nemo poent velle malum sub ratione mali: omnia enim bonum appetunt primi huius capi. primo. Ad 
+      <lb ed="#P" n="32"/>maiorem rationis in oppositum nego eam: quia scit minus bonum praeligens vtrumque esse bonum: idque quod 
+      respu<lb ed="#P" n="33" break="no"/>it scit bonum maius, sed ex voluntatis imperio vt eius libertatem experimento cognoscit minus bonum 
+      <lb ed="#P" n="34"/>pro acceptat: sed an malum potest esse voluntatis obiectum in volendo alias indagabimus. 
+    </p>
+            <p xml:id="JMAet9-de9082-d1e531">
+               <lb ed="#P" n="35"/>⁋ Dubitatur quinto an electio sit ipsius finis. Respondetur negatiue. patet in litera. Contra illud arguitur pr 
+      <lb ed="#P" n="36"/>pter quod vnumquodque tale, &amp; illud magis: sed ea quae sunt ad finem ob finem eliguntur igitur. Secundo, 
+      feli<lb ed="#P" n="37" break="no"/>citatem ob seipsam eligimus, primo Ethicorum, modo felicitas est finis etiam supremus. Ad priorem 
+      <lb ed="#P" n="38"/>ratiocinationem respondetur quod regula illa primi Posteriorum intelligitur quando illud in quo est con 
+      <lb ed="#P" n="39"/>paratio vtrique comparabilium conuenit: non enim sequitur, Socrates est temulentus ob temetum, e 
+      <lb ed="#P" n="40"/>go temetum est magis ebrium. Ad secundum dicitur quod eligere interdum &amp; satis communiter capitur 
+      <lb ed="#P" n="41"/>pro actu voluntatis deliberato, quando homo nec ignoratione nec affectu delinquit. Electione 
+      trans<lb ed="#P" n="42" break="no"/>gredi dicitur &amp; esse peccatum in spiritum sanctum.
+    </p>
+            <p xml:id="JMAet9-de9082-d1e551">
+               <pc type="pilcrow">¶</pc> Sequitur in itra. Opinio quoque non est &amp;c. Proba 
+      <lb ed="#P" n="43"/>uit electionem non esse concupiscentiam aut iram, iam probat eam non esse opinationem, &amp; sic in 
+      va<lb ed="#P" n="44" break="no"/>lore argumentatur. Opinio circa vniuersa videtur esse &amp; circa aeterna, &amp; ea quae fieri nequeunt, &amp; quae in nostra 
+      <lb ed="#P" n="45"/>sunt potestate sita: electio autem est circa contingentia. Secundo sic. Opinio vero &amp; falso seiungitur, 
+      ele<lb ed="#P" n="46" break="no"/>ctio bono &amp; malo: sed illa quae diuersis differentiis diuiduntur non sunt idem, igitur. Sed forte nemo 
+      <lb ed="#P" n="47"/>electionem &amp; opinionem omnino esseidem censeat, hoc est conuertibiliter, sed quod est eadem cum 
+      opi<lb ed="#P" n="48" break="no"/>natione quae est de his quae sub nostram potestatem cadunt, hoc improbat conclusionem ponens 
+      op<lb ed="#P" n="49" break="no"/>positam illi assertioni, quam quintupliciter probat. Primo sic. Eligendo bona vel mala quae in 
+      no<lb ed="#P" n="50" break="no"/>stra potestate sunt dicimur quales, hoc est boni vel mali, sed in bonorum &amp; malorum opinatione non 
+      <lb ed="#P" n="51"/>dicuntur boni aut mali: igitur. Non enim qui opinatur temperantiam esse bonam, est bonus: nec qui opinatur ingluuiem 
+      <lb ed="#P" n="52"/>esse foedam est malus. Secudo electio vsque quaque nostras operationes respicit: noslem eligimus vt prosequammur, 
+      <lb ed="#P" n="53"/>aut fugiamus: sed opinio res ipsas &amp; non ntas operationes respicit. Non enim opinamur vt aliquid prosequammur vel 
+      <lb ed="#P" n="54"/>fugiamus, sed vt deprhendamus aliqualiter cui aliquid confertur. Tertio. Electio laudatur &amp; eo amplius quo 
+      <lb ed="#P" n="55"/>magis quod oportet eligere eligit: &amp; quia recte eligit, &amp; opinio non propterea, sed propter verum laudatur: ergo 
+      opi<lb ed="#P" n="56" break="no"/>nio &amp; electio non sunt idem. Quarto. Electio est circa maxie certa, &amp; quae maxime scimus bona: quae autem opina 
+      <lb ed="#P" n="57"/>mur nos non ea scimus. dicitur enim. In modio rendi, non est vola plena sciendi, quia opinio habet annexam formi 
+      <lb ed="#P" n="58"/>dinem. Quinto. Nec videntur idem homines eligere &amp; opinari optima, sed opinantur melius, ob prauitatem autem dete 
+      <lb ed="#P" n="59"/>riora sequuntur. Patet in icontinenti. Proinde electio non est eadem cum opinione vniuersalt, nec etiam cum opinione quae est de 
+      <lb ed="#P" n="60"/>operationibus humanis.
+    </p>
+            <p xml:id="JMAet9-de9082-d1e596">
+               <pc type="pilcrow">¶</pc> Se remanet difficitas quomodo opinio &amp; electio se habeant inter se, an opiatio electionem 
+      praece<lb ed="#P" n="61" break="no"/>dat an contra: dicit quod quantum ad propositum attinet nihil attinet nec id hoc loco indagatur. S an electio sit opi 
+      <lb ed="#P" n="62"/>nio quaedam est difficultas. Actus intellectus actum appetitus praecedit, propterea opinio antecedit electionem saepius. Electio 
+      <lb ed="#P" n="63"/>enim non semper praerequirit opinationem, satis enim est de aliis notitiis in obiectum voluntatis latis. Sed quia aliquis 
+      <lb ed="#P" n="64"/>diceret, cum electio no sit concupiscentia, ira, voluntarium, aut opinio vniuersal aut particlaris, quid est ipsa electio? 
+      <!--87.xml-->
+      <pb ed="#P" n="36-v"/>
+               <lb ed="#P" n="1"/>Ostendit quid ipsa est, tam secundum genus quam secundum differentiam suam dicens, cum electio non 
+      <lb ed="#P" n="2"/>sit aliquod istorum quae ante dicta sunt, si efflagitetur quidnam &amp; quale ipsa sit: dari potest responsio 
+      <lb ed="#P" n="3"/>quod est voluntarium, sed non omne, sed id voluntarium cuius consultatio praecessit. Est enim electio 
+      <lb ed="#P" n="4"/>cum ratione, &amp; ad hoc nomen ipsum electionis alludit &amp; applaudit, quasi ratione vnum ex aliis 
+      seli<lb ed="#P" n="5" break="no"/>geretur &amp; ab aliis separaretur.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

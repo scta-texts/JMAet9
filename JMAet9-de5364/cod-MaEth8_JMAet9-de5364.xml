@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 3</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 3</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-de5364"><!-- mair-l2c3 -->
+            <head xml:id="JMAet9-de5364-Hd1e103">Caput 3</head>
+            <p xml:id="JMAet9-de5364-d1e106">
+               <lb ed="#P" n="17"/>
+               <quote xml:id="JMAet9-de5364-Qd1e110" type="lemma">ATqui signum habituum</quote>. In hoc capite philosophus ex aliquorum opinione dicit virtutes cir 
+      <lb ed="#P" n="18"/>ca voluptatem &amp; dolorem versari obiectiue. Id autem mihi non arridet. Rarae enim sunt 
+      ope<lb ed="#P" n="19" break="no"/>Arationes in voluptates ac dolores obiectiue tendentes. Intendit hoc vnum in praesentia. 
+      indici<lb ed="#P" n="20" break="no"/>um acquisiti habitus vel non acquisiti est voluptas vel dolor. Voluptas concomitans est efficax 
+      argu<lb ed="#P" n="21" break="no"/>mentum habitus iam geniti. Quando opera cum nausea &amp; taedio eliciuntur, signum est nondum ge 
+      <lb ed="#P" n="22"/>niti in nobis habitus, sicque primum ait. Signum virtutis acquisitae est delectatio &amp; tristitia tam in bo 
+      <lb ed="#P" n="23"/>nis quam in malis habitibus. Probat hoc Aristoteles inductiue: quia qui recedit ab oblectamentis corporali 
+      <lb ed="#P" n="24"/>bus &amp; in hoc delectatur, temperans est habitu: sin tristetur, intemperans habitu est. Et id rationis est: 
+      <lb ed="#P" n="25"/>nam ante habitum genitum homo patitur difficultatem ad bene operandum ab intrinseco vel 
+      ex<lb ed="#P" n="26" break="no"/>triseco. Saepe abstinere a formosa muliere &amp; cibo delicato, oblata opportunitate, est difficile ob carnis 
+      <lb ed="#P" n="27"/>impulsum nobis congenitum. Similiter conseruare actum iustitiae ob metum est difficile, sed cum ha 
+      <lb ed="#P" n="28"/>bitus est iam acquisitus, naturaliter mouet ad actum, &amp; ad eum impellit. Habitus se habet ad modum 
+      <lb ed="#P" n="29"/>naturae, &amp; si magnus extiterit, vna eius portio resistit sensualitatis impulsui, &amp; reliqua pellit in actum 
+      <lb ed="#P" n="30"/>licet homo non necessitetur. Cum ergo aliquis operatur circa materiam moralem, &amp; in sua 
+      operatio<lb ed="#P" n="31" break="no"/>ne delectatur, signum est virtutis acquisitae: &amp; si tristatur, adhuc virtute vacat, saltem est in bona inten 
+      <lb ed="#P" n="32"/>tione quae hominem ad bonum propensum reddit.
+    </p>
+            <p xml:id="JMAet9-de5364-d1e146">
+               <pc type="pilcrow">¶</pc> Aliter expono literam &amp; forte clarius, dicitur 
+      <lb ed="#P" n="33"/>quod voluptas identidem &amp; dolor ipsas habituum comitantur operationes, &amp; quales ipsi sunt habitus 
+      cer<lb ed="#P" n="34" break="no"/>tum praebet indicium &amp; significationem, vt qui iam experto habitu a corporalibus abstinet illecebris 
+      <lb ed="#P" n="35"/>&amp; illo gaudet, temperans est: sin vero aegre fert, intemperans est. Pari iure qui pericula suscipit &amp; hisipsis 
+      <lb ed="#P" n="36"/>gaudet aut saltem non dolet, fortis est: qui vero dolet, timidus est. Qui in magnis cruciatibus vulnerum 
+      <lb ed="#P" n="37"/>non gaudet, si non dolet, is dicendus est fortis. At dicis talis gaudet spiritualiter licet corporaliter 
+      <lb ed="#P" n="38"/>doleat. Etiam dicitur ad fortitudinem sufficit neutro modo gaudere. satis est non dolere.
+    </p>
+            <p xml:id="JMAet9-de5364-d1e165">
+               <pc type="pilcrow">¶</pc> Secunda 
+      <lb ed="#P" n="39"/>pars principalis huius capitis quae dicit. Ob voluptatem enim res improbas. Hic probat propositum 
+      <lb ed="#P" n="40"/>per rationes ex virtutis parte sumptas: hoc est ex habitudine delectationis &amp; tristitiae ad virtutem. 
+      <lb ed="#P" n="41"/>Multiplici ratione hanc probat. Primo sic. Ob delectationes operamur mala. &amp; ob tristitias res 
+      omit<lb ed="#P" n="42" break="no"/>timus honestas: sed per prius contra praeceptiones affirmatiuas, per posterius contra praecepta 
+      nega<lb ed="#P" n="43" break="no"/>tiua delinquimus. Infert corollarium, Quocirca homines a crepundiis (vt inquit Plato) ita institutos 
+      <lb ed="#P" n="44"/>esse conuenit, vt secundum rectam rationem gaudeant &amp; doleant. Haec est recta educatio, vt pro bene actis 
+      <lb ed="#P" n="45"/>gaudeant, &amp; pro vituperabilibus doleant. Secundo sic, Virtus moralis est circa actus &amp; affectus quos 
+      <lb ed="#P" n="46"/>passiones vulgo vocitant: sed omnem actum &amp; affectum dolor aut voluptas concomitatur. Tertio sic, 
+      <lb ed="#P" n="47"/>Omnis medicina per contraria nata est fieri: morbi enim sanantur contariis, calidae febri medicina 
+      fri<lb ed="#P" n="48" break="no"/>gida, &amp; languori frigido medicina calida applicatur in corpore: sic &amp; in anima, qui delectationem in  
+      <lb ed="#P" n="49"/>vitio cepit, opus est tristitia. Nam secundum mensuram delicti, fiet &amp; plagarum modus. sed malis actibus 
+      <lb ed="#P" n="50"/>adhibentur poenae a legumlatoribus tamquam cauteria &amp; medicinae: proinde huiuscemodi poenae sunt 
+      contra<lb ed="#P" n="51" break="no"/>riae ipsis actibus: &amp; non nisi gratia delectationum &amp; tristitiarum ipsis actibus annexarum: igitur. Quarto 
+      <lb ed="#P" n="52"/>sic. Omnis habitus circa illa versatur a quibus melior aut deterior efficitur: sed a voluptatibus &amp; 
+      do<lb ed="#P" n="53" break="no"/>loribus mali fiunt habitus prosequendo aut fugiendo oblectamenta &amp; dolores quos non oportet, quando  
+      <lb ed="#P" n="54"/>non oportet, aut non quemadmodum oportet (lubricus enim ob voluptatem est deterior, &amp; probus ob 
+      <lb ed="#P" n="55"/>oblectamen in actum bonum incidens vti videmus efficitur melior) vel aliquo alio modo quam a recta 
+      ra<lb ed="#P" n="56" break="no"/>tione praescriptum sit: igitur moralis virtus versatur circa voluptates &amp; dolores. Hoc ipsum 
+      autho<lb ed="#P" n="57" break="no"/>ritate Stoicorum probat, dicentium virtutes esse impassibilitates quasdam &amp; affectuum vacuitates, &amp; 
+      <lb ed="#P" n="58"/>quietes, &amp; tranquillitates quasdam. Existimabant enim erronee studiosum virum nihil a passionibus 
+      <lb ed="#P" n="59"/>his dolore &amp; tristitia pati. Per hoc dictum, signum est quod voluptates &amp; tristitiae hominem a virtute 
+      <!--58.xml-->
+      <pb ed="#P" n="22-r"/>
+               <lb ed="#P" n="1"/>auertuntur. &amp; per consequens ipsum afficiunt: sed ne Stoicorum opinionem approbasse videatur 
+      in<lb ed="#P" n="2" break="no"/>terloquendo raptim eam carpit inquiens: sic dicentes non dicunt simpliciter verum quia absolute 
+      lo<lb ed="#P" n="3" break="no"/>quuntur &amp; sine modifieatione perinde atque ita semper eueniret. quod est falsum. Studiosus enim non 
+      <lb ed="#P" n="4"/>est simpliciter impassibilis a voluptate &amp; tristitia: sed est impassibilis &amp; passibilis vbi &amp; quando 
+      opor<lb ed="#P" n="5" break="no"/>tet. Postea subdit. Ex his supponatur quod virtus est talis habitus circa voluptates &amp; tristitias 
+      optimo<lb ed="#P" n="6" break="no"/>rum operatiuus: sicut malitia est contrariorum operatiua scilicet pessimorum.
+    </p>
+            <p xml:id="JMAet9-de5364-d1e234">
+               <pc type="pilcrow">¶</pc> Sequitur tertia pars 
+      <lb ed="#P" n="7"/>principalis huius capitis. Fuerit autem. Hic probat conclusionem principalem per rationes ex parte 
+      <lb ed="#P" n="8"/>hominis sumptas: &amp; quinque particulas continet secundum numerum quatuor aut quinque rationum. 
+      <lb ed="#P" n="9"/>Primo sic argumentatur. Circa illud habet virtus fieri quod est omni bono humano commune: sed  
+      <lb ed="#P" n="10"/>delectatio habet fieri circa omne bonum humanum: &amp; tristitia circa malum oppositum: igitur. Maior 
+      <lb ed="#P" n="11"/>patet, nam virtus circa omne bonum humanum &amp; ei oppositum habet fieri. Minorem ostendit sic. 
+      <lb ed="#P" n="12"/>Triplex est bonum, honestum, vtile, &amp; iucundum. Et omne bonum honestum est bonum 
+      voluptua<lb ed="#P" n="13" break="no"/>rium. &amp; non ediuerso. ldentidem omne bonum vtile est bonum delectabile, &amp; non contra. Et ita bonum 
+      <lb ed="#P" n="14"/>delectabile est commune omni bono humano. Pari modo tria sunt mala his contraria ob quae quicquam 
+      <lb ed="#P" n="15"/>fugimus: turpe, inutile, &amp; molestum siue graue. Bonus quidem recte haec omnia consequitur &amp; malus ab 
+      <lb ed="#P" n="16"/>eis aberrat, &amp; signanter circa ipsum voluptarium quod est caeteris bonis communius. Virtus igitur 
+      versa<lb ed="#P" n="17" break="no"/>tur circa dolores &amp; voluptates.
+    </p>
+            <p xml:id="JMAet9-de5364-d1e265">
+               <pc type="pilcrow">¶</pc> Secundo sic, Omnibus animalibus communis est voluptas: &amp; omnia 
+      <lb ed="#P" n="18"/>quae expetuntur comitatur, nam &amp; honesta voluptariam esse videntur: igitur virtus versatur circa 
+      do<lb ed="#P" n="19" break="no"/>lores &amp; tristitias.
+    </p>
+            <p xml:id="JMAet9-de5364-d1e275">
+               <pc type="pilcrow">¶</pc> Tertio sic. Cunctis hominibus ab ipsa pueritia &amp; a crepundiis vna enutrita est ipsa 
+      <lb ed="#P" n="20"/>voluptas: igitur est arduum hanc affectionem insitam penitus quando oportet &amp; vbi oportet 
+      extru<lb ed="#P" n="21" break="no"/>dere &amp; reiicere.
+    </p>
+            <p xml:id="JMAet9-de5364-d1e285">
+               <pc type="pilcrow">¶</pc> Quarto sic. Circa illa maxime fit virtus circa quae homines maxime regulant siue 
+      <lb ed="#P" n="22"/>iudicant suas actiones: sed per delectationes atque tristitias homines maxime suas operationes 
+      regu<lb ed="#P" n="23" break="no"/>lant: homines enim illa intendunt an bona sint, an delectent: &amp; ab illis abstinent a quibus 
+      molestan<lb ed="#P" n="24" break="no"/>tur. Regimus autem actus nostros, alii magis, aliiminus per voluptatem &amp; dolorem. Dicit 
+      Leonar<lb ed="#P" n="25" break="no"/>dus, &amp; antiqua translatio haud discrepat dicens, Regulamus autem. Argyropylus dicit, ludicamus 
+      <lb ed="#P" n="26"/>etiam: perparuum in sententia est discrimen. Negocium igitur hoc totum dicit philosophus circa 
+      <lb ed="#P" n="27"/>voluptates &amp; dolores non immerito est implicitum, &amp; virtus circa ea versatur. Non parum est enim 
+      <lb ed="#P" n="28"/>ad res agendas bene aut male gaudere aut dolere.
+    </p>
+            <p xml:id="JMAet9-de5364-d1e306">
+               <pc type="pilcrow">¶</pc> Quinta ratio est haec. Circadifficile est ars &amp; 
+      vir<lb ed="#P" n="29" break="no"/>tus: &amp; si quid est circa difficilius, bene operamur, praestantius est, sed difficilius est voluptati quam irae (
+      au<lb ed="#P" n="30" break="no"/>thore Heraclito) contraire: perdifficile autem est iram compescere: igitur. Epilogando dicit. Non 
+      igi<lb ed="#P" n="31" break="no"/>tur immerito totum hoc negocium, &amp; virtus ipsa moralis, immo &amp; tota ciuilis facultas circa volus 
+      <lb ed="#P" n="32"/>ptates &amp; dolores inuigilat. Et sane qui his bene vtitur bonus erit: &amp; qui praue, malus. Verum 
+      di<lb ed="#P" n="33" break="no"/>ctum est iam sic sufficienter ex quibus fit virtus, ab illis eisdem seruari atque augmentari: &amp; ex 
+      dissi<lb ed="#P" n="34" break="no"/>milibus corrumpi, &amp; similia eis operari ex quibus parta est, atque ipsam circa voluptates &amp; dolores. 
+      <lb ed="#P" n="35"/>versari 
+    </p>
+            <p xml:id="JMAet9-de5364-d1e327">
+               <lb ed="#P" n="36"/>⁋ CIRca hoc caput dubitatur. Primo videtur quod nonnunquam sine dolore &amp; tristitia affectum 
+      habea<lb ed="#P" n="37" break="no"/>mus, ergo male contrarium dicit Philosophus.
+    </p>
+            <p xml:id="JMAet9-de5364-d1e334">
+               <pc type="pilcrow">¶</pc> Secundo dubitatur, vtrum resolutio 
+      Aristoteli<lb ed="#P" n="38" break="no"/>sit vera qua probare satagit virtutes esse circa voluptates &amp; dolores, &amp; argumentor quod non. Pleraeque 
+      <lb ed="#P" n="39"/>enim sunt operationes &amp; virtutes quae non habent delectationem aut dolorem pro obiecto: ergo male 
+      <lb ed="#P" n="40"/>dicit. Tertio dubitatur, an virtus potest corrumpi per cessationem ab actu. Quarto dubitatur, an 
+      <lb ed="#P" n="41"/>virtutes sint impassibiles, hoc est an non patiantur passionem vllam in oppositum. Et probatur quod 
+      <lb ed="#P" n="42"/>non, authoritate philosophi in litera. &amp; ratione: quia a nullosecluditur delectatio &amp; dolor. In 
+      oppo<lb ed="#P" n="43" break="no"/>situm argumentor: quia quanto virtus moralis excludit passiones, tanto est melior: ergo 
+      perfectissi<lb ed="#P" n="44" break="no"/>ma virtus omnem passionem in ipso felici excludit. Quinto dubitatur, quod istorum bonorum 
+      <lb ed="#P" n="45"/>est caeteris communius, &amp; quod nobilius est bonum.
+    </p>
+            <p xml:id="JMAet9-de5364-d1e358">
+               <pc type="pilcrow">¶</pc> Respondetur ad primam, quod delectatio ad 
+      corpo<lb ed="#P" n="46" break="no"/>ralem &amp; spiritualem extenditur. prior generatur in appetitu sensitiuo ab obiecto sensibili mediante 
+      <lb ed="#P" n="47"/>cognitione sensitiua: posterior producitur in voluntate mediante cognitione intellectiua. pari forma 
+      <lb ed="#P" n="48"/>dolor tristitiam amplectitur: hoc notato dicitur quod in omni affectu est delectatio aut tristitia intensa 
+      <lb ed="#P" n="49"/>&amp; illa percipitur, aut remissa quae non percipitur: nonnunquam tamen est mixtio delectationis cum 
+      do<lb ed="#P" n="50" break="no"/>lore: &amp; illic laetitia confunditur, &amp; non appparet.
+    </p>
+            <p xml:id="JMAet9-de5364-d1e375">
+               <pc type="pilcrow">¶</pc> Ad secundum dicitur, quod rarissime virtus est circa 
+      <lb ed="#P" n="51"/>voluptates &amp; dolores obiectiue: video enim hic plurimos errare: succincte tamen loquens, notum est 
+      <lb ed="#P" n="52"/>omne illud esse obiectum potentiae in quod ipsa fertur, dirigitur &amp; tendit: sed potentiae saepissime 
+      <lb ed="#P" n="53"/>tendunt in obiecta ad extra: in cibos, potus, vestes, bonos equos, pecuniam, &amp; nullo modo in 
+      volu<lb ed="#P" n="54" break="no"/>ptates &amp; tristitias. Homo potest tamen velle nonnihil facere ob voluptatem: vel nolle facere ob 
+      do<lb ed="#P" n="55" break="no"/>lorem: in tali casu &amp; nunquam aliter voluptas aut dolor est virtutis aut eius actus obiectum. ldem enim 
+      <lb ed="#P" n="56"/>vbique est obiectum virtutis &amp; eius actus. Delectatio &amp; dolor per modum sequelae in omni operatione 
+      <lb ed="#P" n="57"/>incidunt. Cum enim quis bene concionatur, erudite legit, aut stipem inopi erogat, delectatur: sicut 
+      <lb ed="#P" n="58"/>in omni opere virtutis. quia scit illum actum esse bonum: &amp; tristatur in malo. Prauus tamen 
+      non<lb ed="#P" n="59" break="no"/>nunquam in perperam actis gaudet. Delectatio autem operationem auget &amp; durare facit: nam si quis in  
+      <lb ed="#P" n="60"/>opere bono molestiam ceperit in bono non perseuerat.
+    </p>
+            <p xml:id="JMAet9-de5364-d1e402">
+               <pc type="pilcrow">¶</pc> Ad tertium inficiatiue respondetur de 
+      vir<lb ed="#P" n="61" break="no"/>ture proprie dicta, quae est in anima. Omne enim accidens quod corrumpitur ad corruptionem subi 
+      <lb ed="#P" n="62"/>iecti corrumpitur, vel a suo contratio, vel ob desitionem causae affectum conseruantis. Sicut est lumem 
+      <lb ed="#P" n="63"/>lunae quod producitur a sole &amp; eius praesentia: non pluribus modis corrumpitur accidens. Modo per 
+      <lb ed="#P" n="64"/>cessationem ab actibus nullo istorum modorum corrumpitur. igitur.
+    </p>
+            <p xml:id="JMAet9-de5364-d1e416">
+               <pc type="pilcrow">¶</pc> Ad quartam dubitationem 
+      <!--59.xml-->
+      <pb ed="#P" n="22-v"/>
+               <lb ed="#P" n="1"/>negatiue respondetur. Nam qui nullam passionem haberet esset agrestis, secundum philosophum: 
+      <lb ed="#P" n="2"/>habet enim &amp; felix passionem conformiter ad rectam rationem.
+    </p>
+            <p xml:id="JMAet9-de5364-d1e430">
+               <pc type="pilcrow">¶</pc> Ad quintam, respondetur quod 
+      bo<lb ed="#P" n="3" break="no"/>num delectabile est nobis cum belluis commune. Delectatio est tam secundum sensum quam secundum 
+      <lb ed="#P" n="4"/>intellectum. Bonum autem vtile &amp; honestum solum nobis &amp; superis conuenit. Secundo, ex parte 
+      re<lb ed="#P" n="5" break="no"/>rum delectantium sumitur communitas. Nempe delectatio sequitur ad omnia quae sub electionem 
+      <lb ed="#P" n="6"/>cadunt. Bonum enim honestum est delectabile prout est conueniens secundum rationem: &amp; sic de aliis 
+      <lb ed="#P" n="7"/>bonis. Solum autem bonum honestum est bonum simpliciter: &amp; nunquam fit malum. Bonum vero quod  
+      <lb ed="#P" n="8"/>vtile vocatur, si segregetur a bono honesto non est bonum, sed malum. Potest enim &amp; bene &amp; male 
+      <lb ed="#P" n="9"/>fieri. Ordinatur tamen semper in probo ob bonum honestum, vt pecuniam prudens colligit vt 
+      <lb ed="#P" n="10"/>sibi &amp; pauperibus prouideat. Bonum autem delectabile saepius a bono honesto superatur: &amp; reuera tunc 
+      <lb ed="#P" n="11"/>non est bonum sed malum, &amp; non faciendum. Et id rationis est: quia delectatio est momentanea (vt 
+      <lb ed="#P" n="12"/>ita dixerim) &amp; cruciatus ei respondens perpetuus, si poenitudine non obliteretur.
+    </p>
+            <p xml:id="JMAet9-de5364-d1e457">
+               <pc type="pilcrow">¶</pc> Sexto dubitatur, 
+      <lb ed="#P" n="13"/>an difficilius sit voluptati reluctari quam irae.
+    </p>
+            <p xml:id="JMAet9-de5364-d1e466">
+               <pc type="pilcrow">¶</pc> Septimo, an virtus &amp; ars sint circa difficile.
+    </p>
+            <p xml:id="JMAet9-de5364-d1e472">
+               <pc type="pilcrow">¶</pc> Ad sextam, 
+      <lb ed="#P" n="14"/>dubitationem respondetur, difficultates affectibus aduersari ex multis prouenire potest: vna causa est 
+      <lb ed="#P" n="15"/>ex eo quod affectionis impetus est maior, &amp; irae obsistere est difficillimum: quia ob sanguinis ebullitionem 
+      <lb ed="#P" n="16"/>circa praecordia, ira est impetuosissima. Alia difficultas prouenit ex eo quod affectus est sensui magis 
+      con<lb ed="#P" n="17" break="no"/>ueniens: &amp; sic producit delectationem quae operationem perficit. Ira vero tristitiam annexam habet. 
+      <lb ed="#P" n="18"/>Alia difficultas potest esse ob diuturnitatem: affectus est nobis insitus: &amp; ex parte modi commouendi. 
+      <lb ed="#P" n="19"/>quia furtim insidiatur, &amp; sub velamine boni, est periculosius: aut quia aperte insurgit, &amp; sic minus 
+      pe<lb ed="#P" n="20" break="no"/>riculose ferit. His modis omnibus primo dempto difficilius est voluptati obsistere quam irae.
+    </p>
+            <p xml:id="JMAet9-de5364-d1e493">
+               <pc type="pilcrow">¶</pc> Ad 
+      se<lb ed="#P" n="21" break="no"/>ptimam affirmatiue respondetur: Difficile enim est tenere medium &amp; facile est labi, quemadmodum 
+      <lb ed="#P" n="22"/>sagittario perdifficile est bene sagittare &amp; auem ferire: aberrare auem a tactu auis est facillimum. Item 
+      <lb ed="#P" n="23"/>in multis virtutibus habemus fomitem &amp; inclinationem contra actiuitatem virtutis impellentem: 
+      <lb ed="#P" n="24"/>proinde est difficile studiose agere, praecipue ante partam virtutem. Item actus reputatur melior &amp; ex 
+      <lb ed="#P" n="25"/>consequenti habitus qui &amp; virtus, eo quod est circa difficilius obiectum: non enim alia de causa 
+      fortitu<lb ed="#P" n="26" break="no"/>do temperantiae praestat. Etiam difficultas prouenit ex parte nostra, siue socordia paritate ex parte 
+      <lb ed="#P" n="27"/>materiae data. Nonnunquam tamen licet rarenter virtus est circa non difficile: nec ex parte obiecti, nec 
+      <lb ed="#P" n="28"/>ex parte agentis, vt propriam vxorem cognoscendo temperanter: aut comedendo tempore licito: 
+      <lb ed="#P" n="29"/>aut in actu eutrapeliae, licet tenere omnes circumstantias in his nonnunquam sit factu difficile. Caeterum 
+      <lb ed="#P" n="30"/>celsitudo virtutis est circa difficile, vt in vehementibus voluptatibus propinquis abstinere, vt loseph 
+      <lb ed="#P" n="31"/>ab vxore Phutufaris quem bella &amp; potens mulier clanculum ad moechiam rapuit, sic Bellerophontis 
+      <lb ed="#P" n="32"/>castitas quem Stenobea de coitu interpellabat. In talibus est virtus suo in apice, ita in arte qui 
+      citha<lb ed="#P" n="33" break="no"/>ram artificiose celerrime pulsat insignis citharoedus iudicatur, exiguam virtutem ac artem haud 
+      magni<lb ed="#P" n="34" break="no"/>pendunt, in fastigio nobilitatur.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 3</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 3</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d16780"><!-- mair-l4c3 -->
+            <head xml:id="JMAet9-d16780-Hd1e103">Caput 3</head>
+            <p xml:id="JMAet9-d16780-d1e106">
+               <lb ed="#P" n="53"/>
+               <quote xml:id="JMAet9-d16780-Qd1e110" type="lemma">MAgnanimitas quidem</quote> &amp;c. In exordio huius quarti libri primum de liberalitate philosophus 
+      <lb ed="#P" n="54"/>est loquutus, deinde magnificentia liberalitatis apice, aut virtute condistincta nobilioreque men 
+      <lb ed="#P" n="55"/>tionem fecit, nunc vero magnificentiae magnanimitatem eximiam virtutem &amp; caeterarum 
+      <!--141.xml-->
+      <pb ed="#P" n="62-v"/>
+               <lb ed="#P" n="1"/>virtutum fastigium assuit, vt excellentes virtutes circa exteriora nectat. Primo sic inquit. 
+      Magnani<lb ed="#P" n="2" break="no"/>mitas circa magna versatur, vt vel ex ipso nomine cognoscitur, at circa quae magna insudet conside 
+      <lb ed="#P" n="3"/>remus oportet. Nec sane interest siue de magnanimitate &amp; habitu, siue de magnanimo in concreto 
+      <lb ed="#P" n="4"/>loquamur: quia loquimur impraesentiarum de magnanimo inquantum magnanimus est. 
+    </p>
+            <p xml:id="JMAet9-d16780-d1e131">
+               <lb ed="#P" n="5"/>⁋ Prima conclusio. Is est magnanimus qui se magnis dignatur: aut qui est magnis dignus &amp; dignum 
+      <lb ed="#P" n="6"/>se esse magnis censet Qui nanque pro dignitate id non facit, stolidus &amp; insipiens est, ac magnanimus 
+      <lb ed="#P" n="7"/>esse nequit, quia eorum qui virtute praediti sunt nemo amens, nemo stolidus est, eum itaque esse 
+      pru<lb ed="#P" n="8" break="no"/>dentem oportet Prudentia est virtutum directrix, sexto Ethicorum. Qui parua meretur, &amp; paruis se 
+      <lb ed="#P" n="9"/>dignum existimat, modestus &amp; non magnanimus est, quippe magnanimitas in magnitudine sicut pul 
+      <lb ed="#P" n="10"/>chritudo in magno corpore consistit. Pulchritudo omnium membrorum iustam mensuram cum 
+      <lb ed="#P" n="11"/>vultus venustate tenet. Parui quidem appositis &amp; compositis membris vrbani &amp; formosi, sed non 
+      pul<lb ed="#P" n="12" break="no"/>chri dicuntur. Et sicut pulchritudo cum membris magnis corporis iustam mensuram exigit, sic 
+      ma<lb ed="#P" n="13" break="no"/>gnanimum sublimem virtutem habere oportet. Lentus est qui cum sit indignus magnis, dignum 
+      <lb ed="#P" n="14"/>illis sese iudicat. Vnde fit vt non omnis turgidus sit, qui se maioribus quam ipse meretur dignum putat: 
+      <lb ed="#P" n="15"/>stat enim quod sit bene dignus &amp; tamen censeat paulo maiora de se quam habeat. Vno modo sic exponitur. 
+      <lb ed="#P" n="16"/>Ob paruum ei tributum non solemus talem lentum dicere. Ratio est, quia lentus est perprauus &amp; sto 
+      <lb ed="#P" n="17"/>lidus, non autem qui parum a medio discedit. Talis non est magnanimus, &amp; cum exuperat est lentus, 
+      <lb ed="#P" n="18"/>vel oportet dare quartum membrum. Vel satius id expono per ignorantiam inuincibilem. Alios con 
+      <lb ed="#P" n="19"/>sulendo potest se maiorem quam sit existimare sine lentitudine.
+    </p>
+            <p xml:id="JMAet9-d16780-d1e166">
+               <pc type="pilcrow">¶</pc> Quinto capite exponetur iste passus vbi 
+      <lb ed="#P" n="20"/>materia directissime occurret. Pusillanimus est qui iudicat se minoribus dignum quam ipse sit, siue haec 
+      <lb ed="#P" n="21"/>magna sint:, siue mediocria, siue parua, &amp; signanter si sint magna, cum magnis sit dignus, quid 
+      <lb ed="#P" n="22"/>enim tum faceret si tantis dignus non esset?
+    </p>
+            <p xml:id="JMAet9-d16780-d1e178">
+               <pc type="pilcrow">¶</pc> Alia conclusio. Magnanimus magnitudine 
+      extre<lb ed="#P" n="23" break="no"/>mus est, ratione autem medius. Tenet enim medium rationis licet extremum ex parte obiecti tenere 
+      <lb ed="#P" n="24"/>videatur. Dignum seipsum censet quemadmodum oportet, &amp; in omnibus rationi obsecundat. 
+      Len<lb ed="#P" n="25" break="no"/>ti autem &amp; pusillanimi superant ac deficiunt. Quia si magnanimus magnis se dignum putat (censet 
+      <lb ed="#P" n="26"/>ita) &amp; dignus est maxime magnanimus se dignum putabit maximis, circaque hoc vnum insudat. 
+    </p>
+            <p xml:id="JMAet9-d16780-d1e193">
+               <lb ed="#P" n="27"/>⁋ Alia conclusio. Magnanimus praesertim circa honores inhonorationesque versatur. Probatur haec 
+      <lb ed="#P" n="28"/>conclusio bifariam. Primo. Magnanimus circa id vnum maxime versatur quo dignum se facit. 
+      Di<lb ed="#P" n="29" break="no"/>gnitas autem ad exteriora bona sese diffundit. In hoc omnes conueniunt illud esse maximum exter 
+      <lb ed="#P" n="30"/>norum bonorum quod deo attribuimus. Vult dicere quod cum dicimus aliquis aliquibus est dignus 
+      ta<lb ed="#P" n="31" break="no"/>lis dignitas ad bona exteriora refertur quae homini pro praemio conceduntur. Inter omnia 
+      exterio<lb ed="#P" n="32" break="no"/>ra bona honor primatum obtinet. Patet. Honos alit artes &amp; omnes ad studia incendimur gloria. 
+      He<lb ed="#P" n="33" break="no"/>rostratus enim templum Dianae in Epheso vt suam dilataret famam incendit. Et hoc aliunde patet 
+      <lb ed="#P" n="34"/>honor enim deo attribuitur: &amp; honorem maxime affectant hi qui sunt in dignitate constituti, 
+      ho<lb ed="#P" n="35" break="no"/>norque ob res praeclarissimas praemium dari solet. Pro annibale victo &amp; Carthagine subacta, 
+      hono<lb ed="#P" n="36" break="no"/>re triumphi Scipio decoratus est, eaque duo suo epitaphio in conditorio coniunxit. 
+    </p>
+            <p xml:id="JMAet9-d16780-d1e217">
+               <lb ed="#P" n="37"/>⁋ Secundo argumentor ad idem sic. Magnanimitas est circa illa quibus maxime viri illustres se 
+      di<lb ed="#P" n="38" break="no"/>gnificant: at illa sunt honores, igitur. Capiendo honores pro honore proprie dicto vel pro officiis ho 
+      <lb ed="#P" n="39"/>norificis, quae homo capit ratione honestatis, tamen magnanimus nec quantum ad se nec quantum 
+      <lb ed="#P" n="40"/>ad suam dignitatem exuperat. At pusillanimus tam quantum ad se quam quantum ad suam dignitas 
+      <lb ed="#P" n="41"/>tem magnanimi deficit. Et lentus quantum ad se excedit non tamen quantum ad magnanimum 
+      <lb ed="#P" n="42"/>ex parre obiecti.
+    </p>
+            <p xml:id="JMAet9-d16780-d1e233">
+               <pc type="pilcrow">¶</pc> Alia c onclusio. Magnanimus optimus fuerit. Nam vbique qui melior est maiora 
+      me<lb ed="#P" n="43" break="no"/>retur, &amp; qui optimus maxima. Ex hoc liquet philosophum velle dicere. Peccatum esse conferre 
+      sacer<lb ed="#P" n="44" break="no"/>dotium aliam ve dignitatem bono, praetermisso meliore. 
+    </p>
+            <p xml:id="JMAet9-d16780-d1e243">
+               <lb ed="#P" n="45"/>⁋ Alia conclusio. Magnanimo conuenit quod in vnaquaque virtute est magnum. Virtutum 
+      summi<lb ed="#P" n="46" break="no"/>tatibus magnanimus est praeditus. Hoc in duabus pulchris virtutibus fortitudine iustitiaque explanat, 
+      <lb ed="#P" n="47"/>&amp; si his sit redimitus a fortiore inferioribus decoratus est. Nullo modo magnanimo conuenit cum 
+      <lb ed="#P" n="48"/>pericula aggressus sit ob timorem fugam arripere, nec iniuriam facere, &amp; ita de talibus. Nam quo 
+      mo<lb ed="#P" n="49" break="no"/>do magnanimus admitteret aliqua inhonesta cui magnum nihil est, &amp; qui singula considerat &amp; 
+      me<lb ed="#P" n="50" break="no"/>titur. Ridiculum sane est magnanimum non esse bonum. Nec etiam dignus erit honore si prauus. 
+      <lb ed="#P" n="51"/>sit, quippe cum honor sic praemium virtutis &amp; bonis tribuatur. 
+    </p>
+            <p xml:id="JMAet9-d16780-d1e261">
+               <lb ed="#P" n="52"/>⁋ Alia conclusio. Animi magnitudo virtutum est ornamentum, maiores efficit virtutes &amp; sine ipsis 
+      <lb ed="#P" n="53"/>ipsa non est. Quapropter difficile est vere magnanimum esse, non enim esse potest si non omnis pro 
+      <lb ed="#P" n="54"/>bitas hoc est omnis virtus assit. Non quod omnes virtutes habeat (tunc enim alii nihil haberent) nec 
+      <lb ed="#P" n="55"/>habet omnes in summo, sed est dicere est valde excellens, nec aliis virtutibus ad suam prouinciam 
+      re<lb ed="#P" n="56" break="no"/>quisitis vacat.
+    </p>
+            <p xml:id="JMAet9-d16780-d1e274">
+               <pc type="pilcrow">¶</pc> Alia conclusio. Magnanimus in honoribus non effertur, aliquos honores acceptat, 
+      <lb ed="#P" n="57"/>aliquos vero floccipendit. Quia maxime magnanimus circa honores &amp; inhonorationes insudat, &amp; 
+      <lb ed="#P" n="58"/>pro honoribus qui magni sunt &amp; qui a dignis offeruntur hominibus moderate laetabitur, ceu hono 
+      <lb ed="#P" n="59"/>res sibi debitos vel suis meritis inferiores assequutus. Nec ab re, virtute enim accumulata nullus 
+      ho<lb ed="#P" n="60" break="no"/>nor dignus fieri potest. Honorem oblatum tamen acceptabit, quia praestantiora exhiberi nequeunt. 
+      Par<lb ed="#P" n="61" break="no"/>uas autem honores indifferenter a quibusuis habitos nihilipendit omnino. Non enim est his dignus 
+      <lb ed="#P" n="62"/>adaequate, sed maioribus. Parui honores ob opes nobilibus &amp; grassatoribus nonnumquam ( vt euitetur eorum 
+      <lb ed="#P" n="63"/>malum) exhibetur. Etiam inhonorationes &amp; subsannationes si incidant magnanimus contemnet. 
+      No<lb ed="#P" n="64" break="no"/>uit enim se iniuria lacessitum, eapropter si ob iniurias illatas dolet non est magnanimus nisi cum moderas 
+      <lb ed="#P" n="65"/>Ri:.5 
+      <!--142.xml-->
+      <pb ed="#P" n="63-r"/>
+               <lb ed="#P" n="1"/>mine saltem doleat. Postea ostendit quo modo magnanimus se habet circa materias secundarias &amp; 
+      <lb ed="#P" n="2"/>non praecipuas, quemadmodum sunt potestates &amp; diuitiae, &amp; ponit conclusionem dicens. Non modo 
+      <lb ed="#P" n="3"/>circa honores &amp; inhonorationes, sed etiam circa opes &amp; potestatem &amp; secundam atque aduersam 
+      fortu<lb ed="#P" n="4" break="no"/>nam magnanimus moderate sese geret. Hoc ipsum ostenditur. Qui moderate sese habet circa maius 
+      <lb ed="#P" n="5"/>bonum &amp; maius malum, moderate se habebit circa minus bonum &amp; minus malum, sed magnanimus 
+      <lb ed="#P" n="6"/>moderate se habebit circa honores &amp; inhonorationes, honor autem est maius bonum quam bonum 
+      for<lb ed="#P" n="7" break="no"/>tunae, &amp; inhonoratio est maius malum quam infortunium, igitur. Quia honor sit praestabilius bonum quam 
+      bo<lb ed="#P" n="8" break="no"/>na fortunae, patuit superius: quia deo tribuitur. Et patet aliter quia potestates, opes &amp; similia ob hono  
+      <lb ed="#P" n="9"/>rem expetuntur, &amp; per eas qui expetunt honorari volunt: igitur cui honor paruum est, &amp; caetera talia 
+      <lb ed="#P" n="10"/>ob honorem quaesita, parua sunt: quapropter magnanimi contemptores esse videntur. 
+    </p>
+            <p xml:id="JMAet9-d16780-d1e326">
+               <lb ed="#P" n="11"/>⁋ Alia conclusio. Secundae fortunae magnanimo conducunt. Patet: quia nobiles &amp; locupletes ob illas 
+      <lb ed="#P" n="12"/>honorantur, ergo ob opes magnanimus magis saltem a vulgo efferetur, sed secundum veritatem 
+      so<lb ed="#P" n="13" break="no"/>lus bonus est honorandus, quia honor est praemium virtutis, sed ii quibus ambo insunt bona fortunae 
+      <lb ed="#P" n="14"/>&amp; virtus, magis honore digni censentur. Aliquis tamen non ob virtutem propriam, sed alienam laudat, vt qui 
+      <lb ed="#P" n="15"/>praeest, pro quanto gerit vicem dei &amp; praelati. Quicumque sunt subiugo seruitutis dominos suos honore 
+      di<lb ed="#P" n="16" break="no"/>gnos arbitrentur, primae ad Timoth, sexto. Et patrem etiam malum laudabo a quo habeo esse. 
+      Exo<lb ed="#P" n="17" break="no"/>di vigesimo. Honora patrem tuum &amp; matrem tuam. Et senem venerari detet Leuitici. xix. Coram 
+      ca<lb ed="#P" n="18" break="no"/>no capite consurge, honora personam senis. Diuites enim non honorantur ratione precisa opum, hoc 
+      <lb ed="#P" n="19"/>enim esset peccatum, sed quia altiorem locum obtinent, vel vt euitetur eorum malum: vel ne inflati 
+      <lb ed="#P" n="20"/>videmur. Et sic intelligatur illud lacobi secundo. Si introiret in conspectu vestro vir habens 
+      annu<lb ed="#P" n="21" break="no"/>lum aureum, in veste candida, &amp; pauper in sordido habitu, &amp; intendatis in eum qui indutus est veste 
+      prae<lb ed="#P" n="22" break="no"/>clara &amp; dixeritis ei: tu sede hic bene, pauperi autem dicatis tu sta illic, aut subsede sub scabello pedum 
+      <lb ed="#P" n="23"/>meorum. Pauperes in fortunae bonis virtute micantes praediuitibus etiam praeponuntur, sed communius opulem 
+      <lb ed="#P" n="24"/>ti inopibus praeponuntur, sed non ratione opum: &amp; hoc voluit diuus lacobus in canonica epistola sua. 
+    </p>
+            <p xml:id="JMAet9-d16780-d1e359">
+               <lb ed="#P" n="25"/>⁋ Alia conclusio. Qui sine virtute talia bona habent nec iuste seipsos magnifaciunt, neque ratione 
+      magnani<lb ed="#P" n="26" break="no"/>mi dicuntur. Non enim sunt haec sine accumulata virtute, vt superius meminimus. Opulenti stne virtute 
+      <lb ed="#P" n="27"/>sunt contemptores &amp; petulantes, hoc est tumidi in proposito. Non enim est facile sine virtute res ferre 
+      secun<lb ed="#P" n="28" break="no"/>das, &amp; quia aequabiiter ferre non possunt arbitrantur se caeteris antecellere. Illos quidem despiciunt &amp; contemnunt si 
+      <lb ed="#P" n="29"/>obliquis viis, amicorum mediis, aut aliter male eas opes adepti sunt gloriantur se caeteris praestantiores, probitate 
+      <lb ed="#P" n="30"/>&amp; industria se pollere gloriantur, ipsi igitur quicquid contigerit agunt imitantur magnanimum qui alios iure 
+      contem<lb ed="#P" n="31" break="no"/>nit, &amp; eius similes non sunt attamen faciunt id vt ei assimilentur in quibus pabent. Insuper tales qui a virtute profi 
+      <lb ed="#P" n="32"/>ciscuntur non agunt, &amp; vtcumque caeteros floccipendunt. Magnanimi sola agunt quae ipsa virtus affert, neque vtcunque 
+      <lb ed="#P" n="33"/>sed iure aspenantur alios. Vere iudicant qui paruipendendi veniunt: vulgus autem vt cotingit ita cito paruipendit probos 
+      <lb ed="#P" n="34"/>sicut improbos. Hic ponit proprietates quae accipiuntur secundum dispositiones magnanimi. Et duas proprietates 
+      <lb ed="#P" n="35"/>ponit quae accipiuntur per comparationem ad exteriora pericula.
+    </p>
+            <p xml:id="JMAet9-d16780-d1e385">
+               <pc type="pilcrow">¶</pc> Et sequitur alia conclusio. 
+      Magna<lb ed="#P" n="36" break="no"/>nimus non parua pericula subit, nec talium periculorum est auidus, sed magna vt oportet fortiter 
+      ag<lb ed="#P" n="37" break="no"/>greditur: parua non aggreditur, quia pauca admodum sunt quae magnifaciat &amp; digna existimet, vt ea 
+      <lb ed="#P" n="38"/>aggrediatur, magna subit, quia ea se digna opinatur. Quae cum subit &amp; in ipso discrimine insudat 
+      vi<lb ed="#P" n="39" break="no"/>tae suae minime parcit, quasi omnino non sit dignum viuere: sed in hoc egregio actu mori appetit, aut  
+      <lb ed="#P" n="40"/>probe vincere, pro diuino cultu, iustitia communi, &amp; huiusmodi magnis decertat. Consequenter ponit 
+      <lb ed="#P" n="41"/>quinque proprietates magnanimi, acceptas per comparationem ad beneficia quae sunt liberalitati 
+      pro<lb ed="#P" n="42" break="no"/>pria.
+    </p>
+            <p xml:id="JMAet9-d16780-d1e406">
+               <pc type="pilcrow">¶</pc> Et sequitur alia conclusio. Apraefatis magnanimi est beneficia conferre &amp; pudet eum beneficia 
+      <lb ed="#P" n="43"/>suscipere, quae si primo susceperit, cum foenore reddit, vt primo conferentem sibi deuinciat. Tertia pro 
+      <lb ed="#P" n="44"/>prietas est. Magnanimi est meminisse eorum quibus beneficia contulerit, non autem ab aliis se 
+      benefi<lb ed="#P" n="45" break="no"/>cia suscepisse. Nempe is qui beneficium recipit inferior est illo qui beneficium dedit: sed magnanimus, 
+      <lb ed="#P" n="46"/>appetit conferendo esse superior, &amp; cum voluptate magnanimus audit se beneficia contulisse: sine 
+      io<lb ed="#P" n="47" break="no"/>cunditate audit se beneficia accepisse, quia vnum est decorum, excellens &amp; honorificum, alterum vero 
+      <lb ed="#P" n="48"/>non tale. Eapropter Thetis aquarum dea vt fingit Homerus vates, non narrat beneficia sua loui: neque 
+      <lb ed="#P" n="49"/>Atheniensibus lacedaemonii, quae in illos contulerunt, sed quae ab ipsis acceperunt. Non quod 
+      magnani<lb ed="#P" n="50" break="no"/>mus obliuiscatur beneficia ipsi facta, quia studet ea exuperare, sed cum voluptate suam dationem &amp; 
+      <lb ed="#P" n="51"/>facta honore digna capit. Hercules enim quando fatalibus flammis cremabatur, sua egregia facta in  
+      <lb ed="#P" n="52"/>mentem (vt poetae produnt) reuocauit, vnde Quidius. Ergo ego foedantem peregrino templa 
+      cruo<lb ed="#P" n="53" break="no"/>re, Busirem domui, &amp; quae fequuntur. Prudentis est dum tristitiam immergentem excutere vult, 
+      men<lb ed="#P" n="54" break="no"/>tis aciem in honesta delectabilia conuertere, quae sunt ei cordi. Ex ista proprietate edocemur si 
+      quippi<lb ed="#P" n="55" break="no"/>am ab alio expetere volumus, enarremus beneficia eius aut maiorum nobis aut amicis nostris 
+      con<lb ed="#P" n="56" break="no"/>cessa. Hac enim via multo facilius eius animum mulcebimus nobis condescendere, Thetis &amp; Lacedae. 
+      <lb ed="#P" n="57"/>moniorum exemplum imitantes.
+    </p>
+            <p xml:id="JMAet9-d16780-d1e444">
+               <pc type="pilcrow">¶</pc> Alia eius proprietas est. Ostendit se nullius aut paucorum 
+      indi<lb ed="#P" n="58" break="no"/>gere, indigentibus tamen libenter suppetias fert, non neglectis inopibus. Ita facit ad eos qui in 
+      digni<lb ed="#P" n="59" break="no"/>tate constituti sunt. Magnanimi est eos beneficiis vincere: reuera ad mediocres mediocriter se habet. 
+      <lb ed="#P" n="60"/>secundos superare non est difficile, primos vero gloriosum, &amp; inter illos gloriari non est ingenerosi. 
+      Sa<lb ed="#P" n="61" break="no"/>cerdotii prouentus sacerdotis est in pios vsus conferre, quia illorum bonorum perbtur non est absolutus dmuns, sermo est 
+      <lb ed="#P" n="62"/>de illo qui plenum dominium rei habet. Humiles superare non est pulchrum, &amp; est quasi robustum viribus 
+      <lb ed="#P" n="63"/>contra imbecillos contendere. Humilis est abiectus &amp; humilitas abiectio. In abiecta tamen significatione 
+      <lb ed="#P" n="64"/>thaeologi vtuntur, de qua acceptione dubitatiue paulopost indagabimus. Non est magnanimi ad ho¬ 
+      <!--143.xml-->
+      <pb ed="#P" n="63-v"/>
+               <lb ed="#P" n="1"/>nores properare, &amp; illa in quibus alii primos occupant accubitus, verum ad haec piger est nisi vbi est 
+      <lb ed="#P" n="2"/>magnus honor aut grande opus incumbit. Non enim ad parua agenda accedit, sed solum ad 
+      ma<lb ed="#P" n="3" break="no"/>gna &amp; decora. Palam odit aut amat, metuentis est occultare, sed magnanimus non est tumidus. Et 
+      <lb ed="#P" n="4"/>magis ipsi curae veritatem quam opinionem esse, &amp; aperte loqui ac agere. Nam magnanimus est 
+      contem<lb ed="#P" n="5" break="no"/>ptor eorum quae vere bona non sunt, &amp; ideo sua libertate vtitur. Non enim probos contemnit, nec 
+      <lb ed="#P" n="6"/>quempiam honore suo fraudat, sed non plus reueretur quam par sit. Et verax est nisi dissimulatione 
+      non<lb ed="#P" n="7" break="no"/>nunquam ad multitudinem vtitur, qua dum ipsi conniuendum est, tum cupit semper inniti veritati, &amp; 
+      <lb ed="#P" n="8"/>veritas interdum odium apud imperitam plebeculam parit. Vtitur ad eam ironia, &amp; veritatem non 
+      <lb ed="#P" n="9"/>semper illi nudat. Non posse cum aliis nisi cum amico viuere est seruile, quapropter omnes 
+      adulato<lb ed="#P" n="10" break="no"/>res seruiles sunt, &amp; omnes abiecti assentatores non habent cum quibus viuunt, nisi cum solo amico. 
+      <lb ed="#P" n="11"/>Argyropilus ita procedit, duae aliae translationes hunc passum opposito modo intelligunt, scilicet 
+      <lb ed="#P" n="12"/>magnanimum non posse nisi cum amico viuere. Humiles &amp; adulatores cum omnibus conueniunt, 
+      <lb ed="#P" n="13"/>sed hoc est seruile. Et hoc quadrat cum his quae Aristoteles magnanimo attribuit, quia est aliorum 
+      <lb ed="#P" n="14"/>contemptiuus &amp; non est obsequiosus, cum paucis conuenit. Alia conditio. Magnanimus non est 
+      pro<lb ed="#P" n="15" break="no"/>cliuis ad mirandum. Ob nouitatem &amp; arduitatem miramur, at magnanimus nihil arduum censet, 
+      <lb ed="#P" n="16"/>nec refricat iniuriam illatam. Caesarem in hoc laudant, quod nullorum nisi iniuriae eum immemorem prae 
+      <lb ed="#P" n="17"/>dicabant. Iniurias vile pependit, solum magna prosequitur, nec de hominum factis aut propriis 
+      loqui<lb ed="#P" n="18" break="no"/>tur, signanter alios reprehendendo &amp; seipsum efferendo. Non est laudator, neque maledicus, nec de 
+      ini<lb ed="#P" n="19" break="no"/>micis loquitur nisi ob quaedam vitia in ipsos inuehit, eosque reprehendit, nec de necessariis hoc est 
+      bo<lb ed="#P" n="20" break="no"/>nis vtilibus vel paruis minime est querulus, neque ad precandum pronus, non pro aliis aut pro se 
+      inter<lb ed="#P" n="21" break="no"/>cedit. Nam haec facere est eius qui circa talia insudat. Res praeclaras sine fructu citius eligit possidendas, 
+      <lb ed="#P" n="22"/>quam fructuosas abiectasque. Citius scholasticus magnanimus mathematicas curat artes quam iura lucratiua. 
+      <lb ed="#P" n="23"/>Et eques auratus potius pulchros equos &amp; decoram structuram quam boues aut oues cum agnis in quibus 
+      <lb ed="#P" n="24"/>plus est emolumenti, quia hoc est magis sufficientis. Eius motus est tardus, loquutio grauis &amp; stabilis. 
+      <lb ed="#P" n="25"/>incessus celeritas &amp; linguae volubilitas est ob aliquod quod homo ardenter cupit attingere, hoc 
+      magna<lb ed="#P" n="26" break="no"/>nimo non cenuenit. Pusillanimus &amp; lentus citius aberrare videntur quam esse praui: nulli mala inferunt. 
+      <lb ed="#P" n="27"/>Sed pusillanimus cum bona mereatur se psum dignum non existimat, &amp; sic sua bona ignorat, si seipsum 
+      <lb ed="#P" n="28"/>cognosceret vtique appeteret ea bona quibus dignus est. Non tamen stolidi tales homines sunt, sed resi 
+      <lb ed="#P" n="29"/>des &amp; morosi, digni sunt, &amp; opinio eos deteriores facit, singuli nanque appetunt ea quibus sunt digni. 
+      <lb ed="#P" n="30"/>Dimouent enim se a praeclaris exercitiis officiorum quasi essent indigni &amp; ab externis bonis, &amp; sic pi 
+      <lb ed="#P" n="31"/>gri videntur. Intellectus erroneum iudicium est eis causa male agendi. Appetitus actus &amp; habitus est 
+      <lb ed="#P" n="32"/>pusillanimitas, sicut est magnanimitas. Opposita sunt in eadem potentia. Omnia mala docuit ociosi 
+      <lb ed="#P" n="33"/>tas. Cato dicere solebat: quod homines nihil agendo male agere addiscunt. Et gymnosophistae ocii 
+      ratio<lb ed="#P" n="34" break="no"/>nem strictius quam negocii exegerunt. Et mellificae apes fucos ignauum pecus a praesepibus arcent. Nec 
+      di<lb ed="#P" n="35" break="no"/>ui Augustinus, Ambrosius, Hieronymus, Graegorius, &amp; caeteri patres caelo digni sacerdotia recusarunt, 
+      <lb ed="#P" n="36"/>iugiter in vinea domini sabaoth siue sacerdotiis laborarunt. Et quia homines ambitiose se ad magnos 
+      <lb ed="#P" n="37"/>honores ingerunt, in aliorum scandalum &amp; iacturam animarum tam ex parte pastoris quam gregis, ab 
+      <lb ed="#P" n="38"/>his caducis honoribus sese retraxerunt, more Aaron. Honorem oblatum &amp; non petitum finaliter 
+      ce<lb ed="#P" n="39" break="no"/>perunt, sciebant enim cathedram plerisque esse pestilentiae sedem &amp; exitialem: eapropter securius praeeli 
+      <lb ed="#P" n="40"/>gerunt in humiliore loco quam in excellentiore stare. Non fixerunt cogitatus super bona sua sed super 
+      <lb ed="#P" n="41"/>mala. Non dubium est nonnunquam ipsos perperam egisse, pro pterea tamen non erant pusillanimi. Tur 
+      <lb ed="#P" n="42"/>gidi autem &amp; stolidi sunt &amp; seipsos ignorant. Tanquam digni res honorificas aggrediuntur, deinde redargu 
+      <lb ed="#P" n="43"/>untur. Vestitu, gestu, annulis &amp; similibus se ornant, prosperitates suas iactant voluntque manifestas 
+      <lb ed="#P" n="44"/>haberi: seipsos etiam praedicant vt propter sua verba honorentur, ignorantes illud. Laudet te os 
+      alie<lb ed="#P" n="45" break="no"/>num, &amp; laus proprio in ore sordescit. Magnanimitati pusillanimitas magis quam lentitudo aduersatur, 
+      <lb ed="#P" n="46"/>tum quia homines magis ad pusillanimitatem inclinantur, itaque est deterior ex regulis malitiae vitii 
+      <lb ed="#P" n="47"/>in secundo, tum secundo pusillanimitas est lentitudine deterior, quia prodesse renuit, alter autem 
+      prae<lb ed="#P" n="48" break="no"/>esse his cupit quibus vires suae sunt impares. Non erant pinguia sacerdotia apud Ethnicos, sicut sunt 
+      <lb ed="#P" n="49"/>inter verae pietatis cultores. Propterea nunc magis lentitudine laboratur quam pusillanimitate. 
+      Sacer<lb ed="#P" n="50" break="no"/>dotia cum ocio quod homines quaerunt, tenent, id autem apud Ethnicos facere non poterant 
+      pro<lb ed="#P" n="51" break="no"/>pterea in hoc non miraberis. 
+      <lb ed="#P" n="52"/>FIrca hanc materiam multae dubitationes siue quaestiones formandae sunt. Primo dubitatur an 
+      <lb ed="#P" n="53"/>magnanimitas sit specialis virtus.
+    </p>
+            <p xml:id="JMAet9-d16780-d1e584">
+               <pc type="pilcrow">¶</pc> Respondetur est specialis virtus. Habet enim specialem 
+      <lb ed="#P" n="54"/>materiam circa quam insudat, scilicet honores &amp; inhonorationes. Honor est exhibitio 
+      reueren<lb ed="#P" n="55" break="no"/>tiae in signum virtutis.
+    </p>
+            <p xml:id="JMAet9-d16780-d1e595">
+               <pc type="pilcrow">¶</pc> Contra hoc arguitur. Secundum Aristotelem in litera, ad magnanimum 
+      <lb ed="#P" n="56"/>pertinet illud quod est in vnaquaque virtute magnum, ergo non est specialis virtus. Secundo non 
+      li<lb ed="#P" n="57" break="no"/>cet appetere honores: ergo maledictum est. Antecedens patet, quia laudantur ii qui honores 
+      aufugi<lb ed="#P" n="58" break="no"/>unt. Saul Israelitarum primus rex honorem refugiebat, cum enim ad celsitudinem regiam 
+      euehere<lb ed="#P" n="59" break="no"/>tur sese occulit. Et sacer Ambrosius cum mediolanensibus antistes deligendus esset aufugit. Et de 
+      <lb ed="#P" n="60"/>Catone maiore narrat Liuius quod quanto magis honorem recusauit tanto magis illum 
+      insequeba<lb ed="#P" n="61" break="no"/>tur. In principio nascentis ecclesiae, cum eadem opibus fioreret, plerique heroici viri caelo digni a 
+      <lb ed="#P" n="62"/>sacerdotiorum culmine sese retraxerunt praeeligentes delitere sub modio quam concionatoris munus, 
+      <lb ed="#P" n="63"/>in suggestu declamandi sumere. lsti sane non erant pusillanimes, nec lenti: itaque magnanimi¬ 
+      <!--144.xml-->
+      <pb ed="#P" n="64-r"/>
+            </p>
+            <p xml:id="JMAet9-d16780-d1e622">
+               <lb ed="#P" n="1"/>⁋ Ad priorem rantionem respondetur quod magnanimitas praesuppositiue est circam omnem aliam 
+      vir<lb ed="#P" n="2" break="no"/>tutem, quia illae praesupponuntur ad hoc vt quis sit vere magnanimus.
+    </p>
+            <p xml:id="JMAet9-d16780-d1e629">
+               <pc type="pilcrow">¶</pc> Ad secundum 
+      responde<lb ed="#P" n="3" break="no"/>tur quod licet appetere actus virtutum qui sunt honoris causa: Primo ardua opera magnanimus 
+      expe<lb ed="#P" n="4" break="no"/>tit &amp; secundario honores. Secundo quis potest expetere honorem. Patet, potest expetere pecuniam, 
+      <lb ed="#P" n="5"/>amicitiam &amp; alia bona tam externa quam interna, modo inter externa bona honos magnum locum oc 
+      <lb ed="#P" n="6"/>cupat. Honos enim alit artes &amp; omnes ad studia accendimur gloria, secundum Tullium in tusculanis. 
+      <lb ed="#P" n="7"/>Non petit quis honorem vltimate pro se, sed illum finem in altiorem resoluit pro salute rei 
+      publi<lb ed="#P" n="8" break="no"/>cae &amp; gloria Dei. Placet viro vt honoretur. ld enim est signum virtutis in eo, &amp; hoc eum in virtutis 
+      <lb ed="#P" n="9"/>via alit. Virtus laudata crescit. Hac via alii ad virtutes stimulantur. Reprobantur illi qui suum 
+      hono<lb ed="#P" n="10" break="no"/>rem negligunt: hoc est quando perpetrant turpia tunc inhonorem incurrunt, quos dedecus non 
+      ar<lb ed="#P" n="11" break="no"/>cet a vitio. Et ad probationem antecedentis concedo. Homo enim potest rationabiliter contemnere 
+      <lb ed="#P" n="12"/>etiam honorem, ipsum enim importune petere est vitiosum. Inhonorationem euitat magnanimus 
+      <lb ed="#P" n="13"/>quae nec ad se valet &amp; rarissime ad aliud valet, erit tamen sapienti materia patientiae. 
+    </p>
+            <p xml:id="JMAet9-d16780-d1e659">
+               <lb ed="#P" n="14"/>⁋ Dubitatur secundo, an praestabilius sit honorare quam honorari.
+    </p>
+            <p xml:id="JMAet9-d16780-d1e664">
+               <pc type="pilcrow">¶</pc> Respondetur per propositiones 
+      qua<lb ed="#P" n="15" break="no"/>rum prima est. Esse dignum honorari est praestabilius quam esse dignum honorare. Nam melius est meru 
+      <lb ed="#P" n="16"/>isse aliquid laude dignum quam illi debitum soluere. Honorans enim debitum &amp; praemium aliquod 
+      acci<lb ed="#P" n="17" break="no"/>dentarium tribuit ei qui bene operatus est. Secundo solus studiosus est dignus honorari, quilibet 
+      in<lb ed="#P" n="18" break="no"/>differenter est honorare dignus igitur. Secunda propositio. Accipere honorem sibi debitum est actus 
+      <lb ed="#P" n="19"/>bonus. Patet quia accipit debitum. Secundo, quia placet illi quod alius exercet officium suum. Tertio, 
+      <lb ed="#P" n="20"/>quia placet ei quod Deus in eo honoretur &amp; virtus ipsa: ipse enim ob Deum &amp; virtutem honoratur. Ter 
+      <lb ed="#P" n="21"/>tia propositio. Actus honorandi hoc est volitio honorandi alium est melior volitione honorem 
+      ac<lb ed="#P" n="22" break="no"/>eeptantis. Patet, quia actus quo soluitur debitum est melior actu quo illud debitum suscipitur. 
+      Stu<lb ed="#P" n="23" break="no"/>diosum honorans debitum soluit, alter probus solutionem capit &amp; vult illam solutionem capere. Item 
+      <lb ed="#P" n="24"/>honoratio actiua est difficilior &amp; suapte natura laboriosior quam honoratio passiua. 
+    </p>
+            <p xml:id="JMAet9-d16780-d1e691">
+               <lb ed="#P" n="25"/>⁋ Contra illud argumentor: illud est melius quod conuenit Deo &amp; caeteris maioribus quam illud quod 
+      <lb ed="#P" n="26"/>conuenit minoribus, sed Deo &amp; maioribus conuenit honorari. Secundo illud quod conuenit soli pro 
+      <lb ed="#P" n="27"/>bo est praestantius illo quod &amp; bono &amp; malo conuenit, sed honorari conuenit soli bono non autem 
+      ho<lb ed="#P" n="28" break="no"/>norare.
+    </p>
+            <p xml:id="JMAet9-d16780-d1e703">
+               <pc type="pilcrow">¶</pc> Ad priorem dicitur quod non omne id quod conuenit meliori &amp; superiori extrinsece est mei 
+      <lb ed="#P" n="29"/>lius. Secunda ratio probare satagit ponere meliorem conditionem in eo cui conuenit quam aliud ad alium 
+      <lb ed="#P" n="30"/>sensum. Maior vniuersaliter intellecta est falsa, puta si intelligatur melius aut actus melior in vtente. 
+      Pre<lb ed="#P" n="31" break="no"/>terea argumentor. Opulentos etiam malos honoramus, ergo honor non est signum virtutis. Respondetur 
+      <lb ed="#P" n="32"/>quod interdum aliquos honoramus malos superiores ob bonum obedientiae, interdum vt eorum mali 
+      <lb ed="#P" n="33"/>uolentiam euitemus. Oportet enim incendere candelam vnam vt aiuntem vel coram cacodaemone non 
+      <lb ed="#P" n="34"/>vt? prosit, sed vt non obsit.
+    </p>
+            <p xml:id="JMAet9-d16780-d1e722">
+               <pc type="pilcrow">¶</pc> Tertio dubitatur an magnanimitas est pars fortitudinis.
+    </p>
+            <p xml:id="JMAet9-d16780-d1e728">
+               <pc type="pilcrow">¶</pc> Respondetur 
+      <lb ed="#P" n="35"/>non est pars subiectiua eius, sed eius pars potentialis. Aliqui partem potentialem nomine principalis virtutis 
+      <lb ed="#P" n="36"/>appellant: etiam aliqui vocabula confundunt.
+    </p>
+            <p xml:id="JMAet9-d16780-d1e738">
+               <pc type="pilcrow">¶</pc> Quarto dubitatur an quis potest inordinate honorem petere. 
+    </p>
+            <p xml:id="JMAet9-d16780-d1e744">
+               <lb ed="#P" n="37"/>⁋ Respondetur affirmatiue, vt petendo honorem puer se finaliter non referendo in alium vlteriorem finem, vt 
+      ambi<lb ed="#P" n="38" break="no"/>tiosus vel si quis appetit excellentiam de aliquo quod non habet, praesumptuosus est in ambiendis 
+      magistrati<lb ed="#P" n="39" break="no"/>bus. Et ambitio in appetendis honoribus magnanimitati aduersatur, secundum diuersas consideratioes. Vni 
+      <lb ed="#P" n="40"/>virtuti in genere multa vitia opponuntur. Mille sunt magnanimitates specie distinctae &amp; multo plures, 
+      <lb ed="#P" n="41"/>sic de extremis.
+    </p>
+            <p xml:id="JMAet9-d16780-d1e757">
+               <pc type="pilcrow">¶</pc> Contra, honor est praemium virtutis secudm philosophum, sed virtutis praemium est appetendum. 
+      <lb ed="#P" n="42"/>Secundo honor retrahit semper a malo, ergo nunquam inordinate appetitur.
+    </p>
+            <p xml:id="JMAet9-d16780-d1e766">
+               <pc type="pilcrow">¶</pc> Respondetur quod honor est praemium 
+      <lb ed="#P" n="43"/>quod alius homo poest studioso dare, sed beatitudo est praemium virtutis aut eius actus, secudm fidem &amp; vtilitas con 
+      <lb ed="#P" n="44"/>munis secundm philosophum.
+    </p>
+            <p xml:id="JMAet9-d16780-d1e776">
+               <pc type="pilcrow">¶</pc> Ad secdm nego maiorem. Multis enim fuit &amp; erit occasio male agendi. Hoc 
+      sti<lb ed="#P" n="45" break="no"/>mulo dictaturam perpetuam Caesar rapuit, &amp; Aristocraticam politiam in Monarchiam euertit. Vnde Salustius in  
+      <lb ed="#P" n="46"/>Catilinatio, Gloriam honorem &amp; imperium bonus &amp; ignauus equae sibi optant, vnus dolo &amp; fallaciis, alius 
+      <lb ed="#P" n="47"/>autem virtutis via.
+    </p>
+            <p xml:id="JMAet9-d16780-d1e788">
+               <pc type="pilcrow">¶</pc> Quinto dubitatur quare Hugolinus hanc Aristotelis magnanimitatem theologorum 
+      <lb ed="#P" n="48"/>superbiam vocarat.
+    </p>
+            <p xml:id="JMAet9-d16780-d1e796">
+               <pc type="pilcrow">¶</pc> Respondetur quod inscite hoc fecit. Verum propter affinitatem ad timiditatem sic vocabat. 
+      <lb ed="#P" n="49"/>In multis conditionibus exterioribus conveniunt, re ipsa tamen differunt.
+    </p>
+            <p xml:id="JMAet9-d16780-d1e804">
+               <pc type="pilcrow">¶</pc> Sexto dubitatur: quae virtus sit humili 
+      <lb ed="#P" n="50"/>tas.
+    </p>
+            <p xml:id="JMAet9-d16780-d1e812">
+               <pc type="pilcrow">¶</pc> Responsio, apud exteros humilis est humi deiectus secundm illud Virgilii. Atque humiles habitare 
+      <lb ed="#P" n="51"/>casas. Et dicimus nebulonem aut ignobilem humili loco &amp; obscuro esse natum. Theologi in virtute non multum 
+      <lb ed="#P" n="52"/>ab hac significantia dissona accipiunt. Matthaei. xi. dicit seruator: discite a me quia mitis sum &amp; humilis corde. &amp; 
+      <lb ed="#P" n="53"/>de Christifera virgine canit ecclesia, Quia respexit humilitatem ancillae suae. Ex his patet humilitatem esse 
+      <lb ed="#P" n="54"/>virtutem quae est pulchra, cum virginis humilitas tacita virginitate impense efferatur. Et Aug. in lib. de 
+      virgi<lb ed="#P" n="55" break="no"/>nitate ait humilitas pene tota disciplina Christiana est. Humilitatis actus, per quem habitus cognoscitur, e 
+      <lb ed="#P" n="56"/>nolle tendere inordinate in ardua, &amp; nolle ire in mirabilibus super se. Licet intellectus iudicium sicut aliae 
+      <lb ed="#P" n="57"/>vittutes morales praesupponat, ad voluntatem pertinet secundum dicta. Astipulatur diuus Augu. in lib. de 
+      poe<lb ed="#P" n="58" break="no"/>nitentia. Humilis est qui eligit abiici in domo domini magis quam habitare in tabernaculis peccatorum. 
+    </p>
+            <p xml:id="JMAet9-d16780-d1e836">
+               <lb ed="#P" n="59"/>⁋ Septimo dubitatur an sub magnanimitate includatur, sicut species sub genere.
+    </p>
+            <p xml:id="JMAet9-d16780-d1e841">
+               <pc type="pilcrow">¶</pc> Respondetur nega 
+      <lb ed="#P" n="60"/>tiue. Magnanimus enim appetit honores &amp; potestates honorificas, quibus est dignus, vt sese in virtu 
+      <lb ed="#P" n="61"/>tis materia exerceat: sed humilitas refrenat animum ne in excelsa tendat &amp; altiora pro virili euitat. 
+    </p>
+            <p xml:id="JMAet9-d16780-d1e851">
+               <lb ed="#P" n="62"/>⁋ Sed contra illud argumentor: Eadem virtus inclinat hominem ad appetendum honorem quo di c 
+      <lb ed="#P" n="63"/>gnus est &amp; ad recusandum honorem quo indignus est, ergo humilitas est pars magnanimitatis, 
+      im<lb ed="#P" n="64" break="no"/>mo est magnanimitas. Antecedens patet inductiue de fortitudine, temperantia &amp; caeteris omnibus, 
+      <!--145.xml-->
+      <pb ed="#P" n="64-v"/>
+            </p>
+            <p xml:id="JMAet9-d16780-d1e864">
+               <lb ed="#P" n="1"/>⁋ Respondetur, hic aliqui seriose &amp; non de maximo negocio luctantur. Dico autem primo quod in 
+      mul<lb ed="#P" n="2" break="no"/>tis oportet capere sapientum vsum, &amp; non dare aliam rationem: sic in materia temperantiae dixi, 
+      cir<lb ed="#P" n="3" break="no"/>ca sensum gustus &amp; tactus virtutem poni &amp; non circa alios sensus. Sic apud pueros dicimus de nume 
+      <lb ed="#P" n="4"/>ro quinario praedicabilium differre de pluribus differentibus specie in eo quod quid: &amp; numero duo 
+      prae<lb ed="#P" n="5" break="no"/>dicabilia constituunt &amp; non sic de quali. Sic impraesentiarum dico quod sancti in disciplina Christi 
+      edu<lb ed="#P" n="6" break="no"/>cati sciunt vltra philosophos Ethnicos humilitatem esse commendatam quam ad partem a 
+      magna<lb ed="#P" n="7" break="no"/>nimitate separarunt, quia magnanimus auet cum ratione: sancti non ita late ad vtrumque scilicet 
+      <lb ed="#P" n="8"/>velle &amp; nolle magnanimum extendant. Sic autem capiendo humilitas sub magnanimitate 
+      in<lb ed="#P" n="9" break="no"/>cluditur, nec alia ratio ad argumentum danda est nisi quia sancti &amp; philosophi isto modo loquendi 
+      <lb ed="#P" n="10"/>vtuntur. Si quis ita late magnanimitatem caperet sicut in aliis absque periculo humilitatem sub 
+      ma<lb ed="#P" n="11" break="no"/>gnanimitate inuolueret, tamen quia sancti &amp; sapientes non ita loquuntur, &amp; multa humilitati rectis 
+      <lb ed="#P" n="12"/>sime attribuunt quae Ethnici philosophi negarent, quia ad tam sublimia non deuenerunt. Vnde ad 
+      <lb ed="#P" n="13"/>Epheseos tertio scribitur. Aliis generationibus non est agnitum filiis hominum sicut reuelatum est 
+      <lb ed="#P" n="14"/>sanctis apostolis. Eius aliam causam post hac tangere curabimus.
+    </p>
+            <p xml:id="JMAet9-d16780-d1e897">
+               <pc type="pilcrow">¶</pc> Octauo dubitatur. An 
+      humili<lb ed="#P" n="15" break="no"/>tas inclinet se habentem omnibus subiicere.
+    </p>
+            <p xml:id="JMAet9-d16780-d1e905">
+               <pc type="pilcrow">¶</pc> Respondetur affirmatiue. Probatur ad philip. secundo 
+      <lb ed="#P" n="16"/>In humilitate superiores sibi inuicem arbitrantes, sic scilicet quod Socrates Platonem se superiorem &amp; 
+      <lb ed="#P" n="17"/>contra censeat. Et diuus benedictus in sua regula inter humilitatis gradus ponit vnum, credere &amp; 
+      pro<lb ed="#P" n="18" break="no"/>nunciare se omnibus viliorem &amp; ad omnia indignum &amp; inutilem se confiteri &amp; credere, &amp; omnibus se 
+      <lb ed="#P" n="19"/>subdere. Ecce prima fronte extranea &amp; sane ab Aristotelis schola tanquam peregrina. Sed veracissima, 
+      so<lb ed="#P" n="20" break="no"/>lidissimaque sunt quae reuelauit Deus paruulis suis. Sed contra illud obiicitur.
+    </p>
+            <p xml:id="JMAet9-d16780-d1e923">
+               <pc type="pilcrow">¶</pc> Primum sequitur quod 
+      <lb ed="#P" n="21"/>mendacium in lege gratiae esset licitum: quod nephas est dicere. Patet, sine mendacio magnanimus 
+      <lb ed="#P" n="22"/>non potest se dicere viliorem hoc nebulone.
+    </p>
+            <p xml:id="JMAet9-d16780-d1e933">
+               <pc type="pilcrow">¶</pc> Secundo sequitur quod Socrates consummatus 
+      theolo<lb ed="#P" n="23" break="no"/>gus male facit capiendo sacerdotium in praesentia Platonis, quem se dicit esse praestantiorem.
+    </p>
+            <p xml:id="JMAet9-d16780-d1e941">
+      
+      Ter<lb ed="#P" n="24" break="no"/>tio, nemo debet facere illud quod vergit in detrimentum salutis alterius, sed si consummatus 
+      theolo<lb ed="#P" n="25" break="no"/>gus diceret se imperitiorem hoc bacchalaurio currente aperiret ei cornua superbiae. Propterea 
+      Augu<lb ed="#P" n="26" break="no"/>in regula dicit, ne dum nimium seruatur humilitas regendi frangatur authoritas. Ergo homo non 
+      <lb ed="#P" n="27"/>debet se subdere omnibus per humilitatem.
+    </p>
+            <p xml:id="JMAet9-d16780-d1e952">
+               <pc type="pilcrow">¶</pc> Pro horum argumentorum solutione scito quod in 
+      homi<lb ed="#P" n="28" break="no"/>ne duo sunt, scilicet donum dei scilicet gratia gratis data &amp; illud quod hominis est. Prius est bonum &amp; 
+      <lb ed="#P" n="29"/>perfectionis: secundum imperfectio &amp; saepe culpa, secundum illud Osee. xiii. Perditio tua ex te Israel, ex 
+      <lb ed="#P" n="30"/>me tantum auxilium tuum. Etiam sine dei speciali auxilio non possumus quicquam boni agere, hoc ad 
+      <lb ed="#P" n="31"/>materiam praelibato, ad formam deuenio.
+    </p>
+            <p xml:id="JMAet9-d16780-d1e966">
+               <pc type="pilcrow">¶</pc> Ad primum argumentum nego sequelam comparando  
+      <lb ed="#P" n="32"/>hoc quod habeo ex me ad donum dei in illo ipse me in hoc transcendit. Etiam difficilimum est dare 
+      <lb ed="#P" n="33"/>quoscunque duos: quin inferior illorum in moribus nonnihil boni habeat quod alteri deest. Magnani 
+      <lb ed="#P" n="34"/>mus non contemnit studiosos viros virtute decoros, simias studiosorum contennit vt principes opu 
+      <lb ed="#P" n="35"/>lentos &amp; malos. Dicis opus virtutis est in studioso, at honos est in honorante &amp; non honorato vt ait. 
+      <lb ed="#P" n="36"/>Respondetur magnanimitas versatur immediate circa cupiditatem honorum, cuius ipsa est modera 
+      <lb ed="#P" n="37"/>tio, &amp; haec est in eius potestate, secundario &amp; remote est circa honores. Magnanimus sententiam 
+      Mar<lb ed="#P" n="38" break="no"/>ci Marcelli probat, qui cum ex manubiis Syracusanae praedae nonnihil templo. Honoris voueret, ea 
+      ra<lb ed="#P" n="39" break="no"/>tione illud statuit vt nemo ad Honoris templum peruenire posset nisi prius per virtutes aedem 
+      in<lb ed="#P" n="40" break="no"/>grederetur. Erat enim illa templo honoris quasi pro vestibulo coniuncta. Iste est melior scriba, 
+      inge<lb ed="#P" n="41" break="no"/>niosior, prudentior, meliorque musicus innocentior, vel in aliquo te transcendere (si inflatus non 
+      fue<lb ed="#P" n="42" break="no"/>ris) dices. Nescis te esse in gratia nec humilem, &amp; si humilis fueris hoc ipsum cum lob ignorabit 
+      <lb ed="#P" n="43"/>anima tua. Conuerte intellectum in mala tua culpae aut poenae, &amp; obiecti solutio non 
+      defue<lb ed="#P" n="44" break="no"/>rit. Si alius quispiam pridem hominem occidit, fortasse poenitudine culpam aboleuit. &amp; fratris 
+      am<lb ed="#P" n="45" break="no"/>bigua facta in meliorem partem interpretaberis, assentatoribus fidem non impertias. Plus aliis de te 
+      <lb ed="#P" n="46"/>quam tu tibi credere noli. Et licet in donis dei &amp; gratuitis absolute loquendo eum superaueris, dicas te 
+      es<lb ed="#P" n="47" break="no"/>se alio viliorem infirmiorem &amp; indignum pane quo vesceris, tunc humiliter secundum doctrinam 
+      <lb ed="#P" n="48"/>sanctorum de teipso senties. Si aliquid bene agis ex gratia Dei est, in quo ergo tua iactas, cum 
+      so<lb ed="#P" n="49" break="no"/>lum mala ex dictis tua esse colligas: &amp; cum tuam infirmitatem nosti quo ad occultos cogitatus &amp; 
+      <lb ed="#P" n="50"/>omni, ne forte plus auxilii specialis Dei habes quam proximus, &amp; semper interpretaberis eius facta in  
+      <lb ed="#P" n="51"/>meliorem partem: ergo sine mendacio dicis te ipso viliorem: si enim diceres te ipso meliorem 
+      menti<lb ed="#P" n="52" break="no"/>reris, vel forte falium diceres, &amp; si verum, fatue &amp; tumide pronuncias. Nec opus est te dubitare an sis 
+      <lb ed="#P" n="53"/>eo vilior. Et si erres in intellectu iudicando te deteriorem quam ipse sit de quo dubitas, Illud iudicium fal 
+      <lb ed="#P" n="54"/>sum non est malum, sed bonum. Verae assentire interdum est inflati proprietas: &amp; falsae assentire humi 
+      <lb ed="#P" n="55"/>litatis est. Huiusmodi enim assensus non sunt humilitas aut eius actus, vt patet ex dictis: sed sunt 
+      bo<lb ed="#P" n="56" break="no"/>ni vel mali cum subiaceant voluntatis imperio.
+    </p>
+            <p xml:id="JMAet9-d16780-d1e1026">
+               <pc type="pilcrow">¶</pc> Ad secundum nego sequelam Socrates recte iudi 
+      <lb ed="#P" n="57"/>cat de se quod est altero literatior &amp; ad concionandum aptior &amp; ad hierarchisandum in hac cura magis 
+      <lb ed="#P" n="58"/>idoneus, licet Platonem in aliquo excellere existimet, quod pro huius curae prouincia non sufficit. 
+    </p>
+            <p xml:id="JMAet9-d16780-d1e1037">
+               <lb ed="#P" n="59"/>⁋ Ad tertium respondetur quod mentaliter superior se inferiorem, vbi non constat de opposito, 
+      existi<lb ed="#P" n="60" break="no"/>mabit bonum, &amp; qualiscunque sit, iudicabit ipsum in aliquo pollere. Exterius tamen hoc non ostendet, 
+      <lb ed="#P" n="61"/>&amp; eius vitia arguet castigabitque prout ratio efflagitat. Hoc enim cauterio se ab inflatione seruabit, vt 
+      <lb ed="#P" n="62"/>caro per salem a putrefactione praeseruatur. Et haec est causa quare humilitas a magnanimitate segre 
+      <lb ed="#P" n="63"/>gatur. Multo profundius latitudinem recusandi honoris sancti deiiciunt quam pure philosophi. 
+      Didice<lb ed="#P" n="64" break="no"/>tunt enim plerosque ex dignitatis culmine in peccati faeces incidisse, &amp; sub modio existentes conspicuis 
+      <!--146.xml-->
+      <pb ed="#P" n="65-r"/>
+               <lb ed="#P" n="1"/>virtutibus enituisse. Ergo tota latitudo humilitatis non includitur sub recusatione honesta 
+      hono<lb ed="#P" n="2" break="no"/>rum apud Aristotelem, &amp; si aliqua sub ea includeretur quae impuriorem humilitatem induit, 
+      no<lb ed="#P" n="3" break="no"/>lebant humilitatem partire, sed eam ad partem segregare. Quanto autem maior est recessus 
+      <lb ed="#P" n="4"/>ab honorum appetitione, sine pertinacia censetur semper purior humilitas. Hinc sancti, 
+      prae<lb ed="#P" n="5" break="no"/>sulatus &amp; sacerdotia pro virili recusarunt propter periculum in regimine, regnum dei 
+      lucrifa<lb ed="#P" n="6" break="no"/>cere studebant, impulsus carnis &amp; incendia vitiorum etiam sancti erant in seipsis experti, immo 
+      Ioan<lb ed="#P" n="7" break="no"/>nes euangelista ingenue id fatetur cum dixit, si dixerimus quod peccatum non habemus nosipsos sedu 
+      <lb ed="#P" n="8"/>cimus, &amp; veritas in nobis non est. Ergo sancti plerique mille gradibus ipso inferiores hoc perceperunt. 
+      <lb ed="#P" n="9"/>Quocirca seipsos malos vel procliues ad malum etiam sub modio censebant, quare cathedram 
+      pesti<lb ed="#P" n="10" break="no"/>lentie conscendere recusarunt. Plerosque alios tam in particulari quam in vniuersali probos iudicabant, pr 
+      <lb ed="#P" n="11"/>ptereaque non erant pusillanimes, sed niuea humilitate redemiti.
+    </p>
+            <p xml:id="JMAet9-d16780-d1e1081">
+               <pc type="pilcrow">¶</pc> Nono dubitatur quid est superbia 
+      <lb ed="#P" n="12"/>quae humilitati aduersatur.
+    </p>
+            <p xml:id="JMAet9-d16780-d1e1089">
+               <pc type="pilcrow">¶</pc> Respondetur secundum <ref xml:id="JMAet9-d16780-Rd1e1094">August. xiiii. de ciuitate dei</ref>. <quote xml:id="JMAet9-d16780-Qd1e1097" source="http://scta.info/resource/adcd-l19-d1e3149" synch="37-44">Superbia est peruer sa 
+        <lb ed="#P" n="13"/>celsitudinis appetitus</quote>: hoc est inordinatus appetitus celsitudinis. Praesumptuosus appetit iniquam 
+      subli<lb ed="#P" n="14" break="no"/>mitatem in operibus, &amp; ambitiosus in honoribus, inflatus in celsitudinem sui tendit obiectiue, sed 
+      ca<lb ed="#P" n="15" break="no"/>pi potest superbus communiter, vt haec tria pro obiectis habeat. Inanis gloria peruerse appetit 
+      glori<lb ed="#P" n="16" break="no"/>am: est enim gloria clara cum laude notitia. Gloriosus vult suam excellentiam manifestare &amp; esse aliis 
+      <lb ed="#P" n="17"/>notam: propterea ea est superbiae filia quam Alexander Macedo &amp; lulius Caesar habuerunt, &amp; plerique 
+      ta<lb ed="#P" n="18" break="no"/>les quos imperitum vulgus magni facit, qui pro suis flagitiis in tenebris damnantur. Cloria tamen 
+      <lb ed="#P" n="19"/>potest appeti sicut honor pro quanto conducit ad aedificationem &amp; salutem proximi. Vnde scriptum 
+      <lb ed="#P" n="20"/>est. Curam habe de bono nomine. Sed quando inordinate appetitur est inanis.
+    </p>
+            <p xml:id="JMAet9-d16780-d1e1118">
+               <pc type="pilcrow">¶</pc> Dubitatur decimo 
+      <lb ed="#P" n="21"/>an quis potest sacerdotium pro se petere.
+    </p>
+            <p xml:id="JMAet9-d16780-d1e1126">
+               <pc type="pilcrow">¶</pc> Respondetur affirmatiue. Probatur sic, quilibet magnani 
+      <lb ed="#P" n="22"/>mus vel modestus potest petere honorificum officium suis humeris non impar, sed hoc sacerdotium 
+      <lb ed="#P" n="23"/>aut illud est respectu istorum, scilicet Socratis &amp; Platonis tale: igitur. Insuper quilibet dignus 
+      merce<lb ed="#P" n="24" break="no"/>de honesta potest eam petere pro laboribus suis, sed Socrates consummatus in literis &amp; moribus, non 
+      <lb ed="#P" n="25"/>habens prouisionem est huiusmodi, igitur. Tertio opposito dato innumeros viros etiam probos 
+      gra<lb ed="#P" n="26" break="no"/>tis damnabis, si eos propterea improbos reputabis. Praeterea nec lege natura, nec diuina nec humana 
+      <lb ed="#P" n="27"/>id probare potes, itaque inscite oppositum tenes.
+    </p>
+            <p xml:id="JMAet9-d16780-d1e1145">
+               <pc type="pilcrow">¶</pc> Dubitatur finaliter seu vndecimo de eo, Aristoteles 
+      di<lb ed="#P" n="28" break="no"/>cit pusillanimum esse crebriorem deterioremque turgido. Videtur enim oppositum vsu venire. Huic ob¬ I 
+      <lb ed="#P" n="29"/>iectui respondetur quod plerique per pusillanimum intelligunt eum qui bene operatur &amp; honores renuit, &amp; 
+      <lb ed="#P" n="30"/>per lentum indignum honores appetentem. Sane is turgidus est pusillanimo tali crebrior deteriorque. 
+      <lb ed="#P" n="31"/>quinimo talis pusillanimus non est licet vocetur pusillanimus, cum enim non sit vitiosus non est 
+      pu<lb ed="#P" n="32" break="no"/>sillanimus. Pusillanimus enim ille est qui honore dignus est &amp; renuit bene operari in honoribus, 
+      <lb ed="#P" n="33"/>si laborabet honoraretur. Patet multi sunt eruditi negligentes satyrice aut tragice arguere principum 
+      <lb ed="#P" n="34"/>malefacta, vt enim in tranquillitate viuant oblectamentum cum placidioribus musis captant. Plerique 
+      <lb ed="#P" n="35"/>sunt tales, qui si aliorum perperam acta arguerent honorarentur. Aristotelicus lentus multis dignus 
+      <lb ed="#P" n="36"/>est, at iudicio suo deceptus, censet se digniorem quam par sit, eapropter magistratus suos humeros 
+      transcen<lb ed="#P" n="37" break="no"/>dentes assumit. Inflati sacerdotes sacerdotiorum aceruum importabilem quaerentes supra 
+      lentitudi<lb ed="#P" n="38" break="no"/>nem vitia immania aggregant. Falso existimant se posse more laicorum omnes opes congerere, opesque 
+      <lb ed="#P" n="39"/>ecclesiasticas vti prophanas exponunt. Gloriantur prouentus ecclesie in ceruices subditorum auxisse, 
+      <lb ed="#P" n="40"/>sicut multi episcopi &amp; abbates inique faciunt qui se dicant &amp; subiectos misere affligunt, sub praetextu 
+      <lb ed="#P" n="41"/>ecclesiae id facientes. Certe hae fortunae sic auctae ecclesiae officiunt, aulicis enim &amp; malis sagittariis sunt 
+      <lb ed="#P" n="42"/>signum. Inquietantur religiosi, marcescunt ruricolae. Coloni tempore pueritiae meae erant ad bellum 
+      <lb ed="#P" n="43"/>strennuissimi aptissimi ad hostium iniuriam propulsandam, armis, equis phalerisque abundabant, hac 
+      <lb ed="#P" n="44"/>tempestate praelatorum auri sacra fame oppressi plangunt.
+    </p>
+            <p xml:id="JMAet9-d16780-d1e1189">
+               <pc type="pilcrow">¶</pc> Verum ne omnino in theologicis dispu 
+      <lb ed="#P" n="45"/>tationibus hic implicer, nolo amplius in hac materia immorari. Veruntamen non videor mihi 
+      imper<lb ed="#P" n="46" break="no"/>tinenter loquutus. 
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

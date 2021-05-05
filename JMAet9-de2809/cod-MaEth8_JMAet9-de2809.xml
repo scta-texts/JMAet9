@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 8</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 8</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-de2809"><!-- mair-l1c8 -->
+            <head xml:id="JMAet9-de2809-Hd1e103">Caput 8</head>
+            <p xml:id="JMAet9-de2809-d1e106">
+               <lb ed="#P" n="4"/>
+               <quote xml:id="JMAet9-de2809-Qd1e110" type="lemma">COnsiderandum est igitur</quote>. Istud est octauum caput &amp; nouissimum huius secundi tractatus in quo 
+      <lb ed="#P" n="5"/>philosophus veterum bene dicta suis dictis accommodat. Peculiare autem est illi ante omnia 
+      mate<lb ed="#P" n="6" break="no"/>riam in medium afferre de qua dicturus est: deinde priscorum opiniones citare, illorum maledicta 
+      <lb ed="#P" n="7"/>retundere: &amp; tandem suam doctrinam expulsis vrticis afferre, eam rudius primo lineando: deinde 
+      particu<lb ed="#P" n="8" break="no"/>lariter eandem depingendo: demum aliorum bene dicta ad suam sententiam trahere. Primo autem sic 
+      di<lb ed="#P" n="9" break="no"/>cit. Considerandum est igitur de ipso, hoc est de ipsa felicitate, non ex conclusione solum, hoc est non solum 
+      <lb ed="#P" n="10"/>sententia nostra conclusa, &amp; nostris rationibus eam considerabimus, sed etiam de his quae ant: qui posuere 
+      <lb ed="#P" n="11"/>Hoc probat, quia si sua dicta cum antiquis conueniant, signum est sincerioris veritatis, vero nanque emnia 
+      <lb ed="#P" n="12"/>quae competunt consona sunt: falso verum cito dissonat. Hinc quidam philoscphus dicebat. Mendacem 
+      <lb ed="#P" n="13"/>esse bonae memoriae oportere: quia falsa multa relata licet prima fronte inter se non repugnare videantur, 
+      <lb ed="#P" n="14"/>saepicule diaphoniam construunt. Antiqui dicebant triplicia esse bona, scilicet animae, corporis, &amp; fortunae: 
+      <lb ed="#P" n="15"/>sed bona animae a philosophantibus censentur esse bonorum potissima: &amp; bona externa infima. Ponebant 
+      <lb ed="#P" n="16"/>autem antiqui felicitatem consistere in potissimis bonis scilicet animae: &amp; ita ponit Aristoteles: quia actus 
+      <lb ed="#P" n="17"/>immanentes animae, operationes animae dicuntur &amp; fines. Secundo consonum est etiam rationi quod ab 
+      <lb ed="#P" n="18"/>eis dicitur. Dixerunt antiqui bene viuere &amp; bene agere idem esse. Pene enim bona quaedam vita, &amp; bona 
+      <lb ed="#P" n="19"/>actio felicitas dicta est. Reuera cuncta quae de felicitate quaeruntur felicitati, vti difliniuimus, convenire videm 
+      <lb ed="#P" n="20"/>tur. Post haec narrat ea in quibus antiqui circa felicitatem constituendam differebant. Nam quidam 
+      anti<lb ed="#P" n="21" break="no"/>quorum felicitatem virtutem moralem ponebant: &amp; isti felicitatem in potentia appetitiua animae colloca 
+      <lb ed="#P" n="22"/>bant. Quibusdam videtur felicitas in prudentia. Aliis in sapientia consistere. Prudentia est perfectio intel 
+      <lb ed="#P" n="23"/>lectus actui: &amp; sapientia perfectio intellectus speculatiui: vt deo duce in sexto libro fusius monstrabitur. Alii 
+      <lb ed="#P" n="24"/>vero ponunt horum aggregatum. Alii aliquod horum cum voluptate: puta scientiam cum voluptate, aut  
+      <lb ed="#P" n="25"/>prudentiam cum voluptate, aut non sine voluptate. Hoc est aliqui voluptatem partem essentialem 
+      felici<lb ed="#P" n="26" break="no"/>tatis scribebant, aliqui vero dixere voluptatem esse perturbationem felicitatem concomitantem. Hoc 
+      ma<lb ed="#P" n="27" break="no"/>gis cum Aristotele quadrat. vt ex decimo est perspicuum. de decora voluptate &amp; non foeda semper loqui 
+      <lb ed="#P" n="28"/>tur. Sunt alii qui externam affluentiam ponunt. Et qui id dicunt partim sunt multi &amp; antiqui: partim 
+      <lb ed="#P" n="29"/>vero pauci &amp; praeclari: quorum neutri in vniuerso peccant: sed eos in plurimis verum attingere rationi est 
+      <lb ed="#P" n="30"/>consentaneum. Postea dicit quod sua opinio in aliquo conuenit cum eis qui felicitatem in virtute 
+      collo<lb ed="#P" n="31" break="no"/>cant: quia ipse ponit felicitatem in operatione virtutis, siue eius vsu consistere: non autem in 
+      ip<lb ed="#P" n="32" break="no"/>sa virtute, quae est solus habitus. Vsus enim est finis habitus &amp; possessionis: sed tamen non parum ab 
+      <lb ed="#P" n="33"/>his discrepat. Fieri enim potest vt virtutem habens nihil boni operetur, hoc autem in ectu fieri nequit. 
+      <lb ed="#P" n="34"/>Qui nanque operatur, agit vtique necessario necessitate consequentiae, non autem necessitate consequentis 
+      <lb ed="#P" n="35"/>sed contingentia consequentis: &amp; bene etiam agit, cum operatio eius a virtute ipsa emanet. Et hoc 
+      trifa<lb ed="#P" n="36" break="no"/>riam munit: primo sic in valore argumentatur. Vsus siue operatio rei est praestantior ipsa possessione siue 
+      <lb ed="#P" n="37"/>habitu: at felicitas ponitur in sublimissimo, proinde opinio ponens felicitatem in actu est praestabilior opi 
+      <lb ed="#P" n="38"/>natione ponente eam in virtute. Secundo sic, stat habitum virtutis non exercere aliquid boni: patet in dor 
+      <lb ed="#P" n="39"/>miente. hoc in vsu fieri nequit, igitur. Tertio sic, sicut in olympiadibus non ii qui sunt elegantissima 
+      for<lb ed="#P" n="40" break="no"/>ma, aut viribus pollentissimi coronantur. sed qui certant &amp; vincunt: sic non qui virtutem habent, sed  
+      <lb ed="#P" n="41"/>qui secundum virtutem agunt in vita pulchrorum &amp; honestorum compotes sunt, &amp; praemia sumunt, 
+      <lb ed="#P" n="42"/>vnde inepte Altisiodorenm. virtutem eius actui praefert. Sequitur in litera. Est autem &amp; vita ipsorum per 
+      <lb ed="#P" n="43"/>se iucunda. Hic probat quod sua felicitatis descriptio quadrat cum positione ponentium felicitatem consistere 
+      <lb ed="#P" n="44"/>in virtute cum voluptate. Vult probare quod felicitas non est sine voluptate, per hoc quod operatio virtutis 
+      <lb ed="#P" n="45"/>non caret oblectamento, supponit tamen quod delectari est solum animalium. quia ratione animae sensitiuae 
+      <lb ed="#P" n="46"/>id conuenit alicui. plantae enim non delectantur. Vnicuique enim est delectabile quod amat, vt equorum 
+      <lb ed="#P" n="47"/>amatori equus est oblectamento. ldentidem spectaculum est voluptati, amatori spectaculorum. ltaque iusta 
+      <lb ed="#P" n="48"/>delectabilia sunt iusto: ergo opus studiosum est delectabile amanti virtutem. At quae vulgo iucunda sunt 
+      <lb ed="#P" n="49"/>repugnant saepius inter se, eo quod natura talia non sunt, sed honestatis amatoribus iucunda sunt natura 
+      <lb ed="#P" n="50"/>atque secundum se delectabilia: illa autem sunt virtutis operationes, quare &amp; his ipsae sunt voluptati, atque 
+      <lb ed="#P" n="51"/>per seipsas iucundae, proinde ipsorum vita non indiget: voluptate tanqui aliqua foris &amp; extrinsecus 
+      adiun<lb ed="#P" n="52" break="no"/>genda: sed in seipsa voluptatem continet. Praeterea nec is est bonus qui bonis actionibus non delectatur. 
+      <lb ed="#P" n="53"/>hoc in iustitia in liberalitate &amp; caeteris declarat. Insuper operationes secundum virtutem sunt bonae &amp; pul 
+      <lb ed="#P" n="54"/>chrae. Primo maxime bonae &amp; pulchrae: si studiosus de ipsis rectum affert iudicium, iudicat recte vt dictum 
+      <lb ed="#P" n="55"/>est: igitur felicitas est optima operatio iucundissima atque pulcherrima. Et haec tria abinuicem non 
+      sepa<lb ed="#P" n="56" break="no"/>rantur vt habetur in deliaco carmine: cuius est haec sententia. 
+      <lb ed="#P" n="57"/>Summe est pulchrum ex Astraea quod gignitur alma. 
+      <lb ed="#P" n="58"/>Optima si valeas res est: quod quilibet optat, 
+      <lb ed="#P" n="59"/>Summe est iocundum si re potiaris amata. 
+      <lb ed="#P" n="60"/>In insula Delo erat templum Apollinis. Est autem Delos insula in aegaeo mari, omnium cycladum 
+      claris<lb ed="#P" n="61" break="no"/>sima. Apollinis alumna, templo &amp; oraculo, &amp; etiam mercatu, insignis. Hinc Apollo delius dicitur &amp; 
+      delia<lb ed="#P" n="62" break="no"/>cus, vt in proposito deliaco carmine. in quo haec tria diuidebantur, virgo astrea pro iustitia ponitur, vnde 
+      <lb ed="#P" n="63"/>primo Metamorphoseos. Vltima caelestum terras astrea reliquit. Astreus eius pater erat iustissimus, eam 
+      <!--38.xml-->
+      <pb ed="#P" n="12-r"/>
+               <lb ed="#P" n="1"/>ob rem solent poetae Astream pro iustitia accipere, estque summe pulchrum quod ex astrea virgine gignis 
+      <lb ed="#P" n="2"/>tur, hoc est ex iustitia. Optima si valeas res est, hoc est corporis valetundo est res optima, id autem quilibet 
+      <lb ed="#P" n="3"/>optat, &amp; illud est maxime iucundum si re potiaris amata. Dicit vlterius quod externa bona ad felicitatem 
+      <lb ed="#P" n="4"/>conducunt. lam capit nonnihil de opinione vulgi, felicitati per ipsum descriptae id attribuens. Fieri enim 
+      <lb ed="#P" n="5"/>non potest aut non facile fit, vt is agat praeclara cui facultates desunt: vt extruere vrbes &amp; eximias 
+      ar<lb ed="#P" n="6" break="no"/>ces: sed quia potest nonnunquam contingere in heroico viro non multa habente, vt faciat multa excellenter 
+      <lb ed="#P" n="7"/>in omni aeuo memorabilia: propterea adiecit, non facile fit. Possessiones felicitatem politicam ornant. Nam 
+      <lb ed="#P" n="8"/>illa est felicitas actiua quae est ad alterum. vt nobilium principum qui rempublicam egregie regunt. Ista 
+      <lb ed="#P" n="9"/>felix contemplatiue non indagat vt ingenue in decimo libro explanat. felicitatem actiuam 
+      contemplati<lb ed="#P" n="10" break="no"/>uae in decimo confert: &amp; hanc illi anteponit: nunc autem de actiua felicitate sermocionatur: quam 
+      politisan<lb ed="#P" n="11" break="no"/>tes &amp; hominum vulgus caeteris praeponit: quorum loquendi modo vtitur. Ille enim est eius modus 
+      fami<lb ed="#P" n="12" break="no"/>liarissimus: quando loquitur de diuersis placitis ante suam determinationem, viam communiorem inter 
+      <lb ed="#P" n="13"/>loquendum sequitur. Nobilitas sanguinis felicitatem extrinsecus ornat: verum haec fumosa nobilitas 
+      pa<lb ed="#P" n="14" break="no"/>rum eam decorat. Cicero en im nouus homo pater patriae a libera vrbe praedicahatur, Catilina nobilis 
+      ci<lb ed="#P" n="15" break="no"/>uis Romae natus perniciem conspirauit: &amp; Salustius genere patritius maiores suos turpi vita maculauit. 
+      <lb ed="#P" n="16"/>Bona proles item felicitatem ornat. Ioachim &amp; Anna in opprobrio aliquandiu vitam egerunt, quia 
+      libe<lb ed="#P" n="17" break="no"/>ros non sustulerunt in Israel: sic Elisabeth &amp; Xacharias. Anna mater Samuelis, &amp; similes. Pari modo 
+      cor<lb ed="#P" n="18" break="no"/>poris pulchritudo felicem venustat. de Saule legimus quod ab humero sursum reliquos lsraelitas 
+      transcen<lb ed="#P" n="19" break="no"/>dit. &amp; species Priami aut prima digna est imperio inquit porphyrius phaenix. Et poeta, Gratior est 
+      pul<lb ed="#P" n="20" break="no"/>chro veniens in corpore virtus. Ille enim qui penitus est deformis, ad rem publicam ministrandam 
+      inep<lb ed="#P" n="21" break="no"/>tus censetur: ne illi dicatur: monstrum in corpore monstrum in anima. Aliqui tamen tales heroici sunt 
+      <lb ed="#P" n="22"/>viri. ratio enim corporis influxum moderatur. Et Seneca ad Lucillium in epistola ad Claranum dicit. 
+      Na<lb ed="#P" n="23" break="no"/>tura sub deformi corpore Clarani animum collocauit perfectissimum. Improbitas praeterea liberorum 
+      feli<lb ed="#P" n="24" break="no"/>citatem obfuscat. Addatur etiam secundum vulgus impudica coniunx, quam hispani ignominiose animal cor 
+      <lb ed="#P" n="25"/>nutum nominant. Ecce variis modis felicitas actiua &amp; ciuilis labefactatur. ab multis enim extrariis 
+      de<lb ed="#P" n="26" break="no"/>pendet: propterea est minus nobilis.
+    </p>
+            <p xml:id="JMAet9-de2809-d1e302">
+               <pc type="pilcrow">¶</pc> Dubitatur primo quomodo illud intelligendum venit: Omne 
+      ve<lb ed="#P" n="27" break="no"/>rum omni vero consonat.
+    </p>
+            <p xml:id="JMAet9-de2809-d1e310">
+               <pc type="pilcrow">¶</pc> Secundo quomodo dicit multorum delectationes esse contrarias: cum 
+      dele<lb ed="#P" n="28" break="no"/>ctatio tristitiae contrarietur, septimo ethicorum: &amp; tantum vnum vni sit contrarium decimo metaphysicae, &amp; 
+      <lb ed="#P" n="29"/>primo caeli.
+    </p>
+            <p xml:id="JMAet9-de2809-d1e320">
+               <pc type="pilcrow">¶</pc> Tertio quid sit certamen olympicum.
+    </p>
+            <p xml:id="JMAet9-de2809-d1e327">
+               <pc type="pilcrow">¶</pc> Ad primam dubitationem aliqui dicunt quod per con 
+      <lb ed="#P" n="30"/>sonare intelligitur antecedere: per dissonare non antecedere: modo omnes propositiones includunt 
+      ve<lb ed="#P" n="31" break="no"/>rum: nulla enim est propositio ita falsa, quin inferat disiunctiuam ex seipsa &amp; suo contradictorio 
+      confla<lb ed="#P" n="32" break="no"/>tam. quiaitalis est necessaria. illud autem nihil est dicere: nec prolixus ero hoc oppugnando. vult Aristoteles 
+      <lb ed="#P" n="33"/>dicere quod nunquam verum vero repugnat: bene autem falsum falso: impossibile cuilibet propositione repugnat. 
+      <lb ed="#P" n="34"/>Logicus insolubilibus implicitus hic insultabit. haec propositio secundum hanc significationi repugnat 
+      <lb ed="#P" n="35"/>vero, per pronomen demonstrando propositionem cuius est pars: non est necesse dicere illam se falsificare. 
+      <lb ed="#P" n="36"/>Qua vero aduersetur patet: capiendo illam mentalem, si non potest ita esse sicut ipsa significat, ipsa est impossi 
+      <lb ed="#P" n="37"/>bilis, &amp; vero repugnat: si potest ita esse sicut ipsa signi ficat, &amp; non potest habere aliam significationem: iam ita 
+      <lb ed="#P" n="38"/>est sicut ipsa significat. &amp; sic verum vero repugnat. Dicimus quando ita esset in reflexiuis nihil ad nos. inso 
+      <lb ed="#P" n="39"/>lubilia in proposito parui facimus. ex logica illa supponenda sunt. Verum vt somnolenti a graui sopore ex 
+      <lb ed="#P" n="40"/>citentur, hoc in praesentia mouemus.
+    </p>
+            <p xml:id="JMAet9-de2809-d1e357">
+               <pc type="pilcrow">¶</pc> Ad secundam dicitur. delectationes formaliter non contrariantur: 
+      <lb ed="#P" n="41"/>nonnunquam tamen obiectiue &amp; originaliter, si sint circa eandem materiam: sicut est de prodigo cui pecuniam 
+      <lb ed="#P" n="42"/>profundere est voluptuosum: auaro autem est oblectamentum pecuniam auide legere, lectamque custodire. 
+      <lb ed="#P" n="43"/>&amp; haec immensa dissipatio &amp; inanis coaceruatio ex vitiis oppositis emanant.
+    </p>
+            <p xml:id="JMAet9-de2809-d1e369">
+               <pc type="pilcrow">¶</pc> Ad tertiam dicitur quod 
+      olym<lb ed="#P" n="44" break="no"/>pias, adis, est spatium quinque annorum quod Romani lustrum dixere. de quinquennio in quinquennium 
+      <lb ed="#P" n="45"/>certamen olympicum Graeci in honore louis olympici celebrarunt. olympia est vrbs inter Ossam &amp; Olym 
+      <lb ed="#P" n="46"/>pum montem, mercatu celebris, sed certamine quod quinto quoque anno illic fiebat multo celebrior. Graeci tem 
+      <lb ed="#P" n="47"/>pora per olympiades sicut Romani per consules vel lustra post vrbem conditam supputarunt. Quinqua 
+      <lb ed="#P" n="48"/>gesimo Oaiae hebraeorum regis anno olympiadis initium (si Eusebius recte colligit) habuere. Africanus ta 
+      <lb ed="#P" n="49"/>men quem Beda in de temporibus insequitur dicit Olympiadem primam quarto anno Ioathan regis luda 
+      <lb ed="#P" n="50"/>fuisse institutam. hoc est post quadringentos sex annos troiani excidii a Graecis.
+    </p>
+            <p xml:id="JMAet9-de2809-d1e390">
+               <pc type="pilcrow">¶</pc> Quarto dubitatur instan 
+      <lb ed="#P" n="51"/>do quia videtur quod liberalis potest dare pecuniam cum nausea &amp; tristitia. Quinto dubitatur quare dicit quod ( 
+      <lb ed="#P" n="52"/>amatoribus honestatis ea sunt voluptati quae sunt natura iocunda: &amp; quae sunt vulgo voluptati non natu ( 
+      <lb ed="#P" n="53"/>ra talia sunt.
+    </p>
+            <p xml:id="JMAet9-de2809-d1e402">
+               <pc type="pilcrow">¶</pc> Ad quartum respondetur quod qui cum taedio dat, nondum est liberalis. licet initium ad liberali 
+      <lb ed="#P" n="54"/>tatem habeat: longo dandi vsu oblectamentum capiet. &amp; ante voluptatem habitam nunquam est liberalis. dicere sole¬¬ 
+      <lb ed="#P" n="55"/>bam quando adhuc cum tristitia vbi ratio expostulat dedi, indubie liberalitatis pulchrum campum vix olfeci. 
+      <lb ed="#P" n="56"/>Illa enim non simul stant, vt quis liberaliter quippiam largiatur, &amp; non sit dandi voluptas: sicut nemo est bo 
+      <lb ed="#P" n="57"/>nus qui bonis operibus non oblectetur. dicente Aristotele. Praeter enim ea quae dicta sunt neque bonus is est 
+      <lb ed="#P" n="58"/>qui bonis actionibus non delectatur.
+    </p>
+            <p xml:id="JMAet9-de2809-d1e419">
+               <pc type="pilcrow">¶</pc> Ad quintum dicitur quod voluptates ab honestate prodeuntes semper sunt 
+      <lb ed="#P" n="59"/>circa idem, quia circa medium: nec eorum vnquam subit poenitudo: &amp; non modicam suauitatem eorum recordatio 
+      studioso<lb ed="#P" n="60" break="no"/>praebet: proinde vniformiter atque naturaliter fiunt. Opposito modo de oblectamentis vulgaribus in vsu est. 
+    </p>
+            <p xml:id="JMAet9-de2809-d1e430">
+               <lb ed="#P" n="61"/>⁋ Ambigitur finaliter an summum bonum in virtute aut in eius opere seu actu consistat. est sermo solum de actu eli¬ I 
+      <lb ed="#P" n="62"/>cito virtutis qui sua efficacia exteriorem operationem efficit secluso obice. Respondetur in actu. vt eleganter Aristo 
+      <lb ed="#P" n="63"/>teles in litera probat. Et patet aliter, Actibus enim meremur, non autem habitibus: proinde actus praestant. Secundo l 
+      <lb ed="#P" n="64"/>quia opus est magis in ptante nta situm quam virtus, vt tertio libro perspicuum est. Tertio operatio est cam virtutis, virtus autem non es 
+      <!--39.xml-->
+      <pb ed="#P" n="12-v"/>
+               <lb ed="#P" n="1"/>fons operis igitur. Refellis hanc probationem, quia quum primum virtus est producta, actum efficit: hic est cir 
+      <lb ed="#P" n="2"/>culatio causalitatis secundum speciem. Quarto opus est finis virtutis: modo finis est eminentior iis quae ad finem 
+      <lb ed="#P" n="3"/>ordinantur. Insultas: dirigens est melior directo, virtus autem actum suum dirigit. Secundo, summum 
+      <lb ed="#P" n="4"/>bonum nullo alio perficitur: sed operatio alio perficitur scilicet voluptate superueniente: vt in decimo 
+      di<lb ed="#P" n="5" break="no"/>cetur.
+    </p>
+            <p xml:id="JMAet9-de2809-d1e456">
+               <pc type="pilcrow">¶</pc> Tertio virtutes sunt connexae ob perfectionem non autem bona opera.
+    </p>
+            <p xml:id="JMAet9-de2809-d1e462">
+               <pc type="pilcrow">¶</pc> Quarto, si felicitas in ope 
+      <lb ed="#P" n="6"/>re consistat: quando homo cessat ab opere, cesset esse felix: &amp; ex consequio miser efficiatur. Quinto. Tullius in  
+      <lb ed="#P" n="7"/>paradoxis summum bonum in virtute ponit, subscribit illi Seneca in libro de beata vita dicens. Erras cum 
+      in<lb ed="#P" n="8" break="no"/>terrogas quid sit illud propter quod virtutes petantur, quaeris enim aliquod supra summum. In pluribus 
+      <lb ed="#P" n="9"/>epistolis idem sequitur. Sexto, operatio potest esse in malo non autem virtus ob connexionem.
+    </p>
+            <p xml:id="JMAet9-de2809-d1e476">
+               <pc type="pilcrow">¶</pc> Ad 
+      pri<lb ed="#P" n="10" break="no"/>mum dicitur quod felicitati cooperatur virtus &amp; prudentia sed non propterea est praestantior ea: actus enim 
+      intel<lb ed="#P" n="11" break="no"/>lectus est volitionis effector non tamen propterea melior.
+    </p>
+            <p xml:id="JMAet9-de2809-d1e486">
+               <pc type="pilcrow">¶</pc> Ad secundum respondendo maiorem interimo. 
+      par<lb ed="#P" n="12" break="no"/>uum enim bonum summo bono adiunctum, totum praestabilius efficit vt philosophus ait.
+    </p>
+            <p xml:id="JMAet9-de2809-d1e494">
+               <pc type="pilcrow">¶</pc> Ad tertium 
+      <lb ed="#P" n="13"/>dico quod maior est falsa. Aristoteles enim in illa connexione nihil aliud praetendit, nisi quod nemo absolute 
+      <lb ed="#P" n="14"/>dicendus est studiosus nisi omnium virtutum generibus illustratus. Titubantem in communibus logicae esse 
+      <lb ed="#P" n="15"/>logicum inficiantur. Successiue virtutes acquiruntur: sicut dialectice rhetorice: sed tempore acquisitionis 
+      <lb ed="#P" n="16"/>nec est rhetor nec dialecticus nec studiosus. Etiam habens felicitatem multis aliis bonis operibus stipatur 
+      <lb ed="#P" n="17"/>Non est sermo de felicitate aggregatiue more Boetii.
+    </p>
+            <p xml:id="JMAet9-de2809-d1e512">
+               <pc type="pilcrow">¶</pc> Ad quartum dico quod non sequitur, felix cessat a 
+      <lb ed="#P" n="18"/>felicitatis actu: ideo est miser. Nam solum mortali crimine irretitus est miser: &amp; qui plurimis inficitur est 
+      mi<lb ed="#P" n="19" break="no"/>serrimus. Sed an felix incipiens dormire desinit esse felix, ambigis: dico ex bono doctorum vsu 
+      negati<lb ed="#P" n="20" break="no"/>ue: tametsi enim qui venialibus solis implicatur dormit, non tamen desinit esse felix. Ad felicitatem enim 
+      <lb ed="#P" n="21"/>sat est habere felicitatis habitum, cum carentia mortalis delicti: quo superueniente felicitas pessumit &amp; 
+      con<lb ed="#P" n="22" break="no"/>tritione renouatur. Summus actus letiferae noxae conglutinatus, eum felicem minime denominat, 
+      feli<lb ed="#P" n="23" break="no"/>citas auctore aristotele est in vita perfecta. Non pono miseriam priuatiue ob cessationem ab actu, miserum 
+      <lb ed="#P" n="24"/>theologice diffniui &amp; consonat peripateticorum doctrinae.
+    </p>
+            <p xml:id="JMAet9-de2809-d1e533">
+               <pc type="pilcrow">¶</pc> Dicis felix a misero per medietatem vitae non 
+      <lb ed="#P" n="25"/>discrepat: verum est in sopore a malitia miser cessat: interdiu perperam operatur: verum miser interdum 
+      <lb ed="#P" n="26"/>aerumnosus fertur, qui penuria atque calamitate premitur iuxta illud catonianum, miserum noli irridere. 
+      <lb ed="#P" n="27"/>sed non ita impraesentiarum miserum dicimus.
+    </p>
+            <p xml:id="JMAet9-de2809-d1e545">
+               <pc type="pilcrow">¶</pc> Ad quintum dicitur Tullius &amp; Seneca si recte intelligam 
+      <lb ed="#P" n="28"/>tur ab aristotele non discrepant in hoc: virtus enim &amp; actui atque habitui convenit, nec inter illa ipsi discernunt. 
+    </p>
+            <p xml:id="JMAet9-de2809-d1e553">
+               <lb ed="#P" n="29"/>⁋ Sexta ratio ducitur ad oppositum: studiosus potest habere actum letiferum immo multos malos: felix 
+      <lb ed="#P" n="30"/>aut est bonae conscientiae, ac contritione perperam acta abolet: igitur &amp;c. 
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

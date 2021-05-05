@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 11</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 11</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d35417"><!-- mair-l8c11 -->
+            <head xml:id="JMAet9-d35417-Hd1e103">Caput 11</head>
+            <p xml:id="JMAet9-d35417-d1e106">
+               <lb ed="#P" n="15"/>
+               <quote xml:id="JMAet9-d35417-Qd1e110" type="lemma">INvnaquaque autem republica</quote> &amp;c. Postquam philosophus distinxit species politiae hic secundum illarum 
+      <lb ed="#P" n="16"/>partitionem amicitiae species diuidit. Primo ergo intentum proponit dicens. In vnaquaque autem 
+      <lb ed="#P" n="17"/>republica tantum amicitiae videtur, quantum &amp; iusti, quod adaequate se habet ad iustitiam. Posthaec in 
+      <lb ed="#P" n="18"/>toto capite aliquot ponit conclusiones, quarum Prima est, Regis ad eos qui ab ipso reguntur amicitia 
+      <lb ed="#P" n="19"/>in excellentia est. Confert enim in eos beneficia qui ab ipso reguntur: alit inter eos pacem &amp; etiam cum 
+      <lb ed="#P" n="20"/>exteris, si expediat: insontes fouet, sontes vero vt par est plectit: siquidem cum sit bonus, curam ipsorum 
+      <lb ed="#P" n="21"/>habet. Non modo est bonus vir sed &amp; bonus rex: quod splendidius est, more pastores ouium gregem 
+      gu<lb ed="#P" n="22" break="no"/>bernantis: sic rex ipsi subiectos conseruat. Vnde Homerus Agamemnonem populorum nuncupauit pastorem. 
+    </p>
+            <p xml:id="JMAet9-d35417-d1e129">
+               <lb ed="#P" n="23"/>⁋ Secunda conclusio. Talis autem (hoc est amicitia paterna) est similis regiae, sed ab ea beneficiorum 
+      am<lb ed="#P" n="24" break="no"/>plitudine differt. Porro amicitia paterna vt &amp; regia in excellentia consistit, sed in beneficiorum 
+      ma<lb ed="#P" n="25" break="no"/>gnitudine amicitiam regiam transcendit. Est enim pater filiis essendi causa, quod maximum esse 
+      vide<lb ed="#P" n="26" break="no"/>tur: enutritionis &amp; eruditionis. Enutrit filios &amp; eos erudiri facit, tam in literis quam in moribus. Primum 
+      <lb ed="#P" n="27"/>istorum bonorum quantum ad esse simpliciter attinet: secundum pro corporis sustentatione &amp; 
+      manute<lb ed="#P" n="28" break="no"/>nentia: tertium pro animae ornamento in virtutibus. Si nimis laboret pro illorum doctrina, in 
+      te<lb ed="#P" n="29" break="no"/>neris annis, paternum munus violet. Rudiores ad artes mechanicas plebei mittant, quarum 
+      admini<lb ed="#P" n="30" break="no"/>culo inopem tueri vitam postea queant. Praestantes ingenio liberalibus artibus imbuere faciant. 
+      Lo<lb ed="#P" n="31" break="no"/>cupletum omnium interest tam rudes quam celsa Minerua praeditos literis applicare donec literarum peritia 
+      <lb ed="#P" n="32"/>&amp; boni mores hausti sufficiant eis suppetias ferre cum adoleuerint.
+    </p>
+            <p xml:id="JMAet9-d35417-d1e153">
+               <pc type="pilcrow">¶</pc> Sequitur in litera. Haec eadem 
+      <lb ed="#P" n="33"/>&amp; caeteris maioribus tribuuntur: hoc est auo, proauo, abauo, tritauo, &amp; deinceps, quia primi erant causae 
+      <lb ed="#P" n="34"/>essendi respectu posteriorum omnium propinque vel remote: &amp; qui superstites sunt superiores nepotes &amp; pronepo 
+      <lb ed="#P" n="35"/>tes alunt &amp; erudire faciunt more patrum.
+    </p>
+            <p xml:id="JMAet9-d35417-d1e165">
+               <pc type="pilcrow">¶</pc> Sequitur in litera. Natura namque pater: filiorum, &amp; aui nepotum, &amp; rex 
+      <lb ed="#P" n="36"/>eorum quibus praesidet imperium obtinet, hoc est naturaliter pater habet imperium filiorum: &amp; rex natura 
+      <lb ed="#P" n="37"/>imperium debet eorum quibus praeest. Sic est aui respectu &amp; patris &amp; nepotum &amp; aliorum inferiorum. 
+    </p>
+            <p xml:id="JMAet9-d35417-d1e176">
+               <lb ed="#P" n="38"/>⁋ Sequitur tertia conclusio. Amicitiae paternae atque regiae non est idem iustum: nam in vtraque id est 
+      <lb ed="#P" n="39"/>iustum quod efflagitat: sic enim se habet amicitia.
+    </p>
+            <p xml:id="JMAet9-d35417-d1e183">
+               <pc type="pilcrow">¶</pc> Quarta conclusio. Viri ad vxorem eadem est 
+      ami<lb ed="#P" n="40" break="no"/>citia quae est in optimatum potestate. Praestabiliori plus tribuitur boni. Non omnes primores sunt 
+      <lb ed="#P" n="41"/>aequaliter boni, sic nec vxor aequaliter bona cum viro. Amicitia fratrum similis est sodalitiae. Sunt 
+      <lb ed="#P" n="42"/>enim pares aetate: tales autem eiusdem disciplinae &amp; eorundem morum frequenter sunt, quia simul 
+      con<lb ed="#P" n="43" break="no"/>uersantur, eodem modo imbuuntur, &amp; inclinationes naturales parens habent. Similiter amicitia fratrum 
+      <lb ed="#P" n="44"/>similis est censupotestati. Ciues enim pares esse solent ac boni: plurium bonitas alios ad bonitatem 
+      <lb ed="#P" n="45"/>accendit: &amp; quisque nunc dominatur. nunc parit: nam vicissim magistratus gerunt: sicut igitur in ipsis, sic &amp; in  
+      <lb ed="#P" n="46"/>fraterna amicitia est. In transgressionibus quemadmodum &amp; iustum sicamicitia exigua est. Et minima 
+      ami<lb ed="#P" n="47" break="no"/>citia est in tyrannide, quia illa est labes teterrima, quia nihil est in hac transgressione commune imperanti 
+      <lb ed="#P" n="48"/>&amp; parenti. Tyrannus lucrum subdito debitum colligit, &amp; sic nihil est commune inter eos, sed tale est hic iustum 
+      <lb ed="#P" n="49"/>quale est artifici ad instrumentum, animae ad corpus, hero ad seruum. Modo anima vtitur corpore pro 
+      <lb ed="#P" n="50"/>lucro animae, quia in eo meretur &amp; operationes bonas exercet, sed incudem faber &amp; seruum herus ob 
+      <lb ed="#P" n="51"/>seipsum diligit. Verum amicitia non est ad inanimata, ex principio huius octaui, sicut nec iustum. Et si 
+      <lb ed="#P" n="52"/>iniustitiam facio bouem vicini ei subtrahendo &amp; actum iustitiae ei bouem restituendo, hoc est in 
+      or<lb ed="#P" n="53" break="no"/>dine ad bouis dominum, &amp; non ad ipsum bouem. Non etiam est amicitia ad seruum ea ratione qua 
+      ser<lb ed="#P" n="54" break="no"/>uus est. Non est enim quicquam commune, seruo cum domino, dominus totum lucrum ad se trahit, tenuem 
+      <lb ed="#P" n="55"/>victum seruo relinquendo cumsordido vestitu: &amp; adhuc non pro bono serui, sed pro bono proprio, vt 
+      <lb ed="#P" n="56"/>seruus ei continuo famuletur. Nam si ista ei non fierent seruus pessum iret. Seruus enim animatum 
+      <lb ed="#P" n="57"/>est instrumentum. Instrumentum autem est inanimatus seruus. Prior pars patet: Seruus enim animam 
+      ratio<lb ed="#P" n="58" break="no"/>nalem habet. Secunda pars verificatur de dolabro, ascia, &amp; similibus instrumentis artis. Vel sic altius 
+      expo<lb ed="#P" n="59" break="no"/>nendo. Seruus est animatum instrumentum sicut dictum est, sed illud idem instrumentum est inanimatus 
+      ser<lb ed="#P" n="60" break="no"/>uus, hoc est vtitur seruiture ac si seruus ipse esset pecus. Et quia vtroque vtitur pro bono proprio, hoc 
+      <!--292.xml-->
+      <pb ed="#P" n="136-r"/>
+               <lb ed="#P" n="1"/>ipso quo est seruus, non vtitur amicitia ad ipsum sed quo est homo. Cuiuslibet enim hominis ad quemlibet 
+      <lb ed="#P" n="2"/>hominem ei occurrentem est iustum &amp; amicitia. Hoc in primo capite huius octaui annotauit. In popularibus 
+      <lb ed="#P" n="3"/>Potestatibus plurimum inter transgressiones amicitiae est: certe cum sunt pares plura sunt eis communia. 
+    </p>
+            <p xml:id="JMAet9-d35417-d1e245">
+               <lb ed="#P" n="4"/>⁋ Dubitatur, an regen pater magnitudine beneficiorum excedit. Et argumentor quod non. Officium regis est 
+      <lb ed="#P" n="5"/>magis arduum in tota republica &amp; magis necessarium. Insuper Socrates tenetur regi succurrere patre 
+      ne<lb ed="#P" n="6" break="no"/>glecto, quando vni soli succurrere potest casu quo ad regis internetium res publica labaret.
+    </p>
+            <p xml:id="JMAet9-d35417-d1e254">
+               <pc type="pilcrow">¶</pc> Respondetur, 
+      <lb ed="#P" n="7"/>quod rex est vtilior toti reipublicae, sed pater suis natis vtilior. Obiectum regis est sublimius, quia tota res 
+      <lb ed="#P" n="8"/>publica, quam conseruare pro virili debet. Pater autem ad solum suam familiam obtuitum flectit. Ad argumentum 
+      <lb ed="#P" n="9"/>concedo antecedens, &amp; nego consequentiam cum consequente.
+    </p>
+            <p xml:id="JMAet9-d35417-d1e266">
+               <pc type="pilcrow">¶</pc> Contra aliud dictum in fine capitis argumentor sic. 
+      <lb ed="#P" n="10"/>Ad hunc hominem ea ratione qua hic homo est amicitia est: &amp; hic homo est hic seruus: ergo ad hunc 
+      ser<lb ed="#P" n="11" break="no"/>uum ea ratione qua seruus est amicitia est, expositorie.
+    </p>
+            <p xml:id="JMAet9-d35417-d1e276">
+               <pc type="pilcrow">¶</pc> Respondetur, consequentia nihil valet. Appellatio 
+      <lb ed="#P" n="12"/>rationis id manifestat. Ingenue tamen fatebor vbi herus fidelem seruum inuenerit, eius est officii illum vnice 
+      <lb ed="#P" n="13"/>diligere. Considera seruum illum Hispanum qui Hasdrubalem Poenorum ducem intrepidus interemit, eo quod ipsius 
+      <lb ed="#P" n="14"/>dominum truciter mactauit. Et cum ad supplicium raperetur exultauit quod in tanta honestate supremum 
+      age<lb ed="#P" n="15" break="no"/>ret diem. Quando heros a famulis diligitur firmissima est illorum custodia.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

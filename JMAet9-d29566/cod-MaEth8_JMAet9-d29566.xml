@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 5</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 5</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d29566"><!-- mair-l7c5 -->
+            <head xml:id="JMAet9-d29566-Hd1e103">Caput 5</head>
+            <p xml:id="JMAet9-d29566-d1e106">
+               <lb ed="#P" n="10"/>
+               <quote xml:id="JMAet9-d29566-Qd1e110" type="lemma">CVM autem quaedam</quote> &amp;c. Prima conclusio huius capitis est. Circa voluptates non naturales inconti 
+      <lb ed="#P" n="11"/>nentia simpliciter minime existit: sed bene incontinentia secundum metaphoram. Pro huius 
+      conclu<lb ed="#P" n="12" break="no"/>sionis probatione vnam diuisionem delectabilium ponit inquiens. Quaedam suapte natura voluptatem efficiunt: 
+      <lb ed="#P" n="13"/>quorum alia omnibus animalibus conueniunt, vt panis quo etiam feles vel murilegus fame adactus 
+      vti<lb ed="#P" n="14" break="no"/>tur? Aqua etiam glitibus, felibus, auibus &amp; omnibus gressibilibus convenit. Quaedam vero sunt quae voluptatem afferunt 
+      se<lb ed="#P" n="15" break="no"/>cundum gena animalium: quia vnum genus animalium vnum genus alimenti delectat, vt ordeum ipsum equum. In ludaea 
+      <lb ed="#P" n="16"/>enim ac Italia equi ordeo pascuntur: alibi etiam auenam, foenum &amp; similia amant. Carnes crudae leonem delectant. 
+      Non<lb ed="#P" n="17" break="no"/>nulli homines ranunculos &amp; testitudines atque boletos pratenses comedunt, vt in deliciis habent: &amp; tamen boletos seu 
+      <lb ed="#P" n="18"/>fungos, ranas, testudines, Britanni abhorrent. Talpa terram rodit. Quidam praeter naturam voluptatem capiunt, &amp; 
+      <lb ed="#P" n="19"/>circa hoc triplex genus hominum ponit. Alia enim illos ob morbos delectare possunt, quaedam ob consuetudinem, 
+      <lb ed="#P" n="20"/>qua teneris ab annis educantur &amp; assuetudo in naturam conuertititur: quaedam ob flagitiosam naturam atque peruersam 
+      <lb ed="#P" n="21"/>delectant. Et praefatis delectabilibus similes habitus respondent. Ita quod sunt quidam habitus homini naturales: 
+      <lb ed="#P" n="22"/>quidam vero innaturales. Exemplariter enucleat singulares differentias delectabilium non naturalium: &amp; primo 
+      <lb ed="#P" n="23"/>de his quae sunt delectabilia ob peruersam hominum habitudinem: isti sunt quodammodo ferales, quia bestiis 
+      per<lb ed="#P" n="24" break="no"/>uersa habitudine conferuntur ceu de lamia muliere perhibent, quae praegnantium viscera rescidit infantesque est 
+      <lb ed="#P" n="25"/>tauit. ab hac muliere similes lamias appellant. Simile de efferatis gentibus ponti accolis tradunt. Essedonas 
+      <lb ed="#P" n="26"/>humanis carnibus comedentes in extremis oris habitant scythiam: anthropophagos vocant. Alii propinquos 
+      <lb ed="#P" n="27"/>suos in epulorum ac viscerationum celebritatibus manducant. Cadauera laniata pecorum visceribus immixta edunt 
+      <lb ed="#P" n="28"/>obsonando haec delectabiliter deuorant. Diomedes Thracius &amp; Busiris equos humana carne pauerunt, &amp; de Pha 
+      <lb ed="#P" n="29"/>laride agrigentino dicitur quod exquisitissimis cruciatibus non contentus aeneo tauro vtebatur, quo miseri mor 
+      <lb ed="#P" n="30"/>tales inclusi boum mugitus effingerent: cuius meminit Quidius canens. Et Phalaris tauro violenti 
+      men<lb ed="#P" n="31" break="no"/>bra perilli, Torruit, infelix imbuit auctor opus. Merito sane illum cruciatum crudelis artifex pertulit primus: 
+      <lb ed="#P" n="32"/>eiusque diritas egregie est repressa. Perillus fuit faber Atheniensis qui aeneum taurum fabrefecit in quo alii oc 
+      <lb ed="#P" n="33"/>ciderentur quem phalaris in tauro primum occidit. At hi habitus sunt ferales quos ob morbos &amp; insaniam 
+      in<lb ed="#P" n="34" break="no"/>currunt: vt is qui matrem occidit &amp; comedit, &amp; is qui conserui sui iecur siue hepar esitauit. Quidam hos effera 
+      <lb ed="#P" n="35"/>tos appetitus &amp; habitus ex morbo habent, alii vero consimiles ex consuetudine a puero &amp; teneris annis im 
+      <lb ed="#P" n="36"/>bibunt, vt pilos villicare aliquorum mos est &amp; signanter mulierum si profunde tristentur, capillos euellere conantur, 
+      <lb ed="#P" n="37"/>alii vngues disrumpunt, aliqui carbones edunt vt impraegnatae ob detentum mestruum cuius fumi caput replent. 
+      <lb ed="#P" n="38"/>In super venereorum habitus circa mares, scelus propemodum est infandum insana libido de Pasiphae Phedra, 
+      <lb ed="#P" n="39"/>Semisramide &amp; similibus consulto tacuit. Huiusmodi. n, scelera aerem foedant, aliis quam a praua natura, aliis ex 
+      pra<lb ed="#P" n="40" break="no"/>ua consuetudine contingunt vt iis qui a pueritia talibus assuescunt. His praenarratis suam conclusionem roborat, pri 
+      <lb ed="#P" n="41"/>mo sic. Illi in quibus naturalis habitudo est causa praedictorum non sunt incontinentes. hoc declarat similitu 
+      <lb ed="#P" n="42"/>dine. Nemo enim dixerit mulieres incontinentes, quia geneationis opus non agunt, sed patiuntur: passiue enim materiam 
+      <lb ed="#P" n="43"/>ad prolis gnationem ministrant. &amp; non actiue, vt sextodecimo de aialibus scribit, hoc eis natura prouidente 
+      contin<lb ed="#P" n="44" break="no"/>git. Neque similiter eos incontinentes dicimus qui ob consuetudinem &amp; morbos talia faciunt, quia hi non habent 
+      ratio<lb ed="#P" n="45" break="no"/>nem quae nata est cupiditates reprimere. Proinde non veniunt dicendi continentes aut incontinentes Sedo eandem 
+      con<lb ed="#P" n="46" break="no"/>clusionem sic probat. Incontinentia simpliciter est malitia humana, sicut &amp; intemperantia: &amp; est circa delectabilia 
+      <lb ed="#P" n="47"/>secudm naturam humanam. ac delectabilia contra naturam non sunt delectabilia seundm naturam humanam. Maiorem praesup 
+      <lb ed="#P" n="48"/>ponit notam. Minorem in litera ponit inquiens igitur singula horum habere hoc est delectationes contra naturam ex 
+      egri<lb ed="#P" n="49" break="no"/>tudine aut vsu extra fines est vicii: quendamodum &amp; ipsa feritas. Deide dicit quod quando quispiam habet huiusmodi 
+      in<lb ed="#P" n="50" break="no"/>sultum contra naturam &amp; ipsum vincit, no dicitur continens simpliciter, aut si vincatur, non dicitur incontinens simpliciter, sed  
+      <lb ed="#P" n="51"/>translatitie: sicut superius de incontinentia irae loquuti sumus: talis dicendus est incontinens cum affectu, vt icontinens irae 
+      <lb ed="#P" n="52"/>&amp; non incontinens absolute. Deide ponit aliam conclusionem in quam monstrat excessum extra latitudinem humanitatis 
+      <lb ed="#P" n="53"/>inuenire posse circa vitia omnibus virtutibus contraria: &amp; per consequens circa totam materiam moralem poest esse malitiae 
+      <lb ed="#P" n="54"/>exuperatio. Hanc conclusionem elucidatione exemplari reserat. Primo tamen ait: omne vitium exuperans vt amentia &amp; ti 
+      <lb ed="#P" n="55"/>miditas, &amp; intemperantia &amp; acerbitas siue crudelitas, &amp; ita secundm alias malitias: aut feralis est, aut ex morbo, siue 
+      <lb ed="#P" n="56"/>bestialis consuetudinis. Ponit exempla, nam qui talis est natura, vt vniuersa partimescat, etiam si sorex obstrepuerit, is 
+      <lb ed="#P" n="57"/>est timidus timiditate ferali: quidam erat qui ob morbum, muscipulam hoc est muris tendiculam timebat, sunt enim quod 
+      <lb ed="#P" n="58"/>dam amentium ratione vacantium, qui solo sensu more brutorum degunt, tales vbilibet inueniuntur &amp; hi quidem im 
+      <lb ed="#P" n="59"/>manes sunt, quales sunt aliquae nationes longe habitantum Barbarorum, sunt qui crudelia ob morbos tentant 
+      <lb ed="#P" n="60"/>vt ob morbum comitialem aut insaniam, quem morbum epilepsiam physici dicunt. Ex his liquet quod feritas siue bestiali 
+      <lb ed="#P" n="61"/>tas quae virtuti heroicae opponitur poent esse circa omnia vitia moralibus virtutibus opposita. Pont enim aliquam timiditas 
+      <lb ed="#P" n="62"/>esse feralis similiter audacia intemperantia, &amp; sic de aliis, &amp; per consequens virtus heroica potest esse in qua¬  
+      <!--243.xml-->
+      <pb ed="#P" n="112-v"/>
+               <lb ed="#P" n="1"/>libet specie virtutis moralis vt heroica fortitudo martyrum: heroica temperantia loannis Tachariae. 
+      Pau<lb ed="#P" n="2" break="no"/>li primi anachoritae &amp; Antonii: &amp; sic de prudentia. Et per oppositum de imprudentia vt exemplificauit. 
+      <lb ed="#P" n="3"/>vt parum prudentiae habendo, aut nihil fit homo stolidus: &amp; haec feritas est sine peccato. 
+    </p>
+            <p xml:id="JMAet9-d29566-d1e237">
+               <lb ed="#P" n="4"/>⁋ Post haec dicit quod circa alia delectabilia est continentia &amp; incontinentia similitudinarie dicta. Patet, 
+      quili<lb ed="#P" n="5" break="no"/>bet victus a praua cupiditate est incontinens simpliciter vel translatitie &amp; in quid secundm quid: sed circa praedicta dele 
+      <lb ed="#P" n="6"/>ctabilia aliqui sunt tales igitur. Minorem explanat dicens: in vsu interdum esse nos habere fortem cupidi 
+      <lb ed="#P" n="7"/>tatem &amp; non vinci, vt si phalaris cuperet aut peruerum mandere aut eo contra naturam abuti, &amp; tamen ab 
+      <lb ed="#P" n="8"/>vtroque abstineret. Contingit etiam non solum talem habere cupiditatem sed etiam succumbere: huius est 
+      in<lb ed="#P" n="9" break="no"/>continentia similitudinaria, illius vero continentia metaphorica. Vt igitur prauitatum ea quae est 
+      huma<lb ed="#P" n="10" break="no"/>na, simpliciter dicitur prauitas, &amp; sic malicia: alia vero dicitur cum addito, vt feralis aut ex morbo &amp; non 
+      <lb ed="#P" n="11"/>absolute: sic &amp; incontinentia alia feralis, alia ex morbo dicitur: &amp; ea absolute incontinentia a philosophis di 
+      <lb ed="#P" n="12"/>citur, quae voluptatum humanarum cancellos non egreditur. Ac iam perspicuum euasit simpliciter continen 
+      <lb ed="#P" n="13"/>tiam ac incontinentiam in illis solum inueniri posse: circa quae temperantia &amp; intemperantia insudat: &amp; in  
+      <lb ed="#P" n="14"/>reliquis alium continentiae modum aliamque speciem esse quae non simpliciter incontinentia sed 
+      translati<lb ed="#P" n="15" break="no"/>tie incontinentia dicitur. 
+    </p>
+            <p xml:id="JMAet9-d29566-d1e266">
+               <lb ed="#P" n="16"/>⁋ Dubitatur an incontinentia per assuefactionem sit deterior incontinentia per naturam. Affirmatiue 
+      <lb ed="#P" n="17"/>respondetur: quia liberius acquiritur. Multo enim liberior est impulsus consuetudinis quam impulsus naturae. 
+    </p>
+            <p xml:id="JMAet9-d29566-d1e273">
+               <lb ed="#P" n="18"/>⁋ Ambigitur secundo an timens sonum murium potest effici sic animosus &amp; viriliter vt cum hoste 
+      ma<lb ed="#P" n="19" break="no"/>num conserat. Constructiue respondemus: si sit capax rationis. Recta enim ratio vel ertonea potest illi 
+      di<lb ed="#P" n="20" break="no"/>ctare cum tali esse congrediendum: quaero tunc an voluntas potest se tali iudicio conformare an non: si 
+      <lb ed="#P" n="21"/>secundum non est libera: si primum habetur propositum: &amp; potest se tali actu &amp; actibus habituare, fateor, 
+      <lb ed="#P" n="22"/>tamen quod est illi difficilius qui illi qui est bellicosus a natura. Nihilo tamen minus licet ita meticulosus 
+      fue<lb ed="#P" n="23" break="no"/>rit vt vmbram suam timere dicatur, potest in oppositum se habituare ac in virum fortem euadere. 
+    </p>
+            <p xml:id="JMAet9-d29566-d1e290">
+               <lb ed="#P" n="24"/>⁋ Dubitatur tertio quomodo amentes terram manducent aut stramina. Milites enim caesariani in neces 
+      <lb ed="#P" n="25"/>sitate herbas insuetas manducari comederunt tempore belli ciuilis. Dico quod boues faeno &amp; straminibus alun 
+      <lb ed="#P" n="26"/>tur, si in necessitate haec hominibus signanter dementibus porrigantur illos alerent, furentes cum 
+      pecori<lb ed="#P" n="27" break="no"/>bus in sensu conueniunt: rationis sunt immunes, sic &amp; in alimento.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d28510"><!-- mair-l7c2 -->
+            <head xml:id="JMAet9-d28510-Hd1e103">Caput 2</head>
+            <p xml:id="JMAet9-d28510-d1e106">
+      <!--233.xml-->
+               <pb ed="#P" n="107-v"/>
+               <lb ed="#P" n="1"/>
+               <quote xml:id="JMAet9-d28510-Qd1e114" type="lemma">DVbitauerit autem quispiam</quote> &amp;c. Recitatis placitis veterum philosophorum: in hoc capite illa 
+      examina<lb ed="#P" n="2" break="no"/>re incipit. sexque dubitationes mouet quocirca sex particulis hoc caput deducitur. Primam dubitationem 
+      <lb ed="#P" n="3"/>nunc praetereo. Secunda dubitatio est an incontinens prudentiam habeat contra voluptates tendentem. 
+      Ter<lb ed="#P" n="4" break="no"/>tia, an idem sit continens &amp; temperatus: &amp; incontinens &amp; intemperatus. Quarta an continens sit idem conuertibiliter cum 
+      <lb ed="#P" n="5"/>permansiuo in ratione: &amp; incontinens idem cum egressiuo a ratione. Quinta haesitatio, an incontinens sit 
+      intemperan<lb ed="#P" n="6" break="no"/>te deterior. Sexta vtrum continentia &amp; incontinentia sint circa totam materiam morum scilicet concupiscentias irae, lu 
+      <lb ed="#P" n="7"/>cri, ac honoris. Accedo ad literam de continentia ac incontinentia primo mentionem faciens non haesitationes. Eadem 
+      <lb ed="#P" n="8"/>serie qua istas recitauit eas discutit ac cribrat. Et a tertia opinione caeteris difficillima exorditur. Quaerens 
+      <lb ed="#P" n="9"/>primo an fieri queat vt quispiam recte existimans incontinenter agat. Dicebat enim tertia opinio: incontinens 
+      <lb ed="#P" n="10"/>enim improba sciens ob perturbationem ac cupiditatem agit. Haereret quoque aliquis quomodo id fieri possit, vt 
+      <lb ed="#P" n="11"/>aliquis rationem habens contra rationem operetur. Pro hac parte ante omnia ratiocinatur quasi hoc fieri non 
+      va<lb ed="#P" n="12" break="no"/>leat: Socraticam afferens sententiam. Dicebat enim Socrates, postquam scientia est validissimus habitus si ipso incontinens 
+      <lb ed="#P" n="13"/>illustretur a cupiditate debiliore scientia minime vincetur: propterea dissentaneum videtur validiorem habitum a 
+      <lb ed="#P" n="14"/>concupiscentia velut mancipium quoddam trahi. Perinde acsi sic argumentaretur. Scientia est optimum ac 
+      fortissi<lb ed="#P" n="15" break="no"/>mum in homine, at validius ab exiliore non ducitur: proinde scientia sensitiuam partem tanquam ancillam trahet. At 
+      <lb ed="#P" n="16"/>tamen Socrates contra rationem pugnabat. Hac enim via incontinentiam exterminabat, falsum est enim neminem 
+      <lb ed="#P" n="17"/>agere aliud nisi quod optimum censet: nec enim ex ignoratione semper malum agit. Sane illius sententia palam 
+      <lb ed="#P" n="18"/>aduersatur his quae non clam apparent. Experimur enim nos censere aliquid malum esse, nihil tamen minus in il 
+      <lb ed="#P" n="19"/>lud ferimur. Atque inuestigare opportunum est, in ipsam perturbationem ignorantia incidit, &amp; quis modus 
+      igno<lb ed="#P" n="20" break="no"/>rationis existat. Liquidum est incontinentem ante perturbationem putare illud quod operatur esse malum. Porro tria 
+      <lb ed="#P" n="21"/>sunt tempore consideranda, primum ante perturbationem: secundum in perturbatione: &amp; tertium perturbatione iam extincta. 
+      <lb ed="#P" n="22"/>In primo &amp; vltimo temperante scilicet perturbationem &amp; ea sedata, est sciens: interstite tempore scilicet in perturbatione vi 
+      <lb ed="#P" n="23"/>detur quasi ignorans, temulento persimilis &amp; more pueri carmina qui non intelligit labiis pronunciantis. Sequitur, sunt 
+      <lb ed="#P" n="24"/>autem. Hic quorundam sententiam circa socraticam viam adducit: quam extrudit. Alii partim Socrati assentiuntur, partim 
+      <lb ed="#P" n="25"/>vero ab eo dissentiunt. lsti dixerunt incontinentem nullo modo habere scientiam: illa enim non permitteret se abduci a 
+      <lb ed="#P" n="26"/>perturbatione more mancipii, inficias eunt quempiam a scientia captiuari. ldemque de vehementi existimatione 
+      cen<lb ed="#P" n="27" break="no"/>sent. hoc est vehementi opinatione. Scientia est iudicium firmum ac stabile. Opinio vero assensus formidolosus fa 
+      <lb ed="#P" n="28"/>cile remouibilis. Sed produnt hanc languidam opinionem longo interuallo scientia debiliorem, quae a perturbatione &amp; 
+      <lb ed="#P" n="29"/>voluptate vincitur. Hoc Aristo. retundit inquiens: Si opinatio sit remissa &amp; elanguida vt in ambigentibus vsu 
+      <lb ed="#P" n="30"/>venit, tunc incontinenti ignoscendum est. Loquitur de ambigentibus, attamen assentientibus languide. Ob rationum 
+      <lb ed="#P" n="31"/>diuersitatem est homo interdum poenae perplexus. Dubitatio proprie dicta nullum assensum dicit. Hinc est aliud 
+      <lb ed="#P" n="32"/>agere contra scrupulos conscientiae, &amp; aliud contra conscientiam: si contra vehementes cupiditates &amp; impulsus non 
+      per<lb ed="#P" n="33" break="no"/>sistat, at prauitati non est danda venia nec alii cuicumque vituperabilium. Insultas, Philosophus dixit continentiam 
+      <lb ed="#P" n="34"/>non esse virtutem nec incontinentiam vitium: nunc vero incontinentiam prauitatem dicit esse. ld obiectum paucis euacuatur. 
+      <lb ed="#P" n="35"/>Continentia non est virtus specialis aliarum more: sed iniqualibet virtute exspatiatur, sic de incontinentiae vitio. 
+      <lb ed="#P" n="36"/>Tres species fugiendorum circa mores prius depinxit.
+    </p>
+            <p xml:id="JMAet9-d28510-d1e194">
+               <pc type="pilcrow">¶</pc> Sequitur in litera. Est ne id igitur quod resistit. Haec 
+      <lb ed="#P" n="37"/>est secunda pars capitis qua quinta opinio praecedenti capite recitata adducitur tractanda an prudentia 
+      in<lb ed="#P" n="38" break="no"/>continens habituetur quae prauitati resistit. Hoc ipsum apparere potest cum prudentia validissima sit: verum 
+      <lb ed="#P" n="39"/>id admittere est absurdum. Nam incontinens praua ac turpia agit: turpia prudens non degustat, proinde 
+      <lb ed="#P" n="40"/>prudens non est incontinens. Secunda ratio ad idem propositum est haec. Insuper demonstratum est 
+      an<lb ed="#P" n="41" break="no"/>tea libro praecedenti prudentem aptum esse ad omnia praeclara agenda: aptus sane extremorum est, hoc est 
+      <lb ed="#P" n="42"/>singularium &amp; reliquis moralibus virtutibus honestatur.
+    </p>
+            <p xml:id="JMAet9-d28510-d1e213">
+               <pc type="pilcrow">¶</pc> Sequitur in litera. Praeterea si continens &amp;c. 
+      <lb ed="#P" n="43"/>In hac tertia parte huius capitis quartum placitum oppugnat: quod dicebat quod temperantia ac continentia 
+      <lb ed="#P" n="44"/>concurrunt. Ad inficiatiuam partem in valore argumentatur sic. Omnis continens habet concupiscentias 
+      <lb ed="#P" n="45"/>vehementes nec non prauas, nullus temperatus tales concupiscentias habet: proinde nullus temperatus 
+      <lb ed="#P" n="46"/>est continens: in Camestres. Per tales praedicatum maioris intelligo: sicque lucidius litera explicatur. 
+      Conti<lb ed="#P" n="47" break="no"/>nens habet cupiditates aut vehementes aut remissas, si vehementes aut prauas bonas ve: si fortes ac prauas 
+      <lb ed="#P" n="48"/>nequit esse temperatus. Porro temperati munus non est habere vehementes cupiditates nec prauas cum in tem 
+      <lb ed="#P" n="49"/>perato homine appetitus rationi non reluctetur. at oportebat tamen, scilicet vt haberet, vt idem sit 
+      tempe<lb ed="#P" n="50" break="no"/>rans &amp; continens: secundum aliorum paradoxum. Quamobrem si continens habet vehementes cupiditates &amp; pra 
+      <lb ed="#P" n="51"/>uas non potest esse temperatus, sin autem ipse habet vehementes &amp; bonas: prauus ille habitus fuerit qui 
+      bo<lb ed="#P" n="52" break="no"/>nis cupiditatibus renititur. Dubio procul, continens cum cupiditatibus malis luctatur, quas tandem 
+      de<lb ed="#P" n="53" break="no"/>bellat: sin bonis &amp; vehementibus continentia obsistat, continentia habitus prauus erit. ltaque non omnis 
+      <lb ed="#P" n="54"/>continentia erit studiosa: at omnis temperantia est studiosa: quare colligendum est si cupiditates erunt 
+      ve<lb ed="#P" n="55" break="no"/>hementes siue bonae siue malae temperantia non est continentia: at si cupiditates sint elanguidae ac non 
+      <lb ed="#P" n="56"/>prauae, tum continentia non esset egregius habitus vt putatur: proinde non habet remissas cupiditates 
+      <lb ed="#P" n="57"/>non prauas: sin vero tenues ac prauae extiterint tunc continentia non esset potens: dispositio: cuius 
+      oppo<lb ed="#P" n="58" break="no"/>situm est verum, postquam vehementibus cupiditatibus valentius renititur: quare merito concludendum est 
+      <lb ed="#P" n="59"/>cum continens circa exiles insultus non versetur, nec circa vehementer bonas: sed potius magnas ac 
+      pra<lb ed="#P" n="60" break="no"/>uas habet, &amp; temperatus non habet tales, aequissimo iure concludemus quod temperans cum ipso 
+      conti<lb ed="#P" n="61" break="no"/>nente minime conspirat: nec continentia cum temperantia concurrit: cuius oppositum quartum 
+      placi<lb ed="#P" n="62" break="no"/>tum voluit. Ex hac ratiocinatione deducitur quod continentia cupiditates immodicas atque prauas habet. 
+      <lb ed="#P" n="63"/>Patet per viam diuisionis a tota disiunctiua cum destructione vnius partis principalis ad alterius 
+      positio<lb ed="#P" n="64" break="no"/>nem. Multae particulae distinctae secundum illius regulae tenorem sunt vna pars principalis. Patet 
+      <!--234.xml-->
+      <pb ed="#P" n="108-r"/>
+               <lb ed="#P" n="1"/> 
+               <lb ed="#P" n="2"/>assumptum, per quadrimembrem distractionem: sic. Aut continentia cupiditates vehementes ac prauas sustinet, aut 
+      <lb ed="#P" n="3"/>remissas &amp; laudabiles, aut exiguas &amp; prauas: quodlibet istorum trium est exterminatum: proinde altera pars 
+      prin<lb ed="#P" n="4" break="no"/>cipalis disiunctiuae est destructa. Relinquitur ergo primum membrum. Sequitur in litera. Praeterea si continen 
+      <lb ed="#P" n="5"/>tia: haec est quarta pars capitis, in qua haesitatio circa secundum placitum mouetur. Illic eum dicebatur. Continens 
+      <lb ed="#P" n="6"/>est constans ac perseuerans in ratione siue opinione. Contra incontinens a sua opinatione digreditur. hanc sen 
+      <lb ed="#P" n="7"/>tentiam refellit Aristoteles inquiens, si continentia est in opinione persistere facit, aliqua continentia erit 
+      <lb ed="#P" n="8"/>praua, vt. ea quae hominem in illa opinione detinet: &amp; eum mentiri facit. Et per oppositum si continentia a qualibet 
+      <lb ed="#P" n="9"/>opinatione dimoueret, aliqua incontinentia studiosa esset: quemadmodum apud Sophoclem poetam in 
+      phi<lb ed="#P" n="10" break="no"/>loctete. Non mansit Neoptolemus in opinione quam illi astutus Vlysses persuaserat: vtpote in quodam 
+      ope<lb ed="#P" n="11" break="no"/>re mentiri lucri gratia. Cordatus enim Pyrrhus ex turpi mendacio dolorem contraxit &amp; a turpi destitit: in  
+      <lb ed="#P" n="12"/>quo commendandus est. In turpi enim promisso promissum rescinde. ldem est in iureiurando aut voto. Neutrum 
+      <lb ed="#P" n="13"/>enim est iniquitatis vinculum. Vulgo dicitur: in turpi voto decretum muta. In hoc taxandi sunt plerique in opi 
+      <lb ed="#P" n="14"/>nionibus suis nimis permansiui. Postquam enim vni doctori operam impenderunt illi sunt ita addicti vt illius erronea 
+      <lb ed="#P" n="15"/>placita imitentur &amp; defendant: alii autem non sic in verba magistrorum iurant. Praeterea captio sophistica dubita 
+      <lb ed="#P" n="16"/>tionem ingerit: cornuto enim syllogismo verbosus sophistes respondentem illaqueare studet: colorando 
+      homi<lb ed="#P" n="17" break="no"/>nem esse asinum, captis his duabus, Asinus est asinus, dicatur a, homo est asinus b:sic syllogisat. Quicquid 
+      prae<lb ed="#P" n="18" break="no"/>dicatur in a praedicatur in b, ac idem de eodem praedicatur in a: itaque idem de eodemipraedicatur in b:proinde 
+      il<lb ed="#P" n="19" break="no"/>la est vera. Clamorosus sophista laudis auidus admirabilia praeter opinionem inferre laborat redarguendo vt 
+      <lb ed="#P" n="20"/>respondentem attingeret, hoc est redargueret, vt acuto auditorio appareat, respondentem ad metam non loquem 
+      <lb ed="#P" n="21"/>di ducens, vel ad inopinabile respondenti ingratum. Attamen cornutus elenchus haesitationem ingerit cuius 
+      in<lb ed="#P" n="22" break="no"/>genium ligatur. Manere non vult conclusioni sophismatis assentiendo: quinimmo ait. Quicquid ait geta, 
+      bir<lb ed="#P" n="23" break="no"/>ria semper ero. Procedere autem non valet quia rimam exeundi non inuenit, in daedali labyrintho includitur: technam 
+      <lb ed="#P" n="24"/>artificiose constructam enodare nequit. Laudis studio clamosus sophistes inapparentem solutionem euellit: 
+      respon<lb ed="#P" n="25" break="no"/>dentis imperiti os claudit. Capitur hic sophista pro illo qui artem callet &amp; no pro illo qui sapiens non est et 
+      <lb ed="#P" n="26"/>sapiens apparet. hic est vituperabilis inanis gloriae sitiens: ille laudandus falsum contundere, at verum 
+      protege<lb ed="#P" n="27" break="no"/>re &amp; gloriosos examinare ad vnguem didicit. Sequitur tertia ratio ad idem in litera. Fit autem aliqua ratione 
+      <lb ed="#P" n="28"/>vt imprudentia cum incontinentia sit virtus: hoc est si incontinentia esset rationis ac opinionis omissio vt 
+      <lb ed="#P" n="29"/>prisci dicebant. Ex duobus vitiis vna virtus componeretur. Qui namque habet vtrumque hoc est sit incontinens impru 
+      <lb ed="#P" n="30"/>dens, &amp; per imprudentiam arbitretur aliquid mali esse bonum, &amp; per incontinentiam illam falsam opinationem omit 
+      <lb ed="#P" n="31"/>tat: at omissio prauae opinionis est virtus. Sequitur in litera. Praeterea qui persuasus agit &amp;c.
+    </p>
+            <p xml:id="JMAet9-d28510-d1e338">
+               <pc type="pilcrow">¶</pc> Haec est quinta 
+      <lb ed="#P" n="32"/>pars huius capitis, qua dubitationem circa primam opinionem adducit. Quia enim illa dicebat quod continentia est de nu 
+      <lb ed="#P" n="33"/>mero bonorum, incontinentia de numero prauorum nutaret quispiam in quo gne prauorum esset ponenda: &amp; an sit vitio 
+      <lb ed="#P" n="34"/>incontinentia deterior. Et videtur incontinentia esse intemperantia deterior, tali ratione. Qui persuasus oblectamenta 
+      eli<lb ed="#P" n="35" break="no"/>git est melior siue minus malus, illo qui dissuasus operatur: porro facilius curabitur cum illi dissuaderi potest, incon 
+      <lb ed="#P" n="36"/>tinens non persuasus agit. Obstrictus enim est prouerbio quo dicitur. Quid insuper bibere opus est cum aqua 
+      stran<lb ed="#P" n="37" break="no"/>gulat. Non est offerendus illi potus qui aqua suffocatur: quia illi potionem dando haud proficitur. Nequicquam incontinem 
+      <lb ed="#P" n="38"/>ti dissuadebis, cum ipse percipiat se perperam agere: attamen illud exequitur: aliter agit quam ratio ipsi ostendit. Habet 
+      <lb ed="#P" n="39"/>conscientiam remurmurantem, quid igitur opus extrinseco monitore habet, intemperans habet iam iudicium corruptum: 
+      <lb ed="#P" n="40"/>cuius conscientia iam manica franciscani capacior est. Quia vera litera est implexa eam sic ordino. Si persuasum 
+      <lb ed="#P" n="41"/>esset ipsi ea non agenda esse quae agit, dissuasus cessaret, iam loquitur de intemperato in gradu. Sequitur. Nunc vero 
+      per<lb ed="#P" n="42" break="no"/>suasum est ei &amp; nihilominus talia agit. lam loquitur de incontinente. Nec mirabere. Hic solum disceptat, nihil 
+      reso<lb ed="#P" n="43" break="no"/>lutorie ponens. Sequitur in litera, Insuper si circa vniuersa. In hac sexta ac nouissima parte capitis circa sextum 
+      <lb ed="#P" n="44"/>placitum dubitationem affert. Nempe in illo dicebatur quod circa plurima obiecta incontinentia licentiosius diuagatur, vt cir 
+      <lb ed="#P" n="45"/>ca honorem, lucrum, &amp; caetera id genus. Nandata ea positione continuo sequitur quod incontinentia non erit simplex: &amp; 
+      <lb ed="#P" n="46"/>quod nemo erit absolute incontinens: siquidem incontinentias omnes habet. Nos autem dicimus aliquos simpliciter 
+      in<lb ed="#P" n="47" break="no"/>continentes. Non igitur videtur continentia ac incontinentia circa omnem materiam tam late insudare. Talia igitur du 
+      <lb ed="#P" n="48"/>bia hic oriuntur. Horum autem alia auferre &amp; diluere ea quae falsum concludunt, &amp; rationes verum concludentes insolu 
+      <lb ed="#P" n="49"/>tas relinquere oportet, quia haesitationis elutio nihil aliud est quam veritatis inuentio: proinde veritate inuenta non 
+      <lb ed="#P" n="50"/>oportet veritatis rationes eluere.
+    </p>
+            <p xml:id="JMAet9-d28510-d1e386">
+               <pc type="pilcrow">¶</pc> Dubitatur an opinioni falsae addictus peccet, dico quod quando homo 
+      effica<lb ed="#P" n="51" break="no"/>cia rationum secundum exigentiam materiae ducitur bene agit, siue opinio falsa extiterit siue erronea. ludex 
+      inson<lb ed="#P" n="52" break="no"/>tem si sit nocens probatus damnans non exorbitat: quando testes diligenter examinat &amp; exercet munus probi 
+      <lb ed="#P" n="53"/>iudicis, discernens testes ad partem sicut Daniel presbyteros post humanam indaginem si innocuum condannet non 
+      <lb ed="#P" n="54"/>est nephas, est enim illi error inuincibilis, nec ob alios susurrantes ad veritatem flectitur: postquam nec ipse nec alii 
+      pos<lb ed="#P" n="55" break="no"/>sunt illorum testimonium refellere: &amp; praecipue vbi ipsi de opposito non constat: &amp; etiam probabiliter in illa 
+      hypo<lb ed="#P" n="56" break="no"/>thesi accusatum punit. Verum tamen hic est error quando homo suae opinioni pertinaciter innititur aut amici: quando 
+      <lb ed="#P" n="57"/>enim ipse est laudis auidus &amp; haeresim aspergens aegerrime ad veritatis orbitam reuocatur: quare de malo in pe 
+      <lb ed="#P" n="58"/>ius descendit. vt Vuicletu superiore seculo nostrae Britanniae propudium: &amp; nunc <name xml:id="JMAet9-d28510-Nd1e408">Martinus Luther</name> Germaniae 
+      <lb ed="#P" n="59"/>dedecus: qui cum cuculla omnem probitatem cum suis asseclis exuit. Tales inanis gloriae famelici, 
+      demonstratio<lb ed="#P" n="60" break="no"/>nes non audiunt: sed rimas sinistras elabendi inuenire satagunt, vt delira dogmata protegere videant. Tales I 
+      <lb ed="#P" n="61"/>sane sunt vituperabiles.
+    </p>
+            <p xml:id="JMAet9-d28510-d1e419">
+               <pc type="pilcrow">¶</pc> Hic etiam ambigitur quomodo Neoptolemus ob mendacium doluit. Respon¬ I 
+      <lb ed="#P" n="62"/>detur mendacium est in se prauum: persuasione Vlyssis mentiebatur reluctante conscientia atque mordente. 
+      Dice<lb ed="#P" n="63" break="no"/>re falsum, putatum verum non est mentiri neque peccatum: sed dicere scienter, vel dubitatiue falsum est mentiri. 
+      <lb ed="#P" n="64"/>annuncians aliquid assertiue de quo dubitat mentitur. Et intelligo de loquente assertiue non temptatiue. 
+      <lb ed="#P" n="65"/>disceptans scienter falsum assumit sed illud non asserit, plusquam recitator.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

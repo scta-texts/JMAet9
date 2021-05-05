@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 7</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 7</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d37761"><!-- mair-l9c7 -->
+            <head xml:id="JMAet9-d37761-Hd1e103">Caput 7</head>
+            <p xml:id="JMAet9-d37761-d1e106">
+               <lb ed="#P" n="40"/>
+               <quote xml:id="JMAet9-d37761-Qd1e110" type="lemma">VIdentur autem ii qui</quote> &amp;c. In hoc capite philosophus de tertio actu amicitia scilicet beneficentia loquitur: in  
+      <lb ed="#P" n="41"/>quo principaliter ostendit benefactorem plus diligere eum cui benefecit quam contra, licet primo obtutu 
+      <lb ed="#P" n="42"/>hoc vix opinabile putaretur. Hoc per aliorum rationes ostendit &amp; per exemplum, de creditoribus qui 
+      bene<lb ed="#P" n="43" break="no"/>factoribus similes videntur, &amp; debitoribus qui beneficiariis similes videntur. Et illa ratione &amp; exemplo 
+      re<lb ed="#P" n="44" break="no"/>citatis clarius quaestionem eluit. Et caput ipsum in geminas partes praecipuas secat. Nam in priore parte 
+      inten<lb ed="#P" n="45" break="no"/>tionem suam cum aliorum colore praelibat. In secunda veras rationes super quaesito dat: &amp; hanc conclusionem ponit. 
+      <lb ed="#P" n="46"/>Videntur ii qui beneficia contulerunt magis eos amare in quos beneficia sunt collata quam ii qui acceperunt, eos qui 
+      <lb ed="#P" n="47"/>contulerunt, atque vt praeter rationem eueniens quaeritur: illud enim contra rationem videtur, cuius beneficium accipiens sit 
+      be<lb ed="#P" n="48" break="no"/>nefactori plus obnoxius quam contra. Tam philosophus quam veteres convenerunt in hoc quod quaestio supponit, dat 
+      <lb ed="#P" n="49"/>veterem causam inquiens. plurimis igitur videtur id ex eo fieri quia hi quidem debent, puta qui beneficia acceperunt: 
+      <lb ed="#P" n="50"/>illis vero debetur puta beneficia conferentibus, vt igitur in mutuis debitores quidem velint suos creditores non 
+      <lb ed="#P" n="51"/>esse. i. postquam benefecerunt extinctos esse ne referre sint obnoxii: hi vero. i. creditores etiam de debitorum 
+      sa<lb ed="#P" n="52" break="no"/>lute diligentiam adhibent, sic &amp; eos inquiunt qui beneficia contulerunt, velle eos esse, erga quos fuere benefici, vt 
+      <lb ed="#P" n="53"/>gratiam accepturos: illis vero non esse curam reddendi. Epicharmus fortasse dixerit haec ipsos dicere 
+      aspicien<lb ed="#P" n="54" break="no"/>tes ad malum. Epicharmus is est philosophus qui primus ideas introduxit. Videtur autem hoc esse humanum: 
+      <lb ed="#P" n="55"/>plerique enim immemores sunt &amp; suscipere potius quam conferre beneficia appetunt, illudque est communis non tamen apud  
+      <lb ed="#P" n="56"/>magnanimos &amp; cordatos viros.
+    </p>
+            <p xml:id="JMAet9-d37761-d1e149">
+               <pc type="pilcrow">¶</pc> Sequitur secunda pars principalis. Videbitur autem causa naturalior esse quam 
+      <!--312.xml-->
+      <pb ed="#P" n="146-r"/>
+               <lb ed="#P" n="1"/>illa quae de creditoribus allata est, &amp; non similis ei quae de creditoribus dicitur. Talis enim voluntas non est 
+      <lb ed="#P" n="2"/>creditorum erga debitores amatio, sed voluntas salutis. i. qua velint creditores esse saluos, est causa 
+      reci<lb ed="#P" n="3" break="no"/>piendi. i vt recipiant ab eis paria. Probat autem quod sit alia naturalior causa. Quia qui beneficia contulerunt 
+      <lb ed="#P" n="4"/>diligunt atque amant eos qui beneficia acceperunt, etiam si illi in nulla re sint vtiles, nec in posterum futuri: quod 
+      <lb ed="#P" n="5"/>per simile probat dicens. Quod scilicet amare opera sua, qui opera sua sunt accidit etiam artificibus. Omnis enim 
+      <lb ed="#P" n="6"/>factor opus suum plus diligit quam ab illo opere diligatur, esto quod opus sit animatum. Patet de amore dei respe 
+      <lb ed="#P" n="7"/>ctu creaturae animatae, parentis in liberos, praeceptoris in discipulos probos. Ita quoque est de artificibus 
+      <lb ed="#P" n="8"/>&amp; poetis &amp; itidem inductiue patet: sed ille cui beneficium est collatum est tamquam opus. Benefici igitur suos foetus 
+      <lb ed="#P" n="9"/>&amp; praeter caeteros poetae admodum diligunt. De Terentio enim referunt quod dum plusculas comoedias graecas 
+      <lb ed="#P" n="10"/>latinas fecisset quae casu in mare cecidere: suorum operum desiderio in mare desiliit. Doctus discipulus est 
+      <lb ed="#P" n="11"/>opus praeceptoris, vt Aristoteles Platonis quantum est ad esse doctum: licet non ad esse simpliciter. 
+      Simili<lb ed="#P" n="12" break="no"/>ter quantum ad esse locupletem uel huiusmodi plurimum huius faciunt qui aut opes aut alio huiusmodi 
+      confe<lb ed="#P" n="13" break="no"/>runt: &amp; huius dilectionis causa est, quoniam vniuersis expetibile atque amabile est esse. Sumus autem &amp; actu 
+      <lb ed="#P" n="14"/>primo, hoc est anima, &amp; actu secundo, hoc est operatione. Nam viuendo sumus &amp; agendo. Qui igitur fecit. 
+      <lb ed="#P" n="15"/>est actu suum quodammodo opus: non quod homo sit suum opus in recto. propterea Aristoteles adiecit 
+      quodan<lb ed="#P" n="16" break="no"/>modo, dictionem alienantem. Homo enim per suum opus in hominum memoria viuit, vt Homerus viuit vt 
+      <lb ed="#P" n="17"/>poeta. Diligit itaque quisque opus suum qui amat &amp; esse, hocque est naturale. Nec alia de causa Alexander 
+      <lb ed="#P" n="18"/>Magnus, &amp; alii innumeri proceres res praeclaras suo ipsorum iudicio fecerunt, nisi vt non solum in vita 
+      vi<lb ed="#P" n="19" break="no"/>uerent clari, sed vt post vitam etiam celebre consequerentur nomem, vtque amnalibus &amp; aliis historiis commendarentur. 
+      <lb ed="#P" n="20"/>Huius famae quantunuis iniquae &amp; stolido desiderio captus Herostratus templum Dianae in Epheso 
+      nobilis<lb ed="#P" n="21" break="no"/>simum incendit, vt eo facinore famam obtineret perpetuam. Quod quam stulte cupiebat, nemo nescit. Sed aliquid  
+      <lb ed="#P" n="22"/>pereni laude dignum efficere non est paruae laudis, apud delirum vulgus solum. Alii efferuntur ergo in vno 
+      <lb ed="#P" n="23"/>verbo, quod homo habet esse in suo opere, hoc est esse cognitum, &amp; quod in hominum ore viuunt. Sicut Naso 
+      <lb ed="#P" n="24"/>in fine Metamorphoseos canit. lamque opus exegi, quod nec louis ira &amp;c. Et demum. Si quid habent veri vatum 
+      <lb ed="#P" n="25"/>praesagia viuam. Insuper opus ipsum actu explicat potentiam artificis, sicut totus orbis dei potentiam. Et 
+      <lb ed="#P" n="26"/>libri Ethicorum cum caeteris Aristotelis scriptis, eius potentiam in scribendo ostendunt. Nam magnum magna decent. 
+      <lb ed="#P" n="27"/>Et hoc innuit litera quae dicit. Quod enim est potentia, id opus ipsum actu declarat. Alia ratio. Honestius 
+      <lb ed="#P" n="28"/>est beneficium, ille qui beneficium contulit, quare illo gaudet, quam ille qui beneficium suscepit, qui nihil honeste 
+      <lb ed="#P" n="29"/>fecit, nisi in capiendo, conformiter ad rationem. Propterea dicit litera. Et insuper ei quidem qui contulit 
+      <lb ed="#P" n="30"/>beneficium, honestum est quod egit: quare gaudet eo, in quo est hoc. At ei qui accepit nihil est honeste nisi 
+      <lb ed="#P" n="31"/>in eo quod contulit conferens, hoc est nisi vtile: quod quidem minus est iucundum atque amabile. Aut sic, 
+      <lb ed="#P" n="32"/>nisi in eum qui contulit sit spe conferens: quod quidem &amp;c. Modo honos est nobis a natura insitus. primo 
+      <lb ed="#P" n="33"/>Rhetoricorum: &amp; maior honos magis expetendus, potissimum si illo dignifuerimus nec minus. In Officiis, 
+      <lb ed="#P" n="34"/>dicit Tullius. Honos alit artes. Et in Tusculanis Quaestionibus. Omnes ad studia incendimur gloria. 
+      <lb ed="#P" n="35"/>Est autem praesentis quidem opinatio. Futuri autem spes, facti vero memoria iucunda: sed quod actu est horum 
+      <lb ed="#P" n="36"/>iucundissimum est atque maxime amabile. Ei autem qui beneficium contulit actu permanet ipsum honestum: 
+      <lb ed="#P" n="37"/>opus enim diuturnum atque permanens honestum est: sed ei qui beneficium suscepit transacta est. i. tam 
+      per<lb ed="#P" n="38" break="no"/>transiit ipsa vtilitas: at rerum honestarum memoria manet periucunda, vtilius autem rerum memoria est 
+      <lb ed="#P" n="39"/>suscipienti non plurimum aut minus iucunda: spes autem &amp; expectatio contra sese habere videtur, quia 
+      <lb ed="#P" n="40"/>spes expectantem affligit, vnde dubitatum est a priscis boni an mali plus haberet. Non mirum igitur 
+      <lb ed="#P" n="41"/>est. Beneficos magis eos quibus benefaciunt amare quam, ab illis amentur. Pro cuius vberiori intelligentia 
+      <lb ed="#P" n="42"/>scito, quod est praesens, est delectabilissimum, &amp; propterea quae delectabilissimo propinquiora sunt delectabiliora 
+      <lb ed="#P" n="43"/>sunt: &amp; quia in praeteritis vtilia honesta antecedunt quia vtilia sunt media consequendi honesta, iccirco in 
+      <lb ed="#P" n="44"/>praeteritis honesta sunt ipsi praesenti propinquiora &amp; vtilia remotiora: propterea non sine causa 
+      con<lb ed="#P" n="45" break="no"/>tingit vt honestorum memoria iucundior sit: vtilium vero minus. Insuper honesta plerumque manent 
+      <lb ed="#P" n="46"/>vtilia vero non, stat enim quod ille cui ipse pecuniam contulit ipsam exposuit: datio tamen pecuniae in 
+      <lb ed="#P" n="47"/>hominum existimatione manet. Cui alludit Seneca primo libro de beneficiis inquiens. Haec quae 
+      tene<lb ed="#P" n="48" break="no"/>mus, quae aspicimus, in quibus cupiditas nostra haeret, caduca sunt, &amp; ea nobis fortuna auferre potest 
+      <lb ed="#P" n="49"/>&amp; iniuria: beneficium vero etiam amisso eo quod datum est durat. Permansiuum autem cum maneat praesens 
+      <lb ed="#P" n="50"/>est delectabile, secundum actum transitorium vero quia praeterit est delectabile secundum memoriam: sed 
+      dele<lb ed="#P" n="51" break="no"/>ctabilissimum est quod est secundum actum: cum praeterita &amp; futura non delectent nisi eo quod actum 
+      memo<lb ed="#P" n="52" break="no"/>ramur. At speramus &amp; in futuro. Vtilia autem anteeunt honesta, vt quae ad honestatem consequendam 
+      <lb ed="#P" n="53"/>sunt media necessaria. Propterea in futuro vtilia, ipsi praesenti quod delectabilissimum est, sunt 
+      propin<lb ed="#P" n="54" break="no"/>quiora &amp; honesto remotiora. Ponitur &amp; alia ratio ad responsionem. Amare simile est actioni: amari 
+      <lb ed="#P" n="55"/>autem passioni: eos igitur qui erga actus excellunt vt beneficos rationabiliter sequitur amare, &amp; quae 
+      <lb ed="#P" n="56"/>ad amicitiam pertinent. Qui autem suscipiunt amari, rationabile est. Igitur eos qui beneficia conferunt, 
+      <lb ed="#P" n="57"/>magis amare. Rursus quae cum labore facta sunt, magis diligere solent omnes: vt &amp; magis pecunias 
+      <lb ed="#P" n="58"/>diligunt, qui eas sibi suo labore &amp; sua industria acquilierunt, quam qui ab aliis eas acceperunt, vt patet. &amp;. 
+      <lb ed="#P" n="59"/>Ethicorum primo, &amp; experientia. At beneficium acciperre non est labor, nec est difficile, poenale 
+      benefi<lb ed="#P" n="60" break="no"/>cium autem conficere, difficile: merito ergo qui beneficium conferunt eos quibus beneficia contulerunt 
+      <lb ed="#P" n="61"/>magis diligunt quam contra.
+    </p>
+            <p xml:id="JMAet9-d37761-d1e291">
+               <pc type="pilcrow">¶</pc> Sequitur corollarium. Quocirca &amp; matres, magis amant filios: nam 
+      ge<lb ed="#P" n="62" break="no"/>neratio laboriosa illis est. ldeoque res maximae afflictiuae &amp; summae animorum corporumque aegritudines, 
+      <lb ed="#P" n="63"/>dolori, percuntientis comparari solent, &amp; quia matres magis cognoscunt esse suos. Quod quidem &amp; 
+      ma<lb ed="#P" n="64" break="no"/>gis cognoscere, accommodari posse videtur ad eos qui beneficia contulerunt. 
+      <!--313.xml-->
+      <pb ed="#P" n="146-v"/>
+            </p>
+            <p xml:id="JMAet9-d37761-d1e308">
+               <lb ed="#P" n="1"/>⁋ Dubitatur a quibusdam, vtrum beneficus magis deligat illum cui benefacit. i. beneficiarium: an contram, 
+      <lb ed="#P" n="2"/>Respondetur affirmatiue. Haec responsio affirmatiua &amp; experientia &amp; rationibus veterum nimis 
+      effica<lb ed="#P" n="3" break="no"/>cibus &amp; Aristotelicis in litera patet.
+    </p>
+            <p xml:id="JMAet9-d37761-d1e318">
+               <pc type="pilcrow">¶</pc> In oppositum argumentor primo sic. Nobilius &amp; excellentius est 
+      <lb ed="#P" n="4"/>amabilius, &amp; per consequens beneficium qui est excellentior in hoc quod beneficus est, quam ille cui collatum est, 
+      <lb ed="#P" n="5"/>ergo est magis amandus.
+    </p>
+            <p xml:id="JMAet9-d37761-d1e328">
+               <pc type="pilcrow">¶</pc> Secundo. Illum magis amare debemus a quo plura bona quam illum a quo 
+      <lb ed="#P" n="6"/>pauciora suscepimus: sed beneficiarius plura bona accipit a benefactore quam contra: ergo. 
+    </p>
+            <p xml:id="JMAet9-d37761-d1e336">
+               <lb ed="#P" n="7"/>⁋ Ad priorem rationem concedo quod benefactor absolute est amabilior beneficiario inquantum 
+      huius<lb ed="#P" n="8" break="no"/>modi: ex quo sequitur quod beneficus maiore amore &amp; nobiliore se amat quam illum cui beneficium confert: 
+      <lb ed="#P" n="9"/>quia amore virtutis quam in se praeoptat, sed ex hoc non sequitur quod plus ametur. Patet respectu dei &amp; 
+      <lb ed="#P" n="10"/>creaturae intellectualis. Insuper magis inclinatur beneficus illum cui benefacit diligere quam contra, vt 
+      <lb ed="#P" n="11"/>Aristoteles in litera generose probat.
+    </p>
+            <p xml:id="JMAet9-d37761-d1e349">
+               <pc type="pilcrow">¶</pc> Ad secundum dico nos esse magis ingratos si vices amoris non 
+      <lb ed="#P" n="12"/>rependimus amori benefactorum, sed ex hoc non probatur quod plus diligatur beneficus ab illo in quem 
+      <lb ed="#P" n="13"/>beneficium est collatum quam contra: non tamen nego quin intensiore actu potest beneficium suscipiens 
+      <lb ed="#P" n="14"/>benefactorem diligere qui faciat econtrario beneficus beneficiarium.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 12</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 12</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d14811"><!-- mair-l3c12 -->
+            <head xml:id="JMAet9-d14811-Hd1e103">Caput 12</head>
+            <p xml:id="JMAet9-d14811-d1e106">
+               <lb ed="#P" n="19"/>
+               <quote xml:id="JMAet9-d14811-Qd1e110" type="lemma">NOstra autem sponte</quote> &amp;c. Prima conclusio huius. xii. &amp; vltimi capitis est. Intemperantia magis quam 
+      <lb ed="#P" n="20"/>timiditas nostra sponte comparatur. Probatur haec conclusio. Primo, quia intemperantia est ob 
+      volu<lb ed="#P" n="21" break="no"/>ptatem quam cupimus: &amp; metus est ob dolorem quem fugimus. Secundo, dolor retrahit &amp; naturam 
+      <lb ed="#P" n="22"/>corrumpit habentis: voluptas autem nihil tale facit, sed potius saluat, igitur.
+    </p>
+            <p xml:id="JMAet9-d14811-d1e120">
+               <pc type="pilcrow">¶</pc> Secunda conclusio. 
+      Intemperan<lb ed="#P" n="23" break="no"/>tia est vitium reprehensione dignius quam ipsa timiditas. Probatio, nam scelus quo magis est voluntarium eo 
+      <lb ed="#P" n="24"/>magis paritate data vituperatione dignum est: intemperantia autem est metu magis voluntaria, ex dictis, igitur. 
+      <lb ed="#P" n="25"/>Secundo, illud quod facilius potest euitari est exprobrabilius: sed intemperanta citius euitari potest qui 
+      ti<lb ed="#P" n="26" break="no"/>miditas, igitur. Consequentia tenet cum maiore. Declaratur minor: quia vitium quod facilius &amp; sine 
+      discri<lb ed="#P" n="27" break="no"/>mine per assuefactionem ad contrarium fit potest facilius vitari: sed intemperantia est huiusmodi, igitur. Porro 
+      <lb ed="#P" n="28"/>facile &amp; sine periculo potest quispiam assuescere bene operari in his circa quae est temperantia &amp; intemperantia 
+      <lb ed="#P" n="29"/>quia earum obiecta crebriter occurrunt in vita, vt cibus &amp; potus, sed timiditatis obiecta in potentia 
+      pro<lb ed="#P" n="30" break="no"/>pinqua &amp; actu rarenter eueniunt. Item bene assuefieri in materia temperantiae non est periculosum: sed  
+      <lb ed="#P" n="31"/>assuefieri in actibus bellicis circa quae est timiditas, est periculosum. Tertio, illa circa quae est timiditas 
+      <lb ed="#P" n="32"/>sunt voluntaria in vniuersali &amp; in particulari sunt inuoluntaria: sed illa circa quae est intemperantia sunt 
+      <lb ed="#P" n="33"/>voluntaria in particulari, &amp; inuoluntaria in vniuersali. ld vno verbo dicitur. Aggredi conflictum in 
+      con<lb ed="#P" n="34" break="no"/>muni in quo timiditas exercetur, est magis spontaneum quam hanc acrem pugnam cum feroci hoste adoriri. 
+      <lb ed="#P" n="35"/>hoc enim pacto timor est magis in vniuersali spontaneus quam in singulari. Opposito modo de 
+      intempe<lb ed="#P" n="36" break="no"/>rantia: esse moechum ac intemperatum prorsus ab omnibus ratione vtentibus est respuendum: sed hanc 
+      mu<lb ed="#P" n="37" break="no"/>lierem, demonstrando Helenam, cupere est voluntarium. Vel breui dicatur sic. Nemo vellet intemperatus esse, 
+      <lb ed="#P" n="38"/>vincitur tamen a singularibus instantibus: quocirca potissimum est remedium circa intemperantiam 
+      cogita<lb ed="#P" n="39" break="no"/>tionem singularium abolere: cogitatum igitur ab hac speciosa foemina auerte, si sapis, hanc normam notato. 
+      <lb ed="#P" n="40"/>Contra est in timiditate, singularia sunt minus voluntaria vt ignominiose clypeum abiicere: verum 
+      <lb ed="#P" n="41"/>ipsum in communi est magis voluntarium vt fugiendo saluari: &amp; quia litera est paululum scabra eam 
+      enu<lb ed="#P" n="42" break="no"/>cleabo. Videtur autem timiditas, non perinde atque singula sponte agendi principio subiici, hoc est 
+      vi<lb ed="#P" n="43" break="no"/>detur timiditas in communi siue obiectum communitatis generaliter cosideratum non sic voluntati subiici 
+      <lb ed="#P" n="44"/>atque singularia: haec timiditas in generali dolorem no affert, sed illa singularia dolore animum 
+      stupefa<lb ed="#P" n="45" break="no"/>ciunt, vt arma abiicere compellant: at contra fit in intemperantia. litera est ita perspicua, vt ingeniosus me 
+      <lb ed="#P" n="46"/>carperet si vlterius eam enuclearem.
+    </p>
+            <p xml:id="JMAet9-d14811-d1e178">
+               <pc type="pilcrow">¶</pc> Sequitur in litera alia conclusio. Intemperantia vitium puerile est: cum 
+      <lb ed="#P" n="47"/>puerorum enim delictis quandam similitudinem habet: at vtrum ab altero hoc est an intemperans a puero, an 
+      <lb ed="#P" n="48"/>ab intemperante pusio intemperati nomen primum pullulauerit ad praesentem sermonem hoc nihil refert: 
+      <lb ed="#P" n="49"/>hoc est ad moralem philosophum nihil interest. Tales enim etymologiae potius ad grammaticum spectant. 
+      <lb ed="#P" n="50"/>Posterius a priore emergere palam est: sed hic ab intemperante puerilia peccata intemperantiae dicuntur: 
+      <lb ed="#P" n="51"/>nec absurde quidem eo modo nomen translatum est. Nam castigandum &amp; temperandum id omne est quod foeda  
+      <lb ed="#P" n="52"/>cupit &amp; mali incrementum capit, atque luxuriat, &amp; abundat: talis namque est libido: &amp; ipse puer. Nam pueri 
+      se<lb ed="#P" n="53" break="no"/>cundum concupiscentiam viuunt: magnaque est in illis voluptatum cupido. Si igitur moderatori puer non 
+      obten<lb ed="#P" n="54" break="no"/>peraret, naeque se subiici illi patiatur, nimium efferetur, &amp; serpet, &amp; longius praeceps in vitia abibit: quia ad 
+      <lb ed="#P" n="55"/>delectationem ad quam pronus est, habitu malo parto vallabitur. Est enim voluptatum appetitio 
+      insatia<lb ed="#P" n="56" break="no"/>bilis. appetitus sensitiuus quanto plus delectationem experitur, tanto magis eam prosequitur &amp; 
+      immer<lb ed="#P" n="57" break="no"/>gitur. Patet ad oculum, Da puero cerasa, pyra ve matura comedere ad corpus discrasiam &amp; ventris 
+      <lb ed="#P" n="58"/>infrigidationem quem distentat. alio qui vix quiescet. Et patet amplius, corpus prutiens scalpendo, 
+      pruti<lb ed="#P" n="59" break="no"/>tus luxuriat: &amp; scortationibus assueti rarentius abstinent: de gulosis &amp; assuetis immodice bibere, &amp; cum 
+      <!--125.xml-->
+      <pb ed="#P" n="54-v"/>
+               <lb ed="#P" n="1"/>foeminis se commiscere, &amp; vndique delectationibus furenti voluptatum appetitu insurgunt: &amp; 
+      concupiscen<lb ed="#P" n="2" break="no"/>tiae exequutio &amp; actus ipse exterior innatam cupiditatem luxuriare facit. Qa si perturbationes 
+      vehe<lb ed="#P" n="3" break="no"/>mentes sint, rationem extrudunt atque eiiciunt, hoc est rationem offuscant, vt in septimo libro videbitur. 
+      In<lb ed="#P" n="4" break="no"/>fert postea corollatium dicens. Quapropter oportet vt concupiscentiae mediocres sint &amp; perpaucae rationi 
+      <lb ed="#P" n="5"/>non aduersantes: tale quid temperatum castigatumque vocamus. Nulla voluptas nisi ea quae estrationi 
+      <lb ed="#P" n="6"/>conformis est admittenda. Quidam de honesta voluptate librum inscriptum emisit. In cibo &amp; 
+      mode<lb ed="#P" n="7" break="no"/>rato potu est innata voluptas: sic &amp; in studio &amp; in aliis voluptatum actibus si quis studiosus extiterit. 
+      <lb ed="#P" n="8"/>vt viuere autem puerum sub paedagogi praeceptionibus oportet, ita cupiditas parere debet rationi. ld 
+      <lb ed="#P" n="9"/>enim solum cupiendum est, quod ratio recta efflagitat. Ex quo iterum fit vt temperatus a ratione non 
+      discre<lb ed="#P" n="10" break="no"/>pet. Honestum enim est ad quod vteroe scilicet &amp; paedagogus &amp; ratio tamquam ad scopum prospicit. Propositum 
+      pae<lb ed="#P" n="11" break="no"/>dagogi est honestas: sic propositum rationis rectae vt appetitus delectationem omnem honestam respuat. 
+      <lb ed="#P" n="12"/>Dicebat perbelle saepenumero Agesilaus: Pulchrum est hostium moenia expugnare, sed multo pulchrius 
+      <lb ed="#P" n="13"/>foedas voluptates continere.
+    </p>
+            <p xml:id="JMAet9-d14811-d1e244">
+               <pc type="pilcrow">¶</pc> Circa solutionem huius capitis per modum dubitationis argumentor 
+      <lb ed="#P" n="14"/>Primo, Fortitudo est temperantia praestabilior: ergo timiditas est intemperantia deterior. Tenet 
+      conse<lb ed="#P" n="15" break="no"/>quentia, quia semper meliori peius opponitur, septimo, octauo &amp; nono Ethicorum.
+    </p>
+            <p xml:id="JMAet9-d14811-d1e255">
+               <pc type="pilcrow">¶</pc> Secundo dubitatur 
+      <lb ed="#P" n="16"/>de speciebus temperantiae.
+    </p>
+            <p xml:id="JMAet9-d14811-d1e263">
+               <pc type="pilcrow">¶</pc> Ad argumentum dico, quod maiori virtuti vitium oppositum est peius, 
+      <lb ed="#P" n="17"/>paritate data: modo timiditas circa magis difficile insudat, vt in litera philosophus dicit: modo 
+      inten<lb ed="#P" n="18" break="no"/>perantia habet aliquas malas partes annexas: &amp; est magis in nostra sponte sita. Modo vitium quanto 
+      <lb ed="#P" n="19"/>magis est in nostra facultate situm, tanto est exprobrabilius.
+    </p>
+            <p xml:id="JMAet9-d14811-d1e275">
+               <pc type="pilcrow">¶</pc> Ad dubitationem respondetur, quod 
+      spe<lb ed="#P" n="20" break="no"/>cies temperantiae sunt sequentes, sobrietas circa potum, cuius oppositum est temulentia: hoc est excessiua 
+      <lb ed="#P" n="21"/>potatio cuius) vna pars est ebrietas omnem rationem alienans: &amp; haec est humillima seu abiectissima, &amp; 
+      <lb ed="#P" n="22"/>virum ad statum brutalem deiicit. Mulieres Romanae tempore Romuli temulentia maculatae morte 
+      <lb ed="#P" n="23"/>plectebantur. Circa esibilia sunt temperantia regularis &amp; ecclesiae ieiunium: cuius quadragenarium in verno 
+      <lb ed="#P" n="24"/>tempore est antiquissimum: &amp; ratione diutinae consuetudinis maxime seruandum. Circa venerea sunt trea 
+      <lb ed="#P" n="25"/>castitatis species, virginalis, vidualis, &amp; coniugalis, cum earum oppositis, fornieatione simplici, moechia. 
+      <lb ed="#P" n="26"/>incestu, stupro, raptu, infando scelere, &amp; reliquis.
+    </p>
+            <p xml:id="JMAet9-d14811-d1e296">
+               <pc type="pilcrow">¶</pc> Verum hic ob Haerefiarehas &amp; eorum assectatores 
+      virgi<lb ed="#P" n="27" break="no"/>nitatem exterminantes qui candida denigrant &amp; atra dealbant ambigitur: quem locum inter has 
+      casti<lb ed="#P" n="28" break="no"/>tates virginalis nitor sibi vendicet: &amp; videtur quod infimum, in lege enim Mosaica rarentius erat in 
+      vsu<lb ed="#P" n="29" break="no"/>Filia Hiepte virginitatem suam in Montanis, quia semen in Israele non suscitauit, deflebat, vt in libro 
+      <lb ed="#P" n="30"/>ludicum memoriae est proditum.
+    </p>
+            <p xml:id="JMAet9-d14811-d1e310">
+               <pc type="pilcrow">¶</pc> Respondetur, quod de multiplicando populo dei tunc copulae erat 
+      <lb ed="#P" n="31"/>indulgendum, &amp; ea lex fuit vmbra solum &amp; typus legis gratiae. In noua autem lege Christipara 
+      vir<lb ed="#P" n="32" break="no"/>ginitatis tesseram explicuit, ad cuius vexillum multae virgines ocyus conuolarunt. Ioannes Sebedei. 
+      <lb ed="#P" n="33"/>Ioannes Sacharie, Agnes, Agatha. Vrsula, nostra Britanna agmen virginum agens densum: hi 
+      sequun<lb ed="#P" n="34" break="no"/>tur agnum quocumque ierit, vt Ioannes in Apocalypsi scribit causam subiungens: quia cum mulieribus non 
+      <lb ed="#P" n="35"/>sunt coinquinati, sed virgines permanserunt. Luculenter contra louinianum Hieronymus virginitatem 
+      <lb ed="#P" n="36"/>connubio praeferendam monstrat. Et patet ratione Abdicare enim in vniuersum venerea est splendidius 
+      <lb ed="#P" n="37"/>quam partem eorum abiicere. Inter hasce ergo castitates virginitas absolute apicem sortitur: licet ex 
+      circun<lb ed="#P" n="38" break="no"/>stantiis viduitas hanc vel illam exuperet. Sic Annae, de qua Lucae secundo, viduitas vsque annos. Sa. &amp; 
+      <lb ed="#P" n="39"/>Magdalenae caelibatus &amp; vitae puritas post conversionem triginta annis rigorose seruata, Agnetis 
+      virgi<lb ed="#P" n="40" break="no"/>nitatem perbreuem exuperant. Et castitas communiugalis Abrahae ob singularem praerogatiuam in ea 
+      relu<lb ed="#P" n="41" break="no"/>centem aequatur huic virginitati aut illi: simpliciter tamen virginitas reliquos duos castitatis ramos 
+      <lb ed="#P" n="42"/>supergreditur. ltaque connubialis castitas absolute inter has tres species infimum sortitur locum: quae 
+      ta<lb ed="#P" n="43" break="no"/>men est pulchra facilisque si vir probam nactus fuerit foeminam: sed si impudicam, morosam &amp; turture 
+      <lb ed="#P" n="44"/>loquaciorem inuene rit, est magna calamitas: propterea non ab re sancti virginitati primas dedere partes. 
+    </p>
+            <p xml:id="JMAet9-d14811-d1e346">
+               <lb ed="#P" n="45"/>⁋ Dubitatur, an gula intemperantiae filia sit mortale delictum. Respondetur, quod gula est appetitus 
+      in<lb ed="#P" n="46" break="no"/>ordinatus cibi vel potus saepius venialis: quando non est notabilis excessus a latitudine medii: quandiu 
+      <lb ed="#P" n="47"/>enim quispiam gyrum medii vere vel inuincibiliter tenet minime exorbitat: si plurimum a latitudine 
+      <lb ed="#P" n="48"/>medii deuiet in corporis discrasiam, gula est letalis: communius tamen iam venialem suspicor. Si vero 
+      <lb ed="#P" n="49"/>quispiam voto contraeat qui ecclesiae praeceptioni deliberate, formaliter, interpretatiue ve, mortaliter 
+      <lb ed="#P" n="50"/>delinquit. leiunium tamen ecclesiae ad corporis dispendium minime hominem deuincit: quando esset 
+      ieiu<lb ed="#P" n="51" break="no"/>nium in corporis laesionem notabilem, in occulto manducet ne alios malo exemplo scandalizet. 
+      Obscoeni<lb ed="#P" n="52" break="no"/>tatem ac exprobrabilitatem intemperantiae concludentes, dicimus quod bruta est intemperantiae foeditas, 
+      <lb ed="#P" n="53"/>Stante enim litera Aristotelica semper in diatribis Philoxenus siculus infamen appellation subibit. 
+      <lb ed="#P" n="54"/>Ecquid asoto Nerone detestabilius? Ameridie ad mediam vsque noctem epulas cum bellariis 
+      protrahe<lb ed="#P" n="55" break="no"/>bat: omnium nepotum altissimus gurges: inexplebilem ventris ingluuiem ceu deum colebat: inter 
+      scor<lb ed="#P" n="56" break="no"/>torum atque ambubaiarum ministeria coenitabat, vino largius hausto tetram in libidinem horrendamque 
+      <lb ed="#P" n="57"/>dictu ruebat. Hoc Suetonius detegit. Nonne Sardanapali inaudita intemperies Assyriorum imperium 
+      <lb ed="#P" n="58"/>magna industria partum prorsus euertit, asinus bipes inter homines non connumerandus. Eius 
+      epita<lb ed="#P" n="59" break="no"/>phium in Tusculanis quaestionibus Cicero commemorat: quod enim potius cornutum bouem quam hominem 
+      <lb ed="#P" n="60"/>fuisse indicant. De moribus deprauatis non de natura loquor. Polyphagi eum &amp; edaces vitam 
+      abbre<lb ed="#P" n="61" break="no"/>uiant, &amp; ad bellicos sudores sunt ineptissimi. obesis enim ventribus ingenii acumen atque memoriam 
+      <lb ed="#P" n="62"/>hebetant: de patinis plusquam de philosophia cogitant. Gulosis, Epaminundas Thebanus aequissimo iure 
+      <lb ed="#P" n="63"/>infestus fuit: qui quendam portentoso aqualiculo ab acie reiecit, affirmans tres clypeos talem ventricosum 
+      <lb ed="#P" n="64"/>tegere non posse. Mensas dapsiles diuitiis affluentes sicut cicutam spernebat, gastrimargosque insimula¬ 
+      <!--126.xml-->
+      <pb ed="#P" n="55-r"/>
+               <lb ed="#P" n="1"/>bat anxie. Inuictum Annibalem Campana luxuria eneruauit. Miles eius bellico strepitu assuetus nullis 
+      <lb ed="#P" n="2"/>Romanorum viribus vinci poterat: sed post ea in Capua ac circumuicinis locis tripudiis, cantionibus 
+      <lb ed="#P" n="3"/>ac scortationi deditus, prorsus elanguit, sicque crapula seu luxus vigilantissimum atque strenuissimum 
+      du<lb ed="#P" n="4" break="no"/>cem cum armipotente exercitu superandum tradidit. Non sic Helias vixit, qui coruorum ministerio pastus 
+      <lb ed="#P" n="5"/>est. Pari modo Paulo primo eremicolae dimidiatum panem coruus quotidie afferebat. Socratis, 
+      Plato<lb ed="#P" n="6" break="no"/>nis ac Diognis victus in gypto parsimonia est omnibus nota. Tymotheus dicere consueuit bene 
+      <lb ed="#P" n="7"/>cum his fore quos Plato conuiuino accepisset. Prugalissime enim coenauit, oliuis paucis, pane item &amp; 
+      <lb ed="#P" n="8"/>aqua contentus delicaciores epulas &amp; opipara conuiuia aspernabatur. Quid de ipso Daniele &amp; sociis scribamn, 
+      <lb ed="#P" n="9"/>qui regali mensa contempta coenam praeferebant, ne cibis lege violatis contaminarent? Et quid de Ioanne 
+      <lb ed="#P" n="10"/>Baptista omnium frugalissimo scripsero? Magdalene. Maria Egyptiaca, ac plerique alii in frugalitate ac 
+      <lb ed="#P" n="11"/>parsimonia incridibili totam vitam egerunt: petulansque corpus seruitutem sanctam seruire coegerunt, 
+      <lb ed="#P" n="12"/>paulatim ad arctitudinem sese redegerunt: quocirca eis haud quaquam obfuit. Denique praefatam regulam de 
+      <lb ed="#P" n="13"/>singularium cogitatu aureis literis notaueris ac tempus vnius diei deperditum minime putabis. Quid 
+      <lb ed="#P" n="14"/>dixi vnius diei? Dicam audacter integrae septimanae. Norma est haec. Cum cogitatio sormosae mulieris 
+      <lb ed="#P" n="15"/>quam alias amasti in mentem succurrit, illam citius dicto amputabis: et si illam antea non adamaueris 
+      <lb ed="#P" n="16"/>eam si perniciosa fuerit cancellabis. Sis memor illius considerati Anachoritae quem Romana foemina 
+      <lb ed="#P" n="17"/>opulenta, praestantique forma deuotionis gratia inuisebat, quae abiens aiebat: sancte vir tuis 
+      precamini<lb ed="#P" n="18" break="no"/>bus mei memoriam facito, cui scite syluicola respondit: deus faxit vt e scrinio meae memoriae prorsus 
+      <lb ed="#P" n="19"/>euellaris, atque funditus extirperis. In priscorum eremitarum annalibus multa similia lectitamus. Pari 
+      <lb ed="#P" n="20"/>modo lapsibus particulatim considerandis non immoreris: si tibi in mentem occurrat an posthac peccabis 
+      <lb ed="#P" n="21"/>nec ne, potissimum in singulis hunc scrupum rescinde: mentaliter dicens: mea pro virili ab omni excessu 
+      <lb ed="#P" n="22"/>defectuque cum dei praesidio cauebo. Et hoc dogmate hunc tertium claudo.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 11</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 11</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d31238"><!-- mair-l7c11 -->
+            <head xml:id="JMAet9-d31238-Hd1e103">Caput 11</head>
+            <p xml:id="JMAet9-d31238-d1e106">
+               <lb ed="#P" n="53"/>
+               <quote xml:id="JMAet9-d31238-Qd1e110" type="lemma">AD ipsum autem ciuilem</quote> &amp;c. Prima huius capitis conclusio est haec. Ad ciuilem siue moralem phlum attinet 
+      <lb ed="#P" n="54"/>de voluptate doloreque contemplari. Hanc trifariam probat. Prio sic Moralis phius est architectus, hoc est 
+      <lb ed="#P" n="55"/>praecipuus speculator finis ad quem videntes vnumquodque simpiciter aut bonum aut malum dicimus. Voluptas 
+      <lb ed="#P" n="56"/>est vt quidam finis, in prioque huius dicitur quod ad vitam cognitio finis magnum habet icrementum: ceu sagittarii signum 
+      <lb ed="#P" n="57"/>habentes magis vtique adipiscuntur quod oper, qui in bonis operibus delectatur is bonus est, quaim vero in malis voluptatem 
+      <lb ed="#P" n="58"/>capit is sane est malus. Insuper virtus moralis &amp; malitia sunt circa voluptates &amp; tristitias. Ex sedo huius. 
+      In<lb ed="#P" n="59" break="no"/>terdum circa eas, sed rarenter vt obiecta incidunt sed ad moralem phlum pertinet considerare de virtute &amp; ma¬ 
+      <!--258.xml-->
+      <pb ed="#P" n="119-r"/>
+               <lb ed="#P" n="1"/>litia, ergo ad ipsum attinet de voluptate &amp; dolore speculari.
+    </p>
+            <p xml:id="JMAet9-d31238-d1e133">
+               <pc type="pilcrow">¶</pc> Tertio, felicitas est cum voluptate, quocir 
+      <lb ed="#P" n="2"/>ca plures beatum a gaudendo nominarunt. Hinc tres de voluptate opiniones recitat. Quarum prima erat dicen 
+      <lb ed="#P" n="3"/>tium nullam voluptatem per se aut per accidens esse bonum. Voluptatem enim &amp; bonum non esse idem arbitrantur. Bonum per se 
+      <lb ed="#P" n="4"/>bonum est suapte natura bonum. Per accidens bonum est bonum alicui adiunctum, nam potius facit vt illud bonum 
+      <lb ed="#P" n="5"/>aliquid mali habeat ob eius commixtionem. Seuna erat opinio astruentium quae sdam voluptates esse bonas, set earum 
+      plu<lb ed="#P" n="6" break="no"/>rimas esse malas, hanc sedam insequitur. Inter vtrumque vola medio tutissimus ibis inquit poeta.
+    </p>
+            <p xml:id="JMAet9-d31238-d1e150">
+               <pc type="pilcrow">¶</pc> Tertia 
+      supre<lb ed="#P" n="7" break="no"/>mum bonum, deinde horum opinantum motiua adducit, in primis rationes priae opinionis. Pria autem ratio est. Nulla 
+      ge<lb ed="#P" n="8" break="no"/>neratio in natura sensibili est bona, at omnis delectatio est geneatio sensibilis in natura: igitur nulla delectatio 
+      <lb ed="#P" n="9"/>est bona, in sedo modo priae. Maior pta, quia nulla genatio est finis. sed via per quam ad finem deuenitur: sicut aedifica 
+      <lb ed="#P" n="10"/>tio quae est domus generatio non est ipsa domus, sed via ad domum. Et bonum &amp; finis secundum sic 
+      <lb ed="#P" n="11"/>argumentantes coincidunt, proinde secundum eos nulla generatio est bonum. Et minor declaratur per 
+      <lb ed="#P" n="12"/>delectationis diffinitionem quam ipsi ponebant dicentes. Tunc solum esse delectationem, quando aliquod  
+      <lb ed="#P" n="13"/>sensibile nostrae naturae additur quasi nobis connaturale, vt in escae aut potus assumptione est videre. 
+      <lb ed="#P" n="14"/>Sed quia haec prima ratio est caeteris taediosior, sic argumentor. nihil est bonum quod cum fine stare nequit, 
+      <lb ed="#P" n="15"/>cum nihil sit bonum nisi ob causas finales: vt inquit commentator. xii. Metaphy. at voluptas non stat cum fine, 
+      <lb ed="#P" n="16"/>quia finis est in perfecto est, voluptas nunquam est in perfecto esse, sed in perfectionis generatione. Patet ad 
+      ocu<lb ed="#P" n="17" break="no"/>lum, si frigeas calefactio erit tibi voluptati, donec ad temperamentum reductus fueris, &amp; non amplius. Et 
+      <lb ed="#P" n="18"/>si repletionis egeas, esca erit tibi voluptati, sed non diutius quam cum stomachus &amp; pori rempleti fuerint.
+    </p>
+            <p xml:id="JMAet9-d31238-d1e182">
+               <pc type="pilcrow">¶</pc> Seda 
+      <lb ed="#P" n="19"/>ratio est Tales voluptates vir temperans fugit: igitur voluptas est quid malum. Praeterea.
+    </p>
+            <p xml:id="JMAet9-d31238-d1e191">
+               <pc type="pilcrow">¶</pc> Tertio prudens 
+      in<lb ed="#P" n="20" break="no"/>dolentiam &amp; dolorum vacuitatem sequitur, non autem ipsas voluptates.
+    </p>
+            <p xml:id="JMAet9-d31238-d1e199">
+               <pc type="pilcrow">¶</pc> Quarto voluptates impedimento sunt 
+      <lb ed="#P" n="21"/>prudenti, &amp; quo quis magis his voluptatibus afficitur &amp; gaudet, eo magis impeditur, vt in venerea voluptate 
+      <lb ed="#P" n="22"/>intueri licet. Nemo quoque dum est in illa, quicquam mente considerare valet: proinde voluptates non sunt 
+      bo<lb ed="#P" n="23" break="no"/>nae.
+    </p>
+            <p xml:id="JMAet9-d31238-d1e211">
+               <pc type="pilcrow">¶</pc> Quinto delectationis nulla est ars: at omne bonum humanum est opus alicuius artis. 
+    </p>
+            <p xml:id="JMAet9-d31238-d1e217">
+               <lb ed="#P" n="24"/>⁋ Sexto, pueri &amp; belluae ipsas voluptates sequuntur, sunt igitur brutales voluptates &amp; non expetendae 
+      <lb ed="#P" n="25"/>vt bonae. His sex rationibus pro prima opinione recitatis, pro secda similiter argumentatur. Primo sic. 
+      <lb ed="#P" n="26"/>Quaedam voluptates sunt turpes ac infames: ergo non omnes sunt studiosae. Sedo quia aliquam voluptatum detri 
+      <lb ed="#P" n="27"/>mentum afferunt, voluptatem enim efficientia quaedam morbos aggenerant, alias autem esse bonas nihil ipsis videtur 
+      <lb ed="#P" n="28"/>esse absurdum.
+    </p>
+            <p xml:id="JMAet9-d31238-d1e230">
+               <pc type="pilcrow">¶</pc> Demum vnico medio pro tertia positione argumentatur, quae dicit nullam delectatio 
+      <lb ed="#P" n="29"/>nem esse optimam quamuis omnes sint bonae. ld quod non est finis non est optimum, at nulla voluptas est 
+      <lb ed="#P" n="30"/>finis: igitur. Consequentia tenet cum maiore. Et minor probatur secudm loquentium dicta, omnis 
+      dele<lb ed="#P" n="31" break="no"/>ctatio est generatio sensibilis in natura, &amp; nulla generatio est finis, sed via ad finem. Haec fere sunt quae de 
+      <lb ed="#P" n="32"/>voluptate ab illis adducuntur.
+    </p>
+            <p xml:id="JMAet9-d31238-d1e244">
+               <pc type="pilcrow">¶</pc> Sed contra literam obiicitur: primo. Videtur autem quod hic non est locus de volupta 
+      <lb ed="#P" n="33"/>te disserendi: immo est in decimo: in signum cuius in illius libri primordio de voluptate loquitur. Item in rhe 
+      <lb ed="#P" n="34"/>torica de voluptate determinat, ergo non hic.
+    </p>
+            <p xml:id="JMAet9-d31238-d1e255">
+               <pc type="pilcrow">¶</pc> Respondetur quod hic principaliter de voluptate sensuali 
+      <lb ed="#P" n="35"/>loquitur, &amp; de tristitia, circa quam continentia incontinentia, mollicies &amp; perseuerantia laborant. de spumali autem delecta 
+      <lb ed="#P" n="36"/>tione non determinat nisi per quando corporalis voluptas melius dephenditur. Opposito autem mon determinat 
+      <lb ed="#P" n="37"/>in decimo. Principalt enim de spumali in decimo, vt de felicitate loquuturus, quim quia non est sine voluptate. 
+      <lb ed="#P" n="38"/>prius de voluptate loquitur. Item plerique philosophi &amp; vulgus in delectatione felicitatem ponebant. hoc autem in  
+      <lb ed="#P" n="39"/>decimo euacuat antequam prouinciam loquendi de felicitate subeat. Et quia inter amicos maxime solet esse de 
+      <lb ed="#P" n="40"/>lectatio (nihil enim est delectabilius quam cum honestis amicis conuiuere, vt in octauo &amp; nono dicit) 
+      ea<lb ed="#P" n="41" break="no"/>propter post hanc materiam voluptatis in septimi calce de amicitia loquetur. Et sic hosce libros 
+      con<lb ed="#P" n="42" break="no"/>nectit.
+    </p>
+            <p xml:id="JMAet9-d31238-d1e278">
+               <pc type="pilcrow">¶</pc> Ad seudam rationem dicitur quod rhetorica solum probabiliter de voluptate tractat, moralis autem 
+      <lb ed="#P" n="43"/>philosophus demonstratiue eo modo quo ethicus demonstrationes suscipit.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

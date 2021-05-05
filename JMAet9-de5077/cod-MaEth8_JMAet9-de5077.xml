@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-de5077"><!-- mair-l2c2 -->
+            <head xml:id="JMAet9-de5077-Hd1e103">Caput 2</head>
+            <p xml:id="JMAet9-de5077-d1e106">
+               <lb ed="#P" n="55"/>
+               <quote xml:id="JMAet9-de5077-Qd1e110" type="lemma">Cvm autem</quote>. In priore capite philosophus ostendit virtutes non inesse nobis a natura, sed ab 
+      ope<lb ed="#P" n="56" break="no"/>rationibus nostris: nunc consequenter ostensurus est speciatim quales sunt operationes ex 
+      qui<lb ed="#P" n="57" break="no"/>bus virtutes prodeunt. Et hoc caput trifatiam scindit. In prima parte tria praeambula ponit. 
+      <lb ed="#P" n="58"/>In secunda parte monstrat quae operationes sunt virtutis generatiuae. In tertia ostendit qualium ope 
+      <!--55.xml-->
+      <pb ed="#P" n="20-v"/>
+               <lb ed="#P" n="1"/>rationum sunt productiuae virtutes. In principio sic infit. Cum autem praesens tractatio, siue 
+      negoci<lb ed="#P" n="2" break="no"/>um non contemplationis gratia suscipitur, vt pleraque suscipiuntur alia. vti videre est in 
+      mathemati<lb ed="#P" n="3" break="no"/>cis &amp; in scientiis speculatiuis, quae veritatis sunt, non autem pietatis secundum Hieronymum. Non 
+      <lb ed="#P" n="4"/>enim vt sciamus quid sit virtus, sed vt probi efficiamur, huiusmodi arti insudandum est. alioquin 
+      <lb ed="#P" n="5"/>huius operis nulla erit vtilitas. Finis minus principalis est virtutis agnitio, illa autem non est 
+      ne<lb ed="#P" n="6" break="no"/>gligenda. In sorbonicis actibus plerunque de illo disceptant. Praecipuus autem finis est belle operari. Haec 
+      <lb ed="#P" n="7"/>ars ad hoc ordinatur vt bene beateque vitam agamus. Postea subdit. Actus enim sunt authores hoc est 
+      <lb ed="#P" n="8"/>causae effectiuae habituum. Quemadmodum autem in praecedenti capite &amp; in libro primo 
+      significaui<lb ed="#P" n="9" break="no"/>mus, quales ipsi actus sint tales esse &amp; habitus oportet. Conducit igitur ad parandas virtutes 
+      contem<lb ed="#P" n="10" break="no"/>plari quales sunt operationes agendae. Mirum est ergo de <name xml:id="JMAet9-de5077-Nd1e145">Ioanne Buridano</name> &amp; nonnullis haesitantibus 
+      <lb ed="#P" n="11"/>an actus sint habituum causae, cum Aristoteles id in litera expresse dicat &amp; possit illud per artem 
+      in<lb ed="#P" n="12" break="no"/>ueniendae causalitatis ostendi. Sequitur in litera. Agere igitur ratione recta &amp;c. Vult dicere quod commu 
+      <lb ed="#P" n="13"/>ne est omnibus moralibus virtutibus, ex operationibus quac ex recta ratione emergunt, nasci. De 
+      re<lb ed="#P" n="14" break="no"/>cta autem ratione posthac in sexto fusius loquendum est. hoc pro nunc supponatur, quamuis omnis 
+      ser<lb ed="#P" n="15" break="no"/>mo de operabilibus humanis debeat sub rudi minerua tradi. Propterea dat analogias more 
+      concio<lb ed="#P" n="16" break="no"/>natoris in templo, ) tamen tentandum est in hac arte de ipsis operationibus nonnihil dicere, vt 
+      au<lb ed="#P" n="17" break="no"/>xilium his detur qui studiose degere gliscunt: dicitque quod vniuersus sermo de rebus agendis sub figura 
+      <lb ed="#P" n="18"/>&amp; non exacte fieri debet. Rationes enim secundum materiam subiectam (vt saepius libro primo 
+      dixi<lb ed="#P" n="19" break="no"/>mus) sunt efflagitandae, actiones &amp; ea quae prosuntinon habent firmitatem, quemadmodum neque 
+      salu<lb ed="#P" n="20" break="no"/>bria etiam in vniuersali, ergo a fortiori in particulari: quemadmodum singularia neque sub artem neque 
+      <lb ed="#P" n="21"/>sub praeceptionem cadunt vllam. In talibus iubet Plato quiescere, teste Porphitio. Saepius scimus 
+      in<lb ed="#P" n="22" break="no"/>definitam &amp; vniuersalem cuius singulares ambigimus. Has enim non ambigo, homo est in area 
+      col<lb ed="#P" n="23" break="no"/>legii montis acuti. &amp; omnis homo in area est in area. Attamen singulares omnes dubitamus: sed 
+      ne<lb ed="#P" n="24" break="no"/>cesse est operantes accommodare se temporis cursui, quemadmodum in medicina &amp; gubernandi arte. hoc 
+      <lb ed="#P" n="25"/>est nauigatione. Medicus aliter curat grauem annis, aliter iuuenem, etiam febre tertiana, continua, aut  
+      <lb ed="#P" n="26"/>quotidiana, laborantes. Aliter verno tempore, aliter in hyeme, &amp; aestu: sic in proposito, aliter tempore 
+      <lb ed="#P" n="27"/>carae annonae &amp; tempore fertilitatis viuimus. Cum iuuenibus aliter quam aetate prouectis est procedendum. 
+      Sequi<lb ed="#P" n="28" break="no"/>tur. Primum igitur hoc contemplemur oportet, vt excessus &amp; defectus mores corrumpant, vt in valetu 
+      <lb ed="#P" n="29"/>dine fieri videmus. Vult dicere quod operationes mediae inter excessum &amp; defectum procreant virtutem. 
+      <lb ed="#P" n="30"/>Hoc ipsum sic probat. Quaecumque corrumpuntur a superabundantia &amp; defectu, illa generantur &amp; seruantur a 
+      <lb ed="#P" n="31"/>mediis inter defectum &amp; superabudantiam: sed virtutes morales corrumpuntur per excessum &amp; defectum, 
+      <lb ed="#P" n="32"/>itaque generantur &amp; seruantur ab operationibus mediis. Maiorem facilibus exemplis explicat. Nam fortitudo 
+      <lb ed="#P" n="33"/>corporalis corrumpitur per excessum gymnasii &amp; exercitii, &amp; etiam ob defectum exercitii. Nam ob excessiuum 
+      <lb ed="#P" n="34"/>laborem vires corporeae resoluuntur &amp; attenuantur: &amp; exercitationis poenuria homines fiunt molles, 
+      <lb ed="#P" n="35"/>&amp; putridi humores in eis generantur. Similiter in cibi &amp; potus redundantia aut parcitate plures gula &amp; 
+      <lb ed="#P" n="36"/>crapula pereunt. Moderati cibi valetudinem faciunt augent &amp; conseruant. Et qui in morbum cibi 
+      exupe<lb ed="#P" n="37" break="no"/>perantia incidit, opus est abstinentia, quae sanitatem procreat paruam, postea eam auget. Alius enim est 
+      <lb ed="#P" n="38"/>alio sanior, sicut alius est alio melior: &amp; sanitatem moderatus cibus conseruat. Vt plurimum morbus per 
+      <lb ed="#P" n="39"/>os sumit initium. ldem est in defectu: nam corporis vires a calore naturali resoluuntur, nisi per humidum 
+      <lb ed="#P" n="40"/>cibale fiat restauratio, perit homo. Et quia probatio est ignotum per notius explicare: Aristoteles per 
+      <lb ed="#P" n="41"/>corporalia nobis magis cognoscibilia animae virtutes explanat. Qui nihil timet, sed in omnia 
+      prae<lb ed="#P" n="42" break="no"/>ceps ruit, temerarius &amp; audax efficitur. Et qui omnia formidat, sic timidus efficitur, vt soricis strepitum, 
+      <lb ed="#P" n="43"/>&amp; bubonis nocturnum sonum formidet. Et qui omni voluptate potitur &amp; a nulla abstinet, is intemperans 
+      <lb ed="#P" n="44"/>est. Et qui omne oblectamentum horret atque refugit ad modum agrestium, insensibilis est. Quocirca for 
+      <lb ed="#P" n="45"/>titudo, temperantia, &amp; quaelibet virtus ab excessu &amp; defectu corrumpitur, &amp; a mediocritate seruatur. 
+    </p>
+            <p xml:id="JMAet9-de5077-d1e225">
+               <lb ed="#P" n="46"/>⁋ Sequitur tertia pars huius capitis principalis. At enim non solum. In qua ait, non solum ex mediis 
+      <lb ed="#P" n="47"/>operationibus inter superabundantiam &amp; defectum virtutes generantur, &amp; ex operationibus secundum 
+      super<lb ed="#P" n="48" break="no"/>abundantiam &amp; defectum corrumpuntur, sed etiam ex virtutibus genitis fiunt operationes commensuratae 
+      <lb ed="#P" n="49"/>&amp; mediae inter excessum &amp; defectum. Hoc sic ostendit similitudine facta per habitus corporales tamquam 
+      <lb ed="#P" n="50"/>magis notos. Sicut est in corporis virtutibus, ita est in animae virtutibus: sed virtutes corporales 
+      pro<lb ed="#P" n="51" break="no"/>ducunt tales operationes ex quibus producuntur: igitur. Maior tenet conuenienti similitudine: &amp; minor 
+      <lb ed="#P" n="52"/>declaratur sic, Fortitudo corporalis causatur ex hoc quod aliquis sumit cibum sicut oportet: &amp; ex hoc 
+      <lb ed="#P" n="53"/>quod quispiam in actibus fortitudinis sese exercet: &amp; cum factus est robustus tum multum cibi sumere &amp; 
+      <lb ed="#P" n="54"/>multos labores tolerare potest. Et sic est in virtutibus ipsis: nam abstinendo a voluptatibus temperantes 
+      <lb ed="#P" n="55"/>efficimur: &amp; facti iam temperantes maxime possumus ab his abstinere. Non alia via in Thebaide Agypti 
+      <lb ed="#P" n="56"/>&amp; in aliis plerisque locis anachoritae se ad arctitudinem viuendi redegerunt, &amp; sensim magnam latitudinem 
+      <lb ed="#P" n="57"/>ad paruam deduxerunt. Videmus enim aliquos multum bibentes aut comedentes non parum viuere dum 
+      <lb ed="#P" n="58"/>modo exercitentur: &amp; tunc assuetudine, eorum natura manducare &amp; bibere est potens. Si habituatus 
+      tenui<lb ed="#P" n="59" break="no"/>ter comedere tantundem consumeret, laboraret morbo. In animae autem vitiis non minus percipimus. 
+      <lb ed="#P" n="60"/>Difficile enim est petulanti iuueni superiorum praeceptionibus arctam regulam seruare: sed cum 
+      ali<lb ed="#P" n="61" break="no"/>quantulum a voluptatibus abstinuerit, abstinere non est difficile. 
+      <lb ed="#P" n="62"/>Vbitatur primo, an ex vnica operatione, habitus qui est virtus, generari potest. Secundo, an 
+      <lb ed="#P" n="63"/>ex solis actibus elicitis siue imperatis potest virtus generari. Tertio, an actus habitum 
+      praece<lb ed="#P" n="64" break="no"/>dens &amp; illum sequens specie distinguantur. Quarto dubitatur, an virtus per excessum &amp; 
+      <!--56.xml-->
+      <pb ed="#P" n="21-r"/>
+               <lb ed="#P" n="1"/>defectum corrumpatur.
+    </p>
+            <p xml:id="JMAet9-de5077-d1e275">
+               <pc type="pilcrow">¶</pc> Ad primam dubitationem respondetur, quod sunt qui illud negant, sunt qui concedunt: 
+      <lb ed="#P" n="2"/>sed strictim respondemus, si quis fuerit vnico vitio aut pluribus coinquinatus, opus est actuum 
+      repeti<lb ed="#P" n="3" break="no"/>tione ad hoc vt virtus generetur. Patet, quia non prius virtus generatur quam vitium ei aduersum 
+      corrun<lb ed="#P" n="4" break="no"/>pitur: sed illud actuum bonorum multiplicationem efflagitat: igitur. At loquendo de virtute non habente 
+      op<lb ed="#P" n="5" break="no"/>positum: dico quod ex vno actu etiam remisso generatur habitus qui est virtus. Patet, quia intensus actus 
+      <lb ed="#P" n="6"/>intensum habitum generat, qui est virtus: ergo pars actus partem virtutis generat. Praeterea vel primus 
+      <lb ed="#P" n="7"/>actus nonnihil in potentia generat, vel nihil, sed tantum disponit: sicut guttae in lapidum cauatione. Non 
+      <lb ed="#P" n="8"/>secundum, Anima enim est disposita ad virtutis susceptionem: ergo primum: &amp; illud est eiusdem speciei cum 
+      <lb ed="#P" n="9"/>virtute, &amp; erit pars virtutis, quare iam non erit virtus.
+    </p>
+            <p xml:id="JMAet9-de5077-d1e298">
+               <pc type="pilcrow">¶</pc> Ad secundam dicitur quod sic: immo a solis actibus: 
+      <lb ed="#P" n="10"/>elicitis a voluntate, intellectu, aut sensu elicitur virtus. Insuper quis potest habere actum bonum circa 
+      ali<lb ed="#P" n="11" break="no"/> 
+               <lb ed="#P" n="12"/>quam materiam &amp; non exire in actum ob impedimentum. Ego reor me habere in crumena quam enodo 
+      <lb ed="#P" n="13"/>stypem inopi daturus sacculum pecuniarum, &amp; hoc efficaciter volo, &amp; licet, quia sacculus abest nihil inopi 
+      <lb ed="#P" n="14"/>daturus sim, tamen elicio actum dandi qui est bonus &amp; non minus meritorius quam actus dantis. paritate hinc 
+      <lb ed="#P" n="15"/>inde seruata: cum actus exterior nihil boni, actui interiori superaddat: prout nunc supponitur. At si 
+      <lb ed="#P" n="16"/>facultas adsit ex sola voluntate interiori sine exteriori non generatur virtus. Si enim homo in actum 
+      <lb ed="#P" n="17"/>exteriorem non exit tempore praeceptionis, perperam agit: ergo tunc actus eius non generat virtutem: possum 
+      <lb ed="#P" n="18"/>tamen crebriter actum habere virtutis generatiuum sine exteriori actu: vt volo dare quando oportet: vel 
+      <lb ed="#P" n="19"/>volo dare perendie a, licet non sequitur vnquam actus dandi ad extra: isti actus eliciti virtutes procreant 
+    </p>
+            <p xml:id="JMAet9-de5077-d1e326">
+               <lb ed="#P" n="20"/>⁋ Ad tertiam dubitationem respondetur, quod aliqui effectus eiusdem specieni a causis specie distinctis. 
+      <lb ed="#P" n="21"/>emergunt, id est perspicuum de calore a sole &amp; calore ab igne productis. In actibus animae distinctionem 
+      <lb ed="#P" n="22"/>non solum ab obiecto arguimus, verumetiam a causa effectrice: propterea scientiam &amp; opinionem eiusdem 
+      <lb ed="#P" n="23"/>conclusionis specie differre dicimus. Et cum virtus habitus sit actus sequentis effectrix, operatio sequens 
+      <lb ed="#P" n="24"/>habitum ab alia causa proficiscitur quam prima operatio virtutis generatiua. Qui huic rationi vsquequaque 
+      <lb ed="#P" n="25"/>inniteretur. diceret consequenter, actum habitum antecedentem &amp; illum sequentem specie differre. Sed contra 
+      <lb ed="#P" n="26"/>hoc insultabimus. Quando actus successiue elicitur, si non separabis actus partem quae ab habitu non 
+      <lb ed="#P" n="27"/>proficiscitur, aliam speciem in partibus habitus atque actibus explorabis. Omnibus consideratis 
+      dici<lb ed="#P" n="28" break="no"/>mus actum habitum sequentem &amp; eius productiuum esse eiusdem speciei. Nec semper a causis specie 
+      <lb ed="#P" n="29"/>distinctis habituum speciuoca distinctio requiritur, in effectu, signanter quando est habitus qui est 
+      a<lb ed="#P" n="30" break="no"/>ctus vestigium &amp; director, ad omnino similem actum a quo emanauit inclinans. 
+    </p>
+            <p xml:id="JMAet9-de5077-d1e352">
+               <lb ed="#P" n="31"/>⁋ Ad quartum dicimus affirmatiue, patet authoritate philosophi in litera. 
+    </p>
+            <p xml:id="JMAet9-de5077-d1e357">
+               <lb ed="#P" n="32"/>⁋ Ad partem negatiuam arguitur, eliciat Socrates a actum dandi plusquam oporteat, postea b actum non 
+      <lb ed="#P" n="33"/>dandi quando oportet, hoc est ad vnum diem. eliciat vnum actum prodigalitatis, &amp; postea actum 
+      illibe<lb ed="#P" n="34" break="no"/>ralitatis, &amp; sic magno tempore alternatim, tunc sic quantum vna latitudo addit super ambitum medii. 
+      <lb ed="#P" n="35"/>tantum alia congeries illiberalitatis subtrahit, ergo relinquunt medium in quo stat virtus. Et patet 
+      <lb ed="#P" n="36"/>per simile. Sit latitudo medii pedalis, adde semipedale, postea medium pedem subtrahe, &amp; sic consequem 
+      <lb ed="#P" n="37"/>ter semper tantum auferas quantum addis, semper habebis pedale.
+    </p>
+            <p xml:id="JMAet9-de5077-d1e373">
+               <pc type="pilcrow">¶</pc> Respondetur quod latitudo medii i 
+      <lb ed="#P" n="38"/>non prouenit a dato sed ex modo dandi &amp; dato. Patet exemplariter. Sint Socrates &amp; Plato aeque 
+      opu<lb ed="#P" n="39" break="no"/>lenti, sit ita quod circunstantiis omnibus eisdem paribus det Socrates viginti toto hoc die liberaliter, 
+      <lb ed="#P" n="40"/>det Plato totidem quibus non oportet, non dando etiam multis quibus oportet, tantum dat Plato 
+      quan<lb ed="#P" n="41" break="no"/>tum Socrates, &amp; Plato multis peccatis delinquit, ergo analogiae non sunt ad propositum.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

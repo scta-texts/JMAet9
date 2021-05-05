@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 10</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 10</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d24127"><!-- mair-l5c10 -->
+            <head xml:id="JMAet9-d24127-Hd1e103">Caput 10</head>
+            <p xml:id="JMAet9-d24127-d1e106">
+               <lb ed="#P" n="9"/>
+               <quote xml:id="JMAet9-d24127-Qd1e110" type="lemma">DEinceps autem</quote> &amp;c. Consequens est autem de bono &amp; aequo quemadmodum bonitas &amp; aequitas se habeant 
+      <lb ed="#P" n="10"/>ad iustitiam ac bonum &amp; aequum ad iustum, hoc est ad eius obiectum determinationem suscipere, haec aequi 
+      <lb ed="#P" n="11"/>tas apud veterem traductionem epiicia vocatur, vulgus epicaiam vocat. Et aequitatem 
+      quadrifa<lb ed="#P" n="12" break="no"/>riam iusto legali comparat. Primo nanque considerantibus, neque idem simpliciter est iustitiae &amp; iusto, Secundo: neque 
+      <lb ed="#P" n="13"/>venere diuersa esse videntur, sed iustitia &amp; aequitas ad idem genus spectant. Tertio aequitas est laudabilior iu 
+      <lb ed="#P" n="14"/>sto. Nam plerumque aequum &amp; bonum laudamus vt virum talem, non vt iustum. Quarto est iusto melior aequus, 
+      <lb ed="#P" n="15"/>&amp; nomen aequi &amp; boni ad alia amplius commendanda pro bono transferunt: ex additione aequi quicquam me 
+      <lb ed="#P" n="16"/>lius &amp; nobilius esse significantes: quoniam iustum legale aequitas dirigit, est iusto legali melior. Vbique enim 
+      <lb ed="#P" n="17"/>dirigens est praestabilius illo quod per ipsum dirigitur. lam in oppositum disceptat. Ex opposito vero 
+      ratio<lb ed="#P" n="18" break="no"/>nem sequentibus saepius occurrit absolutum omnino esse aequum &amp; bonum laudabile esse si aequum &amp; bonum 
+      <lb ed="#P" n="19"/>iustum non extiterit, sane aut iustum studiosum non est, aut si vtrumque studiosum est, iustum aequum &amp; bonum 
+      <lb ed="#P" n="20"/>idem esse videbuntur. Nanque studiose percurrendo nullum aliud in mentem venit cui in aequum &amp; bonum 
+      ad<lb ed="#P" n="21" break="no"/>iungamus: &amp; haec de aequo &amp; bono difficultatem afferunt: ea propter de eo discussionem suscipere conuenit. 
+      <lb ed="#P" n="22"/>Respondens obiectionibus tam ad partem affirmatiuam quam ad negatiuam factis primo dicit recte se habent 
+      ali<lb ed="#P" n="23" break="no"/>quo modo omnia: &amp; sibi non obuersantur aequum &amp; bonum, &amp; iustum est aliquo modo praestantius: &amp; non 
+      <lb ed="#P" n="24"/>vt aliquod aliud genus a iusto, quia sub naturali includitur. ldem est ergo iustum, aequum &amp; bonum. At 
+      ve<lb ed="#P" n="25" break="no"/>ro id iustum quod est secundum legem non est idem cum iusto legitimo seruando verba legis, sed cum iusto 
+      <lb ed="#P" n="26"/>naturali: sed est emendatio iusti legitimi, ergo est ipso melius. Causa autem est. lex omnis vniuersalis est &amp; 
+      <lb ed="#P" n="27"/>non potest dari de omnibus: &amp; vniuersalis multa includit in cuius singularibus communiter eadem est 
+      ra<lb ed="#P" n="28" break="no"/>tio: hinc est vniuersalis. atqui fieri nequit vt de quibusdam contingentibus lex vniuersaliter feratur. In  
+      <lb ed="#P" n="29"/>quibus igitur legem ferre operaeprecium est, &amp; recte vniuersaliter intelligi non potest. In talibus lex capit 
+      <lb ed="#P" n="30"/>id quod in pluribus in vsu est, peccatum intelligens. Sicut naturalis dicit hominem cum quinque digitis 
+      <lb ed="#P" n="31"/>nasci, sciens tamen ob peccatum oppositum quandoque euenire: nihilo tamen secius ea lex recta est: Peccatum 
+      <lb ed="#P" n="32"/>enim non est in lege, nec in legislatore: sed in ipsa rei natura. Continuo namque rerum earum quae sub actionem cadunt 
+      <lb ed="#P" n="33"/>materia talis est, vt vniuersali lege numquam satis comprehendantur, quin quicquam vbique subtrahendum excipiendumque 
+      <lb ed="#P" n="34"/>occurrat. Sicut in grammatica a regulis communibus multae sunt exceptiones. Nec in humanis operibus 
+      <lb ed="#P" n="35"/>ob diuersitatem figendus est limes: ergo legem emendari saepius convenit. Probatur. Siquidem cum lex de aliquibus vniuer 
+      <lb ed="#P" n="36"/>saliter stabilita est aliquid praeter vniuersale inueniatur aequum est: vt ex ea parte qua legislator omisit, &amp; absolute 
+      <lb ed="#P" n="37"/>nihildemendo loquutus est, castigetur quod deest: &amp; nimirum idiustum &amp; rectum est. Nam si ipse legislator adesset, isto mon 
+      <lb ed="#P" n="38"/>fecisset: &amp; si aliquid ita emersurum praecognouisset vtique dixisset, licet iam legem tulerit. Quamobrem 
+      iu<lb ed="#P" n="39" break="no"/>stum est &amp; melius aliquo iusto, non stando in distributione termini iusto, sed perinde ac si staret determina 
+      <lb ed="#P" n="40"/>te, puta iusto legali est melius, non eo quod est simpliciter, hoc est iusto in vniuersali: quia non est melius iusto 
+      <lb ed="#P" n="41"/>naturali quod semper tenet. Sed eo quod propter simplicitatem peccat non est hic sermo de peccato in 
+      mo<lb ed="#P" n="42" break="no"/>ribus, sed de deuiatione illius quod coducit, quemadmodum secundo physicorum dicitur, monstrum est pec 
+      <lb ed="#P" n="43"/>catum in natura.
+    </p>
+            <p xml:id="JMAet9-d24127-d1e188">
+               <pc type="pilcrow">¶</pc> Alia conclusio, quia iusta secundum leges faciunda sunt, decreto &amp; iudicio boni &amp; aequi 
+      <lb ed="#P" n="44"/>opus est. Siquidem munus boni &amp; aequi est legis emendatio: ea ex parte qua ob vniuersale deest. ld enim 
+      <lb ed="#P" n="45"/>causae est vt non omnia secundum legis expressionem fiant: quia de quibusdam expressam sententiam 
+      fer<lb ed="#P" n="46" break="no"/>re impossibile est, indefinite siue indeterminate rei indeterminata &amp; variabilis est regula. Et sententia aequi 
+      <lb ed="#P" n="47"/>&amp; boni ad res ipsas perinde sese habere debet vt plumbea regula in Lesbo insula aedificantium: quae ad 
+      lapi<lb ed="#P" n="48" break="no"/>dis figuram mutatur &amp; non manet eadem. Lapides ibi loci ob duritiem sunt intractabiles. Eodem 
+      exem<lb ed="#P" n="49" break="no"/>plo primo politicorum philosophus vtitur. Est autem lesbos insula in aegaeo mari sita, a borea in austrum 
+      <lb ed="#P" n="50"/>protensa quingenta aut sexaginta stadia longitudinis habens. Ferrea regula aut lignea est immutabilis: 
+      <lb ed="#P" n="51"/>plumbea vero exiguo negocio variatur. Caeterum Pyctacus vnus ex septem sapientibus &amp; Theophrastus 
+      <lb ed="#P" n="52"/>ea in insula orti sunt, nunc autem mytilene a mytelene oppido appellatur. Et sicut regula lesbia mutatur: 
+      <lb ed="#P" n="53"/>ita decretum ad res ipsas, &amp; non manet semper vniforme: vna enim circumstantia adueniens vel recedens potest 
+      <lb ed="#P" n="54"/>decretum immutare. Patet igitur quid sit aequum &amp; bonum, &amp; esse iustum: &amp; quo iusto praestabilius est. Ex 
+      <lb ed="#P" n="55"/>dictis prompte depraehendi potest quis sit aequus &amp; bonus. Est enim is qui talia eligit atque agit, &amp; qui non 
+      <lb ed="#P" n="56"/>exacte amplectitur ius in deteriorem partem ad puniendum, seruando verba legis eius sensu relicto. Sum 
+      <lb ed="#P" n="57"/>mum ius, summa saepe iniuria est: sed imminuit poenam tametsi legem adiutricem ad illud habet: hoc est 
+      <lb ed="#P" n="58"/>corticem legis ad puniendum. Nam poenae non sunt per se intentae a legislatore, sed intenduntur sic vt 
+      me<lb ed="#P" n="59" break="no"/>dicina &amp; cauterium peccatorum. Quocirca aequus non plus apponit de poena quam sufficeret ad peccati 
+      cohi<lb ed="#P" n="60" break="no"/>bitionem. Poenae enim restringendae sunt, &amp; fauores ampliandi. Et id causae est quia satius est impunitum 
+      <lb ed="#P" n="61"/>relinquere facinus delinquentis quam innocentem damnare fi. de poenis. I. absentem. Potius est ad poenae leua¬ 
+      <!--198.xml-->
+      <pb ed="#P" n="90-r"/>
+               <lb ed="#P" n="1"/>men citra condignum descendere quam ad ipsius grauamen vltra condignum vt Aristoteles in 
+      problemati<lb ed="#P" n="2" break="no"/>bus ait. Conscendere ad acerbam poenam magis contrarium est medio: ergo ab eo est magis recedendum: ex 
+      <lb ed="#P" n="3"/>vna regula posita in calce secundi. Et habitus ipse aequitas &amp; bonitas est: quae quidem aequitas &amp; bonitas 
+      <lb ed="#P" n="4"/>iustitia quaedam est &amp; non alius quisquam habitus est.
+    </p>
+            <p xml:id="JMAet9-d24127-d1e246">
+               <pc type="pilcrow">¶</pc> Dubitatur an aequitas siue epiicia sit iustitia. Pro 
+      hu<lb ed="#P" n="5" break="no"/>ius dubitationis intelligentia scito quod lex est dictamen scriptum, vocale, aut mentale: quo aliquid praecipitur 
+      <lb ed="#P" n="6"/>vel vetatur. Vt reddere depositum. Non capere alienum lex enim praecipit ea quae communiter accidunt: &amp; si instan 
+      <lb ed="#P" n="7"/>tiam vllam pluries patiatur illam legissator ponere solet: si enim rarenter occurrat siue legissatoris 
+      men<lb ed="#P" n="8" break="no"/>ti occurrebat dum legem condebat siue non, illam exceptionem non ponit: hoc enim iudici prudenti in  
+      <lb ed="#P" n="9"/>terpretandum relinquit: Qui habet promptitudinem huiuscemodi leges vniuersales exponere 
+      secun<lb ed="#P" n="10" break="no"/>dum quod ratio efflagitat, vocatur aequus: quia aequitate naturali est praeditus siue ab ingenio siue ab 
+      habi<lb ed="#P" n="11" break="no"/>tu &amp; ingenio simul, quod plus est: quia tunc proptius legen interpretatur. Et si requiritur prudentia 
+      respon<lb ed="#P" n="12" break="no"/>dens aequitati naturali quia quaelibet virtus appetitiua prudentiam respondentem (vt sexto patebit) 
+      requi<lb ed="#P" n="13" break="no"/>rit. Aquitas naturalis ad appetitum pertinet sicut ipsa iustitia cuius iustitiae aequitas secundum 
+      philoso<lb ed="#P" n="14" break="no"/>phum est pars. Verum adhuc remanet dubium an ista vniuersalis est lex: quilibet homicida est 
+      occiden<lb ed="#P" n="15" break="no"/>dus quodlibet depositum est semper deponenti cum ipsum deponens poscit reddendum: sic enim lex 
+      es<lb ed="#P" n="16" break="no"/>set de falso cum nonnullas singulares falsas habeat. Si haec sit lex mentalis, &amp; sensus legis: depositum 
+      <lb ed="#P" n="17"/>est reddendum semper cum a domino petitur nisi ratio naturalis obstiterit depositum reddi, &amp; ita 
+      quaeli<lb ed="#P" n="18" break="no"/>bet alia vniuersalis lex habebit mentaliter hanc limitationem: tunc aequus solum legem exponit sua pru 
+      <lb ed="#P" n="19"/>dentia &amp; respondentem actum &amp; habitum habet in voluntate. Respondetur lex siue iustum legale bifa 
+      <lb ed="#P" n="20"/>riam capitur. Vno modo pro illo quod per dictamen tale significatur quod in pluribus est verum: at 
+      <lb ed="#P" n="21"/>quilibet homicida est occidendus: sic aequitas non est pars eius sed ea melior nec illa est mala cum 
+      saepissi<lb ed="#P" n="22" break="no"/>me dictet de vero, &amp; vera erat ad intentionem legislatoris: sic dicetur aequitas siue epiicia pars 
+      subiecti<lb ed="#P" n="23" break="no"/>ua iusti naturalis. Alio modo capitur lex siue iustum legile pro sensu legis: vt homicida est occidendus 
+      <lb ed="#P" n="24"/>nisi ratio clara illi obstiterit: &amp; sic aequitas est pars subiectiua legis siue iusti legalis, nec est eo melior: senten 
+      <lb ed="#P" n="25"/>tia enim siue quod intenditur per legem est lex: ratio est anima legis. C. de lege &amp; consti. prin. Non dubium 
+      <lb ed="#P" n="26"/>est in legem committere eum qui verba legis amplexus contra legis nititur voluntatem. 
+    </p>
+            <p xml:id="JMAet9-d24127-d1e299">
+               <lb ed="#P" n="27"/>⁋ Ex isto patet quod aequitas siue epiicia est pars subiectiua iustitiae nec contrariatur legi.
+    </p>
+            <p xml:id="JMAet9-d24127-d1e305">
+               <pc type="pilcrow">¶</pc> At dicis. Cuius 
+      <lb ed="#P" n="28"/>est condere eius est interpretari: ergo conditor legis habet solum suam legem interpretari. Secundo cum 
+      <lb ed="#P" n="29"/>aliqua exceptio legissatori occurrat quare eam non ponit: sed legem vniuersaliter ponit. Tertio quae sint 
+      <lb ed="#P" n="30"/>extrema aequitatis. Si enim est virtus: quaelibet virtus appetitiua habet extrema. 
+    </p>
+            <p xml:id="JMAet9-d24127-d1e317">
+               <lb ed="#P" n="31"/>⁋ Ad primum respondetur quod in casu ambiguo: cuius est condere eius interpretari: quam interpretatio 
+      <lb ed="#P" n="32"/>nem pro lege posteri suscipiunt: sed in euidentibus, quando legi aduersantur, quilibet aequus dicit illum 
+      <lb ed="#P" n="33"/>casum sub lege non contineri. 
+    </p>
+            <p xml:id="JMAet9-d24127-d1e326">
+               <lb ed="#P" n="34"/>⁋ Ad secundum dicitur quod melius de exceptione tacuit legislator quam eam ponendo: vt homines a peccatis 
+      <lb ed="#P" n="35"/>amplius arceret Cum dicitur quilibet homicida occidetur, proni ad caedem illud existimantes erronee in 
+      o<lb ed="#P" n="36" break="no"/>mni casu seruari melius se ob poenam infligendam conseruant quam si omnes exceptiones cognoscerent. 
+      Pa<lb ed="#P" n="37" break="no"/>tet aliunde de Carthusiensi: Cui in generali carnium comestio est vetita, &amp; tamen extrema necessitas est 
+      <lb ed="#P" n="38"/>excepta: quam si in regula habuissent de non extrema necessitate extremam fingerent. 
+    </p>
+            <p xml:id="JMAet9-d24127-d1e339">
+               <lb ed="#P" n="39"/>⁋ Ad tertiam rationem dicitur quod habet extrema aequitas: mediat enim inter excessiuum rigorem &amp; 
+      re<lb ed="#P" n="40" break="no"/>missionem excessiuam: inclinatque tenere medium, iustitiae seueritatem quando par est non euacuans, &amp; 
+      pu<lb ed="#P" n="41" break="no"/>nire malefactores vt insontes tranquille degant. 
+    </p>
+            <p xml:id="JMAet9-d24127-d1e348">
+               <lb ed="#P" n="42"/>⁋ Dubitatur finaliter an aequitas ius naturale dirigat. Respondetur negatiue, nam solum dirigit iustum 
+      <lb ed="#P" n="43"/>legale. Contra hoc obiicitur. Omnes iure naturae sunt liberi, &amp; aequitas hoc moderatur: igitur. Secundo re 
+      <lb ed="#P" n="44"/>stitutio depositi est iuris naturalis: &amp; tamen aequitas dictat depositum non reddendum amenti. Item com 
+      <lb ed="#P" n="45"/>munis omnium possessio est deiure naturae: aequitas suadet oppositum &amp; res esse partiendas. Ad primum 
+      <lb ed="#P" n="46"/>nego maiorem, nisi intelligatur negatiue seruitus enim non est introducta iure naturae: &amp; adhuc de illo 
+      <lb ed="#P" n="47"/>sensu esset disceptatio. Nam primo politicae aliqui suapte natura sunt serui vt desides &amp; obtusi. Ad 
+      secun<lb ed="#P" n="48" break="no"/>dum dicitur quod non est de iure naturae in omni casu. Ad tertium nego maiorem nisi negatiue: lex enim 
+      <lb ed="#P" n="49"/>naturae non partitur bona sed humana. Illud est potius de iure naturae non habere omnia in communi pro 
+      <lb ed="#P" n="50"/>tempore legis destitutae pro tempore legis institutae, ante peccatum originale introductum secus erat.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

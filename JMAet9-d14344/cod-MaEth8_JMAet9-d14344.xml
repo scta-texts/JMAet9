@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 11</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 11</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d14344"><!-- mair-l3c11 -->
+            <head xml:id="JMAet9-d14344-Hd1e103">Caput 11</head>
+            <p xml:id="JMAet9-d14344-d1e106">
+               <lb ed="#P" n="8"/>
+               <quote xml:id="JMAet9-d14344-Qd1e110" type="lemma">CVpiditatum aliae sunt communes &amp; naturales, aliae vero sunt propriae &amp; appositae</quote>. Exemplum 
+      <lb ed="#P" n="9"/>primi: Vt naturalis cibi cupiditas. Omnes enim alimento sicco, qui cibus, aut humidom, qui 
+      po<lb ed="#P" n="10" break="no"/>tus est, nonnunquam indigent: et aliquando vtrunque auent. Et cubile etiam cupit ( vt Homerus 
+      <lb ed="#P" n="11"/>ait) iunior atque florens: hoc est lectum ad dormiendum in cubiculo. Quia enim tales plus mandunt. 
+      <lb ed="#P" n="12"/>ob sustentationem &amp; crementum, eos plus dormire est necessum. Nec inter hoc cubile &amp; illud ea tem 
+      <lb ed="#P" n="13"/>pestate discernunt, prouectae vero aetatis de cubili tempore locoque discernunt. Cupiditates propriae 
+      <lb ed="#P" n="14"/>sunt, quas non omnes cupiunt: sed quod vnicuique tale esse videtur, licet aliquid naturale contineat: non 
+      <lb ed="#P" n="15"/>enim singuli tale vel tale vel eadem desiderant, sed hic perdite amat gruem, hic phasianum, ille carnem 
+      <lb ed="#P" n="16"/>bubulam suillam ve. Quocirca nostrum particulare id ipsum esse videtur: naturale tamen est 
+      indiui<lb ed="#P" n="17" break="no"/>duo, &amp; non toti speciei. Deinde ponit primam capitis conclusionem dicens. Circa communes 
+      cupidita<lb ed="#P" n="18" break="no"/>tes pauci peccant, &amp; vno modo dicit litera, &amp; ad vnum ad ipsum inquam plus, hoc est solum vno modo 
+      ca<lb ed="#P" n="19" break="no"/>piendo plus quam par sit. Ventrem nimis referciendo, aliqui primo apposita more lupi deuorant ad sacie 
+      <lb ed="#P" n="20"/>tatem, mandant quo ad ventrem distentant. Circa vero proprias multi delinquunt &amp; multis modis 
+      <lb ed="#P" n="21"/>Cum enim quisquam bibit &amp; comedit quaecunque quoad excessu repleatur, fit exuperatio cupiditatis com 
+      <lb ed="#P" n="22"/>munis plusquam par sit accipiendo. Porro repletio naturalis indigentiae quaedam communis cupiditas est: 
+      <lb ed="#P" n="23"/>propterea qui se hac via plusquam aequum sit referciunt ventri addicti, circa ventrem furentes, &amp; 
+      gastri<lb ed="#P" n="24" break="no"/>mergi dicuntur: &amp; qui tales sunt mancipiis persimiles sunt aluum sine discretione replentes. Tales 
+      au<lb ed="#P" n="25" break="no"/>tem sunt perpauci &amp; circa maiores nutrimenti copias delinquunt.
+    </p>
+            <p xml:id="JMAet9-d14344-d1e151">
+               <pc type="pilcrow">¶</pc> At qui proprias cupiditates 
+      se<lb ed="#P" n="26" break="no"/>quuntur &amp; eas amant, peccant gaudentes quibus non oportet, &amp; sic de aliis circunstantiis. Gaudent 
+      in<lb ed="#P" n="27" break="no"/>quam quibus non oportet gaudere, quippe cum sint odio digna gaudent, vtpote cum intemperanter, 
+      <lb ed="#P" n="28"/>&amp; splendidius aequo comederint: &amp; illud est suapte natura odio dignum. Praelatum pingue sacerdotium 
+      <lb ed="#P" n="29"/>habentem laudat dilirium vulgus, si mensam Sardanapali regis luxu perditi, aut alterius diuitis 
+      epu<lb ed="#P" n="30" break="no"/>lonis teneat. Et si talium quibusdam guudere oportet magis gaudent quam liceat, &amp; plus gaudent quam mul 
+      <lb ed="#P" n="31"/>titudo hoc est nimis intense in gradu &amp; ardenter. Licet de gradu est difficultas. Deistis dicitur. Quo 
+      <lb ed="#P" n="32"/>rum Deus venter est. Quidam delicatos pisces, rombos, lupos, soleas, non esitant nisi butiro &amp; 
+      salsa<lb ed="#P" n="33" break="no"/>mentis gulae irritamentis praeparentur, vt dicebat ille lurco, perdicis obesae pectus mandens siue salsa 
+      <lb ed="#P" n="34"/>mento. Ecce quanta patimur per amore Christi. Alii frugalioris instituti, famen condimentum gratissimum, solam 
+      <lb ed="#P" n="35"/>adhibent.
+    </p>
+            <p xml:id="JMAet9-d14344-d1e178">
+               <pc type="pilcrow">¶</pc> Sequitur seuda conclulio. Dissimiliter temperantia &amp; intemperantia sunt circa dolores, &amp; ipsa fortitudo. 
+      <lb ed="#P" n="36"/>fortis est patiendo dolores, quos meticulosus abhorret. Sed quis non est temperans ferendo dolores, intemperans 
+      <lb ed="#P" n="37"/>tamen non ferendo, sed intemperans citius ex eo dicitur, quia magis dolet quam par sit quoties voluptate non potitur, 
+      atque<lb ed="#P" n="38" break="no"/>dolorem affert ei ipsa voluptas. Et contra temperans eo ipso quod voluptatum absentia non torquntur, &amp; quod praesentibus 
+      <lb ed="#P" n="39"/>abstinet. Intemperans vero concupiscit voluptuaria omnia, vel ea quae maxime: &amp; a cupiditate adeo ducitur vt illa 
+      <lb ed="#P" n="40"/>caeteris omnibus anteponat, quae propter concupiscens &amp; non adipiscens toruntur, cum dolore enim cupiditas est. Hoc est 
+      <lb ed="#P" n="41"/>tota eius vita est anxia &amp; aerumnosa. Postea dicit. Absurdo autem est persile ob voluptatem dolere, nihilo tamen se 
+      <lb ed="#P" n="42"/>cius est verum quod voluptas habita non generat dolorem, sed sua absentia est causa priuatiua tristitiae: vt 
+      absen<lb ed="#P" n="43" break="no"/>tia nauderi est causa submersionis nauis in vndis. Duplici poena hi lurcones afficiuntur. Ex ventris enim 
+      in<lb ed="#P" n="44" break="no"/>gluuie vel crapula
+    </p>
+            <p xml:id="JMAet9-d14344-d1e203">
+               <pc type="pilcrow">¶</pc> Sequitur morbus &amp; dolor, quia vt dicit Horatius, nocet empta dolore voluptas, &amp; si non 
+      <lb ed="#P" n="45"/>potiatur concupito torquntur. Masinissa Numidarum rex centum annos natus coram tabernaculo stans in 
+      mere<lb ed="#P" n="46" break="no"/>die frugaliter vel stans vel ambulans comedebat, vt suos ad temperantiam inuitaret. Cyrus maior 
+      Dari<lb ed="#P" n="47" break="no"/>us &amp; Popeius Romani duces a temperantia plurimum laudantur. Ebrias mulieres morte Romulus plectebat, 
+      <lb ed="#P" n="48"/>cogebatque mulieres viuere ita abstemias ac si bibissent de elitorio fonte Arcadiae, de quo si quispiam 
+      bi<lb ed="#P" n="49" break="no"/>berit (vt poetae fingunt) vinum omne oderit. Dicente Nasone. Clitorio quicumque sitim de fonte leuarit. Vina fu 
+      <lb ed="#P" n="50"/>git, gaudetque meris abstemius vndis.
+    </p>
+            <p xml:id="JMAet9-d14344-d1e223">
+               <pc type="pilcrow">¶</pc> Sequitur tertia conclusio. In voluptatibus deficientes &amp; in iis minus quam 
+      <lb ed="#P" n="51"/>oportet gaudentes vix reperiuntur. Hoc est sunt rari, non est humana hmodi insensibilitas, cum caetera aialia 
+      ci<lb ed="#P" n="52" break="no"/>bos discernant &amp; quibusdam gaudeant aliis non gaudeant. Pinguibus non vescitur feles seu murilegus, quae canis capit, 
+      <lb ed="#P" n="53"/>&amp; mltas haerbas equus aspernatur, quas auide bos legit. Tanto magis discernit cibos homo. Quia si quis reperitur cui nul 
+      <lb ed="#P" n="54"/>sus cibus oblectamento sit, &amp; qui vnum alimentum aliis non praponat, hic longe ab humano viuit ritu. Nomem non ha 
+      <lb ed="#P" n="55"/>buit talis, quia non facilae iuenitur.
+    </p>
+            <p xml:id="JMAet9-d14344-d1e240">
+               <pc type="pilcrow">¶</pc> Ex his quis temperans sit non difficile est deprehendere. Temperans autem 
+      medioeri<lb ed="#P" n="56" break="no"/>ter se habet circa haec, hoc est circa dolores &amp; voluptates. Siquidem omnino non gaudet quibus gaudere non decet, 
+      <lb ed="#P" n="57"/>vt quibus intem peratus potissimum delectatur, verum potius moleste fert, &amp; si gaudendum est non vehementer in illis oblecta 
+      <lb ed="#P" n="58"/>mentum capit, nec amplius quam ratio dictet: nec si absit, dolet: nec cupit nisi mediocriter: nec vlla res prorsus talis 
+      <lb ed="#P" n="59"/>ipsum delectat secus qui ops, &amp; voluptates quae ad bonam valetudinem corperis conducunt appetit, &amp; res caeteras 
+      vo<lb ed="#P" n="60" break="no"/>luptatis effectrices appetit, mon corperis valetudini non aduersantur, eiusque ipedimento non veniantur, nec 
+      hone<lb ed="#P" n="61" break="no"/>statem offendunt, nec honestatis limites transcendant, nec facultatum metas transgrediantur. Porro qui in his se habet 
+      <lb ed="#P" n="62"/>magis quam dignum sit, voluptatem plus quam aequum est amplectitur, sed temperans nequamqui talis est, set talis vt ipsa recta 
+      <!--122.xml-->
+      <pb ed="#P" n="53-r"/>
+               <lb ed="#P" n="1"/>ratio praescribit.
+    </p>
+            <p xml:id="JMAet9-d14344-d1e267">
+               <pc type="pilcrow">¶</pc> Circa hanc literam dubitatur, Primo, quare dicuntur concupiscentiae communes, &amp; quare propriae. 
+      <lb ed="#P" n="2"/>Secundo quem cibum appetitus sensitiuus appetit in absentia. Tertio, quomodo cognoscitur latitudo  
+      <lb ed="#P" n="3"/> 
+               <lb ed="#P" n="4"/>temperantiae. Quarto, an viris perfectis &amp; sanctis necessitas sit regula viuendi. Quinto, an voluptas 
+      <lb ed="#P" n="5"/>in cibo incidens sit peccatum.
+    </p>
+            <p xml:id="JMAet9-d14344-d1e281">
+               <pc type="pilcrow">¶</pc> Ad primam dubitationem dicitur, quod sunt communes quia naturales, totum 
+      <lb ed="#P" n="6"/>genus aut speciem consequentes, vt cibi &amp; potus concupiscentia ad subueniendum indigentiae naturae. Est 
+      <lb ed="#P" n="7"/>vnum peccatum in hoc plus capiendo quam natura requirat, propriae concupiscentiae consequuntur solum 
+      in<lb ed="#P" n="8" break="no"/>diuiduum, siue ab habitudine naturali, siue electione, siue consuetudine, &amp; in hoc homines non parum 
+      di<lb ed="#P" n="9" break="no"/>uersificantur, secundum mores hominum, qui vbiuis gentium variantur. Mille hominum species &amp; rerum 
+      dis<lb ed="#P" n="10" break="no"/>color vsus. Aliqui boleton, tubera, ranunculos, aut testudines auide comedunt, &amp; humanas carnes 
+      scy<lb ed="#P" n="11" break="no"/>thae quidam, no aspernantur.
+    </p>
+            <p xml:id="JMAet9-d14344-d1e300">
+               <pc type="pilcrow">¶</pc> Ad secundam respondetur, quod brutum appetit cibum illum cuius 
+      recor<lb ed="#P" n="12" break="no"/>datio sensitiua habitualis est in eius sensu: quaelibet enim potentia appetitiua est sua cognitiua, 
+      po<lb ed="#P" n="13" break="no"/>tentia gustatiua appetitiua appetit auenam cuius species est in gustu equi. Sensus est singularium. Prima 
+      <lb ed="#P" n="14"/>fames vel sitis in animali non est appetitus cibi aut potus, cum nullus sit sensatus: sed si producatur 
+      <lb ed="#P" n="15"/>animal cibi non indigum temporis interuallo animal ipsum quandam taediosam alterationem in 
+      stoma<lb ed="#P" n="16" break="no"/>cho sentit: &amp; in illius reuelamem remedium procurat, &amp; cibo aut potu habito post ea appetit vti 
+      supe<lb ed="#P" n="17" break="no"/>rius retulimus.
+    </p>
+            <p xml:id="JMAet9-d14344-d1e319">
+               <pc type="pilcrow">¶</pc> Ad tertiam dubitationem respondetur, quod capitur cibus sufficiens corpus augmentare 
+      <lb ed="#P" n="18"/>ad crementum vsque: postea capiatur pastus sufficiens ipsum manutenere &amp; alere, paucis &amp; minimis 
+      natu<lb ed="#P" n="19" break="no"/>ra contenta est. Tam cibi defectu quam eius excessu corporis harmonia dissoluitur. Ex praeteritis quando 
+      <lb ed="#P" n="20"/>quispiam bene se habuit &amp; in morbum ob intemperantiam &amp; insensibilitatem lapsus est, potest illud 
+      <lb ed="#P" n="21"/>apprehendere. Habeat respectum ne cum corporis incolumitate anima infirmetur vitiis. Caro est hostis 
+      <lb ed="#P" n="22"/>domesticus quem oportet in seruitutem redigere, si insolens fuerit: &amp; si id temporis infirmitate 
+      labo<lb ed="#P" n="23" break="no"/>retur, prudenter actum est. Dicit enim Apostolus. Cum infirmor, fortior sum. Infirmus corpore sanus 
+      <lb ed="#P" n="24"/>mente: &amp; illa est hominis praestantissima valetudo: sed quia corpus est animae instrumentum &amp; equus, sine 
+      <lb ed="#P" n="25"/>quo homo non viuit: super quem (vt ita loquar) anima equitat: nutriatur ita vt non recalcit ret: &amp; 
+      <lb ed="#P" n="26"/>tunc erit bona politia in toto homine. Non hortor corpus in nihilum redigere: quia ille non est bonus 
+      <lb ed="#P" n="27"/>politicus, qui ciuem occidit sine quo viuere nequit. Ea propter mentem sanam in corpore sano, quidam 
+      <lb ed="#P" n="28"/>sapiens optauit. Ex corporis &amp; partium eius discrasia a nobilissimis suis affectibus anima impeditur. 
+      <lb ed="#P" n="29"/>Non comedat cibos in patria sua abominabiles habitos extra necessitatem: vt in Britannia non 
+      <lb ed="#P" n="30"/>comedunt testudines, ranunculos, boletos, carnes humanas, &amp; caetera id genus: quia hoc esset honestatis 
+      <lb ed="#P" n="31"/>cancellos transcendere. Nam illi cibi consuetudine sunt vetiti. ldemque est ac si aliqua lege prohibeantur. 
+      <lb ed="#P" n="32"/>Ergo est intemperantiae carnibus diebus venerinis vesci, vel abstemiis merum bibere: quia oppositum 
+      <lb ed="#P" n="33"/>voto emiserunt. Quarto, suas vires in ciborum praeparatione non transcendat. Nam inops &amp; ignobilis 
+      <lb ed="#P" n="34"/>etiam opulentus perperam agit opipare more opulenti nobilis comedendo. Si quis tamen morbo laborat 
+      <lb ed="#P" n="35"/>iam casus necessitatis occurrit, quae legem non habet.
+    </p>
+            <p xml:id="JMAet9-d14344-d1e365">
+               <pc type="pilcrow">¶</pc> Ad quartam dubitationem, Martinus 
+      affir<lb ed="#P" n="36" break="no"/>matiue respondet.
+    </p>
+            <p xml:id="JMAet9-d14344-d1e373">
+               <pc type="pilcrow">¶</pc> Contra hoc argumentor. Cuicumque ad temperantiae latitudinem sufficiunt illa quae  
+      <lb ed="#P" n="37"/>retulimus: sed ea perfectis sicut imperfectis conveniunt. Perfectus inquam habet latitudinem diuisibilem 
+      <lb ed="#P" n="38"/>in qua si manet, nec animae nec corpori oberit &amp;c.
+    </p>
+            <p xml:id="JMAet9-d14344-d1e383">
+               <pc type="pilcrow">¶</pc> Contra illud obiicitur. Sancti &amp; perfecti viri hoc 
+      <lb ed="#P" n="39"/>habent pro regula quodalii non habent nisi pro consilio: sed necessitas est imperfectis viris de consilio, 
+      <lb ed="#P" n="40"/>ergo est perfectis de praecepto. Secundo secundum diuum Bernardum in via morum non progredi 
+      retroce<lb ed="#P" n="41" break="no"/>dere est: igitur non procedendo continuo ad medium strictioris latitudinis peccat. Has rationes Martinus 
+      <lb ed="#P" n="42"/>in suo libro de temperantia facit ad concludendam conclusionem oppositam responsioni nostrae. Ad 
+      <lb ed="#P" n="43"/>priorem igitur respondeo, vtramque praemissam negando: primo maiorem. Stat enim aliquem hypocritam 
+      <lb ed="#P" n="44"/>&amp; malum, habere minorem latitudinem quam hunc sanctum aut illum: ex parua enim comestione quotidiana 
+      <lb ed="#P" n="45"/>ipse redigit se ad paruam latitudinem: ita quod si multum comederet ei noceret. Secundo, minor est falsa: 
+      <lb ed="#P" n="46"/>consilium est de meliori bono, &amp; stat quod capiendo solum secundum necessitatem non est ei de meliore bono. 
+      <lb ed="#P" n="47"/>Secundum argumentum est nullum: ipsum probaret quod homo perfectus teneretur adire non gradum 
+      <lb ed="#P" n="48"/>latitudinis: &amp; sic de nihilo viuet. Bernardus intellexit non procedere quando homo tenetur, est 
+      retro<lb ed="#P" n="49" break="no"/>cedere per omissionem. Adhuc instatur pro eo. Perfectus &amp; eremicola si tantum comederet quantum 
+      inten<lb ed="#P" n="50" break="no"/>perans male se haberet in corpore: ergo latitudo temperantiae eius est angustior quam latitudo alterius. 
+      <lb ed="#P" n="51"/>Quarto, veniale in imperfecto est mortale in perfecto: ergo latitudo temperantiae est strictior perfecto 
+      <lb ed="#P" n="52"/>quam imperfecto. Respondetur, quod hoc prius argumentum est nullum. Fateor enim assuetum multum 
+      <lb ed="#P" n="53"/>comedere &amp; habere ventrem distentum, &amp; hunc posse plus manducare quam alium, nec posse ita paruo satiari. 
+      <lb ed="#P" n="54"/>Consuetudo enim comedendi in naturam convertitur: sicut assuetus quotidie iter facere potest plus 
+      <lb ed="#P" n="55"/>itineri facere quam nonassuetus sine iactura, semper loquor de latitudine medii quae in variis variatur. Non 
+      <lb ed="#P" n="56"/>est idem medium in Milone &amp; in ludi magistro: sic nec eadem in robusto aut intemperato &amp; valde 
+      tempe<lb ed="#P" n="57" break="no"/>rato: sed illud non prouenit a sanctitate &amp; perfectione. Ob memoriam passionis dominicae feria sexta 
+      <lb ed="#P" n="58"/>carnium esus est vetitus: qui illo die nisi natalis dominicus eo venerit carnes scienter manducans, peccat. 
+      <lb ed="#P" n="59"/>Propter intemperantiam introductus est ciborum delectus ab ecclesia, impii dogmatistae iam pullulant 
+      <lb ed="#P" n="60"/>Paulinas epistolas in oppositum (vt aiunt) introducentes. Dicit enim sacer Paulus ad Timotheum: 
+      <lb ed="#P" n="61"/>non esse abstinendum a cibis quos deus creauit. Omnis enim creatura dei bona est: &amp; nihil reiiciendum 
+      <lb ed="#P" n="62"/>quod cum gratiarum actione percipitur. Respondetur ad hoc quod Paulus euangelii tuba loquitur 
+      con<lb ed="#P" n="63" break="no"/>tra eos qui studiose delectum seruabant ciborum more legis Mosaicae. Insudabat enim diuus Paulus 
+      <lb ed="#P" n="64"/>ad antiquandam legem Mosaicam legis gratiae vmbram. Proceres autem ecclesiae aliis de causis 
+      dele<lb ed="#P" n="65" break="no"/>ctum ciborum introduxere, vt diebus venerinis sabbatinisque &amp; in quadragesima, vt homines lasciuam 
+      <!--123.xml-->
+      <pb ed="#P" n="53-v"/>
+               <lb ed="#P" n="1"/>carnem macerent. Ad quartum, nego quod veniale in imperfecto faciat mortale in perfecto. 
+    </p>
+            <p xml:id="JMAet9-d14344-d1e454">
+               <lb ed="#P" n="2"/>⁋ Dubitatur, in quibus stet latitudo temperantiae. Respondetur, ea latitudo a quatuor dependet. Primo 
+      <lb ed="#P" n="3"/>a corporis incolumitate vt capiatur ad eius alimoniam &amp; non vltra: proinde charissime fili alimento 
+      <lb ed="#P" n="4"/>temperate vtitor. Secundo, a bona animae cum corpore harmonia, si fuerit inter haec diaphonia, compescatur 
+      <lb ed="#P" n="5"/>corpus, vt animae pareat. Tertio, vt honestatis cancellos non transilias. Multifariam id expono omnem 
+      <lb ed="#P" n="6"/>coitum nisi vxorium vitato. Nempe omnis talis honesti cancellos egreditur: nec casum admitto quo 
+      <lb ed="#P" n="7"/>carnalis commixtio ad vitae conseruationem requiratur. Enucleo casum sic. Sanus abstinentia corpus 
+      <lb ed="#P" n="8"/>macerabit necnon mortificabit, atque infirmo coitus valde nocet. Secundo, locupletem mercatorem ita 
+      opi<lb ed="#P" n="9" break="no"/>pare pasci atque principen est indecorum: honestatis enim cancellos ea manducatio transilit: nec mediocris 
+      <lb ed="#P" n="10"/>in fortunis potest ita opipare refici vt opulentus. Talis enim in se in vxorem, in liberos, in amicos, ac in  
+      <lb ed="#P" n="11"/>rempublicam exorbitat. Talis enim heluo extra infirmitatem si suas opes in mare praecipitaret sane 
+      delin<lb ed="#P" n="12" break="no"/>queret: nam extrariis suis bonis cum discretione eum vti oportet: expedit enim reipublicae vt re sua quisque 
+      <lb ed="#P" n="13"/>decenter vtatur. Sic qui carnes in vigiliis ac festis nostrae dominae in Britannia manderet decori 
+      <lb ed="#P" n="14"/>gyrum transgredereturtest enim contra patriae consuetudinem. Nec honeste ageret nummosus boletos aut  
+      <lb ed="#P" n="15"/>ranunculos praeter consuetudinem regionis esitans. Insuper cibum tali tempore vetitum ne tangito: quocirca 
+      <lb ed="#P" n="16"/>comedentes carnes quadragenario ieiunio, cancellos honesti transgrediuntur: sic omnis comestio ea 
+      ten<lb ed="#P" n="17" break="no"/>pestate inconcessa. Quarto, non supergrediaris metas opum tuarum. Pauper enim intemperanter agit ita laute 
+      <lb ed="#P" n="18"/>exponendo in escis sicut locuples: &amp; ignobilis sicut illustris. Plerisque videtur ieiunium ecclesiae abiiciendum esse 
+      <lb ed="#P" n="19"/>sicut nunc nonnulli deprauati moliuntur: asserentes ob quadragenarium ieiunium homines bonam corporis 
+      <lb ed="#P" n="20"/>valetudinem perdere, &amp; ipsum esse a Neotericis inuentum. Respondetur illis, quod hoc ieiunium longa vetustate 
+      <lb ed="#P" n="21"/>augmentum assumpsit. In quadragenarii ieiunii fronte in canonicis horis hoc ex Augustino legimus 
+      <lb ed="#P" n="22"/>qui dicere videtur ipsum ex institutione domini fuisse institutum: hoc intelligo quoad typum, quia 
+      <lb ed="#P" n="23"/>quadraginta dies &amp; noctes in deserto ludaeae ieiunans manducabat nihil. Hieronymus de eo etiam facit 
+      <lb ed="#P" n="24"/>mentionem in epistola ad Marcellam, vbi reprobans Montanos, ait nos vnam quadragesimam secundum 
+      <lb ed="#P" n="25"/>traditionem Apostolorum toto anno, tempore nobis congruo ieiunamus. Et beatus Ignatius episcopus 
+      An<lb ed="#P" n="26" break="no"/>tiochenus Apostolis contemporaneus tradit quadragesimam circa Apostolica tempora fuisse institutam. 
+      <lb ed="#P" n="27"/>Patet in quarta eius epistola quae est ad Philippenses vbi sic ait. Dies festos nolite inhonorare: 
+      quadra<lb ed="#P" n="28" break="no"/>gesimam vero nolite pro nihilo habere. imitationem enim continet dei conversationis. Aliqui 
+      Thelos<lb ed="#P" n="29" break="no"/>phorum ipsum instituisse produnt. sed quo iure illud ieiunium sit institutum aliubi locupletius diximus. 
+      <lb ed="#P" n="30"/>Ex his liquet eius antiquitas: vtilitas autem patet, nam ieiunium est laboriosum &amp; corporis insultus nobis 
+      <lb ed="#P" n="31"/>intraneos compescit: eiusque petulantiam refrenat. Carnalis lasciuiae compressio &amp; carnis subactio spiritui, 
+      <lb ed="#P" n="32"/>maximopere nobis conducit. Et opus quanto poenosius paritate data tanta est deo acceptius. ltaque 
+      ieiu<lb ed="#P" n="33" break="no"/>nium carnis petulantiam spiritui subigens, &amp; laboriosum est magni praemii meritorium: iccirco Epicurei 
+      <lb ed="#P" n="34"/>piscium &amp; vitae frugalioris osores frenum labiis imponant &amp; virulentam linguam in ecclesiam exacuere desistant. 
+      <lb ed="#P" n="35"/>Ecclesia autem inopes, languidos, caeterosque imbecilles ad ieiunium quadragesimale haud astringit. 
+    </p>
+            <p xml:id="JMAet9-d14344-d1e530">
+               <lb ed="#P" n="36"/>⁋ Ambigitur an insensibilitas sit possibilis &amp; deterius vitium quam intemperantia. Respondetur, quod 
+      insen<lb ed="#P" n="37" break="no"/>sibilitas vix est humanum vitium. Belluae enim cibos salutares ab insalubribus discernunt: inclusa vacca 
+      <lb ed="#P" n="38"/>vrticas ac alias haerbas edit: quas caballus minime comedit. Cardones stolidus asellus comedit quas 
+      <lb ed="#P" n="39"/>alia pleraque bruta recusant: ac homines in gustu tactuque satius iudicant: nobilissimus enim tactus 
+      ho<lb ed="#P" n="40" break="no"/>mini inest, at gustus est particularis tactus. Nihilo tamen minus insensibilitas temporibus quibusdam 
+      <lb ed="#P" n="41"/>haud deest, crimine hypocriseos paratur: si superior arctam temperiem magnipendet, inferior cautus &amp; 
+      <lb ed="#P" n="42"/>ambitiosus in id vitium ad tempus vt exaltetur incidit. Secundo, mala habitudine corporis eam incurrit. 
+      <lb ed="#P" n="43"/>vt morbo ore ac poris tetrisihumoribus repletis cibi interea sunt illi nauseae atque fastidio. Tertio, 
+      er<lb ed="#P" n="44" break="no"/>roneo iudicio insensibilitatem incurrunt. Natura enim paucis authore Boetio est contenta: iste autem nimis 
+      <lb ed="#P" n="45"/>parum, sufficiens censet, ac paulatim sic morbum comparat. At ignoratio potest esse vincibilis, &amp; tunc non a 
+      <lb ed="#P" n="46"/>toto excusat: sin aliter, prorsus lapsum eleuat. Ad secundam partem quaesiti dicimus, quod exprobrabilior 
+      <lb ed="#P" n="47"/>insensibilitate cum intemperantia atque communior malarum filiarum parens: &amp; signanter spurcae libidinis. 
+      Stri<lb ed="#P" n="48" break="no"/>ctam temperantiam cum insensibilitate vulgus hominum ad sidera tollit, attamen illa est homini perniciosior: 
+      <lb ed="#P" n="49"/>iudicium enim percutit atque inflat, insaniem demum inducens vt in vitis patrum abunde commemorat. Tales solent 
+      <lb ed="#P" n="50"/>esse turgidi &amp; se prae aliis praeferre. Ab intemperantia facilius ad gyrum medii proceditur: illa enim 
+      ra<lb ed="#P" n="51" break="no"/>tionem non omnino deiicit: eam tamen laedit atque hebetat.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

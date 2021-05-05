@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 4</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 4</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d37188"><!-- mair-l9c4 -->
+            <head xml:id="JMAet9-d37188-Hd1e103">Caput 4</head>
+            <p xml:id="JMAet9-d37188-d1e106">
+               <lb ed="#P" n="49"/>
+               <quote xml:id="JMAet9-d37188-Qd1e110" type="lemma">EA vero</quote> &amp;c. Hic seudm aliquos incipit sedus tractatus huius noni. Pont enim hic nonus in tres tractatus diuidi, 
+      <lb ed="#P" n="50"/>quorum primus tria capita praecedentia continet, sedus quatuor capitibus absoluitur, &amp; tertius quinque capitibus explifi 
+      <lb ed="#P" n="51"/>catur. Istd caput trifariam sciditur. In prima enim parte amicitiae effectus &amp; eorum originem ponit. In seudna enucleat 
+      <lb ed="#P" n="52"/>quomodo sese habeant ad effectus praefatos. In tertia quomodo praui ad eosdem sese habeant. Pro primo hanc conclusiones ponit. 
+      <!--307.xml-->
+      <pb ed="#P" n="143-v"/>
+               <lb ed="#P" n="1"/>Quonam pacto ad amicos se gerendum sit ex iis quae quis ad ipsum facit deprehendendum venit. Nam ea 
+      <lb ed="#P" n="2"/>quae ad amicos attinent, &amp; quibus amicitiae definiuntur hoc est determinantur ex iis quae quisque ad seipsum facit. 
+      <lb ed="#P" n="3"/>perfecta esse videntur. Hoc est, amicabilia vel actus amicitiae ad alterum videntur proficisci ab amabilibus ad seipsum. 
+      <lb ed="#P" n="4"/>Hoc probat philosophus per aliqua amicabilia inducendo, inquiens. Ponunt enim eum amicum esse quia 
+      <lb ed="#P" n="5"/>vult &amp; agit bona vel quae videntutur amici gratia. Ponit videntur: non enim semper requiritur vt sint 
+      <lb ed="#P" n="6"/>vera bona: sed talia ex ignoratione inuincibili esse sufficit. Etiam ponunt loquentes eum amicum qui vult 
+      <lb ed="#P" n="7"/>amicum esse &amp; viuere gratia amici: quod &amp; matribus ad suos filios accidit: &amp; iis etiam amicorum qui 
+      offen<lb ed="#P" n="8" break="no"/>si quidem sunt non tamen minus bene faciunt amico ob offensionem. Alii enim amicum dicunt qui ver 
+      <lb ed="#P" n="9"/>satur vna cum amico, &amp; eadem expetit: aut qui dolet &amp; gaudet vna cum amico. Quod &amp; matribus 
+      sum<lb ed="#P" n="10" break="no"/>mopere accidere solet. Et aliquo actu istorum amicitiam definiunt. Verum vnumquodque praedictorum 
+      <lb ed="#P" n="11"/>viro bono ad seipsum competit: reliquis vero quatenus tales esse hoc est bonos (qualis ipse est) existimat. 
+      <lb ed="#P" n="12"/>Sequitur secunda conclusio. Videtur virtus &amp; studiosus vnicuique esse mensura. Hoc est viro studioso ad  
+      <lb ed="#P" n="13"/>seipsum quae dicta sunt, conueniunt. Priorem partem, quod virtus est vnicuique mensura relinquit notam. 
+      <lb ed="#P" n="14"/>Posteriorem probat: quia hic sibiipsi consentaneus est, &amp; eadem affectat anima omni, hoc est secundum 
+      <lb ed="#P" n="15"/>omneis animae vires aut potentias. rationi sensualitas in eo obtemperat, &amp; vult in voluntate sicut censet 
+      <lb ed="#P" n="16"/>in intellectu. Et vult igitur sibi ipsa bona aut quae talia videntur. Est enim viri boni bona agere, &amp; 
+      <lb ed="#P" n="17"/>suiipsius gratia, nam mentis gratia, quae quidem vnusquisque esse videtur. Hoc est anima videtur esse totus 
+      <lb ed="#P" n="18"/>homo, no quod re ipsa sit totus homo sicut Platonici volunt vt ex Platonis Phaedone patet: sed est hominis potior pers 
+      <lb ed="#P" n="19"/>more Aristotelis: &amp; per consequens quodammom, hoc est cum addito vel ad bonum sensum, pont dici totus homo. Hoc enim 
+      <lb ed="#P" n="20"/>quod primores ciuitatis faciunt tota ciuitas facere dicitur: quia potior ciuitatis pars id facit. Et totus excercitus a prin 
+      <lb ed="#P" n="21"/>cipe militiae qui in excercitu est praecipuus saepius denominatur. Item licet corpus sensim varietur dummodo 
+      ta<lb ed="#P" n="22" break="no"/>men anima ipsum successiue informat, manet idem homo: ergo maxima identitas hominis ab anima 
+      ve<lb ed="#P" n="23" break="no"/>nit. Insuper licet vtraque harum sit impossibilis duo sunt quatuor, &amp; duo sunt mille, secundum 
+      Aristote<lb ed="#P" n="24" break="no"/>lem in meteoris intelligendo in impartibilibus, secundam tamen magis falsam censet, quia magis a 
+      ve<lb ed="#P" n="25" break="no"/>ritate elongatur, sic qui diceret has duas, homo est anima, homo est corpus, copulatiue duo falsa enunciaret: 
+      <lb ed="#P" n="26"/>sed secundum ad sensum datum est priore falsius. Semper per mentem totum intellectum hic intelligas, 
+      <lb ed="#P" n="27"/>Et quid mirum, cum intellectus re ipsa sit ipsa voluntas. Vult etiam studiosus se viuere saluumque esse, &amp; id 
+      <lb ed="#P" n="28"/>maxime quo sapit &amp; intelligit. Hoc est mentem quae ad faelicitatem maxime conducit. Est enim bonum 
+      <lb ed="#P" n="29"/>homini studioso esse: &amp; vnulquisque sibiipsi ipsa vult bona. Si enim non moueret sed aliud fieret, vtputa 
+      li<lb ed="#P" n="30" break="no"/>gnum vel lapis, nullus curaret an illud in quod transmutaretur, omnia bona haberet. Dicit litera. Factus 
+      <lb ed="#P" n="31"/>vero aliud nullus expetit cuncta, illud quod est factus, habere. Proinde deus summum bonum nunc 
+      ha<lb ed="#P" n="32" break="no"/>bet, nam idipsum summum bonum ipse est &amp; videtur esse, vnusquisque hominum quod intelligit. Illud 
+      trans<lb ed="#P" n="33" break="no"/>latitiae dictum est, hoc est ipse intellectus &amp; mens (vt supra dictum est) aut maxime hoc est illa est 
+      homi<lb ed="#P" n="34" break="no"/>nis potior pars, cuius profectio magis procuranda est ac vir studiosus secum degere vult: &amp; libenter id &amp; 
+      <lb ed="#P" n="35"/>cum voluptate facit. Hoc probat effectualiter sic. Quicunque solitario placida sola occurrunt talis secum 
+      be<lb ed="#P" n="36" break="no"/>ne degit: sed sic est de studioso: igitur. Consequentia tenet cum maiore. Probatur minor: quia vel circa 
+      prae<lb ed="#P" n="37" break="no"/>terita memoria eius laborat, vel circa futura, aut praesentia meditatur: si primum occurrunt ei praeterita 
+      <lb ed="#P" n="38"/>acta periucunda: &amp; hoc est quod dicit. Nam &amp; actarum rerum recordatio periucunda &amp; futurarum rerum 
+      <lb ed="#P" n="39"/>spes bona. Talis autem afficitur voluptate: qui enim bene in tempore praeterito egit, facile assentitur quod in  
+      <lb ed="#P" n="40"/>posterum bene aget. Et insuper contemplationibus mente abundat. Habet enim philosophia mirabiles de 
+      <lb ed="#P" n="41"/>lectationes &amp; synceras, decimo libro huius: nunc philosophiae grauissimas quaestiones nunc vero theosophiae 
+      <lb ed="#P" n="42"/>abyssos mente resoluit. Qui autem scientiam scripturarum amat carius vitia non admittet, teste Hierony 
+      <lb ed="#P" n="43"/>mo ad Rusticum monachum. Et sic non datur ei locus vllus circa sordida &amp; illa quae hominem inquinant. 
+      <lb ed="#P" n="44"/>Et cum non habeat conscientiam lesam optime secum moratur. Vnde Seneca secunda epistola ad 
+      Lucil<lb ed="#P" n="45" break="no"/>lium. Primum argumentum compositae mentis existimo posse consistere, &amp; secum morari. Praeterea 
+      ma<lb ed="#P" n="46" break="no"/>xime vna secum dolet ac laetatur: dolet enim de perperam in republica actis: &amp; de bonis in ea gestis gaudet. 
+      <lb ed="#P" n="47"/>ldem enim omnino est ipsi iucundum atque molestum, &amp; non vno tempore aliquid iucundum est &amp; postea 
+      <lb ed="#P" n="48"/>molestum. Nam sine poenitudine est prorsus. Competunt igitur studioso viro ad se haec: sibiipsi bene velle 
+      <lb ed="#P" n="49"/>ac facere, velle esse ac viuere, &amp; secum iucunde viuere. Eisdem tristari, eisdemque gaudere: quae sunt 
+      beneficen<lb ed="#P" n="50" break="no"/>tiae, beneuolentiae concordiaeque officia. Ex hoc corollarium infert tale. Ex eo igitur quia vnumquodque 
+      ipso<lb ed="#P" n="51" break="no"/>rum ad seipsum competit studioso: ad amicum autem habet vt ad seipsum est enim amicus alter 
+      ipseligi<lb ed="#P" n="52" break="no"/>tur quaecunque competunt studioso respectu suiipsius, studioso competunt respectu amici. Et sequitur 
+      quae<lb ed="#P" n="53" break="no"/>stio. Quaerere vero vtrum ad seipsum an non sit, amicitia, omittamus. Hoc itaque missum facit, nec 
+      magno<lb ed="#P" n="54" break="no"/>pere curat: tamen nunc a nobis strictim dicatur. Amicitia videtur esse inter quoscunque quibus duo aut  
+      <lb ed="#P" n="55"/>tria ex praedictis conueniunt, &amp; si ad alios superabundant amicitiam habeamus. Talis amicitia assimilatur 
+      <lb ed="#P" n="56"/>amicitiae quam homo ad seipsum habet. Vnde cum quis vult explicare &amp; magnificare amicitiam quam ad 
+      <lb ed="#P" n="57"/>alium habet, dicere solet: diligo talem sicut meipsum. 
+    </p>
+            <p xml:id="JMAet9-d37188-d1e248">
+               <lb ed="#P" n="58"/>⁋ Dubitatur an studiosus sit sine poenitentia: &amp; argumentor quod non. Nemo sine crimine viuit, &amp; primae 
+      lo<lb ed="#P" n="59" break="no"/>annis tertio. Si dixerimus quod peccatum non habemus, nosipsos seducimus, &amp; veritas in nobis non est: sed  
+      <lb ed="#P" n="60"/>quicunque delinquit, vt eum poenitudo subeat necesse est. In oppositum est philosophus. 
+    </p>
+            <p xml:id="JMAet9-d37188-d1e257">
+               <lb ed="#P" n="61"/>⁋ Secundo dubitatur an hominis ad seipsum fit amicitia. Ad priorem dubitationem dicitur quod nemo 
+      <lb ed="#P" n="62"/>est tam studiosus in hac mortali vita de lege communi qui non peccet. Delicta quis intelligit? Et hoc 
+      <lb ed="#P" n="63"/>melius fideles nouerunt quam puri philosophi. Aristoteles autem intelligit quod non saepicule ducitur 
+      poe<lb ed="#P" n="64" break="no"/>nitentia quoniam raro delinquit, cum est habituatus iam probis moribus. 
+      <!--308.xml-->
+      <pb ed="#P" n="144-r"/>
+               <lb ed="#P" n="1"/>vel quod non ducitur poenitentia vt talis scilicet studiosus, sed vt a virtute cadens. septies in die cadit iustus &amp; resurgit. 
+      <lb ed="#P" n="2"/>Ad secundam dubitationem affirmatiue respondetur. Patet, quia in eodem supposito possunt concurrere omnia 
+      <lb ed="#P" n="3"/>in principio octaui capite secundo posita, quae ad veram amicitiam attinent. Qui enim pure &amp; iucunde vi 
+      <lb ed="#P" n="4"/>uit est sibiipsi maximus amicus. Communiter tamen est beneuolentia inter diuersos. Propterea in 
+      secun<lb ed="#P" n="5" break="no"/>do capite octaui Aristoteles dicit quod amicitia est beneuolentia mutua. Insuper circa eandem materiam est 
+      <lb ed="#P" n="6"/>iustitia &amp; amicitia ex octauo huius libri: sed iustitia est respectu suimet. Poenitens enim vindicat piaculum 
+      <lb ed="#P" n="7"/>a se commissum ac si esset in alio perpetratum: igitur. Sequitur tertia pars principalis huius capitis, ibi. At 
+      <lb ed="#P" n="8"/>vero videntur in qua quaerit an praui inter sese habeant amicitiam. Et primo colorat partem 
+      affirmati<lb ed="#P" n="9" break="no"/>uam inquiens. At vero videntur &amp; ea quae dicta sunt multis inesse quamuis sunt praui, dicit praui ad seipsos: 
+      <lb ed="#P" n="10"/>haec autem amicitiae opera non habent, tamentsi nonnullis visum sit multis ad seipsos quamuis praui essent 
+      <lb ed="#P" n="11"/>hoc conuenire: id ita non esse ostenditur. Primo quia haec ipsis non conueniunt quo sibiipsis placent, &amp; bo 
+      <lb ed="#P" n="12"/>nos seipsos esse existimant. Nam nemo eorum qui vehementer mali atque nepharii sunt siibiipsi placet, bo 
+      <lb ed="#P" n="13"/>numque se putat: &amp; propterea haec eis nec insunt nec inesse videntur, quod maius est. Terme autem neque pra 
+      <lb ed="#P" n="14"/>uis praedicta opera amicitiae conueniunt. Dissident enim secum &amp; alia quidem cupiunt, alia autem volunt. 
+      <lb ed="#P" n="15"/>Hoc est alia secundum partem sensitiuam cupiunt, alia autem volunt secundum rationem: vt incontinen 
+      <lb ed="#P" n="16"/>tes factitant. Nam iis quae bona sibi videntur anteponunt ea quae voluptate afficiunt atque nocent. Et sicut 
+      <lb ed="#P" n="17"/>in intemperantiae materia hoc declarat: sic hoc ipsum circa fortitudinis obiectum ostendit, inquiens, 
+      Qui<lb ed="#P" n="18" break="no"/>dam tursus ob fortitudinem atque inertiam eas agere res omittunt, quas putant sibiipsis optimas esse. Qui 
+      <lb ed="#P" n="19"/>vero multas res graues atque nephandas egerunt, vitam ob prauitatem odio habent ac fugiunt: sibique mor 
+      <lb ed="#P" n="20"/>tem consciscunt: vt Achitophel. Quaerunt praeterea alios ipsi flagitiosi quibuscum conuersentur: se vero 
+      <lb ed="#P" n="21"/>ipsos fugiunt: non quod a seipsis recedant, sed quod nolunt stare soli ne praeterita sua male acta in mentem 
+      veni<lb ed="#P" n="22" break="no"/>ant. Nam si sint secum recordantur multarum grauiumque rerum stimulante conscientia, &amp; sperant aliquan 
+      <lb ed="#P" n="23"/>do tales se facturos: quas si cum aliis extiterintobliuiscuntur: quia aliis delectationibus distrahuntur. Atque cum 
+      <lb ed="#P" n="24"/>nihil habeant quod sit amabile, nulla re prorsus afficiuntur ad seipsos, quae ad amicitiam attinet. Neque 
+      igi<lb ed="#P" n="25" break="no"/>tur vna secum gaudent atque dolent. Est enim eorum anima in seditione: habent enim in se ciuile bellum. 
+      <lb ed="#P" n="26"/>Neque enim est pax cum impiis, secundum prophetam. Atque interdum ob prauitatem dolet quod a quibusdam 
+      <lb ed="#P" n="27"/>facinorosis abstineat: &amp; interdum laetatur secundiim rationem, &amp; haec quidem pars huc, illa autem illuc 
+      tra<lb ed="#P" n="28" break="no"/>hit, vt ipsum flagitiosum diuellentes. Et si vltra gradum incontinentiae hunc intemperatum in gradu po 
+      <lb ed="#P" n="29"/>sueris, sic quod conscientia non remurmuret, dico per synderesim innatam circa practicam pungitur sicut a sente, &amp; 
+      <lb ed="#P" n="30"/>ad impossibilia nonnunquam calamitose rapitur. Honores enim ardenter quaerit: &amp; ad luxum honori incompossibilem. 
+      <lb ed="#P" n="31"/>Similiter quando famescit cibum ad sacietatem quaerit, &amp; vbi est opipare refectus dolet se non amplius posse 
+      com<lb ed="#P" n="32" break="no"/>edere. Et eructationes ob humores crudos habet, &amp; sic eum mala poenitentia subit. Sic circa materiam illecebrae 
+      <lb ed="#P" n="33"/>&amp; caetera id genus saepicule facit. Qu si fieri nequeat vt doleat atque laetetur supple circa eandem materiam &amp; 
+      <lb ed="#P" n="34"/>cum simili apprehensione: at paulopost dolet, quod laetatus fuit. Extrema enim gaudii luctus occupat: &amp; vellet 
+      <lb ed="#P" n="35"/>sibiipsi illa voluptati non fuisse. Improbi nanque poenitentia sunt referti. Poenitentia inquam instabili &amp; 
+      ineffi<lb ed="#P" n="36" break="no"/>caci. Improbus igitur ad seipsum non est amice affectus, propterea quod nihil in se quod amabile sit, habeat. Quod 
+      <lb ed="#P" n="37"/>ita sese habere valde est miserum &amp; calamitosum. Est ergo totis viribus enitendum nobis vt boni simus. 
+      <lb ed="#P" n="38"/>Sic enim ad seipsum se quisque habebit amice, &amp; aliis amicus esse poterit.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

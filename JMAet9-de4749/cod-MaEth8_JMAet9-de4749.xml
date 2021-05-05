@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-de4749"><!-- mair-l2c1 -->
+            <head xml:id="JMAet9-de4749-Hd1e103">Caput 1</head>
+            <p xml:id="JMAet9-de4749-d1e106">
+               <lb ed="#P" n="36"/>
+               <quote xml:id="JMAet9-de4749-Qd1e110" type="lemma">Cvm autem virtus</quote>. <pc type="pilcrow">¶</pc> In hoc secundo libro philosophus loquitur de virtute gene 
+      <lb ed="#P" n="37"/>ratim. Et in tres tractatus diuiditur secundum tria principaliter in eo consideran 
+      <lb ed="#P" n="38"/>da. In primo ostendit ex quibus &amp; qualibus generatur virtus. In secundo quid est 
+      <lb ed="#P" n="39"/>virtus. In tertio docet de virtutis &amp; vitii oppositione. Dicit itaque primo. Cum 
+      du<lb ed="#P" n="40" break="no"/>plex sit virtus, videlicet intellectiua intellectum perficiens, &amp; moralis affectum 
+      illu<lb ed="#P" n="41" break="no"/>strans, vt in calce primi dictum est: intellectiua vt plurimum ex doctrina 
+      genera<lb ed="#P" n="42" break="no"/>tionem sui habet atque augmentum. Dicit vt plurimum: interdum enim 
+      inuentio<lb ed="#P" n="43" break="no"/>ne procuratur, sed illud est perrarum. Adocente enim vulgo acquiritur: proinde experientia &amp; 
+      tem<lb ed="#P" n="44" break="no"/>poris interuallo indiget. Moralis autem ex assuetudine comparatur, vnde &amp; nomen habet tale, 
+      scili<lb ed="#P" n="45" break="no"/>cet a moribus. Aliae translationes dicunt: vnde nomen habet parumper a more declinans: &amp; Argyro 
+      <lb ed="#P" n="46"/>pilus &amp; alii parum in hoc discrepant. Infert corollarium tale, Nulla virtus moralis inest nobis a 
+      na<lb ed="#P" n="47" break="no"/>tura: probatur. Nam omnis virtus moralis ex consuetudine comparatur, sic quod possumus eam 
+      acqui<lb ed="#P" n="48" break="no"/>rere vel eius oppositum, sed illud quod est a natura non est huiusmodi, igitur. Vel sic, Virtus moralis 
+      <lb ed="#P" n="49"/>non inest nobis a natura. Probatur. Nihil enim quod naturaliter nobis inest potest verti in 
+      oppo<lb ed="#P" n="50" break="no"/>situm, sed sumus ad opposita virtutum moralium &amp; intellectualium flexibiles: igitur. Maiorem in 
+      lite<lb ed="#P" n="51" break="no"/>ra declarat de lapide &amp; alio graui saepissime in altum proiecto, quod nunquam sursum mouebitur. Nec 
+      prae<lb ed="#P" n="52" break="no"/>ter naturam hoc est contra naturam aut violente habitus acquiruntur, sumus enim ad illos suscipiendos natura proni 
+      <lb ed="#P" n="53"/>ac idonei, &amp; consuetudine proficimus. Intendit phius nec virtutes inesse nobis a natura: nec iesse nobis violente 
+      <!--53.xml-->
+      <pb ed="#P" n="19-v"/>
+               <lb ed="#P" n="1"/>&amp; contra naturam. Sedo, cum aliqua nobis natura assunt, prius potentias &amp; postea operationes suscipimus. 
+      <lb ed="#P" n="2"/>sed virtus moralis quae est potentia ad benme operandum non inest nobis prius quam operatio, quia ex operationibus acquiri 
+      <lb ed="#P" n="3"/>tur. Maior patet exemplariter in sensibus. Non enim quia videmus aut audimus frequenter, sensus accipimus, 
+      <lb ed="#P" n="4"/>sed contra, quia sensus habemus illis vtimur. Videre enim audire &amp; alioqui sentire sunt fines potentiarum sen 
+      <lb ed="#P" n="5"/>sitiuarum. Sicut non viuimus vt comedamus, nec pacem habemus vt bellemus: sed contra comedimus vt 
+      <lb ed="#P" n="6"/>viuamus, &amp; bellamus vt denique bona requie potiamur. Dicit itaque. Non enim ex eo quod vidimus vel 
+      audiui<lb ed="#P" n="7" break="no"/>mus saepe, sensus accipimus, sed contra habentes sensus eis vsi sumus, hoc est habentes sensus vtimur eis, 
+      <lb ed="#P" n="8"/>non vsi accipimus eos, hoc est non accipimus sensus vsu. At virtutes acquisitas accipimus, infusas autem 
+      vir<lb ed="#P" n="9" break="no"/>tutes caelitus, vix dignouit philosophus. Illas vero nostris operibus non accipimus nisi meritorie, 
+      quemad<lb ed="#P" n="10" break="no"/>modum in artibus contingit. Nam in artibus postquam accepimus quae facere oportet ea faciendo addiscimus. vt 
+      <lb ed="#P" n="11"/>aedificando aedificatores efficimur, &amp; citharam pulsando citharoedi. Vetus est diuerbium. Fabricando fabri fi 
+      <lb ed="#P" n="12"/>mus, quod ex hac ira originem traxit. Pari modo iusta agentes iusti, &amp; modesta modesti, &amp; facientes fortia for 
+      <lb ed="#P" n="13"/>tes efficimur. Hoc per legumlatores declarat, qui proborum operum assuefactione ciues bonos reddunt. Haec enim est 
+      <lb ed="#P" n="14"/>cuiustibet legumlatoris voluntas, si enim secus fecerint peccent. Non aliam ob rem ad praeceptores scholastici in 
+      <lb ed="#P" n="15"/>aetate tenella mittuntur, &amp; licet non mereantur, quodammodo cum renisu bona facientes, bnen tamen habituantur, &amp; ad 
+      <lb ed="#P" n="16"/>bene operandum sunt propensiores. Et per hoc republica bona a mala seiungitur, quia in mala republica mores 
+      <lb ed="#P" n="17"/>negligunt, in bona vero malos poenis afficiunt, vt caeteri timeant. Bonos ad virtutes vt caeteri animem 
+      <lb ed="#P" n="18"/>tur promouent, non sic autem in mala republica.
+    </p>
+            <p xml:id="JMAet9-de4749-d1e197">
+               <pc type="pilcrow">¶</pc> Sequitur. Insuper ex iisdem &amp; per eadem omnis virtus &amp; ars 
+      <lb ed="#P" n="19"/>similiter &amp; fit &amp; corrumpitur. Quia visum est per quid virtus moralis generetur, quia per bonas operationes, vult 
+      <lb ed="#P" n="20"/>nunc ostendere per quid virtus corrumpatur, scilicet per malas operationes, &amp; per consequens est ab eis 
+      rece<lb ed="#P" n="21" break="no"/>dendum, cum vltra peccata quae deum irritant, virtutes euertant. Dicit ergo per easdem operationes non numero, 
+      <lb ed="#P" n="22"/>sed contrario modo factas generatur virtus &amp; corrumpitur, sed virtus moralis per bonas operationes 
+      <lb ed="#P" n="23"/>(vt dictum est) generatur, ergo per malas operationes corrumpitur. Maior patet per similitudinem in  
+      <lb ed="#P" n="24"/>artibus. Nempe ex frequenti citharae pulsu prompti fiunt citharoedi, simili modo aedificatores, &amp; 
+      caete<lb ed="#P" n="25" break="no"/>ri artifices. Nam ex eo quod bene acdificant, boni: &amp; ex eo quod perperam aedificant, mali fiunt aedificatores, 
+      <lb ed="#P" n="26"/>&amp; fabri: si vero ita res sese non haberet, non opus esset docente, sed omnes boni fierent aut mali etiam 
+      <lb ed="#P" n="27"/>in sensu disiunctiuo, sic erit in virtute. Nam &amp; agentes ea quae in hominum commerciis sunt iusti aut 
+      in<lb ed="#P" n="28" break="no"/>iusti euadimus, sic circa discrimina &amp; in terribilibus rebus assueti timere, timidi, &amp; consueti confidere 
+      <lb ed="#P" n="29"/>fortes euadunt. ldem circa cupiditates hoc est concupiscentias &amp; iras euenit. Alii enim circa cupiditates 
+      ten<lb ed="#P" n="30" break="no"/>peranter viuentes, temperantes fiunt, &amp; irascendo solum quando ratio efflagitat homines fiunt faciles &amp; mites: &amp; per actus 
+      op<lb ed="#P" n="31" break="no"/>positos intemperantes, &amp; iracundi euadunt, ex eo plane, hoc est quia operantur hoc modo aut illo in actibus. Hoc 
+      <lb ed="#P" n="32"/>est bene vel male. Atque vt breuiter dicam, hoc est paucis compraehendam, vel vt paucis quod dicere coepi absoluatur. 
+      <lb ed="#P" n="33"/>Ois habitus ex silibus operationibus gignitur.
+    </p>
+            <p xml:id="JMAet9-de4749-d1e235">
+               <pc type="pilcrow">¶</pc> Sequitur breue documentum haud spernendum. Quapropter ta 
+      <lb ed="#P" n="34"/>les quasdam operationes facere oportet: hoc est quales actus facimus tales habitus naturaliter sequuntur. 
+      <lb ed="#P" n="35"/>Operationum enim differentias habitus sequuntur. Corollarium. Non parum igitur, sed plurimum 
+      <lb ed="#P" n="36"/>quin totum potius refert sic ne hoc est probe, an non sic. i. improbe homines a pueritia consuescere. 
+      Lu<lb ed="#P" n="37" break="no"/>douicus francorum rex sanctissimus a religiosis viris praedicatorii ordinis &amp; minoritis sancte institutus 
+      ta<lb ed="#P" n="38" break="no"/>lis euasit: &amp; Alexander macedo vt plerisque placere video, a tumido praeceptore institutus superciliosus euasit. 
+      <lb ed="#P" n="39"/>Et ita est vbique qui improbos mores ab adolescentia imbiberint, ferme sunt incurabiles, dicente propheta. 
+      <lb ed="#P" n="40"/>Si mutare potest aethiops pellem suam &amp; pardus varietatem suam: sic vos poteritis cum malum ab 
+      ado<lb ed="#P" n="41" break="no"/>lescentia didiceritis. quocirca delira est huius versiculi sententia. Angelicus iuuenis, sathan senibus fit 
+      <lb ed="#P" n="42"/>in annis. Cum nihil sit fructuosius quam a teneris annis defaecatos haurire mores, qui habentem ad benen 
+      ope<lb ed="#P" n="43" break="no"/>randum facilitant. Quidam deliri praeceptores propter hunc versiculum iuuenes bona indole praeditos a virtute ad vi 
+      <lb ed="#P" n="44"/>tia auocant: ignorantes quantum momenti obtineat proba educatio ab vnguiculis teneris &amp; primis annis. 
+    </p>
+            <p xml:id="JMAet9-de4749-d1e265">
+               <lb ed="#P" n="45"/>⁋ Dubitatur circa hanc literam. Nam in brutis &amp; in actibus intellectus, vt in scientia &amp; in intellectu, 
+      <lb ed="#P" n="46"/>circa principia generantur habitus, &amp; tamen naturaliter ista contingunt. Secundo, generatio virtutis 
+      <lb ed="#P" n="47"/>non est violenta, itaque est naturalis. Tertio aliqui sunt naturaliter casti ab influxu caeli, aut a progeni 
+      <lb ed="#P" n="48"/>toribus, alii econtrario. 
+    </p>
+            <p xml:id="JMAet9-de4749-d1e277">
+               <lb ed="#P" n="49"/>⁋ Secundo dubitatur, quomodo virtutes intellectuales indigeant experimento &amp; longo tempore. 
+    </p>
+            <p xml:id="JMAet9-de4749-d1e282">
+               <lb ed="#P" n="50"/>⁋ Tertio dubitatur quomodo intelligitur haec propositio virtus fit ex operationibus, quam 
+      circun<lb ed="#P" n="51" break="no"/>stantiam dicit illic praepositio ex.
+    </p>
+            <p xml:id="JMAet9-de4749-d1e289">
+               <pc type="pilcrow">¶</pc> Quarto haeres forsan a quo emanet ipsa operatio.
+    </p>
+            <p xml:id="JMAet9-de4749-d1e295">
+               <pc type="pilcrow">¶</pc> Quinto an 
+      <lb ed="#P" n="52"/>actus sit ex habitu, &amp; eodem modo sicut habitus ex actu.
+    </p>
+            <p xml:id="JMAet9-de4749-d1e303">
+               <pc type="pilcrow">¶</pc> Sexto ambigitur an ex eisdem actibus 
+      se<lb ed="#P" n="53" break="no"/>cundum speciem specialissimam fiant virtutes &amp; vitia.
+    </p>
+            <p xml:id="JMAet9-de4749-d1e311">
+               <pc type="pilcrow">¶</pc> Ad primam dubitationem respondetur quod in agente 
+      <lb ed="#P" n="54"/>naturali non cognitiuo aut appetitiuo non generatur habitus. Ratio habitus ponitur ob actus proptitudinem 
+      <lb ed="#P" n="55"/>&amp; facilitatem: sic quod homo est pronior ad actus elicitionem post habitum quam prius, sed lapis in altum impulsus millies, 
+      <lb ed="#P" n="56"/>eadem difficultate a terra erigitur sicut a principio, in voluntate tamen &amp; intellectu ponendus est habitus, tam 
+      re<lb ed="#P" n="57" break="no"/>spectu principiorum quam conclusionum. Et licet homo non possit propositioni per se notae dissentire, tamen 
+      prom<lb ed="#P" n="58" break="no"/>ptius exit in actum assentiendi &amp; crebrius quam ante actuum elicitionem, &amp; hoc est habitus indicium. 
+    </p>
+            <p xml:id="JMAet9-de4749-d1e329">
+               <lb ed="#P" n="59"/>⁋ Ad primam rationem concedo quod bruta habitibus possunt assuefieri ad hos actus aut illos. 
+    </p>
+            <p xml:id="JMAet9-de4749-d1e334">
+               <lb ed="#P" n="60"/>⁋ Ad secundam concedo antecedens &amp; consequens quod est naturalis, capiendo naturale vt distinguitur contra violentum, 
+      <lb ed="#P" n="61"/>sed hoc mo non capit philosophus, sed illud est naturale in proposito quod nobis a natiuitate inest, vt Plato 
+      <lb ed="#P" n="62"/>de scientia dicebat. Naturale contra casuale, contra supernaturale, contra artificiale, distinguitur, sed illae 
+      <lb ed="#P" n="63"/>acceptiones sunt nobis alienae.
+    </p>
+            <p xml:id="JMAet9-de4749-d1e345">
+               <pc type="pilcrow">¶</pc> Ad tertiam rationem concedo aliquos ad virtutem aptos, aliquos 
+      <lb ed="#P" n="64"/>vero ad vitia dispositos sine habitu vllo. Hoc a causis in argumento tactis originem capit. 
+      <!--54.xml-->
+      <pb ed="#P" n="20-r"/>
+            </p>
+            <p xml:id="JMAet9-de4749-d1e357">
+               <lb ed="#P" n="1"/>⁋ Ad secundam dubitationem respondetur, quod experientia longo tempore eget, &amp; experimento 
+      simi<lb ed="#P" n="2" break="no"/>liter multorum scibilium scientia. vt circa astronomiam &amp; multa alia. 
+    </p>
+            <p xml:id="JMAet9-de4749-d1e364">
+               <lb ed="#P" n="3"/>⁋ Ad tertiam dubitationem respondetur quod illic particula ex non dicit circunstantiam causae 
+      materian<lb ed="#P" n="4" break="no"/>lis. Quemadmodum dicimus cultellum ex ferro fieri: nec circunstantiam termini a quo solum, vt ex die 
+      <lb ed="#P" n="5"/>fit nox, sed dicit circunstantiam causae efficientis. Actus generat habitum naturaliter, nec est in 
+      pote<lb ed="#P" n="6" break="no"/>state hominis habere actum non habendo habitum, si actus ille sit habitus generatiuus. Qa actus 
+      ge<lb ed="#P" n="7" break="no"/>nerat habitum vult Aristoteles in litera expresse in capite sequenti, &amp; quod naturaliter habitus ab actu 
+      <lb ed="#P" n="8"/>emergat expresse dicit in tertio, attamen notitia intuitiua non producit habitum, vbique habitus 
+      in<lb ed="#P" n="9" break="no"/>clinat in similes actus in specie specialissima actibus a quibus emanauit. Similiter actus voluntatis a 
+      <lb ed="#P" n="10"/>notitia intuitiua dependens non producit habitum. vt delectatio beatifica. Quemadmodum notitia 
+      <lb ed="#P" n="11"/>intuitiua remota obiecti praesentia corrumpitur, sic actus voluntatis intuitiuus remota notitia intui 
+      <lb ed="#P" n="12"/>tiua illius obiecti euanescit. Habitus autem sine concursu voluntatis, aut alterius potentiae non 
+      pro<lb ed="#P" n="13" break="no"/>ducit actum. Aliter ergo habitus ad actus productionem, aliter vero actus ad habitus causalitatem concurrit. 
+      Con<lb ed="#P" n="14" break="no"/>tra illud sic instatur. Causa debet esse firmior effectu, sed operatio non est firmior habitu, igitur. Sedo, habitus 
+      pro<lb ed="#P" n="15" break="no"/>ducit actum, ergo actus non producit habitum, tenet consequantia, quia inter causam &amp; effectum num qui est circulatio. Ad 
+      <lb ed="#P" n="16"/>priorem rationem, nego ancedens. Ad secunam nego consequantiam. Solum enim sequitur, ergo habitum non producit, puta illum ha 
+      <lb ed="#P" n="17"/>bitum qui ipsam operationem producit.
+    </p>
+            <p xml:id="JMAet9-de4749-d1e399">
+               <pc type="pilcrow">¶</pc> Ad quaertam dubitationem rmondetur quod operatio voluntati ab itellectus actu &amp; po 
+      <lb ed="#P" n="18"/>tentia producitur, non n voluntas pure passiue se he respectu voluntati quam theologi volitionem discrimis gera 
+      ap<lb ed="#P" n="19" break="no"/>pellant. Operatio intuitiua potentiae cognitiuae ab obiecto &amp; potentia producitur, &amp; intuitiua producit notitiam abstracti 
+      <lb ed="#P" n="20"/>uam, &amp; illa producit habitum.
+    </p>
+            <p xml:id="JMAet9-de4749-d1e412">
+               <pc type="pilcrow">¶</pc> Ad quintam dubitationem parte, remonsio ex iam dicti.
+    </p>
+            <p xml:id="JMAet9-de4749-d1e418">
+               <pc type="pilcrow">¶</pc> Ad sextam rspendetur quod idem actus 
+      nune<lb ed="#P" n="21" break="no"/>ro poest esse actus virtutis &amp; vitii, &amp; sic virtus &amp; vitium sunt eiusdem speciei in gnae naturae. hoc est entitatiue, non 
+      <lb ed="#P" n="22"/>autem in gne moris. Saepius tamen virtus &amp; vitium differunt in gne naturae, cum crebrius habeant obiecta specie distincta.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

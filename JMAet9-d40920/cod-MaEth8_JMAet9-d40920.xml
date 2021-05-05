@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 5</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 5</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d40920"><!-- mair-l10c5 -->
+            <head xml:id="JMAet9-d40920-Hd1e103">Caput 5</head>
+            <!--alias="mair-l10c5p1-->
+            <p xml:id="JMAet9-d40920-d1e108">
+               <lb ed="#P" n="13"/>
+               <quote xml:id="JMAet9-d40920-Qd1e112" type="lemma">VNDE &amp; specie</quote> &amp;c. In hoc capite loquitur de voluptatum diuersitate ab operationum diuersita 
+      <lb ed="#P" n="14"/>te accepta: &amp; quatuor partes praecipuas caput continet. In prima ponit conclusionem &amp; remouet 
+      <lb ed="#P" n="15"/>dubium. In secunda probat aliquas voluptates esse laudabiles aliquas vero prauas. In tertia 
+      deter<lb ed="#P" n="16" break="no"/>minat de voluptatum varietate penes purum impurumque. In quarta hoc ipsum facit secundum 
+      subiecto<lb ed="#P" n="17" break="no"/>rum diuersitatem. Literam attingo. Vnde &amp; specie &amp;c. Prima conclusio. Voluptates inter se differunt 
+      <lb ed="#P" n="18"/>specie. Probatur primo: quia perfectibilium specie differentium hoc est operationum, sunt 
+      perfectio<lb ed="#P" n="19" break="no"/>nes specie differentes: at operationes sunt per voluptatem perfectibiles, hoc est augmentabiles ex 
+      proxi<lb ed="#P" n="20" break="no"/>me enarratis: igitur. Maior patet explanatione exemplari tam in naturalibus quam artificialibus. Alia enim 
+      <lb ed="#P" n="21"/>est perfectio animalium, alia arborum. harum enim perfectio est in fructuum vbertate, illorum vero 
+      <lb ed="#P" n="22"/>in sensuum aut intellectus perspicacitate. Similiter in artificialibus: alia est enim perfectio picturae, 
+      sta<lb ed="#P" n="23" break="no"/>tuae, domus &amp; vasis. Ac operationes mentis ab operationibus sensus: &amp; tursus operationes sensus 
+      in<lb ed="#P" n="24" break="no"/>ter se differunt. Intellectio a sensatione: &amp; auditio a visione specie differt. &amp; ita in aliis, vel sic desceptetur. In 
+      <lb ed="#P" n="25"/>affectibus siue actibus sensus vel intellectus quorum causae specie differunt, etiam effectus specie differunt: 
+      <lb ed="#P" n="26"/>Licet calores a sole &amp; igne producti specie non differant: opinio tamen &amp; scientia eiusdem obiecti. Item 
+      <lb ed="#P" n="27"/>scientia propter quid &amp; quia est, eiusdem obiecti propinqui specie differunt, &amp; non nisi ob discrimen 
+      spe<lb ed="#P" n="28" break="no"/>cificum causarum. Extra habitus hoc vbique teneo, si mente tenes: quare autem sic de habitu opinor in  
+      <lb ed="#P" n="29"/>ethicorum secundum iam diximus. Secundo argumentatur ad eandem conclusionem: quia 
+      vnaquae<lb ed="#P" n="30" break="no"/>que voluptas &amp; operatio in propria est quam perficicit: nam propriae voluptatis peculiare est operationem 
+      <lb ed="#P" n="31"/>augere: at voluptas auget operationem, quod ex hoc deprehenditur quod qui cum delectatione operantur 
+      <lb ed="#P" n="32"/>cuncta, magis discernunt &amp; exactius singula cognoscunt. Colonus enim suauiter ore fistulando &amp; sartor 
+      <lb ed="#P" n="33"/>vestimentorum canendo optime operatur: vt geometrae fiunt qui geometrica speculatione gaudent, &amp; po 
+      <lb ed="#P" n="34"/>tius capiunt vniuersa: &amp; cantores qui concentus amant &amp; architecti qui in architectura &amp; in 
+      aedificio<lb ed="#P" n="35" break="no"/>rum extruendorum arte voluptatem capiunt. Et reliquorum singuli proprio in opere perficiuntur, hoc, 
+      <lb ed="#P" n="36"/>ipso scilicet opere se oblectantes. delectationes proinde augere operationes, &amp; quae operationes augent 
+      pro<lb ed="#P" n="37" break="no"/>pria sunt: quae autem differentibus specie propria sunt, &amp; ipsa diuersa specie erunt: vt esse risibile est homi 
+      <lb ed="#P" n="38"/>ni proprium, &amp; crocitare coruo. itaque crocitare &amp; esse risibile specie distant: itaque delectationes inter se 
+      <lb ed="#P" n="39"/>pecie distant, quod restabat ostendendum. Contra istud argumentor. Perfectibilium differentium specie 
+      <lb ed="#P" n="40"/>non sunt perfectiones differentes specie: albedo enim est perfectio hominis &amp; equi: illae duae 
+      perfectio<lb ed="#P" n="41" break="no"/>nes sunt eiusdem speciei &amp; tamen perfectibilia specie differunt. Respondetur trifariam. Primo quia non est 
+      <lb ed="#P" n="42"/>hic sermo de perfectione perfectibili inhaerente, quia voluptas operationi non inhaeret: nunquam enim acci 
+      <lb ed="#P" n="43"/>dens accidenti inhaeret. In vltima proprietate substantiae Aristoteles dicit, maxime proprium est substam 
+      <lb ed="#P" n="44"/>tiae cum sit vna &amp; eadem numero vt sit susceptiua contrariorum: hoc est nulli alteri a substantia conuenit, 
+      <lb ed="#P" n="45"/>vnum contrariorum aut aliquod accidens in se suscipere. Albedo in sacramento eucharistiae est sua 
+      quan<lb ed="#P" n="46" break="no"/>titas &amp; extra subiectum, sicut aduersarii ponunt de quantitate. Non lucteris de relatione aliqua acciden 
+      <lb ed="#P" n="47"/>ti inhaerente quia illam non ponimus a fundamento distingui. Loquitur philosophus de 
+      perfectio<lb ed="#P" n="48" break="no"/>ne propria &amp; peculiari alicui conuenienti, &amp; non de subiecti perfectione. Secundo, &amp; si ponatur vnum 
+      <lb ed="#P" n="49"/>accidens alteri inhaerere realium more, albedo est accidens commune: de proprio loquitur, vt patet per 
+      <lb ed="#P" n="50"/>secundam probationem conclusionis. Tertio dicitur haec accidentia corporalia non habent totum 
+      com<lb ed="#P" n="51" break="no"/>positum pro subiecto inhaesionis sed denominationis. Inhaerent hae albedines materiis hominum &amp; 
+      equo<lb ed="#P" n="52" break="no"/>rum: quae in omnibus corruptibilibus sunt eiusdem speciei. Accidentia tamen vitaliter immutantia 
+      <lb ed="#P" n="53"/>quemadmodum sunt cognitiones, toti subiecto primo insunt vt visio oculo, &amp; sic de aliis sensationibus. 
+      <lb ed="#P" n="54"/>Adhuc argumentor pro conclusionis roboratione: ostendendo voluptates specie differre, &amp; hoc sic. 
+      Quae<lb ed="#P" n="55" break="no"/>cunque officiunt aliquibus operationibus specie differunt ab his quae illas operationes iuuant. Nam si 
+      <lb ed="#P" n="56"/>sint eiusdem speciei eundem specificum effectum sortiuntur: addo minorem. quaedam voluptates 
+      o<lb ed="#P" n="57" break="no"/>perationibus patrocinantur easque solidant quas aliae extenuant: alienae voluptates hoc est quae 
+      commu<lb ed="#P" n="58" break="no"/>nicantur alias operationes officiunt operationibus illis quas propriae voluptates obstipant. Propria vo 
+      <lb ed="#P" n="59"/>luptas a proprio actu enascitur, aliena voluptas ab alia operatione. Patet aliter haec maior quia per id  
+      <!--338.xml-->
+      <pb ed="#P" n="159-r"/>
+               <lb ed="#P" n="1"/>quod est commune duobus neutrum illorum impeditur nec extenuatur: ac voluptas in vna 
+      opera<lb ed="#P" n="2" break="no"/>tione aliam praepedit, scilicet extraneam: igitur. Minor patet in litera, vt qui fistulis delectantur si 
+      fistu<lb ed="#P" n="3" break="no"/>larum sonum audiant nequeunt sermonibus qui eis in aure recitantur mentem adhibere, plus 
+      mo<lb ed="#P" n="4" break="no"/>dulatione gaudentes quam praesenti sermonis occupatione. Voluptas proinde quae ex modulationis arte ema 
+      <lb ed="#P" n="5"/>nat operationem quae loquutio est praepedit corrumpitque: &amp; hoc in reliquis inuenitur. Cum 
+      occur<lb ed="#P" n="6" break="no"/>rit cuipiam circa duo operari: operatio cum voluptate, sic quod si in vna operatione voluptatis 
+      exupera<lb ed="#P" n="7" break="no"/>tio extiterit aliam extrudit operationem minus voluptuosam: &amp; interdum adeo vt circa minorem 
+      <lb ed="#P" n="8"/>non operetur. Vnde fit vt cum aliqua re vehementer gaudemus non multum aliud agere 
+      possu<lb ed="#P" n="9" break="no"/>mus: at alia facimus cum alia remisse nobis placentur, vt in gladiatorum spectaculis qui bellaria 
+      man<lb ed="#P" n="10" break="no"/>dunt &amp; simul agonizantes desides contemplantur et esitant: tum id potissimum faciunt cum viles 
+      <lb ed="#P" n="11"/>&amp; ingenerosi sunt illi qui digladiantur. Nam si agonisantes eminenter decertarent in gladiorum 
+      con<lb ed="#P" n="12" break="no"/>certatione erit magna voluptas, ita quod famescens epulum postponet. Magna enim voluptas in vna 
+      <lb ed="#P" n="13"/>operatione aliam omnem extrudit. ltaque beati minime dolere possunt: acsi in vna operatione parum 
+      <lb ed="#P" n="14"/>voluptatis capiunt, possunt lin alia operatione vtcunque voluptatem capere: vt quando torpentes 
+      di<lb ed="#P" n="15" break="no"/>gladiantur, tunc contemplantes in theatris comedunt, etiam cum voluptate bellaria. Sunt autem 
+      <lb ed="#P" n="16"/>bellaria secundae mensae dulciaria, vt tragemata &amp; caetera ex sacharo &amp; melle confecta. Erat autem 
+      <lb ed="#P" n="17"/>apud priscos aedificium in formam hemicycli fabricatum ad videnda spectacula idoneum, hoc est 
+      the<lb ed="#P" n="18" break="no"/>atrum: &amp; illic &amp; ludiones &amp; gladiatores pugiles certare sueuerunt. Cum itaque voluptates propriae suas 
+      <lb ed="#P" n="19"/>operationes ex quibus proficiscuntur perfectas reddant, &amp; diuturniores melioresque faciant, alienae autem 
+      <lb ed="#P" n="20"/>voluptates diminuant atque corrumpant, quid mirum est voluptates inter se plurimum distare, quia 
+      <lb ed="#P" n="21"/>quanto vna voluptas coadiiuuat, tanto alia extenuat. Si vehementer distent non solo numero elongan  
+      <lb ed="#P" n="22"/>tur quia illa intercapedo est minima: ergo specie differunt. Insuper alienae voluptates id ferme 
+      faci<lb ed="#P" n="23" break="no"/>unt quod proprii dolores efficiunt: proprii enim dolores operationes extenuant, vt si huic scribere iniucun 
+      <lb ed="#P" n="24"/>dum sit, illi vero rationem subducere: nec ille bene scribet, nec hic bene ratiocinabitur: quia eis dolorem 
+      ta<lb ed="#P" n="25" break="no"/>lis operatio affert. ltaque fit vt circa operationes a propriis delectationibus &amp; propriis doloribus 
+      contra<lb ed="#P" n="26" break="no"/>rium contingat. Quia igitur voluptas &amp; dolor proprius habent contrarios effectus, verisimile est 
+      volu<lb ed="#P" n="27" break="no"/>ptatem propriam &amp; alienam etiam contrarios effectus habere: &amp; per consequens specie differunt. Et ne 
+      <lb ed="#P" n="28"/>credatur voluptatem alienam &amp; dolorem proprium eandem vim vendicare, dicit quod voluptates alienae 
+      <lb ed="#P" n="29"/>faciunt aliquod propinquum dolori proprio. Ab vtroque operatio extenuatur, sed magis per 
+      do<lb ed="#P" n="30" break="no"/>lorem proprium, qui secundum se propriae voluptati aduerlatur. At voluptas aliena secundum aliud 
+      <lb ed="#P" n="31"/>scilicet operationem contrariatur. Appetitus ob doloris fugam intellectum sensumve ab operatione auer 
+      <lb ed="#P" n="32"/>tit. Aliena voluptas per accidens operationem extenuat quia appetitus in aliquo voluptatem vehemen 
+      <lb ed="#P" n="33"/>tem capiens circa illud iniungitur, alia fastidiens illa relinquit, &amp; sic intellectus parum circa alia 
+      intelli<lb ed="#P" n="34" break="no"/>git. Nec circa illud circa quod appetitus operatur. Hinc in venereorum opere hominem non intelligen 
+      <lb ed="#P" n="35"/>tem referunt, propterea non ab re tunc brutis &amp; insipientibus confertur. 
+    </p>
+            <p xml:id="JMAet9-d40920-d1e296">
+               <lb ed="#P" n="36"/>⁋ Alia conclusio. Voluptatum quaedam sunt bonae, aliae foedae &amp; fugiendae. Trifatiam haec conclusio 
+      osten<lb ed="#P" n="37" break="no"/>ditur. Primo quia operationes bonitate malitiaque differunt. Sunt enim operationes quaedam expetendae. 
+      <lb ed="#P" n="38"/>quaedam fugiendae, aliae sunt neutrae. Parique forma se habent voluptates. Cuicunque operationi est sua vo 
+      <lb ed="#P" n="39"/>luptas propria: ea voluptas quae operationi studiosae addicta est, proba est: quae vero operationi malae. 
+      pra<lb ed="#P" n="40" break="no"/>ua. Secunda ratio a minori ad maius, Si illd quod minus videtur inesse iest, &amp; illd quod ma gis videtur inesse inerit, at 
+      mi<lb ed="#P" n="41" break="no"/>nus videtur quod cupiditates bonorum operum essent bonae &amp; malorum malae, &amp; tamen ita est: igitur. Minorem monstrat. Quia 
+      <lb ed="#P" n="42"/>concupiscentiae honestarum operationum sunt laudabiles, &amp; turpium illaudabiles: Nempe voluptates magis affines &amp; 
+      <lb ed="#P" n="43"/>indiuisae sunt operationibus quibus assunt quam cupiditates: sane ipsae cupiditates ab operationibus &amp; tempore 
+      <lb ed="#P" n="44"/>&amp; natura seiunctae sunt: concupiscentiae opus &amp; tempore &amp; natura anteeunt. Concupiscentia enim est bo 
+      <lb ed="#P" n="45"/>ni nondum habiti. Nonnunquam etiam sunt concupiscentiae, &amp; tamen concupita non sequuntur. 
+      Volupta<lb ed="#P" n="46" break="no"/>tes autem semper comites sunt operationum, ita vt ambigatur an voluptas ab operatione sit indiuisa, 
+      <lb ed="#P" n="47"/>tamen voluptas non videtur operatio mentis aut sensus. Inconuenit enim vt voluptas quae est in  
+      <lb ed="#P" n="48"/>appetitu sicut concupiscentia, sit operatio sensus vel mentis. Sed quibusdam ipsa voluptas cum 
+      operatio<lb ed="#P" n="49" break="no"/>ne iccirco idem esse videtur, quia ab operatione non separatur. Sed quicquid sit haec ratio non valet. vt 
+      <lb ed="#P" n="50"/>patet de connexione virtutum inter se, &amp; cum prudentia in sexto libro. Insuper vt operationes 
+      dif<lb ed="#P" n="51" break="no"/>ferunt ita &amp; voluptates ipsae. Operatio visus a tactus operatione puritate differt. Pari forma 
+      ope<lb ed="#P" n="52" break="no"/>rationes auditus &amp; odoratus a gustus operatione puritate sunt discretae. Ita quoque voluptas visus a 
+      <lb ed="#P" n="53"/>tactus voluptate: &amp; voluptas auditus &amp; odoratus a voluptate gustus puritate differt. Et voluptates 
+      men<lb ed="#P" n="54" break="no"/>tis a sensuum voluptatibus, &amp; iterum mentis voluptates sua discrimina inter se vendicant. 
+    </p>
+            <p xml:id="JMAet9-d40920-d1e340">
+               <lb ed="#P" n="55"/>⁋ Hic scito quod voluptatis puritas operationis puritatem insequitur. Hunc ordinem puritatis capito. 
+      <lb ed="#P" n="56"/>Operatio visus est purior tactus operatione: &amp; operationes auditus &amp; olfactus sunt puriores quam 
+      ope<lb ed="#P" n="57" break="no"/>rationes gustus: &amp; operatio intellectus est purior operatione sensus. Operatio enim vbique ea est purior quae est 
+      <lb ed="#P" n="58"/>immaterialior &amp; maxime seiuncta ab obiecto maxime materiali, scilicet a terra. proinde inter omnes 
+      opera<lb ed="#P" n="59" break="no"/>tiones sensitiuas visus operatio est defaecatissima sincerissimaque: quia minus admistiomis habet dispositionis 
+      ter<lb ed="#P" n="60" break="no"/>restris: quod ex parte obiecti liquet quod sit actu sensibile per lumem quod est plurimum secretum a terra &amp; opa 
+      <lb ed="#P" n="61"/>citate. Lumem enim est qualitas caelestis &amp; multum spiritualis: vitrum, papirum, &amp; caetera id genus diaphana in 
+      instan<lb ed="#P" n="62" break="no"/>ti penetrat: proinde licet sit corporale. Lumem magnam tamen affinitatem cum spirituali proprie dicto sortitur. &amp; 
+      <lb ed="#P" n="63"/>ob hanc causam immutatio tactus est maiorem in modum materialis: quia eius obiectum scilicet qualitates tangibiles, 
+      <lb ed="#P" n="64"/>vt caliditas, frigiditas, humiditas, siccitas, sunt non parum materiales. Insuper gustus &amp; tactus non senti¬ 
+      <!--339.xml-->
+      <pb ed="#P" n="159-v"/>
+               <lb ed="#P" n="1"/>unt per speciem rei sensibilis siue rei sensibilis corporali applicatione super organum sensus. Alii vero tres 
+      <lb ed="#P" n="2"/>sensus exteriores sentiunt per solam speciem rei sensibilis. Quia ergo operatio &amp; ipsa voluptas corporeis 
+      <lb ed="#P" n="3"/>adiungitur dicitur impura: sicut vinum aquae aut terrestrietatibus iunctum impurum dicitur. Et iterum 
+      <lb ed="#P" n="4"/>ex parte animae voluptates differunt consequenter. Ad operationes enim nobilioris obiecti praestantior est 
+      <lb ed="#P" n="5"/>operatio, &amp; ex consequenti respondens voluptas.
+    </p>
+            <!--alias="mair-l10c5p2"-->
+            <p xml:id="JMAet9-d40920-d1e382">
+               <lb ed="#P" n="26"/>⁋ Sequitur litera philosophi hanc conclusionem ponentis, Animalium specie differentium differentes 
+      <lb ed="#P" n="27"/>sunt voluptates specie. Hanc bifariam monstrat. Primo ratiocinatione. Secundo: exemplo. Ratione sic, 
+      <lb ed="#P" n="28"/>Omnia habentia operationes specie differentes habent voluptates proportionabiliter specie differentes: at 
+      <lb ed="#P" n="29"/>omnia animalia habent operationes specie differentes: igitur. Maior patet, quia voluptates operationibus 
+      <lb ed="#P" n="30"/>appropriantur. Et minor patet, quia operatio propria est a propria forma substantiali: ergo quot sunt 
+      for<lb ed="#P" n="31" break="no"/>mae substantiales animalium specie differentes, tot sunt operationes specie differentes. Secunda probatio 
+      <lb ed="#P" n="32"/>quae est per exemplum est. Alia est enim voluptas equi, alia canis, alia hominis, quemadmodum Heraclitus 
+      <lb ed="#P" n="33"/>dicit, asinus potius stramina quam aurum optat. Quaelibet enim animalis species habet quandam voluptatem 
+      <lb ed="#P" n="34"/>sibi peculiarem ab aliis segregantam: licet aliquae species in aliquo generico conueniunt, &amp; communi, vt mu 
+      <lb ed="#P" n="35"/>la asinus &amp; equus mandunt auenam &amp; foenum: tamen carduos esitat auidius quam equus aut mula. Aliqua ha 
+      <lb ed="#P" n="36"/>bent sibi appropriata: aliqua communia vt in voluptate coitus pro foetus continuatione: at fortasse hae 
+      vo<lb ed="#P" n="37" break="no"/>luptates sicut &amp; operationes a formis specie differunt, licet in communi voluptatis denominatione conveniantur. 
+    </p>
+            <p xml:id="JMAet9-d40920-d1e411">
+               <lb ed="#P" n="38"/>⁋ Alia conclusio de humanis voluptatibus est, quas dicit longo interstitio inter se distare. Eadem enim 
+      <lb ed="#P" n="39"/>alios dolore afficiunt, alios delectant: &amp; quae aliquibus sunt iucunda aliis molesta sunt. Quod in 
+      dul<lb ed="#P" n="40" break="no"/>cibus reperitur quae aliquibus sunt amabilia, aliis odio habentur. Nec eadem sano &amp; febricitanti dulcia 
+      vi<lb ed="#P" n="41" break="no"/>dentur. Neque idem esse calidum infirmo &amp; bonam valetudinem habenti. 
+    </p>
+            <p xml:id="JMAet9-d40920-d1e422">
+               <lb ed="#P" n="42"/>⁋ Alia conclusio. In singulis hominum voluptatibus id sentiendum est tale, quale studiosus inudicat: sicut 
+      <lb ed="#P" n="43"/>qualitatum motuumque difformitates siue vniformiter siue difformiter difformes regulantur per 
+      vnifor<lb ed="#P" n="44" break="no"/>mes. Latitudines sic differentum hominum voluptates per studiosorum delectationes, qui sunt in hisce 
+      <lb ed="#P" n="45"/>norma. In vno quoque genere est vnum primum, quod est metron &amp; mensura omnium quae sunt in illo 
+      <lb ed="#P" n="46"/>genere (decimo metaphysicae) sicut brutum quanto magis ad hominem in perfectionibus accedit, tanto 
+      <lb ed="#P" n="47"/>est praestantius: &amp; homo est regula, sic differentes hominum voluptates quanto magis accedunt ad 
+      studio<lb ed="#P" n="48" break="no"/>si oblectamenta tanto sunt praestantiores. Studioso enim omnia sunt committenda, si in adagio bene 
+      di<lb ed="#P" n="49" break="no"/>citur: quemadmodum studioso videtur esse ita plane est &amp; virtutem ac bonum eoipso quo talis est 
+      <lb ed="#P" n="50"/>omnium esse mensuram: quo sane recte dici dubium non est, proinde eae voluptates sunt verae quae ipsi 
+      <lb ed="#P" n="51"/>videntur: &amp; illa vere sunt iucunda quibus studiosus gaudet. Nec demirabere quod nonnulla quae studiosis 
+      <lb ed="#P" n="52"/>sunt molesta, aliquibus iucunda videntur: quia non paucae hominum sunt corruptelae: &amp; deprauati mores 
+      <lb ed="#P" n="53"/>quibus illa quae re ipsa tristia sunt iucunda videntur. Patet ratione haec conclusio. Voluptatum differentium 
+      <lb ed="#P" n="54"/>inter homines est contentio: nam luxus, illecebras incontinens: sicarius insontum necem cum oblectamento persequitur, quae vtraque auer 
+      <lb ed="#P" n="55"/>satur studiosus, tunc sic, vel optimo vel deterrimo, vel mediocriter prauo praestanda est in hac digladiatione fides: non 
+      <lb ed="#P" n="56"/>duo vltima quia de moribus censent sicut de epulis aegrotus corpere: ergo primum, &amp; est propositum. Corollarium. Vt eae volu 
+      <lb ed="#P" n="57"/>ptates quae sine controuersia foedae sunt, non sint dicendae voluptates nisi deprauatis: &amp; non sequitur 
+      <!--340.xml-->
+      <pb ed="#P" n="160-r"/>
+               <lb ed="#P" n="1"/>hoc est iucundum deprauato. ergo hoc est iucundum, nam a dicto secundum quid ad dictum simpliciter 
+      <lb ed="#P" n="2"/>proceditur. At bene sequitur, hoc est studioso voluptati, ergo hoc est iucundum: a parte in modo ad suum 
+      <lb ed="#P" n="3"/>totum: sine vllo errore, tramite rectissimo transitur. Postea dicit, earum voluptatum quae probae videntur 
+      <lb ed="#P" n="4"/>esse, qualem &amp; quam dicis hominis propriam esse, &amp; ei peculiarem inquantum homo est non inquantum 
+      <lb ed="#P" n="5"/>animal, an ex operibus constat. An dubitationem illic non importat saepius tali modo loquendi in 
+      proble<lb ed="#P" n="6" break="no"/>matibus sine vacillatione, &amp; sic hic vtitur, &amp; valet nonne. hoc est voluptates homini addictae ex 
+      operatio<lb ed="#P" n="7" break="no"/>nibus hominibus peculiaribus proficiscuntur. hasce enim operationes voluptates sequuntur. Siue igitur 
+      <lb ed="#P" n="8"/>sit vna operatio siue plures viri perfecti beatique hae voluptates quae has operationes perficiunt proprie 
+      lo<lb ed="#P" n="9" break="no"/>quendo sunt hominis voluptates: quemadmodum &amp; ipsae operationes. Et haec de literali elucidatione 
+      pri<lb ed="#P" n="10" break="no"/>mi tractatus huius decimi. 
+    </p>
+            <p xml:id="JMAet9-d40920-d1e485">
+               <lb ed="#P" n="11"/>⁋ Circa materiam voluptatis quaedam in capitibus praecedentibus &amp; etiam in hoc capite sunt ambigua: ic¬i 
+      <lb ed="#P" n="12"/>circo circa totam hanc materiam dubitationes cum quaestionibus formabimus. Primo dubitatur quomo 
+      <lb ed="#P" n="13"/>do voluptas perficit operationem. Secundo quaeritur an principali intentione operatio est ob voluptatem 
+      <lb ed="#P" n="14"/>an contra. Tertio an voluptas sit amor an effectus aliquis amorem consequens &amp; ab eo distinctus. 
+    </p>
+            <p xml:id="JMAet9-d40920-d1e496">
+               <lb ed="#P" n="15"/>⁋ Ad primam dubitationem respondetur quod voluptas nullam efficientiam habet respectu operationis 
+      <lb ed="#P" n="16"/>cum naturaliter eam sequatur, &amp; belluae &amp; homines voluptatem quaerunt vt in septimo libro significatum 
+      <lb ed="#P" n="17"/>est &amp; primo rhetoricae dicit philosophus. Voluptatem omnia prosequuntur quam &amp; appetunt. At velle ali 
+      <lb ed="#P" n="18"/>quid inclinat &amp; incitat ad omne illud sine quo illud haberi non potest aut durare: &amp; voluptas sine 
+      operati<lb ed="#P" n="19" break="no"/>one non est. Homo in campis equitans tristitiam extrudere volens occurrentem vel voluptatem habere 
+      <lb ed="#P" n="20"/>volens contemplatur &amp; discurrit in illo quod ei voluptatem adgenerabit: sicut ipse crebriter cum essem in 
+      <lb ed="#P" n="21"/>Scotia cogitaui me Lutetiam rediturum, &amp; more pristino publice lecturum disputationesque auditurum. 
+      <lb ed="#P" n="22"/>voluptas tanquam acceptus finis causam eius promotiuam excitat continuatque, hominis anima more rotae 
+      <lb ed="#P" n="23"/>molendini hincinde agitatur, si non insudet circa spiritualia &amp; voluptatem consequentem, circa inutilia 
+      <lb ed="#P" n="24"/>versabitur. 
+    </p>
+            <p xml:id="JMAet9-d40920-d1e520">
+               <lb ed="#P" n="25"/>⁋ Ad quaestionem respondetur quod operatio est praestantior voluptate quae ob operationem est: &amp; contra, 
+      pro<lb ed="#P" n="26" break="no"/>batur. Semper imperfectiora sunt ob perfectiora septimo politicorum: &amp; patet ad oculum, gramina ob 
+      <lb ed="#P" n="27"/>equos, equi &amp; caeterae bestiae ob homines, &amp; homines ob deum. At operatio est voluptate praestantior: igitur. 
+      <lb ed="#P" n="28"/>Consequentia cum maiore liquet. Probare solum restat minorem: quae sic ostenditur. Faelicitas est in 
+      ope<lb ed="#P" n="29" break="no"/>ratione secundum Aristotelem &amp; theologos: sed nihil in accidentibus creatis est praestantius beatitudine: 
+      <lb ed="#P" n="30"/>igitur. Secundo, operatio est voluptate melior &amp; in natura potestate per quem &amp; boni &amp; mali &amp; 
+      volupta<lb ed="#P" n="31" break="no"/>tes &amp; bonae &amp; prauae proficiscuntur. Nam ob illud quod naturaliter euenit, nec laudamur nec vituperamur 
+      <lb ed="#P" n="32"/>ex tertio libro huius. Tertio cuius contrarium est peius, ipsum est melius: at odium dei quod dilectioni 
+      <lb ed="#P" n="33"/>eius aduersatur est deterius dolore: igitur. Quarto, amor amicitiae est deo gratissimus &amp; voluptate 
+      acceden<lb ed="#P" n="34" break="no"/>te acceptabilior: igitur. 
+    </p>
+            <p xml:id="JMAet9-d40920-d1e545">
+               <lb ed="#P" n="35"/>⁋ Contra hanc conclusionem obiecto. Illud est optimum quod omnia expetunt, bonum est obiectum 
+      vo<lb ed="#P" n="36" break="no"/>luntatis, in volendo nihil per modum obiecti omnia ad se trahit &amp; rapit nisi optimum. At voluptas est 
+      <lb ed="#P" n="37"/>huiusmodi vt Eudoxus contendit, quam sententiam non refellit Aristoteles in hoc decimo sed crebriter eam in sei 
+      <lb ed="#P" n="38"/>ptimo approbat. Secundo voluptas est operatione posterior, ergo est operatio praestantior: antecedens ex 
+      <lb ed="#P" n="39"/>dictis dicendisque liquebit. Consequentia patet nono metaphysicae: quae autem generatione sunt posteriora, 
+      <lb ed="#P" n="40"/>priora sunt perfectione. Tertio id est maxime eligibile quod ob seipsum eligitur &amp; non alterius gratia: 
+      ta<lb ed="#P" n="41" break="no"/>le est voluptas, non enim quaerimus cuius rei gratia quis voluptatem capit. Quarto illud est praestantius 
+      <lb ed="#P" n="42"/>quod melioribus convenit, quam illud quod his &amp; illis tam ignobilibus quam perfectis conuenit: at huiusmodi est vo 
+      <lb ed="#P" n="43"/>luptas, non autem operatio. Solis enim animalibus inest voluptas: omnibus autem animantibus &amp; elemen 
+      <lb ed="#P" n="44"/>tis inest operatio, vt descendere, ascendere calefacere frigefacere &amp;c. Quinto in ludo operatio ob 
+      volu<lb ed="#P" n="45" break="no"/>ptatem quaeritur: longa fatigatio ad pedalem pilam manualem ve esset fugibilis, nisi ob voluptatem. Nec 
+      coi<lb ed="#P" n="46" break="no"/>tus ob operationem eligitur sed ob voluptatem. Mulier enim grauida appetit coitum non ob prolem sed  
+      <lb ed="#P" n="47"/>voluptatem: igitur. Sexto illud est nobilius quod voluptatem quietat: voluptas est huiusmodi &amp; non 
+      fru<lb ed="#P" n="48" break="no"/>itio, cum post fruitionem expetatur voluptas. Ad haec obiecta eo ordine quo fuerunt illata respondebitur. 
+      <lb ed="#P" n="49"/>Ad primum concedo quod meliorem operationem omnes prudentes appetunt hoc est felicitatem &amp; illdm est appetibile, quod a 
+      studio<lb ed="#P" n="50" break="no"/>sis appetitur: bene enim felicitatem scilicet contemplationem primae causae &amp; eius dilectionem voluptas sequitur. Item etiam 
+      non<lb ed="#P" n="51" break="no"/>numquam principalius ob minus perfectum expetimus, at non finaliter, vt diligo deum ad me finaliter ob deum sum¬ A 
+      <lb ed="#P" n="52"/>me dilectum appreciatiue diligo. Ad secundum nego consequentiam. Accidentia animae ea posteriora 
+      <lb ed="#P" n="53"/>sunt vel ipsa imperfectiora. Propositio philosophi habet verum ad intentionem eius: quandiu persistit motus 
+      <lb ed="#P" n="54"/>generationis &amp; ad complementum tenditur posterius est perfectius, vt sensitiua est praestantior 
+      vegetati<lb ed="#P" n="55" break="no"/>ua, &amp; intellectiua sensitiua. Ad tertium dicitur quod licet voluptas sit per seipsam eligibilis est tamen etiam 
+      <lb ed="#P" n="56"/>ob operationem quam perficit eligibilis. Nec inconuenit aliquid per se &amp; propter aliud esse eligibile. 
+      virtu<lb ed="#P" n="57" break="no"/>tes enim perseipsas sunt intelligibiles, licet ab eis circumscriberentur earum operationes, inquantum sunt 
+      <lb ed="#P" n="58"/>quaedam animae perfectiones, vt in prima distinctione primi magister sententiarum autoritate patrum 
+      pro<lb ed="#P" n="59" break="no"/>bat: &amp; tamen virtutes sunt magis eligibiles propter operationes quam ob seipsas, quia operationes sunt fines 
+      vir<lb ed="#P" n="60" break="no"/>tutum &amp; ipsis praestabiliores, vt in primum ethicorum retulimus. 
+    </p>
+            <p xml:id="JMAet9-d40920-d1e604">
+               <lb ed="#P" n="61"/>⁋ Ad quartum dicitur quod generalitas operationis non ignobilitat operationem cum perfectis quibus cognitio competit 
+      <lb ed="#P" n="62"/>&amp; operatio propria &amp; voluptas consequitur. Ad quintum dicitur quod ludus ob voluptatem ordinatur, verum non finaliter. Illa enim vo 
+      <lb ed="#P" n="63"/>luptas &amp; quies ab itellectu est gra operationis, seu vt auidius literis dent operam. De muliere dicitur quod ipsa impregnata non 
+      <lb ed="#P" n="64"/>recusat cointum ob duas cans. Vna est quia ob libidis foeditatem ipsa &amp; masculus coitionem si voluptas non incideret auersaretur. 
+      <!--341.xml-->
+      <pb ed="#P" n="160-v"/>
+               <lb ed="#P" n="1"/>Secundo coitus in animalibus est praecipue ob generationem, rarius est foetu grauida mulier quam bellua faeminina. 
+      <lb ed="#P" n="2"/>multae enim sunt steriles &amp; foecundae non in quolibet cum mare congressu concipiunt. hinc instituit deus natu 
+      <lb ed="#P" n="3"/>ra hanc voluptatem tam in mari quam in foemina. Nulla foemina inter bruta praeter asinam &amp; superfoetantes 
+      im<lb ed="#P" n="4" break="no"/>praegnata coitum appetit: sed eum abhorret. Masculis pro omni tempore concessit rector vniuersi deus, vt non  
+      <lb ed="#P" n="5"/>abominentur foeminas impraegnare tempore congruo, &amp; gallis hanc foecunditatem generandi concessit vt tam 
+      ino<lb ed="#P" n="6" break="no"/>pum quam opulentorum esca non desit. Ruricolae &amp; inopes oua saepe esitant, quorum gallinae pauca &amp; quid parui precis 
+      <lb ed="#P" n="7"/>conedunt &amp; talia mendicantibus ob rei paruitatem in stipen conceduntur. Nihil in vniuerso supremus ille opifex inutile 
+      <lb ed="#P" n="8"/>(si causam pensiculate indages) reliquit. Ad sextum respondetur quod bifariam aliquid potentiam quietat. vno mo quia est 
+      <lb ed="#P" n="9"/>vltimum eligibile propter se non ob al d:&amp; sic fruitio voluntatem quietat, &amp; hoc est nobilissimum. Sedo mo aliquid quietat, 
+      <lb ed="#P" n="10"/>quia post ipsum non est aliquid quietans, &amp; tamen non est ob aliud: illud autem non arguit praestantiam, voluptas ob mentis actusfit 
+      <lb ed="#P" n="11"/>&amp; non contra, ipsa concomitatur actum &amp; eum perficit vt saepicule asseruimus.
+    </p>
+            <p xml:id="JMAet9-d40920-d1e643">
+               <pc type="pilcrow">¶</pc> Secunda erat quaestio an voluptas ab 
+      <lb ed="#P" n="12"/>omni actu intellectus &amp; voluntatis distinguitur. Hic geminae sunt positiones, quarum altera partem negatiuam 
+      <lb ed="#P" n="13"/>tenet, &amp; illa est gregoriana vt videre licet in prima distinctione primi sententiarum. Alia est via communior, &amp; 
+      <lb ed="#P" n="14"/>Aristoteli conformior, ac veritati vt reor, propterea conclusione affirmatiua ad quaestonis titulum respondebitur. 
+      <lb ed="#P" n="15"/>Patet primo autoritate philosophi in litera tacite. Dicit enim voluptates &amp; operationes adeo affines sunt vt con 
+      <lb ed="#P" n="16"/>tentio sit inter sapientes an idem sit operatio &amp; voluptas. Et sequitur ad propositum. Non tamen ipsa voluptas mentis vi 
+      <lb ed="#P" n="17"/>detur operatio neque sensus. Per mentem &amp; intellectum &amp; voluntatem intelligit: &amp; videtur vbique capit nisi specialissi 
+      <lb ed="#P" n="18"/>me aliquid appareat de opposito) vt tantum valeat sicut est. In materia tamen fortitudinis de animae 
+      immorta<lb ed="#P" n="19" break="no"/>litate per alios huius passus probamus eum aliter capere. Secundo argumentor ratione. Illa re ipsa distinguum 
+      <lb ed="#P" n="20"/>tur quorum vnum manet altero non manente. Hac enim via primo physicorum: principia rei naturalis probat di 
+      <lb ed="#P" n="21"/>stingui. Sed sic est impresentiarum: stat volitionem esse sine voluptate, daemon se diligit &amp; multo vult &amp; voluptate 
+      <lb ed="#P" n="22"/>perpetuo caret: ergo aliqua dilectio &amp; volitio non est voluptas. Tertio sic argumentor. Illa non idemtificantur quo 
+      <lb ed="#P" n="23"/>rum contraria non coincidunt: at sic est in proposito: igitur. Maior est Aristotelis secundo topicorum. Si 
+      op<lb ed="#P" n="24" break="no"/>positum in opposito &amp; propositum in proposito. Tantum vnum vni est contrarium decimo metaphysicae: &amp; primo 
+      <lb ed="#P" n="25"/>caeli. Minor patet: contrarium voluptatis est dolor, quod autem odium &amp; dolor non identificentur, patet. Tum primo quia 
+      <lb ed="#P" n="26"/>dolor violente naturaliter generatur, odium autem libere. Tum secundo quia deus odit malos &amp; tamen 
+      conti<lb ed="#P" n="27" break="no"/>nuo delectatur, duodecimo metaphysicae, ergo non dolet. Contra hanc conclusionem argumentor. Dilectio &amp; odium 
+      <lb ed="#P" n="28"/>sunt eiusdem potentiae &amp; habent idem obiectum: ergo sunt idem duodecimo metaphysicae. Si agens idem &amp; materia 
+      <lb ed="#P" n="29"/>vna &amp; potentia, vna necesse est actum esse vnum. Secundo, eundem habent effectum immediatum, scilicet 
+      perfi<lb ed="#P" n="30" break="no"/>cere operationem: ergo sunt idem. Tertio immediate sequuntur eundem actum cognoscitiuum &amp; non vnus mediante 
+      <lb ed="#P" n="31"/>altero: igitur.
+    </p>
+            <p xml:id="JMAet9-d40920-d1e692">
+               <pc type="pilcrow">¶</pc> Ad primum nego consequentiam: intuitiua enim &amp; abstractiua notitia habent idem obiectum nu 
+      <lb ed="#P" n="32"/>mero, sic volitio &amp; nolitio: &amp; tamen specie distinguntur Aristoteles bene dicit si agens est aliud &amp; materia alia 
+      <lb ed="#P" n="33"/>effectus erit alius: non tamen oportet idem dici de idemtitate. Secundo illud assumptum est verum, 
+      <lb ed="#P" n="34"/>vbi non probatur aliunde distinctio. multis enim aliis modis distinctionem rerum probamus. Per 
+      diuer<lb ed="#P" n="35" break="no"/>sum modum immutandi &amp; in obiectum tendendi: &amp; ab alietate causae productiuae, &amp; sic de mille aliis viis. Con 
+      <lb ed="#P" n="36"/>cedo ergo voluptatem esse in voluntate &amp; habere idem obiectum cum actu voluntatis, sed quia ab 
+      opera<lb ed="#P" n="37" break="no"/>tione causatur non potest cum ea idemtificari. 
+    </p>
+            <p xml:id="JMAet9-d40920-d1e711">
+               <lb ed="#P" n="38"/>⁋ Ad secundum nego antecedens: profecto quoniam secundum philosophum voluptas perficit 
+      operatio<lb ed="#P" n="39" break="no"/>nem, non potest esse operatio ipsa. Nihil enim idem perficit se. ad tertium dicitur quod voluptas mentis 
+      sequi<lb ed="#P" n="40" break="no"/>tur actum voluntatis &amp; voluptas corporalis sensationem. 
+    </p>
+            <p xml:id="JMAet9-d40920-d1e720">
+               <lb ed="#P" n="41"/>⁋ Quarto argumentor sic. In septimo Aristoteles vocat voluptatem faelicitatem &amp; dicit quod faelicitas est operatio. 
+    </p>
+            <p xml:id="JMAet9-d40920-d1e726">
+               <lb ed="#P" n="42"/>⁋ Quinto, daemon diligit se &amp; dilectio per te generat voluptatem: ergo daemon habet voluptatem: contra 
+      <lb ed="#P" n="43"/>dicta.
+    </p>
+            <p xml:id="JMAet9-d40920-d1e733">
+               <pc type="pilcrow">¶</pc> Sexto, omnis complacentia est actus voluntatis: at delectatio est complacentia: igitur. Minor est <ref xml:id="JMAet9-d40920-Rd1e738">be 
+        <lb ed="#P" n="44"/>ati Augustini. xi. de trinitate cap, v</ref>, sic scribentis. In omni delectatione appetitus quiescit. Ad quartum 
+      re<lb ed="#P" n="45" break="no"/>spondeturque bipartitum erat placitum inter philosophos de ipsa voluptate propter affinitatem quam 
+      dele<lb ed="#P" n="46" break="no"/>ctatio cum actu voluntatis habet. Vtroque loquendi modo Aristoteles vtitur, vbi non ponit proprium 
+      pa<lb ed="#P" n="47" break="no"/>radoxum. Hoc in eo &amp; reliquis sapientibus est peculiare. In hoc decimo non clam ponit illud quod sustinemus, 
+    </p>
+            <p xml:id="JMAet9-d40920-d1e750">
+               <lb ed="#P" n="48"/>⁋ Quintum iaculum est pusillum. Daemon enim laetitiae est incapax ob vehementem dolorem quo merito 
+      <lb ed="#P" n="49"/>torquetur: nam vehemens dolor nullum gaudium secum admittit. 
+    </p>
+            <p xml:id="JMAet9-d40920-d1e757">
+               <lb ed="#P" n="50"/>⁋ Nouissima arundo est nulla. Tametsi enim delectatio non est actus voluntatis: eius tamen gratia 
+      <lb ed="#P" n="51"/>voluntas saepe nectitur cum obiecto voluntatis: sicubi inueniatur dictum in autoribus quod delectatio 
+      <lb ed="#P" n="52"/>est voluntas, illa propositio non erit idemtica &amp; intransitiua: sed causalis, vt tristitia ingens est mors, hoc est 
+      <lb ed="#P" n="53"/>mortem generat. Et si dicas? Aristoteles dicit operationes &amp; voluptates sensuum mutuiter specie differe quod 
+      <lb ed="#P" n="54"/>videtur non esse verum: auditus enim &amp; visus habent eandem animam numero &amp; corpus eiusdem 
+      ratio<lb ed="#P" n="55" break="no"/>nis. Respondetur paucis agendo sine verborum prodigalitate. Operatio sensus &amp; intellectus penes spiritua 
+      <lb ed="#P" n="56"/>le corporaleque secernitur: &amp; penes causas specie differentes. Et auditio &amp; visio etiam differunt specie saltem 
+      <lb ed="#P" n="57"/>specialissima, ponendo formas corporalitatis alterius speciei, in variis enim sensibus non est ambiguitas &amp; 
+      <lb ed="#P" n="58"/>difficultas nulla erit. Ad illud probatio haud floccipendenda. Et adhuc ponendo vnam animam in homi 
+      <lb ed="#P" n="59"/>ne sine forma corporeitatis, aliae sunt organorum partes &amp; longe aliter sitae: licet essent rationis entitatiuae 
+      <lb ed="#P" n="60"/>adhuc faciunt discrimen specificum operationum. Differunt enim specie in ratione potentiae: vt omnes actus 
+      <lb ed="#P" n="61"/>eiusdem potentiae specie idemtificantur ab obiectis sicut a potentia solum secernuntur. Viden quod notitiae 
+      <lb ed="#P" n="62"/>eiusdem specieigenerant iudicia plurimum differentia. Ipse iudico aliquos colores in columbi collo ob vnum 
+      <lb ed="#P" n="63"/>situm quos alter ex alio loco conspicatus simili cum notitia in specie non iudicat. Videtur propria 
+      volu<lb ed="#P" n="64" break="no"/>ptas intendere operationem effectiue contra dicta cum faciat eam intensiorem. Respondetur nunquam effectus ad suae 
+      <!--342.xml-->
+      <pb ed="#P" n="161-r"/>
+               <lb ed="#P" n="1"/>causae productionem cooperatur: sed voluptas est causa quare potentia magis immergatunr circa obiectum 
+      <lb ed="#P" n="2"/>sui actus: &amp; sic est causa per accidens augmentationis suae causae. Et rursus ad crementum causae voluptas crescit: 
+      <lb ed="#P" n="3"/>ergo quodammodo est causa quare apponitur nonnihil sibi: sed tota voluptas nihil efficit etiam 
+      occa<lb ed="#P" n="4" break="no"/>sionaliter respectu sui. 
+    </p>
+            <p xml:id="JMAet9-d40920-d1e805">
+               <lb ed="#P" n="5"/>⁋ Dubitatur, an sit aliqua operatio indifferens. Videtur philosophus id velle inquiens operationum aliae 
+      <lb ed="#P" n="6"/>sunt expetendae, aliae vero fugiendae, &amp; aliae neutrae. Respondetur affirmatiue. Primo enim hoc est verum in 
+      <lb ed="#P" n="7"/>operationibus indeliberatis. Secundo, probabilitate haud vacat in deliberatis. Pro cuius vberiore 
+      in<lb ed="#P" n="8" break="no"/>telligentia notato quod ad actum moraliter bonum non requiritur relatio actualis in finem vltimum, nisi quando  
+      <lb ed="#P" n="9"/>quispiam in eum ferre actualiter est obnoxius, vt de aliquo actu fidei &amp; charitatis. Satis est ad actum bonum 
+      <lb ed="#P" n="10"/>habere finem creatum bonum: &amp; nihil mali in circumstantia cadente in rationem obiecti inuolui. Aliquis actus est 
+      <lb ed="#P" n="11"/>malus ex parte finis obiecti, vel talis circumstantiae. Tertius est actus etiam deliberatus habens finem neque 
+      ratio<lb ed="#P" n="12" break="no"/>ni dissentaneum neque vtile vt fricando indeliberate in casu barbam, vel leuando stramen sine vlteriore 
+      <lb ed="#P" n="13"/>fine, &amp; ita de talibus. Si enim stramen ad purgandos dentes leuarem vel ob alium bonum finem actus ille non 
+      <lb ed="#P" n="14"/>esset indifferens. Nihilo tamen minus probabile est nullum actum esse indifferentem inter bonum &amp; malum loquendo 
+      <lb ed="#P" n="15"/>de actu deliberato.
+    </p>
+            <p xml:id="JMAet9-d40920-d1e831">
+               <pc type="pilcrow">¶</pc> Dubitatur, an dolor magis corpori, officit quam aliquis alius affectus. Respondetur 
+      <lb ed="#P" n="16"/>affirmatiue. Atristitia enim festina est mors, &amp; cooperit virtutem. Eccle. . &amp; Prouerb. r. Spiritus tristis 
+      <lb ed="#P" n="17"/>exsiccat ossa. Vitalis meatus qui a corde in reliquas partes diffunditur per dolorem impeditur.
+    </p>
+            <p xml:id="JMAet9-d40920-d1e842">
+               <pc type="pilcrow">¶</pc> Contra, in  
+      <lb ed="#P" n="18"/>voluptate immensa citius generatur mors quam in dolore. Secundo, ratio perditur in magna voluptate, vt in  
+      <lb ed="#P" n="19"/>venereis. 5. Ethicorum. Respondetur, quod antecedens est verum de gaudio immenso &amp; repentino, intollerabilem enim 
+      <lb ed="#P" n="20"/>calorem naturalem in membra diffundit, &amp; interficit. Voluptas autem mediocris calorem mediocrem diffundit &amp; 
+      <lb ed="#P" n="21"/>optime valet. Prouerbiorum. rx. Animus gaudens aetatem floridam facit, tristitia dementiam si 
+      vehe<lb ed="#P" n="22" break="no"/>mens fuerit, inducit, Ira, &amp; desperatio, &amp; huiusmodi affectus maximopere fugiendi sunt. Tolle causam 
+      <lb ed="#P" n="23"/>doloris generatiuam &amp; procura voluptatis causam, &amp; sic dolor corrumpetur. Potatio &amp; communicatio 
+      <lb ed="#P" n="24"/>cum amicis dolorem attenuant. Amici enim mutuo amore dolorem partiuntur, nono Ethicorum. 
+    </p>
+            <p xml:id="JMAet9-d40920-d1e863">
+               <lb ed="#P" n="25"/>⁋ Dubitatur quomodo voluptas actus &amp; habitus distinguuntur. Respondetur quod conveniunt, habent enim idem obie 
+      <lb ed="#P" n="26"/>ctum numero. Diligo A.ad quam dilectionem innascitur voluptas &amp; scatet habitus. Haec tria habent. A puer obuecto. 
+      <lb ed="#P" n="27"/>Discrimen etiam habent, quia habitus remanet abeunte actu, &amp; effectus eius ipsa voluptas sine actu non 
+      re<lb ed="#P" n="28" break="no"/>manet in rerum natura. proinde est actui affinior quam habitus ipse, &amp; est affectus actus, sicut ipse habitus 
+      <lb ed="#P" n="29"/>aliter actum perficit quam habitus. Habitus similem actum in specie actui a quo emanauit procreat, hoc non 
+      fa<lb ed="#P" n="30" break="no"/>cit ipsa voluptas fortasse, sed facit potentiam in suum obiectum immergi &amp; auget suam causam. Di 
+      <lb ed="#P" n="31"/>xi fortasse, diceret enim quispiam voluptatem habere posse respectu alterius actus similis actui a quo 
+      <lb ed="#P" n="32"/>proficiscitur &amp; sicut habitus ab actu bonitatem malitiam ve vulgo accipit, sic &amp; ipsa voluptas, si ex se 
+      <lb ed="#P" n="33"/>reno fonte voluptas prodeat ea sit pura, sin ex turbido &amp; infecto &amp; ipsa insincera fuerit.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

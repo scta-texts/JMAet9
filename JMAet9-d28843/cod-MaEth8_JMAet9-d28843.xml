@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 3</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 3</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d28843"><!-- mair-l7c3 -->
+            <head xml:id="JMAet9-d28843-Hd1e103">Caput 3</head>
+            <p xml:id="JMAet9-d28843-d1e106">
+               <lb ed="#P" n="6"/>
+               <quote xml:id="JMAet9-d28843-Qd1e110" type="lemma">PRimum itaque considerandum est</quote>. In hoc tertio capite diuulgat philosophus continentiam ac inconti 
+      <lb ed="#P" n="7"/>nentiam non circa omnia insudare, sed circa determinatam materiam, circa quam est temperantia ac 
+      inten<lb ed="#P" n="8" break="no"/>perantia. Insuper continentiam a temperantia non discrepare materia notificat: sed circa modum se 
+      ha<lb ed="#P" n="9" break="no"/>bendi circa talem materiam nudatur: quomodo incontinens est sciens atque inscius. Accedendo ad literam sic 
+      <lb ed="#P" n="10"/>ait. Primum speculandum est vtrum incontinentes operentur scientes necne: &amp; quanam via scientes. 
+      De<lb ed="#P" n="11" break="no"/>inde discutiendum est, circa quam materiam continens locetur: vtrum circa omnem dolorem ac voluptatem, an 
+      <lb ed="#P" n="12"/>circa determinatas quasdam voluptates atque certos dolores: &amp; an continens &amp; constans conspirant. Similiter de 
+      <lb ed="#P" n="13"/>caeteris quaestionibus quae ad hanc speculationem attinent, inquit, scrutabimur. Est autem considerationis 
+      <lb ed="#P" n="14"/>exordiuim vtrum continens ac incontinens iis materiis circa quas insudant diuarientur: an circa eandem 
+      <lb ed="#P" n="15"/>materiam negocientur: ac in modo tendendi discrepent. Interdum virtutes ab ipsis materiis dispescuntur. vt 
+      <lb ed="#P" n="16"/>mansuetudo &amp; veritas. Interdum eadem est materia, verum modo tendendi discrepant. Verbi causa, libera 
+      <lb ed="#P" n="17"/>litas ac temperantia eandem materiam obiectiuam sibi vendicant: at alio modo in illam feruntur, vt 
+      ten<lb ed="#P" n="18" break="no"/>perantia vtendo vino ac cibo: eadem liberalitas dat. Circa libros, pecunias, vestimenta iustitia ao liberalitas 
+      <lb ed="#P" n="19"/>versantur: proinde ex parte obiectorum minime differunt: sed alius atque alius est tendendi modus in res 
+      <lb ed="#P" n="20"/>illas varians virtutes. Per tendendimodum discrepant. Dico autem hoc pacto an incontinens eo ipso est 
+      incon<lb ed="#P" n="21" break="no"/>tinens quia circa haec obiecta inhiat, an non, sed ipso modo &amp; forma tendendi: an vtrisque scilicet materia &amp; 
+      <lb ed="#P" n="22"/>forma. Deinde vtrum continentia &amp; incontinentia circa omnem materiam indifferenter laborent necne. Hanc 
+      <lb ed="#P" n="23"/>secundam haesitationem ante omnia diluit, inquiens. Neque enim is qui est simpliciter incontinens circa 
+      o<lb ed="#P" n="24" break="no"/>mnia desudat: sed circa illam materiam quam intemperans considerat: hoc est circa voluptates gustus atque 
+      <lb ed="#P" n="25"/>tactus. Loquitur de intemperantia gradu, neque ad illa obiecta sese simpliciter &amp; vniformiter habet, nam illo 
+      <lb ed="#P" n="26"/>dato incontinentia ac intemperantia coinciderent: verum speciali modo in sua obiecta feruntur. Postea 
+      mo<lb ed="#P" n="27" break="no"/>dum differendi continenter recitat, quare intemperatus eligens citra remorsum conscientiae ducitur, 
+      arbi<lb ed="#P" n="28" break="no"/>trans se instantem voluptatem persequi oportere, postquam non habet rationis frenum ipsum a foedo 
+      dimo<lb ed="#P" n="29" break="no"/>uens: quia iam diu tina consuetudine perperam agendi acquisiuit habitum ipsum promptificantem male 
+      <lb ed="#P" n="30"/>agere, sic quod rationis frenum amisit: incontinens autem id non suspicatur: oblectamentum tamen sequitur 
+      ve<lb ed="#P" n="31" break="no"/>titum.
+    </p>
+            <p xml:id="JMAet9-d28843-d1e168">
+               <pc type="pilcrow">¶</pc> Sequitur in litera. Si itaque vera est opinio. Haec est secunda pars huius capituli in qua philosophus 
+      <lb ed="#P" n="32"/>quorundam sententiam circa Socraticam viam confutat, dicebat enim Socrates incontinentem non habere scientiam, 
+      <lb ed="#P" n="33"/>quia ea est valida, cui obniti incontinens nequit. sed habet opinionem cui contrauenire valet. Ostendit idem esse in 
+      <lb ed="#P" n="34"/>opinione ac scientia, dicit enim nihil ad rationem interest &amp; ad ea quae intendimuns an opinio vera sit an scientia 
+      <lb ed="#P" n="35"/>quam transgredientes homines incontinenter viuunt. Hoc multifariam arguit. Primo quia nonnulli eorum qui opi 
+      <lb ed="#P" n="36"/>nantur non haesitant, sed existimant se sua opinabilia exacte scire. Secundo, quaecumque aeque assentiuntur ita esse 
+      <lb ed="#P" n="37"/>sicut existimant, aeque quiete vel intense aequaliter immanent vel aequaliter egrediuntur ab aestimatione sua: at 
+      <lb ed="#P" n="38"/>scientes &amp; opinantes nonnulli sunt huiusmodi: igitur. Sicut enim potest esse remissa opinio ita potest non 
+      inten<lb ed="#P" n="39" break="no"/>sa scientia. Minor patet de Heraclito Ephesi, omnia esse incontinuo motu putante quarto metaphysicae. 
+      Mira<lb ed="#P" n="40" break="no"/>bilis fuit iste heraclitus. nam hominum miserias pertesus soliuagus in montibus errabat Democrito contrarius: 
+      <lb ed="#P" n="41"/>qui hominum ineptias assidue ridens perenni risu pulmonem agebat. Scientia ac opinio plurifariam dispescuntur. 
+      <lb ed="#P" n="42"/>Opinio est contingentium enunciationum quarum numquam est scientia. Attamen inficias non ibo opinationem nonumquam ver 
+      <lb ed="#P" n="43"/>sari, circa necessarium: in graduali intentione minime discrepant: stante causa opinionis eductiua, opinio 
+      ex<lb ed="#P" n="44" break="no"/>trudi potest per scientiam aut opinionem oppositam vigorosiorem: secus est de scientia: igitur si opinatio sit vehemens 
+      <lb ed="#P" n="45"/>non minus est rationi dissentaneum contra eam nonnihil patrare quam contra scientiam. Sequitur in litera. Sed cum du 
+      <lb ed="#P" n="46"/>pliciter dicatur scire. Nunc auspicatur secundum propriam mentem elucidare dubitationem superiore capite motam 
+      <lb ed="#P" n="47"/>vtrum incontinens sit sciens. Tres distinctiones haesitationis solutioni praemittit, Scire bifariam capitur. Vno 
+      <lb ed="#P" n="48"/>mon vt est in habitu vt is qui habet habitum &amp; non vtitur eo, alio modo vt est in actu &amp; operatione: vt est 
+      il<lb ed="#P" n="49" break="no"/>le qui habet scientiam ac illa vtitur. Priore modo distractus in vigilia scientiam habet: &amp; capit hic scientiam pro 
+      <lb ed="#P" n="50"/>assensu vniuersalis non autem secundo modo. Primo posteriorum. Quis scit generatim omnem mulam esse ste 
+      <lb ed="#P" n="51"/>rilem: ac dubitat de hac bestia cui grossus venter an ipsasit sterilis, demonstrando mulam quam nescit esse 
+      ta<lb ed="#P" n="52" break="no"/>lem. Quis potest scire continentiam habitu ac incontinenter operari vt tradunt, sed nemo sciens actu 
+      inconti<lb ed="#P" n="53" break="no"/>ter operatur. Sequitur in litera. Praeterea cum propositionum. Nunc secundam distinctionem philosophus 
+      <lb ed="#P" n="54"/>affert. duplex est vniuersale, aliud in ipso qui habet, aliud in re. Paradigma prioris membri: vt omni 
+      ho<lb ed="#P" n="55" break="no"/>mini sicca prosunt: at hic est homo: &amp; reliqua. Haec propositio singularis habentem latere non potest. Non po 
+      <lb ed="#P" n="56"/>test ignorare hanc singularem hic est homo, absurdum est si seipsum quis ignoret vt in tertio libro in 
+      <lb ed="#P" n="57"/>numero circunstantiarum dixit. Exemplum secundi vt omne siccum homini prodest, at hoc est siccum: 
+      <lb ed="#P" n="58"/>igitur. tale igitur vniuersale quod est in re sciri potest, &amp; cum hoc singulare ignorari. Patet hoc ad oculum: 
+      pos<lb ed="#P" n="59" break="no"/>sum enim assentire huic, omne reubarbarum choleram purgat quod est vniuersale in re: &amp; tamen nescire 
+      pos<lb ed="#P" n="60" break="no"/>sum hoc illud ve esse reubarbarum. Philosophus subiudicat de vniuersali in re ad extra. alio modo 
+      vniuer<lb ed="#P" n="61" break="no"/>sale vocatur in se quando ipsum ad singulatia non comparatur: sed cum singulari nectitur tunc est vniuersale. in  
+      <lb ed="#P" n="62"/>re vtraque expositio sufficit. Incontinens agere potest sciendo vniuersale: postaea vero cum agit non percipien¬ 
+      <!--237.xml-->
+      <pb ed="#P" n="109-v"/>
+               <lb ed="#P" n="1"/>do singulare. Nec inconuenit incontinentem vtrasque propositiones habere, scililicet vniuersalem ac 
+      parti<lb ed="#P" n="2" break="no"/>cularem: attamen cum agit non vtitur cognitione &amp; scientia illius singularis, quippe notitia singularis &amp; 
+      <lb ed="#P" n="3"/>non vniuersalis praxim elicit. iii. de anima. Ista in vigilia eueniunt. ltaque erit quoquomodo sciens respectu 
+      <lb ed="#P" n="4"/>vniuersalis. &amp; quoquomodo nescius respectu singularis, postquam cognitione in singulari propositione minime 
+      <lb ed="#P" n="5"/>vtitur: Sequitur. Praeterea fit vt homines. Tertiam distinctionem addens, ex qua tertia solutio dubitationis emer 
+      <lb ed="#P" n="6"/>git, inquit: Praeterea fit vt homines scientiam habeant alio modo quam nuper diximus: hoc est alio modo quam habi 
+      <lb ed="#P" n="7"/>tu operatione ac actu. Secundo in habendo, sed non vtendo. Differentem cernimus habitum vt habeat quodammo 
+      <lb ed="#P" n="8"/>do &amp; non habeat ipsum habitum: postquam in tali dispositione in actum exire nequit: qualis est sopore grauatus, 
+      fu<lb ed="#P" n="9" break="no"/>rens ac temulentus. Tales quatum libet bene habituati in arte ad rogata responsare nequeunt: quomodo illi 
+      <lb ed="#P" n="10"/>disponuntur qui perturbationibus implicantur. Siquidem irae, cupidines venereae, caetera quoque id genus vitia 
+      <lb ed="#P" n="11"/>corpus ipsum nutare faciunt atque ipsum permutant. Ebrius pedibus recte ambulare nequit. Tales insultus nonnullos 
+      <lb ed="#P" n="12"/>in vesaniam adigunt. Excessiuo amore aliqui infatuantur ac in rabiem aguntur: &amp; pallore ac tremore adiguntur. Si 
+      <lb ed="#P" n="13"/>quispiam impatienti ira concitetur ardescent illi oculi, os cum inferiori labio cremit, lingua titubat, dentes 
+      <lb ed="#P" n="14"/>concrepant. Patet igitur quod incontinentes sic se habent, ac homines his verturbationibus affecti &amp; corpore &amp; 
+      <lb ed="#P" n="15"/>animo alterantur, in libidinosa cogitatione pudibunda membra ratioris gyrum transiliunt: vt daemoni euidenter 
+      <lb ed="#P" n="16"/>hominis cogitatum indicent: qui cordis arcana hoc pacto cognoscit. Fortasse quispiam insultat inquiens. Furo 
+      <lb ed="#P" n="17"/>re agitatus consuetas cantilenas concinit: vatum edas antea imbibitas recitat: proinde suo habitu propin 
+      <lb ed="#P" n="18"/>que eas sententias quae a scientia emanant exprimit. Nullum est indicium scientifici vsus propinqua potentia. 
+      <lb ed="#P" n="19"/>his affectibus constituti. Demonstrationes ex habitu Empedocles ac versiculos recitauit. Philosophiam 
+      Empe<lb ed="#P" n="20" break="no"/>docles Agrigentinus carmine intricatissime complexus est: cuius Lucretius meminit inquiens, Carmina 
+      <lb ed="#P" n="21"/>quinetiam diuini pectoris eius vociferantur &amp;exponunt praeclara reperta: Vt vix humana videatur stirpe crea 
+      <lb ed="#P" n="22"/>tus. Auditor fuit Pytagorae. Et pueruli, qui primum discunt concinnatas orationes earum verba nectunt, at 
+      <lb ed="#P" n="23"/>nesciunt quae pronunciant. Oportec vt capta illorum insideant menti antequam dicta calleant: ad quod 
+      tem<lb ed="#P" n="24" break="no"/>poris fluxu opus est. Si copiosum lac in angustum vasis os, infuderis, parum vas capiet, at sensim 
+      immis<lb ed="#P" n="25" break="no"/>fum totum recipitur. Sic de scientia tota simul tradita: vnde tempestatis curriculo opus est. Quare 
+      existi<lb ed="#P" n="26" break="no"/>mandum est quod vt histriones ac ludii poemata in scenicis ludis recitant: haud secus incontinentes sententias 
+      pro<lb ed="#P" n="27" break="no"/>ferunt. Personati ludiones in scenis apud Romanos, Graecosque, &amp; vbiuis gentium reperiuntur. Itaque est de 
+      in<lb ed="#P" n="28" break="no"/>continenti: quamuis enim ore dicat, attamen in corde aliter sentit. Quando incontinens est in opere incontinen 
+      <lb ed="#P" n="29"/>tiae, si interrogaretur forte recte responderet, sed hoc est a casu. Est enim prorsus distractus &amp; ignarus eorum 
+      <lb ed="#P" n="30"/>quae ore exprimit: ac puero &amp; ludioni ludo scenico ludenti confertur. Sequitur in litera. Insuper &amp; hoc modo  
+      <lb ed="#P" n="31"/>quispiam. In processu scientiae actiuae est duplex opinio, vna vniuersalis, vt pote omne dulce est gustandum: alte 
+      <lb ed="#P" n="32"/>ra singularis quae per sensum deprehenditur, vt hoc est dulce, demonstrando vnum scilicet quorumuis singularium: vt 
+      <lb ed="#P" n="33"/>vinum arui sium vel andegauense, vel hoc pomum quale Adae onsum est. Notitia intuitiua veritatem illius singu 
+      <lb ed="#P" n="34"/>laris haurimus: sicut in speculatiuis assentiendo maiori atque minori conclusioni assentitur. Primo 
+      posterio<lb ed="#P" n="35" break="no"/>rum cognitis maiore &amp; minore simul tempore cognoscitur conclusio. Ita in actiuis. ex opinione 
+      vniuersa<lb ed="#P" n="36" break="no"/>li in actu &amp; singulari in actu necessario sequitur opus, vt posterius prius comitatur, vt pluuia nubem seclu 
+      <lb ed="#P" n="37"/>so obice: non quod semper inferatur conclusio actiua: sed opus. Sequitur in litera. Cum igitur vna quidem 
+      vniuersa<lb ed="#P" n="38" break="no"/>lis. Nunc philosophus accedit ad solutionem vt intelligatur quomodo continens operetur. Animaduersione 
+      <lb ed="#P" n="39"/>haud est indignum quod de eadem re diuersae propositiones esse possunt, quae a non considerantibus contrarie putan 
+      <lb ed="#P" n="40"/>tur, nullo tamen modo sunt contrarie: nec ignoro quod apprehensio vnius contrariorum stat cum assensu alterius. Nam 
+      <lb ed="#P" n="41"/>de aliquo dulei dicere valemus quod ipsum est turpe, &amp; etiam voluptatem affert. Ponatur vna vniuersalis vetans 
+      <lb ed="#P" n="42"/>gustare dulce, scilicet, Nullum dulce est gustandum. sit alia vniuersalis dictitans, omne dulce voluptatem 
+      af<lb ed="#P" n="43" break="no"/>fert. annectatur hec singularis, hoc est dulce: tunc incontinens si cupiditas adsit illam singularem sub 
+      vni<lb ed="#P" n="44" break="no"/>uersali affirmatiua collocabit: concathenatione quadam: vt omne dulce voluptatem affert: hoc est dulce: 
+      sta<lb ed="#P" n="45" break="no"/>timque incontinens concludit operando &amp; exequendo secluso impedimento. Altera vniuersalis quae est 
+      nega<lb ed="#P" n="46" break="no"/>tiua nullum dulce est gustandum, ab incontinenti relinquitur. Ordino iam literam. Cum igitur vna quidem 
+      vniuer<lb ed="#P" n="47" break="no"/>salis, omne dulce voluptatem affert, &amp; insuper hoc est dulce: haec scilicet singularis cum patrocinio 
+      vniuersa<lb ed="#P" n="48" break="no"/>lis &amp; cupiditatis operatur. Illa quidem, recta ratio scilicet nullum dulce est gustandum hoc fugere dicat, 
+      cupi<lb ed="#P" n="49" break="no"/>ditas victrix organica membra mouet: quare fit vt a ratione hoc est discursu quodammodo &amp; opinione singu 
+      <lb ed="#P" n="50"/>lari incontinenter agatur: non tamen per se contrarie. Quia illa ratio recta: nullum dulce inordinate est 
+      gu<lb ed="#P" n="51" break="no"/>standum: huic omne dulce voluptatem affert non contrariatur: nec vniuersali affirmatiuae aut negatiuae 
+      <lb ed="#P" n="52"/>singularis aduersatur, sed per accidens concupiscentia est rationi contraria, hominem ad oppositum recte 
+      <lb ed="#P" n="53"/>rationis ducens. Obiectas: superius dictum est contra scientiam vniuersalem actu &amp; in particulari actu, non 
+      <lb ed="#P" n="54"/>potest quispiam operari, hic contrarium subinsinuat. Respondetur quod contra scientiam in vniuersali non  
+      <lb ed="#P" n="55"/>ligatam &amp; opinionem particularem actu non potest aliquis operari, secus est quando vniuersalis scientia 
+      <lb ed="#P" n="56"/>obfuscatur, tum nullius vigoris est. Ex hoc auctarium infert. Quare bruta non sunt incontinentia. 
+      <lb ed="#P" n="57"/>Omnis enim incontinens habet notitiam vniuersalem: bruta non habent. Canis dominum in vrbe 
+      <lb ed="#P" n="58"/>amittens aut deserens domum repedat: proinde itineris &amp; suae domus est memoratiuus. Dicis quod canis 
+      <lb ed="#P" n="59"/>venaticus feram in biuio insequens vna via odore prehensa aliam carpit: proinde syllogisat. ltaque 
+      proposi<lb ed="#P" n="60" break="no"/>tiones mentales format: sincathegoreumata &amp; vniuersalia. Dicimus quod in multis belluarum 
+      operationi<lb ed="#P" n="61" break="no"/>bus videntur syllogismi: nihilo tamen minus rationis sunt immunes. Veruntamen aliquae earum magis 
+      <lb ed="#P" n="62"/>ad rationem accedunt quam aliae: &amp; in nonnullis operationibus magis rationem prae se ferunt quam in aliis. In  
+      <lb ed="#P" n="63"/>proposito dico quod odoriferas species venatorius canis insequitur, quibus euanescentibus aliunde latrans im 
+      <lb ed="#P" n="64"/>petu naturae ductus eas, hac illac inuestigat, demum eis offensis tramite recto fugientem feram perniciter 
+      <!--238.xml-->
+      <pb ed="#P" n="110-r"/>
+               <lb ed="#P" n="1"/>insequitur. Sequitur litera. Quomodo autem soluitur ignoratio. Incontinens tempore perturbationis est ignorans, 
+      <lb ed="#P" n="2"/>quo igitur pacto scientia illi redit. Illa dubitatio non est huic perturbationi soli addicta: sed in dormiente &amp; temu 
+      <lb ed="#P" n="3"/>lento eadem perquisitio contingit: quam a ntauralibus audire aequum est, ne scientias permisceat, sed seriose &amp; 
+      <lb ed="#P" n="4"/>succincte materiam persequatur, hoc insolutum relinquit. In temulentia vapores ad caput conscendunt qui spiri 
+      <lb ed="#P" n="5"/>tus vitales &amp; cerebrum perturbant, quae sunt instrumenta quibus ratio vtitur: sic somnus est sensuum ner 
+      <lb ed="#P" n="6"/>uorumque ligamentum, citra quos ratio est prorsus inops. Soluto vapore spiritus rursus meare auspicatur pu 
+      <lb ed="#P" n="7"/>rus &amp; serenus: &amp; fit instrumentum idoneum ad hoc vt intellectus suas operationes exerceat. Post haec 
+      de<lb ed="#P" n="8" break="no"/>clarat quomodo incontinens dicatur sciens atque nesciens, duasque habet propositiones scilicet vniuersalem &amp; 
+      sin<lb ed="#P" n="9" break="no"/>gularem: &amp; haec nouissima est rei sensibilis opinatio: eam autem quae est domina actuum in perturbatione 
+      <lb ed="#P" n="10"/>incontinens non habet, aut obnubi late illam possidet: vt sit illi irrita atque inanis, nulliusque energiae: vt 
+      haben<lb ed="#P" n="11" break="no"/>tem ad bonum instiget. Non autem percipit se habere illam &amp; si proferat illam voce, eius efficaciam haud 
+      pon<lb ed="#P" n="12" break="no"/>derat: more illorum qui carmina Empedoclis commemorant. Et quia in agendis extremus terminus non est 
+      <lb ed="#P" n="13"/>vniuersalis, sed singularis: nec ad scientiam more vniuersalis attinet: scientia enim proprie dicta est vniuer 
+      <lb ed="#P" n="14"/>salium primo analecticorum. Euenit igitur quodammodo non inepte quam Socrates percontabatur. 
+      Vniuersa<lb ed="#P" n="15" break="no"/>lis est firma atque perseuerans, qua praesente non est perturbatio. Neque op passionem scientia distrahitur, sed  
+      <lb ed="#P" n="16"/>singularis &amp; sensitiua quaedam. Hactenus de sciente atque non sciente, &amp; quemadmodum contingat scientiam 
+      <lb ed="#P" n="17"/>incontinenter patrare tot a nobis dicta satis sunt. Ecce philosophum sibi similem: siue ab auspicio aliorum 
+      sen<lb ed="#P" n="18" break="no"/>tentias refellere assueuit: deinde si quid boni dixerint id purgatum ad suam sententiam trahere, vt sua 
+      do<lb ed="#P" n="19" break="no"/>ctrina testatior euadat. 
+    </p>
+            <p xml:id="JMAet9-d28843-d1e429">
+               <lb ed="#P" n="20"/>⁋ Dubitatur an aliquis potest assentiri maiori atque minori perfecte, &amp; actu inagibilibus: &amp; contrauenire 
+      iu<lb ed="#P" n="21" break="no"/>dicio conclusionis per libertatem voluntatis.
+    </p>
+            <p xml:id="JMAet9-d28843-d1e436">
+               <pc type="pilcrow">¶</pc> Affirmatiue respondetur. Pertrita enim est distinctio illa 
+      <lb ed="#P" n="22"/>magistralis: aliquod est peccatum ex infirmitate, quando quispiam perturbatione victus perperam agit. 
+      Ali<lb ed="#P" n="23" break="no"/>quod ex ignoratione emergit: &amp; tertium quando quispiam ex industria, electione, &amp; scienter male agit. 
+      Astipu<lb ed="#P" n="24" break="no"/>latur deiloquus Lucas. n. capite sui euangelii scribens. Seruus qui cogouit voluntatem domini sui &amp; non 
+      <lb ed="#P" n="25"/>facit, plagis vapulabit multis. Et lacobus cap. &amp;, scribit. Scienti bonum facere &amp; non facientipeccatum est 
+      il<lb ed="#P" n="26" break="no"/>li. Ratione idem patet:. Multi enim peccant cum proposito poenitendi de hoc quod agunt. Huius sententiae 
+      <lb ed="#P" n="27"/>est August, super illum passum. Forte viuos deglutissent nos. Vbi ait viui absorbentur qui sciunt malum 
+      <lb ed="#P" n="28"/>esse &amp; consentiunt. ldem super illud, Fiat mensa eorum coram ipsis in laqueum, quod est scientes vitio 
+      consenti<lb ed="#P" n="29" break="no"/>re. Ecce nouerunt muscipulam, &amp; immittunt pedem. Et Aristoteles quinto capite tertii ethicorum ait. 
+      Actu<lb ed="#P" n="30" break="no"/>um enim a principio vsque ad finem domini sumus, habituum vero principii. Ad hoc sunt articuli 
+      ali<lb ed="#P" n="31" break="no"/>quot parisienses bene stringentes.
+    </p>
+            <p xml:id="JMAet9-d28843-d1e464">
+               <pc type="pilcrow">¶</pc> Contra istud argumentor sic. Prouerbiorum. a. Err) t omnes qui ope 
+      <lb ed="#P" n="32"/>rantur malum. Et. ethicoru, omnis malus est ignorans: videtur ergo contradicere huic Aristotelis literae. Ad 
+      <lb ed="#P" n="33"/>illud prouerbiorum dicitur quod illic est sermo de errore morum, hoc est. de obliquitate affectus a gyro medii 
+      <lb ed="#P" n="34"/>elongati. Ad authoritatem Aristotelis. 5 ethicorum suo loco respondimus. Nunc autem superest 
+      au<lb ed="#P" n="35" break="no"/>toritatem gratia cuius in hanc dubitationem incidimus) euacuare. Plurifatiam respondeo tum primo quod vo 
+      <lb ed="#P" n="36"/>luntas operatur si non impediatur: impeditur autem per efficax reluctamen voluntatis. x. intelligit philoso 
+      <lb ed="#P" n="37"/>phus stante rationis vsu, perturbatio homini rationem nisi viriliter renitatur adimit, ita quod pecuino more 
+      <lb ed="#P" n="38"/>in capistro abducitur: et sic sequitur operatio, quia homo ignauia succumbit non vi intellectus aut eius 
+      iu<lb ed="#P" n="39" break="no"/>dicii. sed ex voluntatis malitia. x. sic Aristoteles loquitur de maiore vt est practica, cui voluntas consonat. 
+      <lb ed="#P" n="40"/>vt si in periculo maris volo seruare vitam, &amp; iudico hoc medium solum mihi relictum: eiicere meas arcas 
+      <lb ed="#P" n="41"/>aut merces in mare: naturaliter volitio extrudendi communicatur. Et applica id ad Aristotelicum exemplum sic, 
+      <lb ed="#P" n="42"/>delectatio habet rationem finis &amp; per se appetibilis a tali in agibilibus finis est principium: itaque cum efficaciter vult 
+      <lb ed="#P" n="43"/>delectationem cum hac muliere &amp; censet hoc medium solum relictum, de necessitate in illud medium fertur. Ex 
+      nul<lb ed="#P" n="44" break="no"/>la harum trium solutionum sequitur aliqua diaphania cum articulis parisiensibus aut libertate voluntatis. secunda via 
+      lo<lb ed="#P" n="45" break="no"/>quitur de ratione adempta. Prima &amp; seda ratione facta omne dulce est gustandum, hoc est dulce, proinde hoc est 
+      <lb ed="#P" n="46"/>gustandum: capiendo gustandum vt tantum valet quamtum gustabitur, &amp; non dignum gustari: modo volens effi 
+      <lb ed="#P" n="47"/>caciter aliquem finem, sciens hoc esse medium ad illum finem, de necessitate operatur si non praepediatur, tam¬n 
+      <lb ed="#P" n="48"/>etsi voluntas suum actum elicitum libere eliceat: illa volitio naturaliter actum exteriorem obice secluso producit: 
+      <lb ed="#P" n="49"/>&amp; volitio finis cum notitia mediiad illum finem, medium ponit si obex non ponatur. Dubitatur primo 
+      quo<lb ed="#P" n="50" break="no"/>modo iudicia haec contraria possunt in eodem subiecto simul coexistere: vt nullum dulce est gustandum, omne dul 
+      <lb ed="#P" n="51"/>ce est gustandum secundo quomodo fuit hic discursus. Tertio an opus est hoc longo discursu, incontinenti 
+      <lb ed="#P" n="52"/>vt habeat duas maiores cum duabus aliis propositionibus. 
+    </p>
+            <p xml:id="JMAet9-d28843-d1e515">
+               <lb ed="#P" n="53"/>⁋ Quarto an concupiscentia caeteras potentias moueat.
+    </p>
+            <p xml:id="JMAet9-d28843-d1e520">
+               <pc type="pilcrow">¶</pc> Respondetur ad primum quod iudicia contraria nequeunt 
+      <lb ed="#P" n="54"/>eidem subiecto simul inesse: quinimmo iudicium intellectus de magnitudine solis, quum primum superuenit, iudicium 
+      <lb ed="#P" n="55"/>sensus de solari paruitate extrudit. In proposito nostro de eadem re diuersa iudicia nullo modo contraria ad con 
+      <lb ed="#P" n="56"/>trarium scopum tendentia insudant. Mulier est speciosa, hoc pacto allectiua ad sui copulam. Ratio ex contrario syl 
+      <lb ed="#P" n="57"/>logisat: nullum inhonestum est patrandum: coire cum hac est inhonestum, itaque non est patrandum. Ecce discursum 
+      se<lb ed="#P" n="58" break="no"/>cundum rationem. Ex altera parte. Omnis speciosa foemina est cognoscenda: haec est huiusmodi: igitur. Nulla est 
+      contra<lb ed="#P" n="59" break="no"/>rietas inter has maiores. De singularibus propositionibus non est quaestio: illae enim nec inter se nec cum aliis 
+      pu<lb ed="#P" n="60" break="no"/>gnant. Iterum dico quod hae duae se mutuo compatiuntur, nullum inhonestum est faciendum, aliquod inhonestum est 
+      facien<lb ed="#P" n="61" break="no"/>dum, capiendo faciendum in negatiua pro illo quod est factu dignum: &amp; in affirmatiua pro illo quod fiet. 
+    </p>
+            <p xml:id="JMAet9-d28843-d1e543">
+               <lb ed="#P" n="62"/>⁋ Ad secundum dicitur quod in ipso incontinenti si remorsus conscientiae insurgat etsi doctus extiterit est 
+      ciui<lb ed="#P" n="63" break="no"/>le dissidium: sicut in auaro mercatore, finge mercatorem a depa neustriae in scotiam hiberna tempestate 
+      nauigan<lb ed="#P" n="64" break="no"/>tem: &amp; quod inter nauigandum ingens tempestas oritur: flatus atque nymbi vndique carinam agitant sic quod 
+      <!--239.xml-->
+      <pb ed="#P" n="110-v"/>
+               <lb ed="#P" n="1"/>vnica est remedii spes ipsam carinam exonerare, confestim mercibus quae sunt praeciosae: hinc inde negociator 
+      dis<lb ed="#P" n="2" break="no"/>currit: rimam elabendi quaerens ne fortunas suas improbo sudore acquisitas, amittat: tandem vitae consulens eas per 
+      <lb ed="#P" n="3"/>foros suis manibus extrudit. Ita est in ipso incontinente, signanter non deiecto animo: honestum prouocat eum 
+      <lb ed="#P" n="4"/>ne in foedum ruat, &amp; deum irritet, &amp; famam denigret, passio stimulans facit intellectum inuenire sophismata pro 
+      il<lb ed="#P" n="5" break="no"/>lius inclinatione. Interdum non est iste discursus mente sed iudicium sine discursu, vel simplex apprehensio. Ita quod 
+      <lb ed="#P" n="6"/>appetitus sensitiuus ad delectabile inclinatus maiorem &amp; conclusionem supplet, quicunque sit syllogismus ad 
+      par<lb ed="#P" n="7" break="no"/>tem inficiatoriam.
+    </p>
+            <p xml:id="JMAet9-d28843-d1e572">
+               <pc type="pilcrow">¶</pc> Ad quartum an concupiscentia hominem ad inique agendum moueat. Respondetur 
+      affirmati<lb ed="#P" n="8" break="no"/>ue, apprehensum sub ratione boni voluntatem mouet ad persequendum, quando quispiam perturbatur censet 
+      non<lb ed="#P" n="9" break="no"/>nihil esse bonum quod alioqui malum censeret, Danielis tertiodecimo. Concupiscentia subuertit cor tuum. 
+      Commo<lb ed="#P" n="10" break="no"/>to vehementer ad iram bonum videtur non sic meritum pulsare: cui hoc ipsum minime extra perturbationem 
+      vi<lb ed="#P" n="11" break="no"/>detur. Alludit Aristoteles secundo rhetoricae inquiens. Non eadem videntur amantibus &amp; odientibus: neque iratis &amp; 
+      <lb ed="#P" n="12"/>mansuete se habentibus. Apud nostrates est prouerbium. Ostende mihi virum: &amp; legen tibi ostendero, perinde acsi dice 
+      <lb ed="#P" n="13"/>rent pro eadem materia leges oppositas adducam: Modo vnus sit amicus alter vero inimicus. iii. ethicorum. 
+      Qua<lb ed="#P" n="14" break="no"/>liscumque quisque est talis sibi finis videtur. Aliter enim febricitans atque famelicus sanus de cibo assumpto iudicat: 
+      <lb ed="#P" n="15"/>hic recte diiudicat, ille palato infecto putribus humoribus prorsus aberrat. Sic vitiorum sentina madens 
+      mali<lb ed="#P" n="16" break="no"/>gne sententiam fert. Appetitui intellectiuo insitum est appetitui sensitiuo condescendere nisi ad rationem ex aliis 
+      <lb ed="#P" n="17"/>principiis sumptam recurrat. Et istud est appetitum sensitiuum intellectum &amp; voluntatem positiue mouere. Alio mo 
+      <lb ed="#P" n="18"/>do priuatiue mouet, quando &amp; ipsa ratio a desiderio appetitus sensitiui obnubilatur atque distrahitur: &amp; id 
+      ratio<lb ed="#P" n="19" break="no"/>nis est: quandoquidem omnes potentiae animae in vna animae essentia radicantur. Anima quae est appetitus intelle 
+      <lb ed="#P" n="20"/>ctiuus est pars appetitus sensitiui: itaque quando vna potentia in suo actu intenditur, aliae a suis operationibus 
+      <lb ed="#P" n="21"/>distranhuntur. Vetus est diuerbium. Pluribus intentus minor est ad singula sensus. Potest perturbatio appetitus 
+      <lb ed="#P" n="22"/>sensitiui sic inualescere quod rationem prorsus alienet: Interdum citra culpam quando homo enormiter in capite 
+      per<lb ed="#P" n="23" break="no"/>cutitur: ebrius tamen cum culpa sed siue hoc siue illud contingat more belluae tunc mouetur est mentis totaliter 
+      in<lb ed="#P" n="24" break="no"/>ops. attamen stante ratione potest insultum passionis reprimere atque domare: &amp; adhoc est obnoxius. Sub te erit 
+      <lb ed="#P" n="25"/>appetitus tuus: &amp; tu dominaberis illius. Quocirca appetitus sensitiuus conglutinatus voluntati suadere 
+      po<lb ed="#P" n="26" break="no"/>test vt perperam agat. lacobi tertio. Vnuquisque temptatur a concupiscentia sua, abstractus &amp; illectus. Verum ipsa 
+      <lb ed="#P" n="27"/>eum necessitare nequit.
+    </p>
+            <p xml:id="JMAet9-d28843-d1e621">
+               <pc type="pilcrow">¶</pc> Insultas, voluntas appetitum sensitiuum mouet primo ethicorum: modo mouens non mo 
+      <lb ed="#P" n="28"/>uetur ab eo quod mouet, vt sit motio reciproca octauo physicorum. Respondetur quod voluntas appetitum sensiti 
+      <lb ed="#P" n="29"/>uum motu politico &amp; non despotico mouet: non enim principatur illi more heri in seruum, sed more principis 
+      <lb ed="#P" n="30"/>in subditum: cui plerunque recalcitrat nisi homo obsistat, etiam in viris heroicis teste deiloquo Paulo ad Rom. 
+      <lb ed="#P" n="31"/>septimo. Non enim quod volo bonum hoc ago: sed quod odi malum illud facio. Non enim potest voluntas agere quin 
+      <lb ed="#P" n="32"/>appetitus sensitiuus insurgat: sed potest illi non consentire: &amp; facere ne vllum sit peccatum.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

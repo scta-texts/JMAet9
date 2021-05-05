@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 9</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 9</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-de3269"><!-- mair-l1c9 -->
+            <head xml:id="JMAet9-de3269-Hd1e103">Caput 9</head>
+            <p xml:id="JMAet9-de3269-d1e106">
+      <!--40.xml-->
+               <pb ed="#P" n="13-r"/>
+               <lb ed="#P" n="1"/>
+               <quote xml:id="JMAet9-de3269-Qd1e114" type="lemma">VNde &amp; dubitatur</quote>. Superius philosophus felicitatis descriptionem inuestigauit. &amp; sufficientiam descri 
+      <lb ed="#P" n="2"/>ptionis ostendit: &amp; tertio suam opinionem partim cum omnium opinatione conuenire monstra 
+      <lb ed="#P" n="3"/>uit: modo tertium tractatum aggreditur qui tribus capitibus impletur. In primo subiectum &amp; 
+      fe<lb ed="#P" n="4" break="no"/>licitatis causalitatem venatur: quaestionem trimembrem secundum tres opiniones ea de re mouens: falsa 
+      <lb ed="#P" n="5"/>refellit, vera approbat roboratque. Materia aliorum duorum capitum suis locis explanabitur. Dicit itaque vn 
+      <lb ed="#P" n="6"/>de, id est ex quo loco vel deinde dubitatur, siue quaeritur. an felicitas disciplina. i. per doctrinam sicut aliae 
+      <lb ed="#P" n="7"/>scientiae, an consuetudine hoc est exercitio &amp; sudore, vt virtutes procurantur, aut alio quopiam exercitio ac 
+      <lb ed="#P" n="8"/>quiri potest: an potius sit diuina sorte: an fortunae sit munus secundum illorum viam qui eam in 
+      exter<lb ed="#P" n="9" break="no"/>nis bonis ponunt. Si igitur scilicet pro quia) aliquid aliud deorum est munus hominibus concessum, vt esse, &amp; 
+      <lb ed="#P" n="10"/>viuere. cum deus sit prima causa ex qua dependet caelum &amp; tota natura duodecimo metaph. &amp; primo 
+      caeli<lb ed="#P" n="11" break="no"/>ab eo communicatum est omnibus esse &amp; viuere. His quidem clarius, illis vero obscurius. Et nono 
+      ethico<lb ed="#P" n="12" break="no"/>rum: diis, parentibus &amp; magistris nemo potest ad condignum gratias referre: rationi est consentaneum &amp; fe 
+      <lb ed="#P" n="13"/>licitatem a diis ipsis dari: quia nobilissimus effectus, est a nobilissima causa. Et hoc tangit cum ait. Et eo ma 
+      <lb ed="#P" n="14"/>gis quo caeteris bonis est praestabilius. Est argumentum a minori ad maius, quemadmodum diceres si 
+      fi<lb ed="#P" n="15" break="no"/>des infusa a deo creatur: valentiori ratione charitas illa superior: sed hoc ad aliam magis considerationem 
+      <lb ed="#P" n="16"/>attinet scilicet primam philosophiam, vbi de prouidentia diuina tractatur. Subdi videtur tametsi 
+      felici<lb ed="#P" n="17" break="no"/>tas hominibus superne non conceditur, hoc est totaliter a deo non demittitur, sed disciplina, &amp; virtute, &amp; 
+      <lb ed="#P" n="18"/>quadam exercitatione paratur, diuinissimum esse. Hoc trifatiam probat. Nam praemium &amp; finis virtutis 
+      <lb ed="#P" n="19"/>optimum quiddam &amp; beatum esse videtur: hoc autem est felicitas. hoc enim pacto felicitas erit multum 
+      <lb ed="#P" n="20"/>communis. quia potest fieri, vt disciplina &amp; diligentia ab vniuersis paretur. qui nullo principio labefactato 
+      <lb ed="#P" n="21"/>idonei sunt ad virtutem consequendam. Quum quis desipiens siue delirus fuerit principium habet 
+      coin<lb ed="#P" n="22" break="no"/>quinatum, &amp; per consequens quum est rationis compos non habet principium maculatum: satius est hoc 
+      <lb ed="#P" n="23"/>pacto dicere quam fortunam felicitatem posse vendicare. iam intendimus felicitatem a causa per se produci: rem 
+      <lb ed="#P" n="24"/>ita sese habere est rationi consentaneum. Vult dicere quod aliqua in nos producuntur sine nobis: vt anima 
+      <lb ed="#P" n="25"/>quae a deo creatur, ipsa est perennis, foris educitur tertio de anima. Nostra vita sicut &amp; existentia prima a 
+      <lb ed="#P" n="26"/>deo dependet felicitatem partialiter nobis cooperantibus producit. Stolidus cui sensus exteriores aut 
+      in<lb ed="#P" n="27" break="no"/>teri laeduntur, habet principium coinquinatum: quia intellectus in via citra ministerium sensuum suas 
+      <lb ed="#P" n="28"/>operationes non exercet.
+    </p>
+            <p xml:id="JMAet9-de3269-d1e177">
+               <pc type="pilcrow">¶</pc> Secundo argumentatur ad idem &amp; rationis valor in hoc consistit. Ea quae 
+      se<lb ed="#P" n="29" break="no"/>cundum naturam aut artem fiunt optime fiunt. Cum ergo felicitas sit summum bonum, eius causa optime 
+      <lb ed="#P" n="30"/>sese habebit: sed fortuna deterius se habet quam natura aut ars: igitur litera est perspicua.
+    </p>
+            <p xml:id="JMAet9-de3269-d1e187">
+               <pc type="pilcrow">¶</pc> Tertio ex ratione 
+      <lb ed="#P" n="31"/>quod quaeritur est manifestum. Hoc illud quod quaerimus, ex felicitatis diffinitione est perspicuum. 
+      Fe<lb ed="#P" n="32" break="no"/>licitas enim est operatio secundum virtutem: virtus autem disciplina &amp; exercitatione paratur: igitur. Hac via 
+      <lb ed="#P" n="33"/>felicitas acquiritur. Quomodo casus &amp; fortuna non sunt causae per se sed per accidens: &amp; quo modo inter 
+      <lb ed="#P" n="34"/>sese dispescuntur, quia in quaestionibus secundi physicorum haec scripsimus: nolumus aliquid super hoc 
+      <lb ed="#P" n="35"/>nunc commentari. Sequitur in litera. Caeterorum autem bonorum, necessum est reliqua praesto adesse 
+      fe<lb ed="#P" n="36" break="no"/>licitatis. Alia felicitatem stipant, &amp; sunt felicitatis instrumenta. &amp; hoc consentaneum dictis nostris 
+      su<lb ed="#P" n="37" break="no"/>perius in hoc primo. vbi detulimus summum bonum ciuilis facultatis esse scopum ac finem. Haec autem 
+      <lb ed="#P" n="38"/>ciuilis facultas plurimum desudat vt ciues suos praeparet, probosque efficiat. vt honesta munia opportuno 
+      <lb ed="#P" n="39"/>tempore obeant. Ex quo sequitur quod neque bos neque equus neque animantium quodcunque aliud felix est: 
+      <lb ed="#P" n="40"/>quia nullum tale est particeps operationis a virtute emanantis. &amp; propter eandem causam puer incapax 
+      <lb ed="#P" n="41"/>rationis non est felix. Si ob spem puellus quando est bona indole, felix laxato vocabulo dicatur, non 
+      digla<lb ed="#P" n="42" break="no"/>diabor: talis sperata felicitas non est felicitas in re. Ecce multa subiecta felicitatis incapacia. Belluae enim 
+      <lb ed="#P" n="43"/>pronae terram spectantes summi boni sunt exortes. deest enim illis ratio licet appetitum habeant. Et a 
+      <lb ed="#P" n="44"/>valentiore ratione plantae huius muneris non sunt participes. Neque pueri etiam prima lanugine in hac 
+      <lb ed="#P" n="45"/>sorte ponuntur: innuit enim semper neminem felicem nisi annis maturum &amp; vita perfecta. Quantum 
+      <lb ed="#P" n="46"/>ad prouectos adhuc negatiua dicta prosequitur, de his qui calamitatibus obruuntur, quos beatos non 
+      ex<lb ed="#P" n="47" break="no"/>istimat: Et caeteris praetermissis Priamum Troianorum regem florentissimum nominat. Propterea 
+      di<lb ed="#P" n="48" break="no"/>cit in litera, felicitas potest impediri, nam crebrae mutationes in vita fieri possunt. Fieri enim potest vt pu 
+      <lb ed="#P" n="49"/>tatus faustus in iuuenta, in magnas aduersitates incidat. vt in heroicis carminibus de Priamo dicitur. 
+      <lb ed="#P" n="50"/>sunt autem heroica carmina quae heroum gesta canunt vt aeneis virgiliana, rapsodia homerica. achilleis 
+      <lb ed="#P" n="51"/>&amp; Thebais Statii. Priamus primo numerosa prole parens, gloria, opibus, &amp; llio vrbe pene 
+      inexpugnabi<lb ed="#P" n="52" break="no"/>li gloriosus fuit, sed cum temerario consilio pacem bello praetulisset misere occubuit. De morte Maro se 
+      <lb ed="#P" n="53"/>cundo aeneidos, vbi Pyrrhus eum interficiens ait. 
+      <lb ed="#P" n="54"/>Nunc morere, haec dicens altaria ad ipsa trementem 
+      <lb ed="#P" n="55"/>Traxit, &amp; in multo lapsantem sanguine nati: 
+      <lb ed="#P" n="56"/>Implicuitque comam laeua, dextraque coruscum 
+      <lb ed="#P" n="57"/>Extulit: ac lateri capulo tenus abdidit ensem: 
+      <lb ed="#P" n="58"/>Haec finis Priami fatorum: hic exitus illum 
+      <lb ed="#P" n="59"/>Sorte tulit: Tromiam incensam, &amp; prolapsa videntem 
+      <lb ed="#P" n="60"/>Pergama: tot quondam populis, terrisque superbum 
+      <lb ed="#P" n="61"/>Regnatorem Asiae, iacet iugens littore truncus 
+      <lb ed="#P" n="62"/>Auulsumque humeris caput, &amp; sine nomine corpus: 
+      <lb ed="#P" n="63"/>In parua autem Asia regnabat. Asiatici cuncti hac tempestate assyriis obsecundauere. Nam maiorem &amp; 
+      <!--41.xml-->
+      <pb ed="#P" n="13-v"/>
+               <lb ed="#P" n="1"/>minorem Asiam babylonica arma subegerunt: &amp; cum ipse Priamus misere obierit eum felicem dicit nemo. 
+      <lb ed="#P" n="2"/>Dubitatur quomodo est felicitas bonum humanum &amp; diuinum, &amp; quomodo est ita mutabile. Respondeo 
+      <lb ed="#P" n="3"/>est opus humanum. vt latius expositum est: est etiam opus diuinum. deus enim quaedam sine hominis 
+      <lb ed="#P" n="4"/>ope confert: vt esse, viuere. quaedam cum hominis cooperatione, vt felicitatem: sicut enim theologi 
+      po<lb ed="#P" n="5" break="no"/>nunt, nullum opus potest a creatura produci deo non concurrente ope generali, &amp; in bonis operibus 
+      auxi<lb ed="#P" n="6" break="no"/>lio peculiari, sic philosophi est sententia, quod dei cooperatio praerequiritur ad opera eximia. Hoc ita ex Aristotelis 
+      <lb ed="#P" n="7"/>litera est perspicuum vt qui id inficiatur eius literam tortuose exponat. Quantum ad mutabilitatem, 
+      felici<lb ed="#P" n="8" break="no"/>tas contemplatiua quam ipse egregie actiuae in decimo libro praefert, est immutabilis, non enim mutatur 
+      <lb ed="#P" n="9"/>nisi felicis ignauia &amp; socordia: nam licet interdum foede labatur, potest contritione mendarum resurgere, &amp; 
+      <lb ed="#P" n="10"/>fortius operari quam antea. Summum autem bonum vitae actiuae quae est ad alios, in opinione populi partim 
+      <lb ed="#P" n="11"/>consistens, facilius variatur. In vera felicitate priscis in aliquibus contradixit: noluit in principio in 
+      omni<lb ed="#P" n="12" break="no"/>bus, eis refragari, ne inopinabilia scribere videretur, &amp; sic sua doctrina sperneretur: Pedetentim autem ad re 
+      <lb ed="#P" n="13"/>ctae felicitatis intelligentiam processit: quae humana via procurari valet. Fide autem nobis innotescit quod 
+      <lb ed="#P" n="14"/>suauior verior &amp; certior est beatitudo quam expectamus: quam nobis ab hoc exitu concedat, qui beatos in  
+      <lb ed="#P" n="15"/>patria caelesti secundum proportionem meritorum &amp; facit &amp; conseruat. 
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

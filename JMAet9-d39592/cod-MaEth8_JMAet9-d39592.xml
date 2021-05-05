@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d39592"><!-- mair-l10c1 -->
+            <head xml:id="JMAet9-d39592-Hd1e103">Caput 1</head>
+            <p xml:id="JMAet9-d39592-d1e106">
+               <lb ed="#P" n="26"/>
+               <quote xml:id="JMAet9-d39592-Qd1e110" type="lemma">POst haec sequitur</quote> &amp;c. In primi libri exordio de fine vltimo sermonem habuit 
+      phi<lb ed="#P" n="27" break="no"/>losophus, vt homines ad virtutum opera, per quae felicitas procuratur, inuitaret. 
+      <lb ed="#P" n="28"/>Sicut psalmographus in Psalmorum primordio inquiens. Beatus vir &amp; reliqua. 
+      <lb ed="#P" n="29"/>Et rursus secundm virtutum materiam habunde hactenus determinatam, in hoc 
+      de<lb ed="#P" n="30" break="no"/>cimo locupletius de virtutum praemio mentionem facit. Hunc librum in duas 
+      par<lb ed="#P" n="31" break="no"/>tes diuidet in priore parte de voluptate felicitatis adminiculo docet, quam partem 
+      <lb ed="#P" n="32"/>in quinque capita secat. In posteriore parte de ipsa foelicitate praecipit. Huius capitis 
+      <lb ed="#P" n="33"/>prima conclusio est. Post habita de virtutibus, forsitan consequens est vt de voluptate transigamus. 
+      <lb ed="#P" n="34"/>Trifatiam hanc conclusionem roborat. 
+    </p>
+            <p xml:id="JMAet9-d39592-d1e131">
+               <lb ed="#P" n="35"/>⁋ Primo sic. Ad moralem philosophum attinet tractare de rebus humanis per quas humana vita regitur, 
+      <lb ed="#P" n="36"/>at voluptas nostro generi familiaris esse videtur: igitur.
+    </p>
+            <p xml:id="JMAet9-d39592-d1e138">
+               <pc type="pilcrow">¶</pc> Consequentia cum maiore liquet. Minorem 
+      <lb ed="#P" n="37"/>a signo fulcit. Ludi magistri &amp; qui iuuenum curam subeunt volentes pueros prouocare ad 
+      probita<lb ed="#P" n="38" break="no"/>tem, &amp; declinare ab improbitate, erudiunt eos voluptate atque dolore. Bonos enim lepido sermone &amp; 
+      <lb ed="#P" n="39"/>munusculis ad probitatem alliciunt, &amp; eos voluptate afficiunt, resides vero plectunt terroribus eosque 
+      <lb ed="#P" n="40"/>verberibus a malo dehortantur, atque dolore afficiunt. 
+    </p>
+            <p xml:id="JMAet9-d39592-d1e152">
+               <lb ed="#P" n="41"/>⁋ Secundo probatur eadem conclusio sic. Moralis philosophi est de his tractare quae ad virtutem 
+      mo<lb ed="#P" n="42" break="no"/>ralem attinent, at voluptas &amp; tristitia sunt huiuscemodi: igitur. Maior declaratur, quia moralis 
+      phi<lb ed="#P" n="43" break="no"/>losophi munus est de virtutibus moralibus tractare, &amp; de iis per quae virtus moralis fouetur. 
+    </p>
+            <p xml:id="JMAet9-d39592-d1e162">
+               <lb ed="#P" n="44"/>⁋ Minor probatur in litera. Videtur autem ad consequendam moris virtutem maximum esse 
+      gau<lb ed="#P" n="45" break="no"/>dere iis quibus oportet, &amp; odisse ea quae oportet, homines inclinantur prosequi voluptates, &amp; auersari 
+      <lb ed="#P" n="46"/>dolores: virtus moralis in talibus tenet medium. secundo Ethicorum, &amp; affectus regulat. Gaudere enim 
+      <lb ed="#P" n="47"/>&amp; odio habere per totam vitam se diffundunt, &amp; communicantur haec tota vita, momentum &amp; vim 
+      <lb ed="#P" n="48"/>ad virtutem felicemque vitam habent. Sane homines eligunt ea quae voluptate afficiunt, auersantur 
+      <lb ed="#P" n="49"/>autem ea quae dolorem faciunt. proinde de voluptate determinatio videtur consentanea.
+    </p>
+            <p xml:id="JMAet9-d39592-d1e178">
+               <pc type="pilcrow">¶</pc> Tertio ea 
+      <lb ed="#P" n="50"/>dem conclusio stipatur sic. Moralis philosophi est tractare id quod magnam controuersiam circa 
+      mo<lb ed="#P" n="51" break="no"/>res habet, at voluptas est huiusmodi: igitur. Minor ex contrarietate opinationum inter sapientes agi 
+      <lb ed="#P" n="52"/>tata hoc enucleat. In principio posita dictio forsitan non est aduerbium dubitandi sicut nec alibi 
+      frequan<lb ed="#P" n="53" break="no"/>ter in hoc libro. Dicit quod voluptas videtur nostro generi, hoc est generi humano, esse familiaris. Vbique 
+      <lb ed="#P" n="54"/>autem capit videtur pro aperte est in Ethicis, sicut porphyrius in lsagogis, videtur autem neque genus 
+      <lb ed="#P" n="55"/>neque species &amp;c. Et quod dialecticus vocat genus, legumlator speciem vocat. Et sermo est de voluptate 
+      <lb ed="#P" n="56"/>spirituali &amp; mentis, quae est nobis &amp; angelis peculiaris. Voluptas corporalis est nobis &amp; belluis communis, 
+      <!--326.xml-->
+      <pb ed="#P" n="153-r"/>
+               <lb ed="#P" n="1"/>De sensuali voluptate potissimum in septimo ethicorum loquutus est. In septimo enim de 
+      incontinen<lb ed="#P" n="2" break="no"/>tia &amp; eius opposito signanter loquutus est quibus voluptas corporalis communicatur: proinde aliter de 
+      <lb ed="#P" n="3"/>voluptate in septimo &amp; aliter in hoc decimo loquitur. Quidam astruunt voluptatem esse summum 
+      bo<lb ed="#P" n="4" break="no"/>num vt epicurus &amp; eudoxus. Quidam contra (vt stoici) grande admodum ducunt esse malum. Et hi sunt 
+      <lb ed="#P" n="5"/>duplices: quidam eorum ita reuera censent esse, scilicet omnem voluptatem esse vehementer prauam: 
+      se<lb ed="#P" n="6" break="no"/>cundi putant ad nostram vitam satius esse monstrare voluptatem esse prauam tametsi mala non sit: quod 
+      <lb ed="#P" n="7"/>multi ad ipsam procliuiores feruntur, voluptatibus inseruientes: &amp; propterea ad oppositum ipsos allicere 
+      <lb ed="#P" n="8"/>salubre ducunt. Hoc enim calle ad medium peruenient: vt in calce secundi libri diximus, de incuruato mu 
+      <lb ed="#P" n="9"/>crone exemplificantes. Postea arguit eos qui astruunt voluptatem esse bona, &amp; eam verbis insectantur. Et 
+      <lb ed="#P" n="10"/>ponit vnam bellam conclusionem orthodoxaeque fidei consentaneam, quae est haec. Fortasse autem hoc non 
+      <lb ed="#P" n="11"/>bene dicitur: hoc est incircunspecte facit is, qui scit voluptatem esse bonam &amp; eam malam asseuerat. 
+      Con<lb ed="#P" n="12" break="no"/>ciones enim quae de affectibus &amp; operationibus fiunt minus creduntur quam opera. In valore sic discurrit cre 
+      <lb ed="#P" n="13"/>dentes voluptates esse bonas nonnunquam eas verbis persequuntur: sed minus sermonibus quam operibus fidei 
+      tri<lb ed="#P" n="14" break="no"/>buitur: Dum sermones actibus humanis qui sensu percipiuntur discrepant, tunc spernuntur dicentes, &amp; 
+      <lb ed="#P" n="15"/>veritatem ipsam infirmant. Cuius enim vita despicitur (teste Gregorio,) restat vt eius praedicatio contemna 
+      <lb ed="#P" n="16"/>tur. Et ideo Actuum primo. Incepit lesus facere &amp; docere: praeponitur facere tanquam difficilius. Propterea 
+      <lb ed="#P" n="17"/>quidam data opera ad populum concionando penultimam de facere elongauit &amp; penultimam de docere 
+      <lb ed="#P" n="18"/>abbreuiauit: quia hoc est facile: istud vero difficile. Et aiax thelomonius improperans vlyssi dicebat: tibi 
+      con<lb ed="#P" n="19" break="no"/>cessum est eloqui non autem decore facere: mihi autem facere. ltaque sibi ipse priores partes laudis assumpsit. 
+      <lb ed="#P" n="20"/>Qui voluptatem vituperat verbis, si visus fuerit eam interdum anxie quaerere: ad ipsam illam 
+      volupta<lb ed="#P" n="21" break="no"/>tem &amp; immo ad omnem inclinari videbitur. Et quia aliquis diceret non ad omnem sed ad eam quam 
+      in<lb ed="#P" n="22" break="no"/>sequitur, dicit quod distinguere quae voluptas est studiosa, quae vero praua, non est imperitae multitudinis: &amp; 
+      <lb ed="#P" n="23"/>ita siquis talis ad vnam inclinatur, ad omnem inclinari posse videtur. Postea obiter occurrentem 
+      conclusio<lb ed="#P" n="24" break="no"/>nem ponit: quae est haec. Sermones veri non solum ad sciendum, sed etiam ad viuendum sunt maiorem imi 
+      <lb ed="#P" n="25"/>modum vtiles. Hoc est veritas duo bona vendicat. Probatur haec tertia conclusio sic. Sermones illi sunt 
+      <lb ed="#P" n="26"/>perutiles qui verum stipant solidantque: at quando actibus humanis sunt consentanei sunt huiusmodi: igi 
+      <lb ed="#P" n="27"/>tur. Minor patet. Quia tunc illos hortantur qui sermocinantes intelligunt, viuere vt ipsi verbis definiunt 
+      <lb ed="#P" n="28"/>Ex litera patet, mendacio neminem trahendum ad bonum: secundum deiloquum apostolum ad 
+      Roma<lb ed="#P" n="29" break="no"/>nos. Non sunt facienda mala vt inde eueniant bona 
+    </p>
+            <p xml:id="JMAet9-d39592-d1e266">
+               <lb ed="#P" n="30"/>⁋ Contra, dicis mentiri possum aut saltem illudere vt hominem ad bonum inducam. Si carnifex 
+      quae<lb ed="#P" n="31" break="no"/>rat hominem in mea domo ad mortem: licite dico non est in domo mea, id est non comedit in domo mea. 
+      <lb ed="#P" n="32"/>vt sit tertia persona de edo. Et Iacob a diuo Augustino &amp; aliis bene sentientibus excusatur a peccato qui di 
+      <lb ed="#P" n="33"/>cebat se esse Esau: de his fusius in sententiis loquutus sum &amp; non nihil super hoc opus: quocirca nunc pertranseo. 
+    </p>
+            <p xml:id="JMAet9-d39592-d1e277">
+               <lb ed="#P" n="34"/>⁋ Dubitatur contra has duas conclusiones. Nam videntur esse veritatis suspectae. Si egregius concionator 
+      <lb ed="#P" n="35"/>insectetur intemperantiam, &amp; fractionem ieiunii: nemo per hoc arbitratur frangere ieiunium non esse pec 
+      <lb ed="#P" n="36"/>catum. Cui consonat Christus domns in euangelio Matth. xxiii. dicens. Super cathedram Moysi sedent 
+      Scri<lb ed="#P" n="37" break="no"/>be &amp; Pharisaei quae dicunt vobis facere facite: &amp; quae faciunt nolite facere. ac si dicat. Suscipite eorum 
+      salu<lb ed="#P" n="38" break="no"/>brem doctrinam, eorum perditos mores detestantes. Respondetur quod hoc est verum quando constat de ve 
+      <lb ed="#P" n="39"/>ritate veri, &amp; de operis malitia, non autem in verbo ambiguo: vt est in exemplo philosophi. Talis 
+      concio<lb ed="#P" n="40" break="no"/>nator reuera non est egregius sed seminiuerbius: qui quod dixerat verbo, opere infirmat. Perinde acsi 
+      me<lb ed="#P" n="41" break="no"/>dicus praedicans alas perdicum esse malas, &amp; tamen ipse auidius illas mandit, quis illi crediderit? Quilibet id 
+      <lb ed="#P" n="42"/>agit quod arbitratur sibi esse bonum actualiter &amp; in particulari, septimo ethicorum: circa particularia sunt 
+      <lb ed="#P" n="43"/>operationes, &amp; affectus. At non oportet quemlibet dicere illud quod ei videtur bonum, primo 
+      elencho<lb ed="#P" n="44" break="no"/>rum. Non eadem volunt &amp; dicunt homines: dicunt enim decoratissimas orationes, volunt autem ea quae  
+      <lb ed="#P" n="45"/>videntur prodesse. Et patet de concionante contra pluralitatem sacerdotiorum &amp; plura tenente siue in 
+      ti<lb ed="#P" n="46" break="no"/>tulum siue in vt dicunt commendam. Immo concionator supradictus ieiunium facto interimit signanter 
+      <lb ed="#P" n="47"/>apud vulgus ad intemperantiam procliue: sic enim ratiocinatur. Quicquid dixerit iste in concione, nunc 
+      <lb ed="#P" n="48"/>in coena commedere non est peccatum: quia iste legem nouit &amp; suam animam diligit: si esset delictum non 
+      <lb ed="#P" n="49"/>manducaret. Ad terrorem ergo haec verba dixit: &amp; propterea scandalum actiuum apud sapientes est gran 
+      <lb ed="#P" n="50"/>de nephas: &amp; in occulto ieiunium infringere est minus detestabile. Verum haec sunt separabilia apud 
+      sapien<lb ed="#P" n="51" break="no"/>tes. Licet enim verbi diuini declamator tetra libidine sit famosus, non oportet eum in libidine imitari: 
+      <lb ed="#P" n="52"/>propterea Christus praecepit relinquere eorum scelestam vitam &amp; amplecti eorum sermones. Actus arctius 
+      <lb ed="#P" n="53"/>mouent quam verba: &amp; in operibus aliud superne carpi solet. quod vnico exemplo rursum detegitur. In 
+      conci<lb ed="#P" n="54" break="no"/>lio Niceno erat philosophantium quidam qui a gentilitio delirio nullis argumentationum inuolucris ad  
+      <lb ed="#P" n="55"/>fidem trahi poterat. Prosiliit in medium quidam annis grauis illibatae vitae nexuum dialecticorum igna 
+      <lb ed="#P" n="56"/>rus, prudenter cum philosopho captionibus imbuto disserens. Vitae nitorem philosophus intelligens mox 
+      <lb ed="#P" n="57"/>baptismum suscepit inquiens. donec meandris scholasticis mecum ageretur, verbis verba opposui: vbi pro 
+      <lb ed="#P" n="58"/>verbis vitae candor processit: reluctari nequiui. Vt autem paucis agam si vita concionantis verbis sit 
+      con<lb ed="#P" n="59" break="no"/>cors sermo eius est efficax, &amp; verificatur maxime de illo dictum apostoli ad hebraeos quarto. Viuus est sermo 
+      <lb ed="#P" n="60"/>dei efficax &amp; penetrabilior omni gladio ancipiti: &amp; pertingens vsque ad diuisionem animae ac spiritus. Et hoc 
+      <lb ed="#P" n="61"/>videmus ad oculum in hominibus excellentis vitae, qui rudioribus verbis plebem ad aethera trahunt. 
+      <lb ed="#P" n="62"/>Non enim in sublimitate sermonis venit apostolus ad Corinthios vt ipse. i. Corinth. secundo ait.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

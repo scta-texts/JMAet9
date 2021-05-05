@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 14</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 14</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d36188"><!-- mair-l8c14 -->
+            <head xml:id="JMAet9-d36188-Hd1e103">Caput 14</head>
+            <p xml:id="JMAet9-d36188-d1e106">
+      <!--298.xml-->
+               <pb ed="#P" n="139-r"/>
+               <lb ed="#P" n="1"/>T vero dissentiunt &amp;c. hic philosophus determinat, quomodo sunt incusationes &amp; murmuta in amicitiis 
+      <lb ed="#P" n="2"/>personarum inaequalium. Et tres partes praecipuas hoc caput continet. In prima medium citat con 
+      <lb ed="#P" n="3"/>Atrouersiae rationem assignando. In secunda controuersiam soluit. Et in tertia corollatium infert. Secunda pars 
+      <lb ed="#P" n="4"/>illic, videtur autem: tertia pars illic, quapropter videbitur. Duabus conclusionibus principalibus, &amp; vno 
+      corol<lb ed="#P" n="5" break="no"/>lario caput est consummatum. Prior conclusio est. Inamicitiis quae in excellentia consistunt, dissensiones &amp; 
+      <lb ed="#P" n="6"/>questus sunt. Nam vterque amicorum se dignum existimat plus habere debere: at hoc non fit dispari 
+      amici<lb ed="#P" n="7" break="no"/>tia. Primo rationes puer praestabiliori inducit. Si enim probo bonum tribui debet, probiori plus boni conferen 
+      <lb ed="#P" n="8"/>dum est. Itidem in amicitia quae est ob bonum vtile: non enim videtur rationi consentaneum quod minus 
+      <lb ed="#P" n="9"/>vtilis aequalia recipiat cum illum qui est magis vtilis, accidit quaedam subministratio, hoc est seruitus, &amp; 
+      <lb ed="#P" n="10"/>non amicitia si commoda quae ex amicitia proueniunt non distribuantur secundum dignitatem &amp; secundum 
+      <lb ed="#P" n="11"/>quod ratio efflagitat. Ho: explicat per eos qui inaequaliter in societatem pecuniam ponunt. Nempe qui plura 
+      <lb ed="#P" n="12"/>erogarunt plura recipiunt, sicque in amicitia fieri debere arbitrantur. Qui vero eget &amp;c. Ponit motiua 
+      ino<lb ed="#P" n="13" break="no"/>pum literaque est clara, sic enim inquit, Qui vero eget &amp; qui est inferior contra dicit. Nam ad amicum bonum 
+      <lb ed="#P" n="14"/>spectare censet egentibus opem ferre: quid enim conducit quempiam viro studioso aut potenti esse amicum, 
+      <lb ed="#P" n="15"/>si nihil emolumenti inde consequuturus sit? Sequitur. Videtur autem vterque recte censere. Haec est 
+      secun<lb ed="#P" n="16" break="no"/>da pars principalis &amp; conclusio huius capitis qua dicit quod vtraque opinio recte sentit: vtrique enim parti plus 
+      <lb ed="#P" n="17"/>tribuendum est non autem de eadem re. Praestabiliori enim plus honoris, inferiori vero plus emolumenti 
+      <lb ed="#P" n="18"/>dandum est. Virtutis enim &amp; beneficientiae primum honor est: indigentiae vero auxilium, hoc est lucrum. 
+      <lb ed="#P" n="19"/>Hoc probat exemplariter. Nam id ita sese habet in rebus publicis. Non enim is qui reipublicaenihil attulit 
+      <lb ed="#P" n="20"/>honoratur, sed qui in rempublicam beneficia contulerit ei nonnihil tribuitur, quod publicum est, id autem 
+      <lb ed="#P" n="21"/>honos est. Neque fit vnquam vt quispiam simul &amp; lucrum &amp; honorem a republica accipiat. Nemo enim fert in 
+      <lb ed="#P" n="22"/>omnibus minus habere. Patet exemplariter in Londinensi apud Anglos praefecto quem maiorem vocant 
+      <lb ed="#P" n="23"/>quotannis electo viro locupletissimo, honorem is in illo officio habet, pecuniarum vero nihil: cum multum 
+      <lb ed="#P" n="24"/>de suo gratia honoris seruandi exponat. ldem patet in rectore vniuersitatis Pariensis: &amp; in multis aliis 
+      ma<lb ed="#P" n="25" break="no"/>gistratibus, quod enim pro dignitate fit id adaequat &amp; amicitiam conseruat. Sic igitur &amp; his est agendum 
+      <lb ed="#P" n="26"/>atque congrediendum qui impares sunt: &amp; iis qui in pecuniis aut in re alia vtilitatem accipit reddat honorem 
+      <lb ed="#P" n="27"/>operaeprecium est, reddendo id quod potest: amicitia namque id efflagitat quod fieri potest: non vsquequaque illud 
+      <lb ed="#P" n="28"/>quod est pro dignitate. Neque enim in omnibus id fieri potest: vt in honoribus erga superos atque parentes. Nemo enim 
+      <lb ed="#P" n="29"/>deo atque parentibus vnquam dignum retribuere poest qui pro virili &amp; quantum potest id facit bonus &amp; aequus esse videtur. 
+      <lb ed="#P" n="30"/>Sequitur tertia pars praecipua capitis, in qua ex praedictis philosophus corollarium infert dicens. Qua 
+      pro<lb ed="#P" n="31" break="no"/>pter videbitur patrem &amp;c. Hoc est hinc fit vt videatur non licere filio patrem abdicare, patri autem abdicare 
+      <lb ed="#P" n="32"/>filium: quia semper reddere oportet &amp; filius semper debet &amp; quicquid erga patrem egerit nihil vnquam dignum 
+      <lb ed="#P" n="33"/>facere potest iis quae a patre suscepit: non igitur ei patrem abdicare licebit quiasemper ei debet. Post haec 
+      pro<lb ed="#P" n="34" break="no"/>bat quod patri licet filium abdicare. Nam quibus debetur potestas est dimittendi beneficiumque negandi: patri 
+      <lb ed="#P" n="35"/>autem semper debetur: igitur patri potestas est filii dimittendi. Sic virtualiter ratiocinatur. Ille qui semper 
+      <lb ed="#P" n="36"/>remanet debitor ad benefaciendum alicui non licet ipsum abdicare ei non benefaciendo, sed filius semper 
+      re<lb ed="#P" n="37" break="no"/>manet debitor patri, igitur non licet filio patrem abdicare. Maior est manifesta: quoniam non licet 
+      debito<lb ed="#P" n="38" break="no"/>rem nunquam reddere debitum. Minorem in litera probat, quia filius patri aequiualens rependere nequit. Secun 
+      <lb ed="#P" n="39"/>da pars corollarii scilicet quod filium pater abnegare potest. Patet sic. Ille cui debetur habet potestatem 
+      dimit<lb ed="#P" n="40" break="no"/>tendi eis qui ei debent patri autem debetur a filio &amp; non contra: &amp; ita habet potestatem abnegandi filium. 
+      <lb ed="#P" n="41"/>Patrem creditori perpetuo: &amp; filium debitori perhenni accommodabis. Et sequitur in litera. Simul autem 
+      <lb ed="#P" n="42"/>nemo forsitan. Hoc est tametsi ita est quod pater possit filium abnegare: tamen abnegando &amp; abdicando, 
+      nul<lb ed="#P" n="43" break="no"/>lus videtur conferre filio beneficium sed totaliter subtraxisse, nec humane egisse nisi ille exuperet 
+      prauita<lb ed="#P" n="44" break="no"/>te. Aliqui dicunt ille scilicet pater, satius est tamen dicere nisi ille, scilicet filius flagitiosus fuerit. Et sequitur 
+      <lb ed="#P" n="45"/>in litera. Nam absque amicitia naturali, humanum est auxilium non negare, hoc sic intelligo, seclusa etiam 
+      <lb ed="#P" n="46"/>amicitia naturali, id est licet inter patrem &amp; filium non esset amicitia naturalis tamen humanum est ei non  
+      <lb ed="#P" n="47"/>negare auxilium, humanum adhuc est non desistere a beneficio sed succurrere. illi etiam in quem multa 
+      be<lb ed="#P" n="48" break="no"/>neficia contulimus. Hoc est etiam prauo filio cuius prauitas a principio erat ignota vel saltem minus patens. 
+      <lb ed="#P" n="49"/>Patri tamen fugiendum est aut non studendum, opem filio oferre. Dum prauus manifeste est, Fortasse enim propter 
+      <lb ed="#P" n="50"/>bonorum amplitudinem in ipsum collatorum &amp; patris familiaritatem deterior efficietur. Sequitur in litera. Plerique enim 
+      <lb ed="#P" n="51"/>suscipere quidam beneficia volunt: conferre autem nolunt, ac fugiunt, vt inutile. Vt malus filius vult suscipere benefi 
+      <lb ed="#P" n="52"/>cia a patre: iamquea recepit nec simile pro virili rependit. Fugiunt inquit conferre vt inutile, dicunt enim conferre 
+      <lb ed="#P" n="53"/>est inutile. Sequitur. Sed de his quidem eousque sit dictum. antiqua translatio habet, de his autem intantum 
+      <lb ed="#P" n="54"/>sit dictum. Contra solutionem corollarii philosophi argumentor probando quod aliquis potest patri satisfacere. Potest 
+      <lb ed="#P" n="55"/>enim conseruare vitam paternam in casu etiam difficillimo, cum periculo vitae suae: modo non minor est virtus quam 
+      quae<lb ed="#P" n="56" break="no"/>rere parta tueri. Pater autem inf actu voluptuoso fuit causa essendi filio. Praeterea filius potest patrem alere in 
+      <lb ed="#P" n="57"/>senecta tam in alimentis quod in moribus, ergo tunc patri aequiualens reddit: ergo etiam iste filius potest 
+      pa<lb ed="#P" n="58" break="no"/>trem abdicare, sicut pater eum: cum ei satisfecit. Respondetur admisso illo casu qui rarus est inuentu, nonnumquam tamen 
+      <lb ed="#P" n="59"/>contigit, vt de quodam Scipione legitur: iste filius tantam opem patri quantam ab eo accepit confert tamen inhumanum esset illi 
+      <lb ed="#P" n="60"/>patrem abdicare: &amp; a gratitudinis lege multum discedere. Nec eo beneficio tantum iuris in patrem quantum pater in 
+      ip<lb ed="#P" n="61" break="no"/>sum habet acquisiuerit. Quinimmo nefarius est filius atque furca dignus qui patrem nil male merentem e 
+      do<lb ed="#P" n="62" break="no"/>mo extrudit, quum ciconiarum mos sit defoetos progenitores fouere ac alere. Bellua est abiectior quae 
+      paren<lb ed="#P" n="63" break="no"/>tum non miseretur, &amp; viis in necessitudine, suppetias non fert. Vltra etiam legemn naturae diuino iussu sunt 
+      <lb ed="#P" n="64"/>filii ad hoc ipsum obno cii, nulla rima aut ansa ab illo modo nexuque solubiles.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

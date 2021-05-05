@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 3</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 3</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d1e793"><!-- mair-l1c3 -->
+            <head xml:id="JMAet9-d1e793-Hd1e103">Caput 3</head>
+            <p xml:id="JMAet9-d1e793-d1e106">
+               <lb ed="#P" n="24"/>
+               <quote xml:id="JMAet9-d1e793-Qd1e110" type="lemma">Dicetur autem satis</quote>. Ob facilitatem huius capitis <sic>argumetum</sic> non praepono. In hoc capite 
+      <lb ed="#P" n="25"/>duo intendit: vnum ex parte doctoris, alterum ex parte audientis. Dicit ergo in hac tradenda 
+      <lb ed="#P" n="26"/>disciplina non est demonstratio aut certitudo expetenda: ipsum enim exactum &amp; certum non 
+      <lb ed="#P" n="27"/>est in omnibus simili modo rationibus efflagitandum, sicut nec in iis quae per artem conficiuntur: ac 
+      <lb ed="#P" n="28"/>si sic argumentaretur. Modus manifestandi veritatem in qualibet scientia debet conuenire rei 
+      subie<lb ed="#P" n="29" break="no"/>ctae quam considerat: quia scibile est mensura scientiae, quinto Metaphysicae: at materia de qua scientia 
+      <lb ed="#P" n="30"/>moralis loquitur est variabilis &amp; incerta. Itaque modus enucleandae veritatis in morali non est 
+      demon<lb ed="#P" n="31" break="no"/>stratiuus. Minorem probat, quia modus diuulgandae veritatis in moralibus est persimilis iis quae per 
+      <lb ed="#P" n="32"/>artem fiunt, quae sunt plurimum variabilia, nam artifex secundum materiam subiectam operatur. Aliter 
+      <lb ed="#P" n="33"/>enim Daedalus atque Typhis carpentaria arte celebres. Aliter Apelles pictor, aliter statuarius Phidias 
+      <lb ed="#P" n="34"/>aut Polycletus operantur. Item aliter in ferro, aere, auro, atque aliis solidis metallis quam in vitro &amp; materia 
+      <lb ed="#P" n="35"/>fragili &amp; fusili, vt Alchimia operantur. Eam ob rem in artificum materia magna est varietas: sic in 
+      mora<lb ed="#P" n="36" break="no"/>libus: excessiuus cibus Hilationi Antonio atque Paulo primo eremitae est modicus miloni: &amp; quod est 
+      <lb ed="#P" n="37"/>regi abunde iustum, militi gregatio est iniustum. Secundo pleraque honesta &amp; iusta circa quae moralis insudat 
+      <lb ed="#P" n="38"/>tantum discriminis &amp; erroris habent, vt lege tantum, supple positiua, humana ab hominum voluntatibus 
+      pen<lb ed="#P" n="39" break="no"/>dente, &amp; non natura constare videantur: &amp; in variis locis eodem tempore circa talia contrarietas inuenitur. 
+      <lb ed="#P" n="40"/>Nam quod in vno loco non expedit vt mulierem in regno succedere in Francia, in alio conuenit, vt in  
+      <lb ed="#P" n="41"/>Hispania &amp; Britannia. Et opposita variis temporibus in eadem politia ordinantur, vt de consanguinitatis 
+      <lb ed="#P" n="42"/>gradibus, in materia matrimonii videre potes. Etrorem non capit hic philosophus pro ignoratione, 
+      <lb ed="#P" n="43"/>sed pro vago atque amplo circuitu. Circa enim multam materiam diffunditur philosophia. Nam bona 
+      na<lb ed="#P" n="44" break="no"/>turae &amp; fortunae circa quae versatur moralis scientia non videntur omnibus bona: sed plerisque exitiale 
+      ma<lb ed="#P" n="45" break="no"/>lum. Nam multi ob immensas opes vt Croesus rex Lydorum periere. Siquidem immodicis fortunis 
+      <lb ed="#P" n="46"/>inflatus: Croesus bellum in maiorem Cyrum excitauit. Et contra vt dicit luuenalis: Cantabit vacuus 
+      <lb ed="#P" n="47"/>coram latrone viator. Multi etiam ob fortitudinem &amp; robur corporis &amp; animi periere, vt patet de Milone 
+      <lb ed="#P" n="48"/>qui per syluam transiens &amp; quaercum vi ventorum semiscissam videns, vt eam penitus discenderet brachium 
+      <lb ed="#P" n="49"/>in fissuram iniecit: illa autem cessante vento se claudens &amp; brachium inclusum tenens, Milonem feris 
+      dila<lb ed="#P" n="50" break="no"/>niandum continuit, itaque periit. Et plerisque aliis solum in fortitudine bellica sperantibus mors cita 
+      ac<lb ed="#P" n="51" break="no"/>cessit. At fortitudine vera redemiti, tam in martyrio quam extra martyrium perbelle obierunt. Hae 
+      vir<lb ed="#P" n="52" break="no"/>tutes animae ornamenta, iuuabant eas habentes &amp; conspicue vitam finiere, nec eis obfuerunt verum 
+      <lb ed="#P" n="53"/>valde profuerunt. Quisnam precor ita mente captus est, vt dicere auderet Sebastianum &amp; Laurentium, 
+      <lb ed="#P" n="54"/>ex constantia malum acceptasse? Vita est ens erepta quam non perdiderunt, postquam grande emolumentum ex suo 
+      in<lb ed="#P" n="55" break="no"/>teritu sunt consequuti. Virtutes intellectuales de per se etiam sunt bonae: peruersis tamen officiunt. Patet etiam 
+      <lb ed="#P" n="56"/>de scientia quae superstitiosis cornua ministrat: sic quod nonnumquam in haereses pertinaciter incidunt. Et contra patet 
+      <lb ed="#P" n="57"/>de his qui ea modestius vtuntur, vt Cicero sua eloquentia: de qua luuenalis carmina recitans ait, Ofortu¬ 
+      <!--22.xml-->
+      <pb ed="#P" n="4-r"/>
+               <lb ed="#P" n="1"/>nantam natamme consule Romam. Antoni gladios poterat contemnere si sic, Omnia dixisset. Igitur in talium 
+      <lb ed="#P" n="2"/>inquisitione non exacta certitudo exploranda est. &amp; de talibus scilicet conclusionibus atque ex talibus principiis 
+      <lb ed="#P" n="3"/>grosso modo rudique figura verum ostendemus. Satis fuerit in talibus ruditer verum peruestigare. &amp; ex his quae 
+      <lb ed="#P" n="4"/>vt plurimum sunt similia, &amp; quae vt plurimum contingunt concludere. Hinc ob auditorem notatiunculam subnectit. 
+      <lb ed="#P" n="5"/>Hoc enim pacto quemlibet auditorem quae dicuntur omnia secundum eorum naturam recipere oportet. Est enim eruditi exactum 
+      <lb ed="#P" n="6"/>ipsum eatenus in vnoquoque genere efflagitare quatenus ipsius rei natura requirit. Simile namque videtur esse 
+      <lb ed="#P" n="7"/>mathematicum &amp; quadriuialem, hoc est musicum arithmeticum geometram &amp; astrologum suadentem probare &amp; 
+      lauda<lb ed="#P" n="8" break="no"/>re, &amp; ab oratore demonstrationem logicalem exigere. Porro vnum est ita ridiculum sicut alterum. Per hoc 
+      philo<lb ed="#P" n="9" break="no"/>sophus intendit neminem debere placari minore ratione, vel maiorem indagare quam materia sinat. mathe 
+      <lb ed="#P" n="10"/>matica demonstratione non vacat, proinde suasio in ea non sufficit, sicut nec demonstratio logica ab 
+      orato<lb ed="#P" n="11" break="no"/>re quaerenda est. Demonstratio enim talis mentem auditoris captiuat ad assentiendum: suasio autem non, quae ex veri simi 
+      <lb ed="#P" n="12"/>libus aut ex veris vt in pluribus procedit. Sequitur litera quae vulgo dicitur textus.
+    </p>
+            <p xml:id="JMAet9-d1e793-d1e219">
+               <pc type="pilcrow">¶</pc> Atque quisque bene iudicat 
+      <lb ed="#P" n="13"/>ea quae cognoscit, &amp; ipsorum bonus est iudex Hic ad probandum intentum praemittit quoddam notabile dicens, Quia 
+      qui<lb ed="#P" n="14" break="no"/>libet est bonus iudex eorum quae cognoscit, &amp; alia indigeste iudicat, requiritur notitia praeuia ad bene iudicandum: 
+      <lb ed="#P" n="15"/>&amp; quanto perfectior erit notitia, tanto iudicium eius erit clarius. Videns Agyptum &amp; aggeres Nili melius de eis 
+      <lb ed="#P" n="16"/>iudicat, qui haec chartis plegens, nec potest notitiam tam perfectam in auditorem tranffundere, sicut enim intuitiua 
+      <lb ed="#P" n="17"/>abstractiuae a toto genere pstat, ita iudicium consequens. Sequitur in itra. Is ergo in vnaquaque re bene 
+      iudi<lb ed="#P" n="18" break="no"/>cat, qui in illa est eruditus, quod medicorum est Promittunt medici, tractantque fabrilia fabri. Absolute autem qui 
+      <lb ed="#P" n="19"/>in omnibus hoc est cunctis est eruditus. sed hi rari sunt siquidem diuerbio communi dicere solemus, in singulis 
+      <lb ed="#P" n="20"/>multi in omnibus vero pauci floruerunt. Siquidem in arte oratoria Tullius singularis, in procudendo carmine 
+      <lb ed="#P" n="21"/>aliquando ineptus. Propterea corollatium inferens ait. Quapropter iuuenis ciuilis disciplinae non est idoneus 
+      <lb ed="#P" n="22"/>auditor. Rudis enim est earum rerum quae in vita versantur. de quibus tamen in hac morali disciplina insudatur. Nempe 
+      <lb ed="#P" n="23"/>scientiae moralis rationes procedunt ex his principiis quae attinent ad vitae humanae actus, &amp; etiam sunt de his 
+      <lb ed="#P" n="24"/>conclusionibus quam pertinent ad humanam vitam tamquam de materia circa quam, &amp; quia iuuenis non recte iudicabit, non 
+      <lb ed="#P" n="25"/>erit huius scientiae aptus auditor. Amplius dicit quod sequax perturbationum non est huius doctrinae idoneus 
+      <lb ed="#P" n="26"/>auditor: &amp; id rationis est, quia istius facultatis finis non est cognitio sed actio, &amp; talis inutiliter operatur, 
+      <lb ed="#P" n="27"/>Etiam delirus senex inutiliter hanc doctrinam audit, &amp; qui circa obscoena vitia vtpote venerea luxum &amp; 
+      con<lb ed="#P" n="28" break="no"/>messationes inuidiam &amp; odium aestuat, inutiliter in his laborat. Iste enim est iuueni similis, quia sane hic nihil 
+      <lb ed="#P" n="29"/>interest an aetate iuuenis sit an moribus incompositis iuueni similis. Maledictus puer centum annorum. 
+      <lb ed="#P" n="30"/>Christina atque Margarita virgines, teneris annis erant mente canae. Non enim ob tempus est ista difficultas 
+      <lb ed="#P" n="31"/>senibus prauis, sed quia persequuntur singula cum perturbatione, &amp; talibus ista cognitio sicut incontinentibus erit 
+      <lb ed="#P" n="32"/>inutilis. Incontinens est qui sensualitatis instigationis &amp; titillationem insequitur. Illi qui scientiae finem non consequitur 
+      <lb ed="#P" n="33"/>haec scientia est inutilis, at iuueni haec disciplina est hmodi. igitur. lis autem qui suas rationi subiiciunt 
+      appeti<lb ed="#P" n="34" break="no"/>tiones haec est quam vtilissima. Nunc ostendens quibus haec doctrina est vtilis: dicit quod his in lnta numeratis, qui suas 
+      <lb ed="#P" n="35"/>appetitiones per rationem regulant grande emolumentum ex hoc studio consequuntur. Et patet. llle enim qui potest 
+      <lb ed="#P" n="36"/>consequi finem moralis scientiae est eius idoneus auditor, sed ille qui secundum rationem viuit est hmodi: igitur. 
+      Epi<lb ed="#P" n="37" break="no"/>logat deinde ordine retrogrado, vt crebriter facit dicens. De auditore, qua via rationes sunt capiendae. 
+      <lb ed="#P" n="38"/>quidque proponimus hoc est quem finem proponimus &amp; intendimus, tot exordiiloco sint dicta, hoc est non  
+      <lb ed="#P" n="39"/>amplius profabor.
+    </p>
+            <p xml:id="JMAet9-d1e793-d1e283">
+               <pc type="pilcrow">¶</pc> Finaliter hic dubitatur, quia videtur quod modus sciendi non debet hic determinari, quia 
+      <lb ed="#P" n="40"/>Commentator. ii. Metaph. dicit quod logica est communis modus cuiuslibet scientiae: ergo videtur quod in logica 
+      de<lb ed="#P" n="41" break="no"/>bet determinari de modo sciendi &amp; non hic.
+    </p>
+            <p xml:id="JMAet9-d1e793-d1e293">
+               <pc type="pilcrow">¶</pc> Secundo dubitatur an sit discrimen inter incontinentem, &amp; sequacem ol 
+      <lb ed="#P" n="42"/>perturbationum: &amp; videtur quod sic, quia Aristoteles posteriorem priori in itera comparat.
+    </p>
+            <p xml:id="JMAet9-d1e793-d1e302">
+               <pc type="pilcrow">¶</pc> Tertio videtur quod haec 
+      <lb ed="#P" n="43"/>scientia nulli auditori sit accommoda, non iuuenibus &amp; malis per philosophu, nec senibus bonis quia hac do 
+      <lb ed="#P" n="44"/>ctrina non egent. lusto secudm Apostolum non est lex posita.
+    </p>
+            <p xml:id="JMAet9-d1e793-d1e312">
+               <pc type="pilcrow">¶</pc> Quarto mali per hanc scientiam ad bonum flecti 
+      pos<lb ed="#P" n="45" break="no"/>sunt quamobrem sunt idonei auditores eius.
+    </p>
+            <p xml:id="JMAet9-d1e793-d1e320">
+               <pc type="pilcrow">¶</pc> Quinto aliqui iuuenes probe viuunt. ltaque hi huius doctrinae 
+      <lb ed="#P" n="46"/>sunt apti auditores. Et in. ii. libro dicit non parum refert iuuenes sic vel sic assuefieri.
+    </p>
+            <p xml:id="JMAet9-d1e793-d1e328">
+               <pc type="pilcrow">¶</pc> Sexto finis 
+      scien<lb ed="#P" n="47" break="no"/>tiae est scire &amp; speculari: hoc autem possunt incontinentes &amp; iuuenes facere.
+    </p>
+            <p xml:id="JMAet9-d1e793-d1e336">
+               <pc type="pilcrow">¶</pc> Insuper geometriam &amp; 
+      speculabi<lb ed="#P" n="48" break="no"/>lia scire possunt ergo &amp; hancartem.
+    </p>
+            <p xml:id="JMAet9-d1e793-d1e344">
+               <pc type="pilcrow">¶</pc> Septimo haec scientia est de virtute quae secundm philosophum. a. Ethicorum 
+      <lb ed="#P" n="49"/>est certior arte &amp; scientia. ergo ipsa est de materia certissima, ergo male dicit philosophus quod procedit 
+      cir<lb ed="#P" n="50" break="no"/>ca variabilia.
+    </p>
+            <p xml:id="JMAet9-d1e793-d1e355">
+               <pc type="pilcrow">¶</pc> Ad primam dubitationem respondetur quod logica vocatur modus sciendi eo quod ex eius arte in caete 
+      <lb ed="#P" n="51"/>ris scientiis procedimus, syllogistice ac enthymematice ex logice anfractibus procedimus. sed scientiae cuius 
+      <lb ed="#P" n="52"/>libet est in particulari suum modum procedendi enodare.
+    </p>
+            <p xml:id="JMAet9-d1e793-d1e365">
+               <pc type="pilcrow">¶</pc> Ad secundam dicitur quod sic: incontinens enim post peccatum 
+      con<lb ed="#P" n="53" break="no"/>missum dolet super perpetrato. hinc sentem a malo retractiuam habet, sicut poetae de Medea fingunt, &amp; 
+      <lb ed="#P" n="54"/>hoc non est de ratione sequacis perturbationum. potest enim quispiam esse prauus, conscientia non remurmurante, 
+      <lb ed="#P" n="55"/>vt patet de intemperante.
+    </p>
+            <p xml:id="JMAet9-d1e793-d1e377">
+               <pc type="pilcrow">¶</pc> Ad tertiam dicitur quod moralis scientia est tam bonis quam malis bona. bonis vt in 
+      bo<lb ed="#P" n="56" break="no"/>nitate conseruentur solidenturque, sicut constat de medicina conseruatiua. Nam quia bonus est ad malum suapte 
+      na<lb ed="#P" n="57" break="no"/>tura flexibilis, praestat vt bene habituetur ne in vetita labatur: &amp; malis modo sint corrigibiles est vtilis, 
+      qui<lb ed="#P" n="58" break="no"/>per hanc speculationem paulatim ad rectitudinis iter allicientur, si autem sint incurabiles quemadmodum sunt 
+      <lb ed="#P" n="59"/>deploratae malitiae longo tempore inquinamentis inuoluti, eis non prodest, sicut concio circumspecti 
+      con<lb ed="#P" n="60" break="no"/>cionatoris nonnullis est frugi, aliquibus vero nihil prodest, sic est de medicina corporali, aliqui sunt in  
+      <lb ed="#P" n="61"/>malo inueterati qui aegerrime a flagitiis euelli possunt, qui sordidus est sordescit adhuc, et si mutare 
+      <lb ed="#P" n="62"/>potest EEthiops pellem suam secundum prophetam &amp;c, sic homines ab adolescentia in sceleribus edu 
+      <lb ed="#P" n="63"/>cati, incurabilibus scientia politica est inutilis, quoniam saeuissima est iniustitia habens arma vt dicit 
+      <lb ed="#P" n="64"/>philosophus primo politicae, quia est gladius in manu furiosi. Ex his patet solutio ad quartam¬ 
+      <!--23.xml-->
+      <pb ed="#P" n="4-v"/>
+            </p>
+            <p xml:id="JMAet9-d1e793-d1e407">
+               <lb ed="#P" n="1"/>⁋ Ad quintam dubitationem concedo de aliquibus iuuenibus. Nam Christifera virgo, diua Catherina. 
+      <lb ed="#P" n="2"/>beata Agnes. Timotheus &amp; Titus in iuuenta aetate erant huius lectionis idonei auditores. In talibus 
+      <lb ed="#P" n="3"/>senectus non computatur inanis: sed frequentius iuuenes corporis illecebras sequuntur. pro augmento 
+      cor<lb ed="#P" n="4" break="no"/>poris magno cibo aut saepius sumpto egent: quare ad libidinem sunt procliues, nec super foedis vulgo 
+      <lb ed="#P" n="5"/>verecundantur. Item licet aliqui verberibus &amp; monitionibus huic arti vacent, solum habent fidem in 
+      mo<lb ed="#P" n="6" break="no"/>rali philosophia, praeceptorum assertionibus fidem impartiunt: &amp; sic raro habent euidens iudicium &amp; 
+      scienti<lb ed="#P" n="7" break="no"/>ficum. Prouectae autem aetatis vir ad animae &amp; corporis crasim nouit frugalitatem plurimum conducere, quia per 
+      <lb ed="#P" n="8"/>ingluuiem &amp; crapulam experimento didicit morbos tam in mente quam in corpore pullulasse, &amp; ita de multis 
+      <lb ed="#P" n="9"/>aliis. Alia ratio ex. ii. Ethicorum deprompta concludit plurimum expedire iuuenibus a vitiis arceri ad bonum. 
+    </p>
+            <p xml:id="JMAet9-d1e793-d1e429">
+               <lb ed="#P" n="10"/>⁋ Ad sextam dubitationem dicitur quod sinis immediatus huius scientiae est speculari secundum hanc scientiam, 
+      <lb ed="#P" n="11"/>sed finis mediatus &amp; vtilior est operari, non enim vt quid sit virtus sciamus scrutamur, sed vt boni 
+      <lb ed="#P" n="12"/>efficiamur secundo Ethicorum.
+    </p>
+            <p xml:id="JMAet9-d1e793-d1e438">
+               <pc type="pilcrow">¶</pc> Ad obiectionem concedo pueros posse geometriam &amp; speculabilia prompte 
+      <lb ed="#P" n="13"/>capere. quia nihil habent speculationi contrarium, secus est detemperantia &amp; aliis virtutibus propter obices 
+      <lb ed="#P" n="14"/>uos habent in eis.
+    </p>
+            <p xml:id="JMAet9-d1e793-d1e449">
+               <pc type="pilcrow">¶</pc> Ad septimam dubitationem respondetur quod haec scientia est certissima certitudine 
+      im<lb ed="#P" n="15" break="no"/>pulsus ad bonum. In hac enim arte acquiritur prudentia, quae sine aliis virtutibus moralibus non habetur sexto 
+      <lb ed="#P" n="16"/>Ethicorum. bonis haec ars est certa. materia bonarum operationum est in quotidiano vsu. ltaque probi circa 
+      <lb ed="#P" n="17"/>suam materiam anxie insudant. Nihil ergo est bonis hac arte certius, malis &amp; sequentibus suas cupiditates 
+      <lb ed="#P" n="18"/>atque perturbationes haec scientia sane est parum vtilis aut exacta, scientiae mathematicae sunt in primo 
+      gra<lb ed="#P" n="19" break="no"/>du certitudinis intra quem gradum omnem artem colloco, cuius principia sunt certa. Ex principiis autem &amp; 
+      illa<lb ed="#P" n="20" break="no"/>tione certis conclusionem inconcussae veritatis sequi est necesse. In secundo gradu sunt disciplinae quarum 
+      <lb ed="#P" n="21"/>principia sunt vera, sunt tamen impedibilia, vt de philosophia naturali. Nam licet haec sit necessaria, calor 
+      <lb ed="#P" n="22"/>est calefactiuus, tamen ista, calor calefacit impedimento est obnoxia, tam respectu passi quam respectu obicis, 
+      <lb ed="#P" n="23"/>cilicet algoris. Sic est de multis principiis astrologicis. experientia enim cognoscimus aliquem erronum 
+      aspe<lb ed="#P" n="24" break="no"/>ctum caloris siccitatisque esse procreatiuum, qui praepediri potest, vt pote si in signis humidis praesentia 
+      con<lb ed="#P" n="25" break="no"/>trariae influentiae contingat, quocirca in talibus astronomi nonnum quam sunt falsi, &amp; quanto pluribus 
+      impedi<lb ed="#P" n="26" break="no"/>mentis sunt obnoxii tanto incertius iudicant. Hinc de actibus humanis a libertate arbitrii pendentibus 
+      <lb ed="#P" n="27"/>ineptissimi iudiciarii perinde atque superstitiosi circunveniuntur. hoc in secundo gradu moralis disciplina 
+      <lb ed="#P" n="28"/>in pennato collocabitur. in rudi nullum gradum certitudinis sortietur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

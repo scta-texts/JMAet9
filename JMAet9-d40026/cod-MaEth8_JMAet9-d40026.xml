@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 3</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 3</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d40026"><!-- mair-l10c3 -->
+            <head xml:id="JMAet9-d40026-Hd1e103">Caput 3</head>
+            <p xml:id="JMAet9-d40026-d1e106">
+               <lb ed="#P" n="45"/>
+               <quote xml:id="JMAet9-d40026-Qd1e110" type="lemma">AT qui neque si voluptas</quote> &amp;c. In hoc tertio capite philosophus opiniones voluptatem non esse bonam 
+      <lb ed="#P" n="46"/>asserentes recitat, easque refellit. Dixerunt enim aliqui nullam voluptatem esse bonam: tum quia 
+      <lb ed="#P" n="47"/>non est qualitas, tum quia suscipit magis &amp; minus, tum quia est generatio, tum demum quia 
+      ali<lb ed="#P" n="48" break="no"/>quae voluptates sunt foedae, vt in septimo libro capite vndecimo dictum est. Est igitur prima conclusio hu 
+      <lb ed="#P" n="49"/>ius capitis, voluptas non est qualitas non sequitur iccirco quod non est bonum: hoc est non sequitur: voluptas non est 
+      <lb ed="#P" n="50"/>qualitas, ergo non est bonum. Probatur haec conclusio quia neque virtutis operationes sunt qualitates, immo 
+      <lb ed="#P" n="51"/>nec ipsa foelicitas, etiam forte secundum Platonicos, haec tamen sunt (vt liquet) bona, vnde non sequitur: 
+      <lb ed="#P" n="52"/>voluptas non est qualitas ergo non est bonum. 
+    </p>
+            <p xml:id="JMAet9-d40026-d1e129">
+               <lb ed="#P" n="53"/>⁋ Secunda conclusio, quod quia voluptas magis &amp; minus, intensionem ac remissionem suscipit, &amp; ideo 
+      <lb ed="#P" n="54"/>quid determinatum non est, ea propter non est bonum: nulla est probatio. Patet, sic illud concludit 
+      <lb ed="#P" n="55"/>falsum sicuti verum: ergo inepte illam conclusionem ponunt. Assumptum patet, &amp; sic formatur ratio 
+      <!--330.xml-->
+      <pb ed="#P" n="155-r"/>
+               <lb ed="#P" n="1"/>Omne bonum est definitum &amp; determinatum: at voluptas non definita, quia non consistit in aliquo vno certo, 
+      <lb ed="#P" n="2"/>pinde non est bonum. In quarto mo secundo figurae. Accedo ad literam, si censent voluptatem quid indefinitum &amp; malum 
+      <lb ed="#P" n="3"/>suscipit magis &amp; minus: vel intelligunt de subiecto virtutis aut delectationis &amp; tunc erit idem circa 
+      iusti<lb ed="#P" n="4" break="no"/>tiam &amp; reliquas virtutes, quibus aperte dicunt eas habentes magis vel minus esse: vt magis iustos minus 
+      <lb ed="#P" n="5"/>ve, &amp; fortes. fit certe vt quid magis &amp; minus agatur &amp; iuste &amp; temperate. Ex hoc passu trahitur 
+      argumen<lb ed="#P" n="6" break="no"/>tum quod subiectum formae intenditur. Et coloratur ratione: forma intensa discrepat ab ea quae pauciores 
+      <lb ed="#P" n="7"/>gradus habet, proinde haud est eadem forma intensa &amp; remissa, metaphysice loquendo: at subiectum 
+      for<lb ed="#P" n="8" break="no"/>mae est idem numero. ldem etiam concedit de forma. Sed haec sunt physicae perscrutationis &amp; ab hoc 
+      insti<lb ed="#P" n="9" break="no"/>tuto aliena. Sequitur litera. Sin in voluptatibus hoc inquiunt esse. In abstracto &amp; non in subiecto quod 
+      volu<lb ed="#P" n="10" break="no"/>ptatis sunt: inde finitae quia suscipiunt magis &amp; minus, videant ipsi ne causam vniuersaliter dicant: 
+      quo<lb ed="#P" n="11" break="no"/>niam voluptatum aliae sunt impurae &amp; mixtae: &amp; quaedam est puta in summo: &amp; ista non suscipit magis 
+      <lb ed="#P" n="12"/>&amp; minus. Caliditas est pura quae nihil contrarii habet: quae est in summo non amplius naturaliter 
+      inten<lb ed="#P" n="13" break="no"/>sibilis. Item quid prohibet de sanitate quae definita bonitate existit quod suscipiat magis &amp; minus: non enim 
+      <lb ed="#P" n="14"/>est in omnibus eadem temperatio siue mensura humorum, nec vna semper in eodem animali: sed cum sa 
+      <lb ed="#P" n="15"/>nitas remittitur permanet ad aliquem limitem vsque sub quo erit aegritudo: quia sub illo limite erit humo 
+      <lb ed="#P" n="16"/>rum disproportio: Et sic inter sanum aegrumque non est dare medium: &amp; per consequens sunt contraria 
+      im<lb ed="#P" n="17" break="no"/>mediata. Qui neutralitatem ponunt, vt Galenus ab hoc solum verbaliter differunt. Latitudo proinde 
+      sa<lb ed="#P" n="18" break="no"/>nitatis est partibilis &amp; vnus alio incolumior proinde &amp; aegrior: &amp; qui est in puncto sanitatis mathematico 
+      <lb ed="#P" n="19"/>est sanissimus. Tale quid erit in ipsa voluptate. Carptim dicere intendit: no sequitur. Voluptas suscipit ma 
+      <lb ed="#P" n="20"/>gis &amp; minus: proinde non est quid determinatum &amp; bonum sicut iam ostensum est de sanitate quae est 
+      de<lb ed="#P" n="21" break="no"/>terminate bona, licet remittatur intendatur ve. 
+    </p>
+            <p xml:id="JMAet9-d40026-d1e188">
+               <lb ed="#P" n="22"/>⁋ Sequitur in litera. Praeterea summum quidam bonum. Aliqui dixerunt voluptatem non esse bonum: quia est motio 
+      <lb ed="#P" n="23"/>vel generatio contrariorum: neutrum autem est per se bonum. Probat autem voluptatem non esse motum. vnde 
+      <lb ed="#P" n="24"/>est tertia conclusio. Voluptas non est motus. quod sic ostenditur. Omnis motio est celeris pigrave: At 
+      volu<lb ed="#P" n="25" break="no"/>ptas non est huiusmodi igitur. Maiorem explanat sic, Celeritas &amp; tarditas non conueniunt motui 
+      secun<lb ed="#P" n="26" break="no"/>dum seipsum hoc est absolute sed per respectum ad aliud: sicut motus diurnus quo totum coelum 
+      torque<lb ed="#P" n="27" break="no"/>tur dicitur per relationem ad alias motiones, impiger quia paruo tempore multum intercapedinis 
+      confi<lb ed="#P" n="28" break="no"/>cit, sexto physicorum: Pigrum vero tali temporis fluxu paruum interstitium metitur, vt punctus in 
+      mi<lb ed="#P" n="29" break="no"/>nore vrsa tardius quam alter in aequatore mouetur licet aequaliter secum circumgiratur. At multum &amp; 
+      pau<lb ed="#P" n="30" break="no"/>cum dicuntur ad aliquid, vt ex praedicamentis liquet. Verum neutrum horum competit voluptati hoc est. 
+      <lb ed="#P" n="31"/>Neque celeritas neque tarditas voluptati conuenit: nec eius duratio breui tempestate aut longo mensuratur: 
+      <lb ed="#P" n="32"/>fieri tamen potest vt quispiam subito voluptate sit constitutus: sicut &amp; ita, non fit autem vt velociter 
+      delecte<lb ed="#P" n="33" break="no"/>tur neque ad se neque ad alium. Sed plane fit vt quis impigre ambulet atque adolescat: &amp; caetera id genus. Non 
+      <lb ed="#P" n="34"/>tamen inficiandum est quempiam posse disponi vt pigre impigre ve ad voluptatem perueniat. sed non fit 
+      <lb ed="#P" n="35"/>vt voluptate celeriter operetur hoc est vt subito delectetur. Vult dicere quod motus quo ad voluptatem 
+      per<lb ed="#P" n="36" break="no"/>uenitur potest esse volucer aut tardus, tamen non est dicendum aliquem velociter delectari quia delectari 
+      <lb ed="#P" n="37"/>non est in fieri sed in facto esse. deinde probat voluptatem non esse generationem.
+    </p>
+            <p xml:id="JMAet9-d40026-d1e225">
+               <pc type="pilcrow">¶</pc> Quarta conclusio volu 
+      <lb ed="#P" n="38"/>ptas non est generatio. Bifariam haec ostenditur, Primo sic. Non quodlibet generatur ex quolibet, sed 
+      de<lb ed="#P" n="39" break="no"/>terminatum ex determinato. primo physicorum: &amp; in illud resoluitur ex quo generatur, At hoc in volupta 
+      <lb ed="#P" n="40"/>te non contingit, non enim est ex definito in definitum: quia non est motus. Secundo sic. Si voluptas sit 
+      <lb ed="#P" n="41"/>generatio: dolor erit corruptio. VPer locum a contrariis) sed consequens est falsum: ergo &amp; antecedens. Si enim 
+      <lb ed="#P" n="42"/>dolor esset corruptio: quodcunque tristaretur corrumperetur. Sed quia Platonici hoc concesserunt dicentes 
+      <lb ed="#P" n="43"/>voluptatem esse repletionem, &amp; dolorem defectum.
+    </p>
+            <p xml:id="JMAet9-d40026-d1e245">
+               <pc type="pilcrow">¶</pc> Contra hoc ponit conclusionem &amp; est in ordine 
+      <lb ed="#P" n="44"/>quinta quae talis est. Dolor non est indigentia eius quod est secundum naturam. Neque voluptas est repletio 
+      <lb ed="#P" n="45"/>naturalis. Haec conclusio potest bifariam intelligi. Primo sic. Platonici dixerunt alimentum replens 
+      sto<lb ed="#P" n="46" break="no"/>machum &amp; venas esse voluptatem: &amp; dum corpus est exinanitum indigentia alimenti est dolor. Hoc 
+      re<lb ed="#P" n="47" break="no"/>fellit inquiens. Hi autem affectus corporis sunt: ergo corpus vel anima sensitiua seclusa capit voluptatem. 
+      <lb ed="#P" n="48"/>Repletio &amp; vacuitas animatis &amp; inanimatis mixta conuenit. Alimentum coniungitur arbori: ergo in ea 
+      <lb ed="#P" n="49"/>est repletio: &amp; per consequens voluptas: &amp; dolor per substractionem alimenti necessarii. Consequens est 
+      fal<lb ed="#P" n="50" break="no"/>sum, ac non videtur: puta non est ita. Secundo sic. Dixerunt Platonici quando alimenti conuenientis est 
+      <lb ed="#P" n="51"/>repletio efficitur voluptas corporea, &amp; aliter non habetur: &amp; quando corpus exhauritur generatur dolor: 
+      <lb ed="#P" n="52"/>quia subtractio obiecti conuenientis dolorem generat: &amp; eius applicatio voluptatem. Ordino literam. 
+      Di<lb ed="#P" n="53" break="no"/>cant ergo platonici esse indigentiam eius quod est secundum naturam. hoc est esculenti poculentique aut  
+      <lb ed="#P" n="54"/>alterius rei conuenientis: &amp; aiunt voluptatem esse repletionem, hoc est quod quando est repletio generatur 
+      <lb ed="#P" n="55"/>voluptas solum in corpore hoc est in aggregato corporis &amp; animae. Insto, ex isto sequitur quod corpus 
+      ca<lb ed="#P" n="56" break="no"/>ptet voluptatem &amp; non erit voluptas sine corporis repletione: nec repletio nisi supplendo defectum 
+      exi<lb ed="#P" n="57" break="no"/>nanitionis. At non videtur, id est non est ita. Non est ergo voluptas repletio corporis. Verum dum fit 
+      re<lb ed="#P" n="58" break="no"/>pletio voluptate quispiam afficitur. Hoc est ille affectus procreatur: &amp; dum corpus secatur generatur dolor. 
+      <lb ed="#P" n="59"/>Ex hoc intelligitur quod generatur voluptas &amp; dolor in anima subiectiue: quia de voluptate &amp; dolore 
+      spiri<lb ed="#P" n="60" break="no"/>tuali hic loquitur. Non tamen est negandum quin voluptas corporalis &amp; extensa generatur quando 
+      cor<lb ed="#P" n="61" break="no"/>pus fame affectum reficitur. Et rursus ex inedia dolor generatur corporalis: ego habetur voluptas aliqua 
+      <lb ed="#P" n="62"/>non corporalis pariter &amp; dolor. Alii volunt dicere voluptatem doloremque sic vniuersaliter generari, quod  
+      <lb ed="#P" n="63"/>post hac lucide refellit. Deinde monstrat vnde haec opinio ortum duxit inquiens. Opinatio haec ex doloribus &amp; vo 
+      <lb ed="#P" n="64"/>luptatibus circa alimentum, originem traxit: quia inaniores statim &amp; antea dolore partenti ipsa repletione voluptatem 
+      <!--331.xml-->
+      <pb ed="#P" n="155-v"/>
+               <lb ed="#P" n="1"/>sumimus: at illud non contingit circa omnes voluptates. Mathematicae enim voluptates &amp; speculatiuae sunt 
+      <lb ed="#P" n="2"/>sine dolore praeuio. Mathematicae autem artes hoc versiculo deprehenduntur. Mu, canit. ar, munerat, ge pon 
+      <lb ed="#P" n="3"/>derat, est colit astra. Et ea quae per olfactum capiuntur vt odorando flores, vnguentaque: per auditum audien 
+      <lb ed="#P" n="4"/>do melodiam &amp; cimbalum bene sonans videndo aulea, tapeta, flores, faciem humanam &amp; species 
+      complu<lb ed="#P" n="5" break="no"/>res. Sperando consequi dignitates mundanas aut caelum. Et recordationes an actorum voluptate afficiunt. 
+      <lb ed="#P" n="6"/>Sed cuius hae generationes &amp; cuius repletiones erunt: nullius enim rei antecesserunt indigentiae: &amp; cuius 
+      <lb ed="#P" n="7"/>generatio est voluptas eius corruptio est dolor. Ex his colligitur quod voluptas non est vniuersaliter repletio, 
+      <lb ed="#P" n="8"/>quia multae sunt voluptates absque defectu praeuio, at nulla repletio est absque defectu praecedenti. 
+    </p>
+            <p xml:id="JMAet9-d40026-d1e318">
+               <lb ed="#P" n="9"/>⁋ Sexta conclusio. Facile respondebitur asserentibus voluptates obscoenas esse, &amp; iccirco concludentibus 
+      <lb ed="#P" n="10"/>voluptatem esse malum. Trifatiam autem his respondebitur. Primo dicemus voluptates obscoenas non 
+      <lb ed="#P" n="11"/>esse voluptates simpliciter, quia non sunt voluptates foedae nisi prauis. Et non sequitur, sunt voluptates 
+      <lb ed="#P" n="12"/>malae dispositis: ergo sunt voluptates. Proceditur enim a dicto secundum quid ad dictum simpliciter. Sicut 
+      <lb ed="#P" n="13"/>in simili non sequitur: hoc videtur dulce amarum ve aegroto: igitur est vere tale. Nec sequitur: hoc videtur 
+      <lb ed="#P" n="14"/>candidum lippo hallucinanti: ergo hoc est candidum, Qui habet opthalmiam ei humor putreus &amp; subalbus 
+      <lb ed="#P" n="15"/>circa pupillam oculi emittitur: iccirco lippus ophtalmia infectus non alba censet alba: Sic malus habet ocu 
+      <lb ed="#P" n="16"/>lum mentis infectum &amp; perperam de voluptate iudicat. Lippus oculos lachrymantes habet. dum frons ti 
+      <lb ed="#P" n="17"/>bi prutit, timor lippitudinis est. Plinius in naturali historia libro vigesimoquarto negat eos lippire ac ocu 
+      <lb ed="#P" n="18"/>lorum vitia contrahere, qui dum pedes lauant ex ea aqua ter oculos tangant. Ipse lotium recenter emissum 
+      <lb ed="#P" n="19"/>oculis applico. Illa enim sunt absolute iucunda, quae probis videntur talia. Haec illatio est bona: hoc vide 
+      <lb ed="#P" n="20"/>tur probis iucundum: ergo hoc est vere iucundum. Illic enim a parte in modo ad suum totum 
+      affirmati<lb ed="#P" n="21" break="no"/>ue sine distributione proceditur. Secundo soluit inquiens vel hoc modo dicatur: voluptates indifferenter 
+      <lb ed="#P" n="22"/>sunt bonae: non tamen quibuscunque. Voluptates venereae sunt bonae inter coniugatos, quando actus 
+      coniu<lb ed="#P" n="23" break="no"/>gii licite fit causa generandae prolis vel sanitatis corporis aut animae, aut causa reddendi debiti, aut causa con 
+      <lb ed="#P" n="24"/>seruandae vxoris, &amp; sui ab adulterio. Etiam non sunt vnquam malae belluis, quemadmodum in simili 
+      locuple<lb ed="#P" n="25" break="no"/>tem esse est bonum simpliciter sed non proditori patriae, quia per fortunas plus natiuo solo incommodare 
+      <lb ed="#P" n="26"/>potest. Aliud exemplum. Incolumen esse est bonum, sed non quodcunque edendo, puta mandendo 
+      homi<lb ed="#P" n="27" break="no"/>nem vel eum occidendo vt sanus fias. Sicut dicitur de Constantino magno primo Romanorum 
+      Impe<lb ed="#P" n="28" break="no"/>ratorum qui verae pietatis cultum suscepit, Vel sic Socratem esse sanum est bonum, non tamen quocunque 
+      <lb ed="#P" n="29"/>modo sanitatem acquirendo per fornicationem aut adulterium.
+    </p>
+            <p xml:id="JMAet9-d40026-d1e366">
+               <pc type="pilcrow">¶</pc> Tertio soluit hoc pacto, omnes 
+      volupta<lb ed="#P" n="30" break="no"/>tes talis speciei sunt bonae: voluptates ab honestis &amp; foedis prodeuntes specie differunt. Patet. Ab obiectis 
+      <lb ed="#P" n="31"/>specie differentibus hae voluptates prodeunt: studiosus honestis solum gaudet, improbus obscoenis. Quatuor 
+      <lb ed="#P" n="32"/>viis hoc probat prima. Musicus aliam voluptatem in melodia capit quam non musicus. Neque enim fit vt quis 
+      <lb ed="#P" n="33"/>iusti voluptatem capiat qui idem iustus non sit: quemadmodum neque musici qui non est musicus &amp; ita in  
+      <lb ed="#P" n="34"/>talibus. Hoc videtur monstrare ipse amicus &amp; assentator, cum amicus alius sit ab assentatore? Amicus enim ad 
+      <lb ed="#P" n="35"/>bonum congreditur, quia ob pacem &amp; tranquillitatem cum alio congreditur. Adulator autem ad volupta 
+      <lb ed="#P" n="36"/>tem, hoc est quaerit placere: sed adulatorem criminantur, omnes amicum vero laudant, velut ad diuersum 
+      con<lb ed="#P" n="37" break="no"/>gredientem. Et per consequens hae voluptates in specie differunt. Secundo nullus optat ita viuere, vt 
+      inte<lb ed="#P" n="38" break="no"/>gro vitae curriculo puerilem mentem habeat. Quuis enim pueri multis voluptatibus defluant, &amp; ex his re 
+      <lb ed="#P" n="39"/>bus capiant voluptatem quibus pueros maxime delectamina capere arbitrantur. Vis rationis iacet in hoc 
+      <lb ed="#P" n="40"/>quod nullus quaerit voluptates puerorum licet illa delectamina fint magna, &amp; plerique voluptatem quaerunt: 
+      <lb ed="#P" n="41"/>proinde voluptates specie differunt. Pueri maxime oblectamenta habent, &amp; tamen ille esset mentis inops 
+      <lb ed="#P" n="42"/>qui pueri mentem tota in vita expeteret semper capiendo voluptatem in his quae pueri oblectamenta 
+      <lb ed="#P" n="43"/>capiunt. Quarto nemo item appeteret foedissima agendo semper gaudere nullum vnquam dolorem 
+      habitu<lb ed="#P" n="44" break="no"/>rus: igitur voluptates specie differunt. 
+    </p>
+            <p xml:id="JMAet9-d40026-d1e404">
+               <lb ed="#P" n="45"/>⁋ Vltima conclusio huius capitis est haec. Non omne ob voluptatem est eligibile. Hoc manifeste reuelat in  
+      <lb ed="#P" n="46"/>litera quae perspicua est. Compluribus insudamus rebus etiam si nullam voluptatem afferunt. Damus enim 
+      <lb ed="#P" n="47"/>operam vt videamus regem, mononachiam, meminerimus, sciamus, virtutesque nobis paremus. Neque refert 
+      <lb ed="#P" n="48"/>quicquam quod his voluptas non est annexa: expetimus videre vt cum recolligamus: per exteriores sensus 
+      mul<lb ed="#P" n="49" break="no"/>ta addiscimus. Cupimus etiam anteacta penosa reuocare in mentem, horum olim meminisse iuuabit. Haec 
+      <lb ed="#P" n="50"/>expetimus etiam si ex eis nulla esset prouentura voluptas. Deinde epilogat inquiens. Ex praedictis 
+      perspi<lb ed="#P" n="51" break="no"/>cuum est quod voluptas non est per se bonum &amp; summum: &amp; non omnem voluptatem esse expetibilem: Sed 
+      ali<lb ed="#P" n="52" break="no"/>quae sunt voluptates per se expetibiles: cum quo dicto alludit psalmographus inquiens, Torrente 
+      volupta<lb ed="#P" n="53" break="no"/>tis tuae potabis eos, differentes specie ab aliis aut saltem ea specie differunt a quibus proueniunt. Verum de 
+      <lb ed="#P" n="54"/>voluptate doloreque quae a praedecessoribus nostris traduntur tanta esse dicta sufficiat. 
+    </p>
+            <p xml:id="JMAet9-d40026-d1e428">
+               <lb ed="#P" n="55"/>⁋ Circa hoc caput aliqua dubia occurrunt primo: in hac illatione, Voluptas non est qualitas ergo non est 
+      <lb ed="#P" n="56"/>bonum, proceditur a superiore ad inferius negatiue cum superioris distributione. Secundo videtur 
+      vo<lb ed="#P" n="57" break="no"/>luptas esse qualitas, quia quaeritur in quo alio praedicamento ponatur. Item foelicitas est qualitas si enim 
+      <lb ed="#P" n="58"/>quaeratur, qualis est Ioannes euangelista: apte respondetur felix in etherea sede. Respondetur primo: aliqui 
+      <lb ed="#P" n="59"/>dicunt Aristotelem loqui secundum Platonis sententiam, &amp; ad hominem argumentari, non ex sua 
+      <lb ed="#P" n="60"/>opinione. Hoc autem mihi non placet. Secundum realium principia qui res multiplicant, 
+      quemad<lb ed="#P" n="61" break="no"/>modum multi priscorum fecerunt, duplex est delectatio: quaedam est de genere actionis. vt illa quae est 
+      pro<lb ed="#P" n="62" break="no"/>ductiua delectationis perfectae, quae consistit in perfecta operatione virtutis: &amp; quaedam est de genere 
+      qualita<lb ed="#P" n="63" break="no"/>tis, vt illa quae est tota perficiens perfectissimam virtutis operationem. Et ista est de genere qualitatis. Sic foe 
+      <lb ed="#P" n="64"/>licitas, vno modo est finis vltimi aeductio humanorum actuum: &amp; haec productio est de genere actionis. Alio mon est 
+      <!--332.xml-->
+      <pb ed="#P" n="156-r"/>
+               <lb ed="#P" n="1"/>finis vltimus &amp; sic est de genere qualitatis. Aliter dico res non multiplicando. Haec realium secta ab vrbe 
+      <lb ed="#P" n="2"/>parisia exulat. Dico quod omnis res mundi est qualitas primae intentionaliter. De partibili patet: est enim suae 
+      <lb ed="#P" n="3"/>partes, ergo paritas imparitas ve De impartibilibus ostenditur: deus est iustus &amp; sua iustitia. Anima intelle 
+      <lb ed="#P" n="4"/>ctiua &amp; angelus est liberum &amp; sua libertas: &amp; sic qualitas. Item quaelibet res mundi est naturalis potentia aut  
+      <lb ed="#P" n="5"/>impotentia: ergo &amp; qualitas. Verum qualitas secundae intentionaliter solum supponit pro dicibilibus in 
+      prae<lb ed="#P" n="6" break="no"/>dicamento qualitatis ponibilibus. Capiatur loco vocabuli voluptas delectatio sicut vetus tralatio: aut 
+      acti<lb ed="#P" n="7" break="no"/>ua passiua ve vocabula modo illa sunt de praedicamento actionis aut passionis sicut alia verbalia in iotermi 
+      <lb ed="#P" n="8"/>nata, vt calefactio est in praedicamento actionis vel passionis: calidum vel caliditas in praedicamento 
+      quali<lb ed="#P" n="9" break="no"/>tatis: &amp; sic operationes virtutum vt iustifico temperanter ago, &amp; foelicitas in actione &amp; non in habitu 
+      con<lb ed="#P" n="10" break="no"/>sistit: &amp; si vocabula delectationem, consequenter ad graecum caperetur, ita foret: voluptas a voluo dicitur quae 
+      <lb ed="#P" n="11"/>animum demulcet &amp; actionem importat. Aliter dicitur quod licet notio bonum ponatur in 
+      praedicamen<lb ed="#P" n="12" break="no"/>to qualitatis sicut species eius, tamen diuiditur in hos ramos, bonum vtile, bonum voluptabile, &amp; bonum 
+      <lb ed="#P" n="13"/>honestum: non tanquam genus in suas species, sed tanquam totum in modo in suas partes. Sicut homo in 
+      homi<lb ed="#P" n="14" break="no"/>nem album &amp; nigrum: quod patet quia dictio vtile est in praedicamento ad aliquid, &amp; relatiue ad aliud 
+      di<lb ed="#P" n="15" break="no"/>citur: &amp; sic non sequitur voluptas vel a non est qualitas, secundae intentionaliter capiendo vocabulum 
+      qua<lb ed="#P" n="16" break="no"/>litas, ergo non est bonum capiendo bonum in toto suo ambitu. Vtile non est qualitas &amp; tamen vtile est bo 
+      <lb ed="#P" n="17"/>num. Et sic haec ratiocinatio est nulla in prima conclusione huius capitis Si loco notionis voluptas, 
+      voca<lb ed="#P" n="18" break="no"/>bulum actionem passionem ve importans capiatur. Eius prior solutio est lucida, vt delectatio dictio 
+      lati<lb ed="#P" n="19" break="no"/>na qua Cicero libro quarto Tuscu. vtitur. Illic dicit delectatio est voluptas suauitate auditus animum leniens. 
+      <lb ed="#P" n="20"/>Et qualis est haec aurium tales sunt oculorum &amp; tactuum &amp; odorationum &amp; saporum quae sunt omnes 
+      <lb ed="#P" n="21"/>vnius generis ad perfundendum animum tanquam illiquefactae voluptates. 
+    </p>
+            <p xml:id="JMAet9-d40026-d1e502">
+               <lb ed="#P" n="22"/>⁋ Secudo dubitatur an voluptas sit motus
+    </p>
+            <p xml:id="JMAet9-d40026-d1e508">
+               <pc type="pilcrow">¶</pc> Tertio an omnis voluptas obscoena ab honesta specie discer 
+      <lb ed="#P" n="23"/>nitur.
+    </p>
+            <p xml:id="JMAet9-d40026-d1e516">
+               <pc type="pilcrow">¶</pc> Quarto an voluptas sit generatio.
+    </p>
+            <p xml:id="JMAet9-d40026-d1e522">
+               <pc type="pilcrow">¶</pc> Ad secundum dicitur quod motus proprie dictus vt qualitati 
+      <lb ed="#P" n="24"/>intensibili conuenit, est forma imperfecta ad perfectionem continuo tendens, vt caliditas cuius vna pars 
+      <lb ed="#P" n="25"/>est acquisita &amp; reliqua in continua accessione. Motus pro tali supponit connotando vnam partem existe 
+      <lb ed="#P" n="26"/>re &amp; reliquas in continua productione esse. Conformiter ad philosophum tertio physicorum dicentem. Mo 
+      <lb ed="#P" n="27"/>tus est actus entis in potentia secundum quod in potentia. hoc supposito dicitur si voluptas subito fiat ipsa 
+      <lb ed="#P" n="28"/>non est motus. At de eius volucri product one capite sequenti futurus est sermo.
+    </p>
+            <p xml:id="JMAet9-d40026-d1e539">
+               <pc type="pilcrow">¶</pc> Ad tertium negatiue 
+      <lb ed="#P" n="29"/>respondetur. Voluptas enim in venereis non distinguitur a voluptate tempore connubii, nec ipsae causae, 
+      <lb ed="#P" n="30"/>vt volo cognoscere hanc demonstrando eam solutam &amp; coniunctam: hic autem in causa non est distinctio 
+      <lb ed="#P" n="31"/>in genere naturae est tamen distinctio in genere moris &amp; vicii &amp; hoc satis est pro philosopho. 
+    </p>
+            <p xml:id="JMAet9-d40026-d1e551">
+               <lb ed="#P" n="32"/>⁋ Ad quartam dubitationem respondetur quod motus interdum est genus generationis vt patet in post 
+      <lb ed="#P" n="33"/>praedicamentis: vbi generatio inter sex motionum species numeratur. Alio modo capitur motus vt est 
+      <lb ed="#P" n="34"/>inter terminos positiuos. Generatio &amp; corruptio sunt inter terminum positiuum &amp; priuatiuum vt habe 
+      <lb ed="#P" n="35"/>tur quinto physicorum. At dum voluptas potest fieri sine dolore praeuio, vt in literali expositione retuli 
+      <lb ed="#P" n="36"/>mus: tunc voluptatis non est motus nec generatio: quia de ratione generationis proprie dictae est sicut 
+      <lb ed="#P" n="37"/>philosophus saepe capit, idem cum motu quod successiue fiat vt calor partibiliter productus toto tempore 
+      pro<lb ed="#P" n="38" break="no"/>ductionis est caliditatis generatio. Transmutatio instantanea non est generatio: illa enim nihil aliud est quam 
+      <lb ed="#P" n="39"/>res ipsa quae subito procreatur vt visio, lumen, anima intellectiua partis immunis: &amp; quia voluptas instan 
+      <lb ed="#P" n="40"/>tanee producitur non est generatio sicut nec motus 
+    </p>
+            <p xml:id="JMAet9-d40026-d1e573">
+               <lb ed="#P" n="41"/>⁋ Quintodubitatur. Ego musicam diligo qui cantionis sum expers, &amp; latro iustitiam diligit. 
+      Responde<lb ed="#P" n="42" break="no"/>tur quod nemo hasce artes vehementer &amp; flagranter diligit qui earum est immunis vt de philosopho aiutem: 
+      <lb ed="#P" n="43"/>amator sapientiae conuertitur cum philosopho, ergo philosophiae inops non amat philosophiam vel non 
+      <lb ed="#P" n="44"/>omnis philosophiam amans est philosophus.
+    </p>
+            <p xml:id="JMAet9-d40026-d1e585">
+               <pc type="pilcrow">¶</pc> Dubitatur quare dicit nos expetere futura praeterita &amp; cae 
+      <lb ed="#P" n="45"/>tera. Aliqui de remotis oris hispaniae venerunt in Italiam videre Titum Liuium, vt Hieronymus ad Pau 
+      <lb ed="#P" n="46"/>linum ex Plinio depromens dicit. Regem &amp; monomachiam fortium videre expetimus vt meminerimus. 
+      <lb ed="#P" n="47"/>Patet de peccatis nostris retroactis denudare confessatio &amp; de laboribus a nobis exantlatis. Affectimus sci 
+      <lb ed="#P" n="48"/>re futura vt mortem nostram &amp; amicorum fortunam, licet nulla sequeretur voluptas, sed videtur quod volu 
+      <lb ed="#P" n="49"/>ptates pueriles quaerimus, Socrates enim arundinem inter tibias ponens nter peruellos equitarat.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

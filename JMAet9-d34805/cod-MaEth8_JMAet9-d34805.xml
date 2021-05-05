@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 9</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 9</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d34805"><!-- mair-l8c9 -->
+            <head xml:id="JMAet9-d34805-Hd1e103">Caput 9</head>
+            <p xml:id="JMAet9-d34805-d1e106">
+               <lb ed="#P" n="15"/>
+               <quote xml:id="JMAet9-d34805-Qd1e110" type="lemma">VIdetur autem amicitia</quote> &amp;c. Superius enodauit terminos amicitiae qui in excellentia consistunt, 
+      <lb ed="#P" n="16"/>&amp; quomodo amare &amp; amari se habent ad amicitiam, &amp; nonnullas obiectiones obiter occurrentes 
+      <lb ed="#P" n="17"/>soluit, nunc vero in hoc tertio capite secundi tractatus explanat quonam pacto amicitia in 
+      socie<lb ed="#P" n="18" break="no"/>tate permaneat, &amp; hoc in capitis anteriori parte facit. In posteriori declarat omnes societates esse 
+      si<lb ed="#P" n="19" break="no"/>miles societati ciuili, &amp; ad illam redigi tamquam partes ad totum. Et primum dicit sic. Omnis amicitia in  
+      <lb ed="#P" n="20"/>quadam communicatione consistit. Hoc trifatiam probat: Primo sic. Circa eadem est iustitia &amp; amicitia: 
+      <lb ed="#P" n="21"/>sed omnis iustitia consistit in quadam communicatione, igitur. Maior ex superius annotatis in principio 
+      <lb ed="#P" n="22"/>huius octaui patuit, &amp; minor patet ex quinto huius cum omnis iustitia sit ad alterum. 
+      Secundo<lb ed="#P" n="23" break="no"/>probat hoc idem ex vsu loquendi inductiue. Qui simul nauigant appellant amicos &amp; commilitones &amp; 
+      <lb ed="#P" n="24"/>caeteros simul socios. Atque quatenus communicant eatenus est amicitia, &amp; pariter iustum. Eodem modo 
+      con<lb ed="#P" n="25" break="no"/>militones qui simul militiam excercent. Miles proprie est ille qui pedes pugnat. Scholastici tyrocinium 
+      <lb ed="#P" n="26"/>in literario ludo simul excercentes commilitones siue contyrones appellantur, vnde fit vt late differant 
+      <lb ed="#P" n="27"/>milites &amp; equites aurati. Et sic nos in hoc plurimum hallucinamur vnos pro alteris ponentes. Tertio, 
+      <lb ed="#P" n="28"/>hoc per deuerbium vulgare probat Amicorum omnia sunt communia: ergo amicitia in communicatione 
+      <lb ed="#P" n="29"/>&amp; societate existit.
+    </p>
+            <p xml:id="JMAet9-d34805-d1e144">
+               <pc type="pilcrow">¶</pc> Atque fratribus &amp;c. Hic ponitur secunda conclusio in qua praetendit philosophus quod 
+      <lb ed="#P" n="30"/>communicantum amicitiae variantur quemadmodum &amp; iusta. Hocque exemplariter detegit in litera inquiens: 
+      <lb ed="#P" n="31"/>Atque fratribus quidem sodalibusque cuncta sunt communia. Sodales dicti sunt quasi simul edales. Caeteris 
+      <lb ed="#P" n="32"/>autem sunt definita, hoc est bona determinata. Et sic sunt aliquae amicitiae maiores, aliae vero minores. 
+    </p>
+            <p xml:id="JMAet9-d34805-d1e156">
+               <lb ed="#P" n="33"/>⁋ Sequitur tertia conclusio. Differunt autem &amp; iusta. Vult dicere quod sicut amicitiae differunt secundum 
+      diuer<lb ed="#P" n="34" break="no"/>sas communicationes, ita iustitia secundum diuersas communicationes diuersificatur. Hanc conclusionem 
+      exen<lb ed="#P" n="35" break="no"/>plariter demonstrat. Litera autem est clara.
+    </p>
+            <p xml:id="JMAet9-d34805-d1e165">
+               <pc type="pilcrow">¶</pc> Sequitur quarta conclusio. Et incrementa suscipiunt. 
+      Di<lb ed="#P" n="36" break="no"/>cit quod iustitia &amp; iniustitia augmentantur &amp; attenuantur per comparationem ad magis &amp; minus amicos, 
+      <lb ed="#P" n="37"/>&amp; ita diuersificantur secundum diuersitatem amicitiae. Est enim grauius sodali quam ciui pecuniam auferre: &amp; 
+      <lb ed="#P" n="38"/>ita de similibus, ascendendo ad magis coniunctas. Et hoc intellige caeteris paribus. Crescit itaque iustum 
+      <lb ed="#P" n="39"/>cum amicitia simul, quippe cum sint in eisdem &amp; aequaliter ad eadem sese porrigant.
+    </p>
+            <p xml:id="JMAet9-d34805-d1e180">
+               <pc type="pilcrow">¶</pc> Sequitur quinta 
+      <lb ed="#P" n="40"/>conclusio. At vero societates omnes. Haec est secunda pars principalis huius capitis in qua philosophus 
+      <lb ed="#P" n="41"/>comparat omnes alias communicationes a communicatione politica, ad communicationem politicam, quia 
+      <lb ed="#P" n="42"/>omnis alia communicatio est ob vtile particulare: communicatio vero politica ob commodum commune. 
+      Di<lb ed="#P" n="43" break="no"/>cit ergo litera. At vero societates omnes similes sunt partibus societatis ciuilis, hoc est politicae. Nam 
+      <lb ed="#P" n="44"/>ob vtilitatem aliquam homines societatis ineunt, quibusque aliqua consequuntur quae ad vitam coducunt. 
+      <lb ed="#P" n="45"/>Propter enim aliquam vtilitatem communem videntur aues a principio simul convenisse: &amp; propter 
+      vtili<lb ed="#P" n="46" break="no"/>tatem perseuerare in communicatione. Et hoc legumlatores coniectant, &amp; iustum id esse inquiunt quod publicum 
+      <lb ed="#P" n="47"/>affert commodum. Sunt igitur caeterae communitates suis partibus similes. Caeterae enim societates per partes 
+      <lb ed="#P" n="48"/>vtilitatem quaerunt vt de nautis &amp; commilitonibus exemplificat. Et eodem modo se habent contribules 
+      <lb ed="#P" n="49"/>&amp; populares. Contribules sunt eiusdem tribus, &amp; populares eiusdem populi.
+    </p>
+            <p xml:id="JMAet9-d34805-d1e207">
+               <pc type="pilcrow">¶</pc> Sequitur sexta conclusio 
+      <lb ed="#P" n="50"/>siue solutio dubii. Nonnullae autem societatis gratia voluptatis constare videntur, vt eorum qui simul 
+      cho<lb ed="#P" n="51" break="no"/>ros ducunt siue choreas: &amp; sic cum saltu secundum illud Maronianum. Pars pedibus plaudunt, choreas &amp; 
+      car<lb ed="#P" n="52" break="no"/>mina dicunt. litera est intellectu facilis. Extendit vtile ad vtile proprie dictum &amp; ad delectabile.
+    </p>
+            <p xml:id="JMAet9-d34805-d1e219">
+      
+      Se<lb ed="#P" n="53" break="no"/>quitur vltima conclusio. Omnes autem hae sub ciuili societate esse videntur. Quae sic probatur. Omnis 
+      <lb ed="#P" n="54"/>communicatio quae est ob conferens particulare est sub illa communicatione quae est ob conferens commune: 
+      <lb ed="#P" n="55"/>sicut enim particulare est sub communi, ita communicatio ob bonum particulare est sub communicatione 
+      <lb ed="#P" n="56"/>quae est propter bonum commune: sed omnis communicatio alia a communicatione politica est ptopter 
+      ali<lb ed="#P" n="57" break="no"/>quod particulare bonum. &amp; patet ex communicatione connauigantum, commilitonum, &amp; caeterorum: &amp; 
+      communi<lb ed="#P" n="58" break="no"/>catio politica est propter bonum commune. igitur. Maior huius rationis cum priore parte minoris lucent. 
+      <lb ed="#P" n="59"/>Propterea philosophus circa secundam partem minorum insistit, quae est quod communicatio politica est ob bonum 
+      <lb ed="#P" n="60"/>commune. Vnde dicit quod communicatio politica non intendit aliquod bonum particulare &amp; praesens, sed  
+      <!--287.xml-->
+      <pb ed="#P" n="133-v"/>
+               <lb ed="#P" n="1"/>nengociatur circa id quod est vtile pertotam vitam. Et hoc ex industria ostendit circa communicationens 
+      <lb ed="#P" n="2"/>delectabilium &amp; maxime in sacrificiis, hoc est in libaminibus superum, de quibus minus videtur: &amp; si illud 
+      <lb ed="#P" n="3"/>quod minus videtur inesse insit, &amp; illud quod magis videtur inesse inerit: cum de sacrificiis loquutus diict. 
+      <lb ed="#P" n="4"/>Vetusta namque sacrificia conventusque post frugum fieri perceptionem, vt primitiae videntur. Primitiae sunt 
+      pri<lb ed="#P" n="5" break="no"/>mi fructus ex agro collecti. Fruges enim dicuntur omnia quae ex fructu terrae in alimoniam couerti 
+      pos<lb ed="#P" n="6" break="no"/>sunt. Hoc eim tempore maxime ocio indulgebant: quia post autumni graues labores vt collectos fructus 
+      <lb ed="#P" n="7"/>par erat animos &amp; corpora recreare &amp; gratias agere superis. Non Cereri &amp; Baccho, qui circa fruges &amp; 
+      <lb ed="#P" n="8"/>vinum fuerant industrii, sed omnipotenti deo. Concludendo dicit. Societates igitur vniuersae partes societatis 
+      <lb ed="#P" n="9"/>ciuilis esse videntur. Hoc est omnes aliae communicationes particulares sub politica continentur, sicut quaedam 
+      <lb ed="#P" n="10"/>partes eius, quia omnes aliae communicationes ad particularia commoda, politica autem ad commodum commune 
+      <lb ed="#P" n="11"/>ordinatur. Et quia amicitia est in cemmunicatione oportet quod distinctio amicitiae seu amicorum attendatur 
+      <lb ed="#P" n="12"/>secundum communicationem politicam, &amp; ex qualitatibus communicationum qualificentur amicitiae communicantum. 
+    </p>
+            <p xml:id="JMAet9-d34805-d1e269">
+               <lb ed="#P" n="13"/>⁋ Dubitatur, an verum sit illud deuerbium, quod Aristoteles in litera approbare videtur. Amicorum omnia 
+      <lb ed="#P" n="14"/>bona sunt communia Respondetur, quod est verum.
+    </p>
+            <p xml:id="JMAet9-d34805-d1e276">
+               <pc type="pilcrow">¶</pc> Contra, hoc est cotra eius doctrinam secundo Politicorum. 
+      <lb ed="#P" n="15"/>vbi politiam Socratis &amp; Platonis in hoc reprehendit. Respondetur, illud est reprehendendum in communitate 
+      <lb ed="#P" n="16"/>tota aut in magna: non autem inter paucos, vtpote inter amicos qui pauci solent esse. Et sicut in 
+      reli<lb ed="#P" n="17" break="no"/>gionibus, in quibus omnia in communi habentur. Vt in principio nascentis ecclesiae Actuum. . 
+      Abstinen<lb ed="#P" n="18" break="no"/>tia a carnibus perennis potest fieri in parua communitate, vt in Carthusiensibus, Benedictinis, aut in  
+      <lb ed="#P" n="19"/>Praedicatoribus: non autem expediret in toto hominum communitate.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

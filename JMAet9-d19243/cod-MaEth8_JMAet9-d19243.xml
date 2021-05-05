@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 8</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 8</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d19243"><!-- mair-l4c8 -->
+            <head xml:id="JMAet9-d19243-Hd1e103">Caput 8</head>
+            <p xml:id="JMAet9-d19243-d1e106">
+               <lb ed="#P" n="27"/>
+               <quote xml:id="JMAet9-d19243-Qd1e110" type="lemma">CVm autem</quote> &amp;c. Prima conclusio. In congressionibus humanis est quaedam altera virtus media circa 
+      <lb ed="#P" n="28"/>iocos dicendo &amp; audiendo quae oportet. Multo difficilius est bene dicere quam bene audire: &amp; aliqua 
+      <lb ed="#P" n="29"/>quis audire potest, quae facete dicere nequit. Et licet iocus sit in verbis &amp; ludus in factis, vt 
+      lu<lb ed="#P" n="30" break="no"/>dere aleam: vocabula tamen vel apud oratores confunduntur, &amp; vtrumque in proposito intelligimus. Probatur 
+      <lb ed="#P" n="31"/>haec conclusio, quia interdum vita quiete relaxanda est in qua ioco recreantur homines, consentaneum est 
+      er<lb ed="#P" n="32" break="no"/>go hunc congressum aequabilem esse. Quod caret alterna requie durabile non est. Redditur inualidus 
+      ni<lb ed="#P" n="33" break="no"/>mium dum tenditur arcus: nam oportet eum rectitudini suae naturali relinquere, vt vires acquirat: sic hominis 
+      <lb ed="#P" n="34"/>animus circa speculationem semper intentus deterioratur: opus enim est nonnumquam honesto ludo vt in 
+      psal<lb ed="#P" n="35" break="no"/>terio, cithara, cymbalo in palmali sphaerula, ad brauium ludendo, spicula ex arcu iacere: &amp; sic homo 
+      re<lb ed="#P" n="36" break="no"/>creatus auidius ad studia reuertetur. Hac enim via dies Aristotelici studentibus assignantur: sic enim 
+      <lb ed="#P" n="37"/>ipse suis facere consueuit. Et licet iuuenes catti, vituli, catelli &amp; agni ludo gaudeant, non tamen cum sint 
+      <lb ed="#P" n="38"/>graues natu: secus est in hominibus ratione vtentibus, qui cum sint grandaeui solamine maximopere 
+      <lb ed="#P" n="39"/>egent salibusque solantur. Ergo tunc honestus ludus eos decens est expetendus: quia sicut corpus 
+      homi<lb ed="#P" n="40" break="no"/>nis aut equi summo labore atteritur, &amp; opus est requie ad restaurandum deperditum: a fortiore ita 
+      fa<lb ed="#P" n="41" break="no"/>ciendum est in exercitatione mentis quae plus deiicit appetitum &amp; vires quam corporalis exercitatio: &amp; haec 
+      <lb ed="#P" n="42"/>requies fit per honestum ludum. Post vires corporales defatigatas natura ordinauit somnum in quo sensus 
+      <lb ed="#P" n="43"/>non laborant sed fortificantur. Per mentis iugem meditationem altamque speculationem ipsa hebetatur, 
+      quo<lb ed="#P" n="44" break="no"/>circa eget quietis &amp; recreationis, &amp; somnus non sufficit: sopor enim post assiduam animi agitationem 
+      <lb ed="#P" n="45"/>non habetur, dormitat enim solum tunc quispiam: proinde prudens omnibus curis &amp; animi anxietatibus 
+      <lb ed="#P" n="46"/>pacatis cum voluptate se ponat ad somnum: alioqui noctem pene insomnem ducet vti pluries expertus 
+      <lb ed="#P" n="47"/>sum. Mens optime per ludum ociumque refocillatur. Anacharsis scite dicere solebat: non turpe esse aliquando  
+      <lb ed="#P" n="48"/>modestis lusionibus oblectari vt alacrior ad philosophiam reditus fieret. Atque Scipio aiebat se 
+      repue<lb ed="#P" n="49" break="no"/>rascere cum relicta republica apud <name xml:id="JMAet9-d19243-Nd1e161">Caietam</name> cocleas aut conchulas legeret: vna cum Laelio amico suo. 
+      <lb ed="#P" n="50"/>Cessatio laborum non erit finis quae erit modica, veluti instauratio quaedam ad feruidum laborem. Lusiones 
+      <lb ed="#P" n="51"/>laxandi animi causa fiunt, vt ad res serias fiat reditus. Pilae lusum Galenus multifacit quo Publius 
+      <lb ed="#P" n="52"/>Scaeuola vir grauissimus ludebat, cum a forensi labore fessus esset: quo lusu Lycon philosophus etiam 
+      <lb ed="#P" n="53"/>delectabatur. Dum Alexandro magno a militia &amp; rebus seriis nonnihil ocii dabatur pila lusit: collusoresque 
+      <lb ed="#P" n="54"/>non semel muneribus donauit. Vnde sic argumentor: omne illud nullo iure vetitum per quod vires 
+      <lb ed="#P" n="55"/>corporis &amp; animae recreantur est bonum, vtile &amp; honestum: sic est de ludo honesto: stat eruditum virum egere 
+      <lb ed="#P" n="56"/>corporis exercitatione sagittando vbi moris est, equitando &amp; colloquendo cum iocundis sic quoque facit: 
+      <lb ed="#P" n="57"/>si enim solus equitaret mens fortasse interim laboraret. Ex quo patet, quod non est actus eutrapeliae ludere 
+      <!--157.xml-->
+      <pb ed="#P" n="70-v"/>
+               <lb ed="#P" n="1"/>ad scaccarium trahendo regem &amp; reginam signanter in his qui quietis egent. Patet, quia in illis est men 
+      <lb ed="#P" n="2"/>tis occupatio vehemens, &amp; per consequens non releuatur a labore.
+    </p>
+            <p xml:id="JMAet9-d19243-d1e191">
+               <pc type="pilcrow">¶</pc> Secundo sequitur, quod pernox &amp; male 
+      <lb ed="#P" n="3"/>suada alea, parasitorum prutientis cantus, &amp; similia, ab eutrapelia sunt aliena. Postea ponit philosophus 
+      <lb ed="#P" n="4"/>diffinitiones aliquas dicens. Scurrae sunt qui plus aequo risum mouere student, &amp; hi importuni &amp; 
+      <lb ed="#P" n="5"/>onerosi sunt aliis atque molesti: affectantes omnino ridiculum. Magis enim coniectant facere risum quam 
+      ho<lb ed="#P" n="6" break="no"/>neste loqui &amp; sua dicacitate scurrilitateque tristitia afficiunt ipsum de quo iocantur. Peccat talis omnis in eum 
+      <lb ed="#P" n="7"/>in quem iocatur, in seipsum quem delirium censent ad eius dicacitatem rident. peccat etiam in eos qui saepius 
+      <lb ed="#P" n="8"/>plus nimio rident. Qui vero nec dicunt ipsi aliquid iocundum nec alios dicere ferunt, rustici &amp; agrestes, 
+      <lb ed="#P" n="9"/>agelasti. i. sine risu &amp; moesti sunt, vt auus Crassi in Parthia interempti, qui semel tantum in vita risit cum 
+      <lb ed="#P" n="10"/>vidisset asinum carduos comedentem, dixissetque Similem habent labra lactucam. Comis vrbanus &amp; 
+      <lb ed="#P" n="11"/>Eutrapelus moderamine in iocis &amp; ludis vtuntur. Vrbanus erga aliquos risum excitat honestum, cauendo 
+      <lb ed="#P" n="12"/>ne illum in quem iocatur tristitia afficiat. Nec iniuria cum talem moris habitum habeat vt facete loqui 
+      <lb ed="#P" n="13"/>possit. Et quemadmodum corpora suis motibus discernuntur, ita quoque &amp; animi mores ex operationibus 
+      <lb ed="#P" n="14"/>discernimus. Per ordinatum inter manum &amp; brachium pulsum sanitatem: &amp; per inordinatum spirituum 
+      <lb ed="#P" n="15"/>saltum infirmitatem cognoscimus. Sic per loquelam hominum mores cognoscimus. Solus prudens medium 
+      <lb ed="#P" n="16"/>tenet: ad extrema vagantes ex suis tumidis scommatibus aut taciturnitate deprehenduntur. Sed cum 
+      <lb ed="#P" n="17"/>nonnum quam ridiculum exundet &amp; rationis modum transcendat, plures plus aequo iocantur salibus 
+      gauden<lb ed="#P" n="18" break="no"/>tes, &amp; scurras vrbanos nuncupant ipsosque vt gratiosos &amp; elegantes habent. Aliqui bomoloquos 
+      Eutrape<lb ed="#P" n="19" break="no"/>los falso appellant. Proinde putant scurrilitatem esse vrbanitatem. Hoc diluit in litera in qua affirmat 
+      <lb ed="#P" n="20"/>eas plurimum differre. Sed &amp; eas differre non parum ex iis quae diximus constat.
+    </p>
+            <p xml:id="JMAet9-d19243-d1e236">
+               <pc type="pilcrow">¶</pc> Alia conclusio est. 
+      <lb ed="#P" n="21"/>Dexteri est ea dicere &amp; audire, quae liberalem &amp; ingenuum virum decent. Medio enim habitui 
+      dexte<lb ed="#P" n="22" break="no"/>ritatis nomen accommodamus. Et sunt ea quae decet liberalem virum audire. Comis obscoenum non audit: 
+      <lb ed="#P" n="23"/>perinde a fortiore nec illote loquitur. Plus enim est esse maledicum quam illora audire. Viri liberalis iocus 
+      <lb ed="#P" n="24"/>a ioco cerdonis &amp; illiberalis differre debet. Quod plane licet tam in antiquis quam in recentioribus comoe 
+      <lb ed="#P" n="25"/>diis conspicere. Nam in his verborum &amp; gestuum obscoenitas ridiculo erat: illis etiam obscoenitate expressa 
+      <lb ed="#P" n="26"/>probis displicuit: quinimo nasutioribus suis intellectio obscoena erat detestata. Et hoc multum ad 
+      ho<lb ed="#P" n="27" break="no"/>nestatem referre arbitrandum est.
+    </p>
+            <p xml:id="JMAet9-d19243-d1e257">
+               <pc type="pilcrow">¶</pc> Post haec mouet quaestionem quae talis est. Recte ne is salibus vtitur qui 
+      <lb ed="#P" n="28"/>dicit ea quae liberum hominem decent, an is qui audientes dolore non afficit, sed citius in voluptate mulcet. 
+    </p>
+            <p xml:id="JMAet9-d19243-d1e266">
+               <lb ed="#P" n="29"/>⁋ Ad secundam partem quaestionis respondet. Primo scilicet quod audientem voluptate afficere indefinitum 
+      <lb ed="#P" n="30"/>&amp; indeterminatum est: cum alius aliud oderit ametque alius: ergo regula Eutrapeli ex parte audientium sumi 
+      <lb ed="#P" n="31"/>nequit. Ponitur regula ex parte dicentis haec. Dicat talia qualia libenter ipse Eutrapelus audit: taliaque 
+      <lb ed="#P" n="32"/>audiet: quae namque patitur audiendo talia dicere potest.
+    </p>
+            <p xml:id="JMAet9-d19243-d1e277">
+               <pc type="pilcrow">¶</pc> Tertia conclusio huius capitis. Dexter non 
+      <lb ed="#P" n="33"/>omnibus facetiis vtetur. Primo, quia facetiae quaedam conuicia sunt: legumlatores contumelias dicere 
+      pro<lb ed="#P" n="34" break="no"/>hibent, &amp; fortasse conducit legumlatoribus prohibere quaedam facete dicere: proinde facetiae non vsquequaque 
+      <lb ed="#P" n="35"/>in bonam accipiuntur partem: sed aliqua facetia labem implicat &amp; reipsa est conuicium &amp; maledictum. 
+      <lb ed="#P" n="36"/>Sic ex Argyropylo dicere oportet. Leonardus autem dicit, quod iocus aliquis est conuicium, &amp; hoc 
+      ma<lb ed="#P" n="37" break="no"/>gis placet. Facetiam enim vulgo in bonam partem cum elegantia capiunt. Vir itaque gratiosus ac liber ita 
+      <lb ed="#P" n="38"/>iese habet quasi sibiipsi sit lex in ioco. Ipse nouit quando &amp; vbi est iocandum, &amp; vt dicit. Displicet 
+      impru<lb ed="#P" n="39" break="no"/>dens quando placere putat. Quando quis est imprudens caueat pro virili a iocis.
+    </p>
+            <p xml:id="JMAet9-d19243-d1e298">
+               <pc type="pilcrow">¶</pc> Alia 
+      conclusio<lb ed="#P" n="40" break="no"/>Scurra autem a ridiculo superatur, neque sibi neque aliis parcit modo risum moueat. Dicit de aliis 
+      con<lb ed="#P" n="41" break="no"/>fusibilia &amp; etiam de seipso, vt alios ridere faciat dicit: videmus aliquos ridiculos alios afficientes 
+      pro<lb ed="#P" n="42" break="no"/>bris, mouentes aliis risum &amp; sibiipsis rident dicuntque aliqua quae vrbanus nunquam diceret, sed ne 
+      audi<lb ed="#P" n="43" break="no"/>ret quidem: vt de libidine &amp; talibus monstris quae viri famam denigrant.
+    </p>
+            <p xml:id="JMAet9-d19243-d1e312">
+               <pc type="pilcrow">¶</pc> Alia conclusio. Rusticus 
+      <lb ed="#P" n="44"/>ad vrbanos congressus inutilis est. In primis nihil salis affert, &amp; cum alii afferunt indigne fert, &amp; 
+      hu<lb ed="#P" n="45" break="no"/>iusmodi congressus relaxationis fiunt causa. Sunt enim iocus &amp; requies in vita necessaria 
+    </p>
+            <p xml:id="JMAet9-d19243-d1e322">
+               <lb ed="#P" n="46"/>⁋ Vltima conclusio quae fit epilogando. Tres igitur sunt virtutes haec cum duabus nuperrime dictis 
+      <lb ed="#P" n="47"/>inter se conueniunt: quia circa communicationem sermonum &amp; operum sunt, at differunt ab inuicem: nam 
+      <lb ed="#P" n="48"/>vna circa veritatem &amp; duae aliae circa voluptatem versantur. Hae in ioco: illa vero in reliquis vitae 
+      <lb ed="#P" n="49"/>congressionibus versatur 
+    </p>
+            <p xml:id="JMAet9-d19243-d1e333">
+               <lb ed="#P" n="50"/>⁋ Dubitatur, Primo, an Eutrapelia sit virtus, &amp; probatur quod non. Virtus est circa difficile, sed ludere 
+      <lb ed="#P" n="51"/>non est difficile: igitur. Secundo, puerorum est ludere, ergo ludere non est adulto dignum. 
+    </p>
+            <p xml:id="JMAet9-d19243-d1e341">
+               <lb ed="#P" n="52"/>⁋ Ad priorem rationem negetur minor. Perdifficile enim est iocando tenere medium: &amp; solus circum 
+      <lb ed="#P" n="53"/>spectus &amp; quodammodo ad hoc natus illud perbelle facere potest.
+    </p>
+            <p xml:id="JMAet9-d19243-d1e348">
+               <pc type="pilcrow">¶</pc> Ad secundum dicitur, quod pueri ob 
+      <lb ed="#P" n="54"/>inconstantiam exercent se circa ludum corporalem, qui maxime conducit eis propter humorum 
+      crudi<lb ed="#P" n="55" break="no"/>tates, quae eis insunt: sed de Eutrapelia parum aut nihil norunt. In hac materia Augustus Caesar non erat 
+      <lb ed="#P" n="56"/>abiectus. Nam cum de more diu inter Virgilium &amp; Horatium sederet, &amp; amicus quidam quaereret ab eo quid 
+      <lb ed="#P" n="57"/>faceret &amp; vbinam sederet, scite respondit: sedeo inter suspiria &amp; lachrymas. Maro enim erat vbique tristis: 
+      <lb ed="#P" n="58"/>hoc autem atram bilem &amp; sublime ingenium in viro arguebat, &amp; Horatio admodum studioso doluerunt 
+      <lb ed="#P" n="59"/>oculi ippientes &amp; plorantes fere semper. Sic Marcus Tullius salibus abundabat: &amp; soli prudentes. 
+    </p>
+            <p xml:id="JMAet9-d19243-d1e367">
+               <lb ed="#P" n="60"/>⁋ Tertio dubitatur, an contumelia sit peccatum: &amp; an ei resistendum est.
+    </p>
+            <p xml:id="JMAet9-d19243-d1e372">
+               <pc type="pilcrow">¶</pc> Quarto, an ludere in 
+      tor<lb ed="#P" n="61" break="no"/>neamentis in festo vel hastis ludere sit violare festum.
+    </p>
+            <p xml:id="JMAet9-d19243-d1e380">
+               <pc type="pilcrow">¶</pc> Quinto, quae circumstantiae ad ludum requirantur. 
+    </p>
+            <p xml:id="JMAet9-d19243-d1e386">
+               <lb ed="#P" n="62"/>⁋ Ad tertiam dubitationem respondetur, quod conuicium potest esse citra contumeliam dum modo aliquis 
+      <lb ed="#P" n="63"/>iocatur in alium, vt aliiad risum prouocentur sine alterius iniuria &amp; tristitia in quem iocatur, vt Tullius 
+      <lb ed="#P" n="64"/>dicebat suum fratrem ensi esse alligatum cum perlongus esset mucro &amp; frater corpore paruus. Sed contu¬ 
+      <!--158.xml-->
+      <pb ed="#P" n="71-r"/>
+               <lb ed="#P" n="1"/>melia est peccatum vsquequaque, quando homo dicacitate vel aliis signis proximi honorem tollit. Si 
+      <lb ed="#P" n="2"/>honorem aut famam attenuet iam honorem subtrahit, licet non tollat honorem proximi: &amp; interdum 
+      <lb ed="#P" n="3"/>est mortale. Matthaei. x. Qui dixerit fratri suo racha, reus erit gehennae ignis
+    </p>
+            <p xml:id="JMAet9-d19243-d1e407">
+               <pc type="pilcrow">¶</pc> Ad secundam 
+      dubita<lb ed="#P" n="4" break="no"/>tionis partem respondetur, quod nonnumquam contumelia ob conuiciantem reprimenda est, vt a sua linguacitate 
+      <lb ed="#P" n="5"/>arceatur, ne talia imposterum attentet, iuxta illud prouerbiorum. as. Responde stulto iuxta stultitiam suam 
+      <lb ed="#P" n="6"/>ne sibi sapiens videatur. Secundo, arcendi sunt ob bonum illius qui irridetur, cui honor aut fama 
+      irri<lb ed="#P" n="7" break="no"/>sione detrahitur, ne eius frugifera doctrina alias praestita diminuatur, alioqui patientiam indues &amp; 
+      <lb ed="#P" n="8"/>non facies alium deteriorem. Vnde Eccli. &amp;. Ne litiges cum homine linguato &amp; non struas in ignem 
+      <lb ed="#P" n="9"/>illius ligna. luxta illud Psalmistae. Qui inquirebant mala mihi loquuti sunt vanitates. &amp; paulo post 
+      <lb ed="#P" n="10"/>sequitur. Ego autem tanquam surdus non audiebam, &amp; sicut mutus non aperiens os suum. Praeterea 
+      <lb ed="#P" n="11"/>aduerte quod hi scurrae si malum illi cui contumeliam inferunt, intendant plus peccant &amp; grauius quam furto 
+      <lb ed="#P" n="12"/>delinquant: cum honorem &amp; famam quae opibus praestant, quantum est in ipsis subtrahant: &amp; licet id non 
+      <lb ed="#P" n="13"/>intendant, possunt tamenn grauiter delinquere, vt percutiens &amp; interimens perimere non proponens. 
+    </p>
+            <p xml:id="JMAet9-d19243-d1e434">
+               <lb ed="#P" n="14"/>⁋ Ad quartum respondetur, quod interdum in hasticis ludis seutorneamentis probabiliter periculum vitae 
+      <lb ed="#P" n="15"/>incurritur, &amp; ad illud vitandum lata est C. de gladiatoribus. I vnica, interdum obtusis hastarum capitibus 
+      <lb ed="#P" n="16"/>res geritur quasi sine periculo, vt in tota vita hominis vix vnus talibus hastis seu lanceis trucidetur: 
+      <lb ed="#P" n="17"/>&amp; tale genus hastici ludi potest fieri in gratiam principis post vesperas citra culpam aut violationem festi. 
+    </p>
+            <p xml:id="JMAet9-d19243-d1e445">
+               <lb ed="#P" n="18"/>⁋ Ad quintam dubitationem respondetur, quod considerandae sunt circumstantiae tertio libro recitatae: quisnam 
+      <lb ed="#P" n="19"/>est ille qui ludit: puellus enim ludit crepitaculis &amp; arundine loco equi phalerati equitat: talis autem ludus 
+      <lb ed="#P" n="20"/>grauem annis dedecet. Pari modo, lituus, tuba, cornu &amp; tibia militibus in conflictu bellico conveniunt: 
+      <lb ed="#P" n="21"/>sacerdotibus &amp; viris religionem professis non conueniunt. Facit etiam discrimen circumstantia temporis. 
+      <lb ed="#P" n="22"/>Nam ea tempestate qua diuinis est operandum, non licet indulgere ludicris. Sic &amp; loci. Nam templum 
+      <lb ed="#P" n="23"/>diuino cultui dedicatum, indecens est receptaculum populi ad ludum theatralem spectandum. Propterea 
+      <lb ed="#P" n="24"/>inter ludendum maximopere est curandum vt libidini fenestrae non aperiantur, &amp; vt nullius famae 
+      de<lb ed="#P" n="25" break="no"/>trahatur: se enim aut alios probrosis dicteriis proscindere scurrarum est mos a probis compescendus. 
+      <lb ed="#P" n="26"/>Et vt summatim dicam, ludentes aut facetas fabulas agentes placere populo studeant citra alicuius 
+      <lb ed="#P" n="27"/>osensam: &amp; ludos seu facetias suas prius quam eas agunt circumspectis &amp; prudentibus viris ostendant: &amp; ab 
+      <lb ed="#P" n="28"/>illis repudiata aut improbata deleantur, admissa modeste agantur &amp; publicentur. Epilogantes 
+      dici<lb ed="#P" n="29" break="no"/>mus ludos esse honestos his qui in seriis rebus versantur, non autem aliis: admittuntur tamen ne 
+      de<lb ed="#P" n="30" break="no"/>teriora contingant. Sunt nonnulli nobilium qui totos dies in aucupio aut venatione consumunt. 
+      <lb ed="#P" n="31"/>nec id insimulamus modo illa ad quae alioqui astringuntur non omittant: alioqui remittendo animos 
+      <lb ed="#P" n="32"/>delinquunt, vt fecit Domitianus imperator qui stilo ferreo muscas quotidie in cubiculo certo 
+      tem<lb ed="#P" n="33" break="no"/>pore ab aliis secretus occidit. Vnde &amp; scommate cubicularius eum taxauit: Dum enim quidam 
+      in<lb ed="#P" n="34" break="no"/>terrogaret, esset ne quispiam intus cum Domitiano, respondit cubicularius, ne musca quidem: 
+      insi<lb ed="#P" n="35" break="no"/>nuans inertem, aut crudelem oblectari transfixione muscarum. &amp; hominem tempus terere incassum in 
+      <lb ed="#P" n="36"/>capiendis muscis. Dedecet ingenuos scurras admittere qui nihil norunt nisi excitare cachinnos in  
+      <lb ed="#P" n="37"/>aliquorum displicentiam. Placidi &amp; assentatores reiiciantur. Grauitatem Catonis posteri extollunt. 
+      <lb ed="#P" n="38"/>Nam in theatralibus ludis lasciua eo praesente recitare haudquaquam audebant: eius enim grauitas atque 
+      <lb ed="#P" n="39"/>tetricus gestus indecentes ludiones terrefecit.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

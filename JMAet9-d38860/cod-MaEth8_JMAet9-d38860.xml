@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 10</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 10</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d38860"><!-- mair-l9c10 -->
+            <head xml:id="JMAet9-d38860-Hd1e103">Caput 10</head>
+            <p xml:id="JMAet9-d38860-d1e106">
+               <lb ed="#P" n="38"/>
+               <quote xml:id="JMAet9-d38860-Qd1e110" type="lemma">SVnt ne igitur quamplurimi</quote> &amp;c. In hoc decimo capite hanc quaestionem terminat. Vtrum multi sint parandi ami 
+      <lb ed="#P" n="39"/>ci an pauci. Et primo quaestionem ponit, deinde eam eluit. Et totum caput duabus quaestionibus &amp; tribus 
+      con<lb ed="#P" n="40" break="no"/>clusionibus partitum est. Prior quaestio. Vtrum quamplurimi conciliandi sint amici an potius pauci.
+    </p>
+            <p xml:id="JMAet9-d38860-d1e118">
+      
+      Respon<lb ed="#P" n="41" break="no"/>dendo dicit quod de hospitalitate eleganter dictum est. Hospite ne careas, hospes neque pluribus esto. Ad  
+      <lb ed="#P" n="42"/>amicitiam accommodatur hoc pacto, vt neque sine amico sis, neque tursus nmium multos amicos habeas. 
+    </p>
+            <p xml:id="JMAet9-d38860-d1e125">
+               <lb ed="#P" n="43"/>⁋ Sequitur prima conclusio. Ad eas igitur amicitias quae ob vtilitatem comparantur id recte accommodatum videtur. Neque 
+      <lb ed="#P" n="44"/>in his opus est pluribus amicis. Ratio est, multis enim vicissim subministrare laboriosum est, neque ad hoc 
+      <lb ed="#P" n="45"/>agendum facultates suppetunt ea amicorum copia quae ad proprias facultates satis est, superuacanei sunt, atque ad 
+      <lb ed="#P" n="46"/>bnm viuendum sunt impedimento, non est ergo opus ipsis, quia sic homo esset, ita distractus circa amicorum subuentio 
+      <lb ed="#P" n="47"/>nem vt sua negocia gerere vix posset, nec tramquille viuere posset, cum toties ab amicorum multitudine 
+      in<lb ed="#P" n="48" break="no"/>quietaretur.
+    </p>
+            <p xml:id="JMAet9-d38860-d1e141">
+               <pc type="pilcrow">¶</pc> Sedna conclusio. Pauci amici ob voluptatem sufficiunt. Dicit itra. li quoque qui ob voluptatem comparam 
+      <lb ed="#P" n="49"/>tur sufficiunt pauci, vt in epulis condimentum. Probatio est persimilis. Nam sicut in cibo condiendo modicum 
+      sa<lb ed="#P" n="50" break="no"/>lis sufficit, sic ad delectationem pauci amici sufficiunt. Et sicut cibus multo sale conditus indelectabilis est, sic ent 
+      <lb ed="#P" n="51"/>plures delectationem facientes molestiam ingerunt.
+    </p>
+            <p xml:id="JMAet9-d38860-d1e154">
+               <pc type="pilcrow">¶</pc> Tertia conclusio. At sint ne studiosi plurimi comparandi. 
+      <lb ed="#P" n="52"/>an &amp; amicorum studiosorum faciendorum est quidam multitudo determinata. Hoc per metaphoram proponit inquunt. 
+      <lb ed="#P" n="53"/>An &amp; multitudinis amicorum est quidam nunerus, perinde ac ciuitatis. Nec enim ex decem hominibus ciuitas constare poest, 
+      <lb ed="#P" n="54"/>nec etiam ex centum millibus adhuc est ciuitas, se, quantitas non est forsan vna quaedam determinata, sed omnis ea quae est 
+      <lb ed="#P" n="55"/>media inter quaesdam multitudines definitas. Et amicorum igitur multitudo est definita. Vult phlus dicere quod 
+      <lb ed="#P" n="56"/>duo sunt limites in ciuitate noti. Vtpote decem non sufficiunt ad ciuitatem ob paruitatem, &amp; poest quis talem nunerum 
+      <lb ed="#P" n="57"/>augere ponendo tot homines vt illi homines sint nimis multi puer ciuitate constituenda, set de multis intermediis 
+      <lb ed="#P" n="58"/>notum est quod ad ciuitatem suppetunt. Sedo fieri poest vt ii sint plurimi cum quibus quispiam viuere poest. hoc ad ami¬ 
+      <!--321.xml-->
+      <pb ed="#P" n="150-v"/>
+               <lb ed="#P" n="1"/>citiam vel maxime pertinere videtur. Contingit igitur in amicitia studiosa quam plurimos sibi comparare amicos. 
+    </p>
+            <p xml:id="JMAet9-d38860-d1e181">
+               <lb ed="#P" n="2"/>⁋ Quarta conclusio. In amicitia studiosa haud plures comparandi sunt amici. Hanc conclusionem quintupliciter 
+      <lb ed="#P" n="3"/>ostendit. Primo quia haud quaquam obscurum est fieri non posse vt vna pariter cum multis quispiam viuat, seque 
+      mul<lb ed="#P" n="4" break="no"/>tis totum iptiat, ergo in studiosa amicitia non quamplurimi comparandi sunt amici.
+    </p>
+            <p xml:id="JMAet9-d38860-d1e190">
+               <pc type="pilcrow">¶</pc> Secundo omnes amicos 
+      ami<lb ed="#P" n="5" break="no"/>corum esse amicos opr, quod est difficile.
+    </p>
+            <p xml:id="JMAet9-d38860-d1e198">
+               <pc type="pilcrow">¶</pc> Tertia ratio difficile est gaudere &amp; dolere cum multis, stat autem 
+      ami<lb ed="#P" n="6" break="no"/>corum vnum gaudere illo tempore quo alter dolet &amp; sic cum vno gaudebit cum altero vero gemet. Concludit 
+      er<lb ed="#P" n="7" break="no"/>go forsitam igitur bene est non quaerere quamplurimos amicos habe, sed quot ad communem vitam habendam sufficiunt.
+    </p>
+            <p xml:id="JMAet9-d38860-d1e208">
+      
+      Quar<lb ed="#P" n="8" break="no"/>ta ratio. Non est probabile quempiam multis esse valde amicum, ergo non est possibile esse amicum multis. 
+      consequan<lb ed="#P" n="9" break="no"/>tia tenet, exuperatio enim quaedam amicitiae est (vt pates in octauo libro) haec autem est ad vnum. Et vehementer igi 
+      <lb ed="#P" n="10"/>tur amare ad paucos erit.
+    </p>
+            <p xml:id="JMAet9-d38860-d1e217">
+               <pc type="pilcrow">¶</pc> Quinta ratio. Ita est in re quod eidem non sunt plures amici, nam amicitia sodali 
+      <lb ed="#P" n="11"/>tia non fiunt multi vehementer amici, sed amicitiae quaes famae celebritas reddit insigniores inter duos fu 
+      <lb ed="#P" n="12"/>isse commemorantur, vt inter Achillem &amp; Patroclum. Inter Theseum &amp; Pyrithorum. Non a ratione, igitur alienum 
+      fue<lb ed="#P" n="13" break="no"/>rit vt in amicitia studiosa non multi quaerantur amici.
+    </p>
+            <p xml:id="JMAet9-d38860-d1e230">
+               <pc type="pilcrow">¶</pc> Sequitur. Qui vero &amp;c. Solutio cuiusdam obiectionis. 
+      Di<lb ed="#P" n="14" break="no"/>ceret enim aliquis, multi sunt amici placidi. dicit quod tales multi non sunt amici secunm veritatem, licet placidi vo 
+      <lb ed="#P" n="15"/>centur. Dicit ita. Qui vero multos amicos habent &amp; omnibus sese familiariter offerunt i nemini esse amici videm 
+      <lb ed="#P" n="16"/>tur nisi ciuiliter: quos placidos appellant. Fit igitur vt ciuiliter mltis sit quispiam amicus. Haec est capitis 
+      quin<lb ed="#P" n="17" break="no"/>ta conclo Ad amicitiam vero ciuilem &amp; politicam sufficit virum esse placide probum, &amp; bene erga omnes ciues in ciuitate 
+      <lb ed="#P" n="18"/>viuere, sed id ad amicitiam de quam in his duobus libris loquimur non sufficit.
+    </p>
+            <p xml:id="JMAet9-d38860-d1e247">
+               <pc type="pilcrow">¶</pc> Nec sequitur. Inter tales est amici 
+      <lb ed="#P" n="19"/>tia politica: ergo inter eos est vera amicitia. Concludendo ergo dicit. Amicitia quae est obvirtutem, &amp; ob seipos 
+      <lb ed="#P" n="20"/>ad multos non est, sed amabile est, hoc est multum charum in amicitia &amp; longa expientia partum tecum bene agi, 
+      <lb ed="#P" n="21"/>putandum est paucos etiam reperiri qui tali amicitia digni sunt.
+    </p>
+            <p xml:id="JMAet9-d38860-d1e259">
+               <pc type="pilcrow">¶</pc> Dubitatur primo, quaere decem vel in pauco nunero 
+      <lb ed="#P" n="22"/>existentes vel in nimis amplo nunero pabent constituere ciuitatem.
+    </p>
+            <p xml:id="JMAet9-d38860-d1e267">
+               <pc type="pilcrow">¶</pc> Sedo quotus numerus adaequaete quantum ad  
+      <lb ed="#P" n="23"/>puitatem &amp; magnitudinem sufficit ad ciuitatem. Si dices centum est minima multitudo quae sufficit ad ciuitatem. 
+      <lb ed="#P" n="24"/>tunc vno mortuo perit ciuitas. Et si dicas mille (gra exempli) est iustus nunerus &amp; ad ciuitatem sufficiens, tunc 
+      <lb ed="#P" n="25"/>inferam, igitur ob vnum superuenientem desinet esse ciuitas. Si dicas quod non desinet esse ciuitas. Inferam, igitur non dabitur 
+      prae<lb ed="#P" n="26" break="no"/>cisus limes, puta nec maximus nunerus nec minimus qui non, ob magnitudinem vel ob paruitatem.
+    </p>
+            <p xml:id="JMAet9-d38860-d1e281">
+               <pc type="pilcrow">¶</pc> Contra 
+      <lb ed="#P" n="27"/>hoc quod accepto vno nunero hominium sufficientium ciuitatem conflare sic argumentabor. Vel illa multitudo est ma 
+      <lb ed="#P" n="28"/>xima vel non, si primum, propositum, si secundm, auferam adhuc vnum hominem quo ablato quaero an remanens nunerus es 
+      <lb ed="#P" n="29"/>maxima multitudo quae ad ciuitatem sufficit, &amp; si sic. Adhuc habetur propositum &amp; si non, in abyssum distendam, 
+      er<lb ed="#P" n="30" break="no"/>go ope dare maximam multitudinem quae ad ciuitatem sufficit, vel minimam quae non sufficit. Et eodem modo 
+      argu<lb ed="#P" n="31" break="no"/>mentari possem de altero extremo, scet, minima multitudine, vel maxima quae non semper est minor mini 
+      <lb ed="#P" n="32"/>ma quae sufficit: quia dato nunero denario quaeram an illa multitudo est minima an non, si primum, propositum, si 
+      secun<lb ed="#P" n="33" break="no"/>distendam, quoadusque mihi dederis limitem.
+    </p>
+            <p xml:id="JMAet9-d38860-d1e302">
+               <pc type="pilcrow">¶</pc> Ad priorem dubitationem respondetur quod pauci non pabent sibi inui 
+      <lb ed="#P" n="34"/>cem in necessariis suppeditare. Opus est agricolis, viticolis in regione in quam vites crescunt, sed in his oris 
+      ra<lb ed="#P" n="35" break="no"/>ro tales vrbes inhabitant, opus est fabris, sutoribus, &amp; sartoribus &amp; aliis artificibus, mercatoribus praefectis iudi 
+      <lb ed="#P" n="36"/>cibus &amp; aliis magistratibus puer vrbis regimine, quaere decem sunt nimis pauci puer vrbe aut ciuitate. Pro vico 
+      <lb ed="#P" n="37"/>tamen qui est ciuitates pars in potentia sufficiunt. Etiam status est in vrbis magnitudine, si enim nunero 
+      exuperan<lb ed="#P" n="38" break="no"/>tes vrbem banen muratam habeant sunt insolentes vix regibus obsequentes, quando est politia regalis insuper quaecunque sit 
+      <lb ed="#P" n="39"/>politia difficillimum est excessiuam multitudinem bnme regere. Videmus enim ad oculum in Parisiensi rectore 
+      eli<lb ed="#P" n="40" break="no"/>gendo maiorem difficultatem &amp; plures seditiones quam in aliis minoribus vniuersitatibus, hoc autem ab eligentium 
+      <lb ed="#P" n="41"/>multitudine oritur. Vbi enim multitudo illic est confusio. Insuper ciuitas est mediocris puer vna regione, quae puro aliis 
+      <lb ed="#P" n="42"/>nimis magna fieret, quia ad annonam &amp; reliquam necessaria oculus habendus est, immanem vrbem Charum 
+      <lb ed="#P" n="43"/>FEgyptus bis triticum in annum colligens beme alit, &amp; Tunetum minor africa, quae excessiue magnae pr Britannia 
+      <lb ed="#P" n="44"/>forent.
+    </p>
+            <p xml:id="JMAet9-d38860-d1e333">
+               <pc type="pilcrow">¶</pc> Ad secdam dubitationem dicitur quod Aristoteles vult dicere si quaeratur vbi est praecisus limes in nunero ciui 
+      <lb ed="#P" n="45"/>tatis descendendo an ascendendo dubie respondetur, esto quod homo sciat tot puro sufficiente sufficere sicut scio me per 
+      <lb ed="#P" n="46"/>aliquam distantiam posse videre &amp; consecrare, &amp; non per quancumque, sed vbi est limes ignoratur, esto quod talis dabilis sit: 
+      <lb ed="#P" n="47"/>sic in proposito realiter dabilis est vna multitudo quae non sufficit ob paucitatem ciuitatem constituere, vel 
+      ni<lb ed="#P" n="48" break="no"/>mia quae sufficit &amp; sic de alio extremo in ascendendo dicatur.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

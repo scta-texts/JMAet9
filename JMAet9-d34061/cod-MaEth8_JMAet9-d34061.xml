@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 6</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 6</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d34061"><!-- mair-l8c6 -->
+            <head xml:id="JMAet9-d34061-Hd1e103">Caput 6</head>
+            <p xml:id="JMAet9-d34061-d1e106">
+               <lb ed="#P" n="36"/>
+               <quote xml:id="JMAet9-d34061-Qd1e110" type="lemma">IN seueris autem</quote> &amp;c. In quinto amicitiam ad suum actum comparauit, in hoc sexto ipsam ad eius 
+      <lb ed="#P" n="37"/>subiectum in quo est, confert, in quo explanat quae hominum genera sunt amicitiae receptacula 
+      ido<lb ed="#P" n="38" break="no"/>nea &amp; quae non. Et hanc conclusionem negatiuam praemittit. Senes atque moroli non sunt ad 
+      ami<lb ed="#P" n="39" break="no"/>citiam propensi. Ostenditur sic. Qui sunt difficiles &amp; minus conuictu gaudent, sunt ad amicitiam 
+      in<lb ed="#P" n="40" break="no"/>epti. Seueri annis confecti sunt huiusmodi, igitur.
+    </p>
+            <p xml:id="JMAet9-d34061-d1e123">
+               <pc type="pilcrow">¶</pc> Ex hac probatione infert aliam quae ex 
+      opposi<lb ed="#P" n="41" break="no"/>to sequitur, puta luuenes sunt prompti amicitiam contrahere, conuictu enim &amp; conuersatione 
+      mu<lb ed="#P" n="42" break="no"/>tua gaudent, ex qua scaturigine amicitia proficiscitur. Eiusdem aetatis &amp; iuueniles erant qui amorem 
+      <lb ed="#P" n="43"/>arctissime inter se seruarant vt Orestes, &amp; Pylades, de quibus Cicero in Laelio meminit. Damon &amp; Pythi 
+      <lb ed="#P" n="44"/>as pythagorici de quibus idem in officiis loquitur. Laelius &amp; Scipio, Diomedes &amp; vlysses. Hercules &amp; 
+      <lb ed="#P" n="45"/>Theseus. Alexander magnus &amp; Ephestion. Nisus &amp; Euryalus. Post haec tacitam obiectionem mouet. 
+      di<lb ed="#P" n="46" break="no"/>ceret quispiam. Seueri &amp; tetrici sibi bene volunt, proinde amicitiam contrahunt. Hanc euacuans ait. Ali 
+      <lb ed="#P" n="47"/>qui sunt parum difficiles, aliqui magis, aliqui vero difficillimi, de actualibus loquor &amp; negatiue 
+      expo<lb ed="#P" n="48" break="no"/>nendo. Affirmatiue dubium est, de possibilibus non est status. Profecto in abyssum secundum Pythagori 
+      <lb ed="#P" n="49"/>cos proceditur, &amp; sic de congressionibus. Nempe aliqui congrediuntur cum parua difficultate, aliqui 
+      <lb ed="#P" n="50"/>cum maiore, aliqui cum maxima. lsti tamen sunt beneuoli &amp; proni sunt aliis succurrere, sed quia non 
+      <lb ed="#P" n="51"/>simul degunt nec mutuo delectantur amici non sunt valde, hoc est raro perfecti sunt amici. 
+      Aliqua<lb ed="#P" n="52" break="no"/>lis enim consocietas ad amicitiam perfectam non sufficit. Non fit autem vt perfecta amicitia sit mul 
+      <lb ed="#P" n="53"/>tie, quemadmodum neque fit vt complures quis amet vehementer. Haec est secunda huius capitis conclu 
+      <lb ed="#P" n="54"/>sio, quam probat. Primo quia perfecta amicitia cuiusdam vehementiae &amp; superabundantiae amoris 
+      si<lb ed="#P" n="55" break="no"/>milis est, talis autem amor abundans ad vnum fieri aptus est. Secundo, non est facile inuenire 
+      mul<lb ed="#P" n="56" break="no"/>tos studiosos &amp; frugi viros, cum etiam opus sit in amicitia longa experientia, secunm quod diximus. Non 
+      <!--281.xml-->
+      <pb ed="#P" n="130-v"/>
+               <lb ed="#P" n="1"/>vult Aristoteles dicere quod nemo potest habere nisi praecise vnum amicum, sed quod paucos habere potest, 
+      di<lb ed="#P" n="2" break="no"/>cit vnus potest pauciores alter vero plures habere. Aliqui enim comiter &amp; humane se habent ad multos. 
+      <lb ed="#P" n="3"/>&amp; ad amicitiam aliis proniores sunt, ergo tales plures pabent amicos habere, sicut de Scipione africano 
+      le<lb ed="#P" n="4" break="no"/>gimus. Quando dicit quod amicitia est similis exuperationi aut excessui aut supabundantiae, secudm antiquam 
+      <lb ed="#P" n="5"/>translationem, non illic est abundantia quae suplatiuis convenire dicitur. Nam quod per superabundantiam dicimus vni soli 
+      con<lb ed="#P" n="6" break="no"/>uenit, quemadmodum solet esse de dictione suplatiui gradus positiue &amp; affirmatiue exponendo. 
+    </p>
+            <p xml:id="JMAet9-d34061-d1e181">
+               <lb ed="#P" n="7"/>⁋ Sequitur. Ob vtilitatem aut voluptatem quis multis placere poest, in tali autem amicitia nec requiritur 
+      illiba<lb ed="#P" n="8" break="no"/>tae vitae nitor inter amicos, sicut in amicitia ob honestum: nec longa illa experientia exigitur, sed vicaria obse 
+      <lb ed="#P" n="9"/>quia &amp; subministratio, hoc est munera scunm exigentiam personarum sint. Amicitia ob delectabile est 
+      nobi<lb ed="#P" n="10" break="no"/>lior amicitia ob vtile. Probatio, est similior amicitiae ob honestum quam illa, proinde est nobilior.
+    </p>
+            <p xml:id="JMAet9-d34061-d1e192">
+      
+      Conse<lb ed="#P" n="11" break="no"/>quentia tenet per simile. Animal quod est homini simillimum in nobilitate quodlibet aliud in 
+      nobilita<lb ed="#P" n="12" break="no"/>te excedit. In hac amicitia mutuo redduntur oblectamina. Etiam haec amicitia est amicitia ob vtile, libera 
+      <lb ed="#P" n="13"/>lior ergo &amp; melior. Nam ea quae ob vtilitatem est eorum est hominium qui quaestui vacant. Sedo beati non solum amicis vtili 
+      <lb ed="#P" n="14"/>bus, sed &amp; iucundis egent. Nonnunquam etiam scurras parasitos &amp; assentatores quaerunt. Nam cum quibusdam simul 
+      viuen<lb ed="#P" n="15" break="no"/>re volunt &amp; molestum modico tmpore ferunt, continuo vero nemo, nec ipsum bonum toleraret si dolore ipsum 
+      affi<lb ed="#P" n="16" break="no"/>ceret. Hoc est dicere, illa amicitia est alia nobilior quae maioribus &amp; pluribus convenit quam alia, sed sic est de 
+      <lb ed="#P" n="17"/>amicitia ob iucundum: igitur. Postea dicit, quare beati hoc est locupletes iucundos quaerunt amicos &amp; etiam 
+      <lb ed="#P" n="18"/>oportet habere bonos cum tales sint beatis iucundi, sic enim &amp; beatis inerunt quae &amp; veris amicis 
+      in<lb ed="#P" n="19" break="no"/>esse oportet.
+    </p>
+            <p xml:id="JMAet9-d34061-d1e215">
+               <pc type="pilcrow">¶</pc> Sequitur sexta conclusio. Qui in potestatibus sunt constituti, diuersis vtuntur amicis. 
+      <lb ed="#P" n="20"/>Alii enim sunt ipsis vtiles, alii vero iucundi, vt vero illis idem sit vtilis &amp; iucundus simul, non vsu venit. 
+      <lb ed="#P" n="21"/>Nam huiusmodi potentes non virtute iucundos quaerunt neque vtiles ad honesta, sed iucundos quidem ac facetos 
+      <lb ed="#P" n="22"/>ad voluptatum oblectamina quaerunt, insuper habiles &amp; pronus vt mandata celeriter exequantur expi 
+      <lb ed="#P" n="23"/>scantur. Verum rarentur fit vt in eodem homine haec connexa inueniantur, nisi studiosus extiterit. Nam 
+      stu<lb ed="#P" n="24" break="no"/>diosus homo, quemadmodum iam dictum est, est &amp; iucundus &amp; vtilis verum talis studiosus viro existenti in 
+      po<lb ed="#P" n="25" break="no"/>testate non fit amicus nisi virtute multum praeluceat, vtpote in simili proportione vitae integritas in studio 
+      <lb ed="#P" n="26"/>so opes exuperant, in qua diuitiae eminentiam locupleti dant, hoc est. Tales se habent sicut excedens &amp; exces 
+      <lb ed="#P" n="27"/>sum, sed si illi duo excessus sunt pares possunt manere amici, signanter si beatus sit circumspectus, alioquin  
+      <lb ed="#P" n="28"/>ex insolentia se studioso praefert, &amp; sic non erunt familiares. Sic literam ordinabis. Sed talis amicus puta 
+      studio<lb ed="#P" n="29" break="no"/>sus non fit excedenti puta beato si non &amp; virtute excedatur, puta locuples a studioso, vt Alexander ab Aristo 
+      <lb ed="#P" n="30"/>tele vel Platone, sin minus, hoc est si non aequatur, non est analogatio cum rata sit inferior ratione, hoc est cum rata. i. 
+      <lb ed="#P" n="31"/>portio &amp; pers studiosi sit iferior ratione, hoc est secundm proportionem &amp; dignitatem.
+    </p>
+            <p xml:id="JMAet9-d34061-d1e247">
+               <pc type="pilcrow">¶</pc> Sequitur epilogus. Hae igitur ami 
+      <lb ed="#P" n="32"/>citiae dictae. hoc e. Oes tres amicitiae in aequalitate consistunt quod particulariter explicat, eadem enim ab vtrisque fiunt 
+      <lb ed="#P" n="33"/>&amp; sibi mutuo volunt aut aliud puer alio commutant, vt voluptatem puer commodo, in quibus quandam aequalitatem seruare 
+      <lb ed="#P" n="34"/>oportet dictum est has etiam amicitias minus minusque permanere. Loquitur de amicitia ob vtile &amp; delectabile. 
+    </p>
+            <p xml:id="JMAet9-d34061-d1e259">
+               <lb ed="#P" n="35"/>⁋ Post haec sequitur. Videntur autem ob silitudinem &amp; dissimilitudinem eiusdem &amp; esse amicitiae &amp; non esse. Hoc est 
+      <lb ed="#P" n="36"/>amicitiae ob honestum, quia aliqualem convenientiam aliqualem vero diaphoniam cum perfecta amicitia ha 
+      <lb ed="#P" n="37"/>bent, vt mediocriter bonus ob similitudinem cum bonis absolute, bonus censetur. Et quia prauos nonnumquam 
+      <lb ed="#P" n="38"/>imitatur, improbus iudicatur, haud secus ob similitudinem studiosae amicitiae quae quidem ob virtutem est, 
+      <lb ed="#P" n="39"/>amicitie videntur esse. Vna ob voluptatem, altera vero ob vtilitatem quae &amp; verae amicitiae assunt. Ac amici 
+      <lb ed="#P" n="40"/>tia ob bonum honestum prorsus omni calunnia carens stabilis &amp; solida permanet, hae vero cito fugaces atque solutae 
+      <lb ed="#P" n="41"/>sunt &amp; multis aliis discriminibus dissentientes, ob eiusdem dissimilitudinem nonnumquam non videntur esse 
+      ami<lb ed="#P" n="42" break="no"/>citiae. Amicitia delectabilis magno interstitio aboletur. Vtilis pari modo antiquatur decrescente emolumem 
+      <lb ed="#P" n="43"/>to. Voluptates quoque vetitae omni virtute ex diametro obsistunt, proinde ad amicitiam de qua impresen 
+      <lb ed="#P" n="44"/>tia loquimur minime attinent. Amicitia vero studiosa est constans atque firma cuius basis est virtus 
+      <lb ed="#P" n="45"/>quae est clara atque aeterna, vt ait Salustius, est amicitia per se, hoc est ratione celsi habitus animam 
+      illustran<lb ed="#P" n="46" break="no"/>tis, &amp; est bonum intrinsecum habentis. Aliae quoque duae amicitiae ab extrario dependent, quod est currax 
+      <lb ed="#P" n="47"/>atque mobile, &amp; amicitia solum per accidens, cum non fundentur in bono intrinseco potioris partis hominis.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

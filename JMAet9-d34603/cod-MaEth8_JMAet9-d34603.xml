@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 8</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 8</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d34603"><!-- mair-l8c8 -->
+            <head xml:id="JMAet9-d34603-Hd1e103">Caput 8</head>
+            <p xml:id="JMAet9-d34603-d1e106">
+               <lb ed="#P" n="35"/>
+               <quote xml:id="JMAet9-d34603-Qd1e110">PLerique autem ob ambitionem</quote> &amp;c. Hoc est secundum caput huius secundi tractatus &amp; octauum 
+      <lb ed="#P" n="36"/>huius octaui libri, in quo enodat quomodo amare &amp; amari se habeant adinuicem, &amp; in primis 
+      <lb ed="#P" n="37"/>dicit quod Plerique magis amari quam amare expetunt: &amp; causa est quia honorari appetunt, &amp; hoc expel 
+      <lb ed="#P" n="38"/>lentibus conuenit quibus honos debetur. Nam complures sunt ambitiosi qui magis amari quam amare 
+      <lb ed="#P" n="39"/>cupiunt. Hinc plerique assentatores amant. Est enim adulator inferior amicus, aut se talem praeseferens. 
+      <lb ed="#P" n="40"/>Insuper amari est vicinum honori, at homines maxime honore afficinntur.
+    </p>
+            <p xml:id="JMAet9-d34603-d1e125">
+               <pc type="pilcrow">¶</pc> Secunda conclusio. Non 
+      <lb ed="#P" n="41"/>per se, sed per accidens videntur honorem expetere, hoc est amari quam honorari est quid praestabilius. Nam 
+      <lb ed="#P" n="42"/>non per se, sed per accidens plerique honorem affectant. Omne quod homines cupiunt propter seipsum 
+      <lb ed="#P" n="43"/>melius est eo quod desiderant secundum accidens, sed honorari desiderant secundum accidens, &amp; amari 
+      <lb ed="#P" n="44"/>secundum se: quare melius est amari quam honorari. Minorem probat in litera, ex duobus profecto 
+      ho<lb ed="#P" n="45" break="no"/>mines singulariter desiderant honorari a potentibus &amp; sapientibus. Hoc duobus exemplis probat pri 
+      <lb ed="#P" n="46"/>mo. gaudent enim plerique cum ab his qui in potestatibus constituti sunt honorantur ob spem, 
+      arbi<lb ed="#P" n="47" break="no"/>trantur enim si aliquorum indiguerint se facile ab his impetraturos, itaque gaudent hi honore per ac 
+      <lb ed="#P" n="48"/>cidens, vt signo beneficii si forte egeant. Sunt &amp; alii qui a probis &amp; scientibus viris honorari ament. 
+      <lb ed="#P" n="49"/>desiderantes per hoc opinionem de propria excellentia confirmari. Tales igitur de per se gaudent eo 
+      <lb ed="#P" n="50"/>quod sint boni credentes eorum iudicio qui id dicant, quoniam viri scientes si probi fuerint minime 
+      <lb ed="#P" n="51"/>adulantur.
+    </p>
+            <p xml:id="JMAet9-d34603-d1e155">
+               <pc type="pilcrow">¶</pc> Sequitur. Videtur autem quod hoc id est amicitia magis consistit in amare quam amari. Id ma 
+      <lb ed="#P" n="52"/>trum iudicio cognoscitur, qui filios amando multum gaudent, &amp; si filios alendos nutrici committant 
+      <lb ed="#P" n="53"/>amant tamen suos liberos, neque ab eis amari quaerunt, vbi vtrunque fieri non potest, sed matribus si 
+      <lb ed="#P" n="54"/>tis est filios in prosperitate videre, &amp; amant filios quanuis ipsi ob ignorantiam ea quae matri sunt 
+      ex<lb ed="#P" n="55" break="no"/>hibenda retribuere nequeant, indicium est igitur amicitiam potius in amare quam in amari consistere, sed  
+      <lb ed="#P" n="56"/>matrum ad filios non redamantes non est amicitia. Ex hoc duo corollatia infert, quorum prius est: 
+      <!--285.xml-->
+      <pb ed="#P" n="132-v"/>
+               <lb ed="#P" n="1"/>Amicorum virtus atque perfectio videtur esse amare, quippe amicitia magis in hoc quod amentur 
+      connsi<lb ed="#P" n="2" break="no"/>stit, magisque landantur amantes amicos. Amicorum igitur quatenus ipsi amici sunt, virtus &amp; 
+      perfe<lb ed="#P" n="3" break="no"/>ctio in amare est.
+    </p>
+            <p xml:id="JMAet9-d34603-d1e182">
+               <pc type="pilcrow">¶</pc> Sequitur in litera. Quare in quibus &amp;c. Secundum corollarium. Vnde fit vt qui pro 
+      <lb ed="#P" n="4"/>dignitate faciunt stabiles sint amici: talium nanque amicitia est stabilita. Profecto illo modo qui sunt 
+      <lb ed="#P" n="5"/>inaequales maxime solent fieri amici, inferior tunc plus amabit &amp; sic erunt aequales, at amicitia aequa 
+      <lb ed="#P" n="6"/>litas &amp; similitudo quaedam est, hoc est in aequalitate consistit, secundum quod superius est expositum. 
+    </p>
+            <p xml:id="JMAet9-d34603-d1e195">
+               <lb ed="#P" n="7"/>⁋ Sequitur. Et maxime quidem &amp;c. Dicit quod amicitia maxime eorum est similitudo qui virtute sunt 
+      <lb ed="#P" n="8"/>similes, nam in seipsis in virtute permansiui sunt, &amp; in virtute similes permanent, neque indigent pra 
+      <lb ed="#P" n="9"/>uis hoc est non egent illo vt alter eorum praue operetur: neque talia subministrant quin etiam prohibent 
+      <lb ed="#P" n="10"/>tam inter se quam inter alios. Sane bonos homines dicit litera, neque ipsos delinqumre neque amicos permittere pra 
+      <lb ed="#P" n="11"/>ua agere. Et in hoc lonathas erat amicus ipsi Saulo patri suo prohibendo quantum poterat necem inuocantis 
+      <lb ed="#P" n="12"/>dauidis.
+    </p>
+            <p xml:id="JMAet9-d34603-d1e211">
+               <pc type="pilcrow">¶</pc> Sequitur. Praui stabilitatem in amicitia non habent. Nam neque sibiipsis similes perseuerant, sed breui 
+      mo<lb ed="#P" n="13" break="no"/>mento manent amici, sua gaudentes mutuo prauitate. Praui enim nihil stabile, fixum, &amp; amabile in se 
+      ha<lb ed="#P" n="14" break="no"/>bent, sed prauitatem, quae ab omni sapiente est odibilis. Et demum immo sepius poenitudine ducuntur. 
+      <lb ed="#P" n="15"/>Et licet ad vomitum redeant sunt instabiles, quia nihil inueniunt in quo ipsorum voluntas quiescere 
+      po<lb ed="#P" n="16" break="no"/>test. Operationes autem probi ei suauitatem ministrant, &amp; sic perseuerat: oppositumque in prauo 
+      con<lb ed="#P" n="17" break="no"/>tingit.
+    </p>
+            <p xml:id="JMAet9-d34603-d1e228">
+               <pc type="pilcrow">¶</pc> Sequitur. Vtiles &amp; delectabiles diutius in amicitia permanent quam praui, siquidem eousque durant 
+      quo<lb ed="#P" n="18" break="no"/>usque emolumenta aut oblectamina sibi mutuo praestant. Ex contrariis amicitia ob vtile coalescit. Ob 
+      <lb ed="#P" n="19"/>vtilitatem locupleti inops, &amp; scienti ignorans fit amicus, cuius enim quisque indiget id affectat, pro 
+      <lb ed="#P" n="20"/>quo aliud affert &amp; rependit. Ad hanc enim vtilitatem quis trahere potest amatorem &amp; amatum in  
+      <lb ed="#P" n="21"/>venereis. Si formosum mulier turpis diligat, quapropter &amp; amatores ridiculi videntur, dignum esse 
+      <lb ed="#P" n="22"/>censentes perinde amari vti ipsi amant. Nulla ratio est vt formosa mulier virum foedum sic diligat 
+      <lb ed="#P" n="23"/>sicut ab illo diligitur, nisi aequipollentia &amp; recompensatio suae formae fiat, cum non sint similiter 
+      ama<lb ed="#P" n="24" break="no"/>biles. Et forte in hac amicitia contrarium non per se contrarium appetit, sed per accidens. 
+      Contrari<lb ed="#P" n="25" break="no"/>um enim non appetit contrarium secundum se, sed est appetitus medii secundum se, quod quidem 
+      me<lb ed="#P" n="26" break="no"/>dium est bonum subiecto quod afficitur per vnum contrarium in excessu. Vt si corpus Socratis sit 
+      <lb ed="#P" n="27"/>siccum, non est appetibile Socrati vt suum corpus sit humidum, sed appetibile est venire ad 
+      medi<lb ed="#P" n="28" break="no"/>um ad quem perueniret superueniente humido, quoniam appetitus est medii secundum se &amp; 
+      contra<lb ed="#P" n="29" break="no"/>rii per accidens, &amp; ita in calido &amp; similibus. Sed haec missa faciamus, non enim ad hunc locum 
+      ac<lb ed="#P" n="30" break="no"/>commodantur. 
+    </p>
+            <p xml:id="JMAet9-d34603-d1e262">
+               <lb ed="#P" n="31"/>⁋ Dubitatur an melius sit amare quam amari. Et argumentor ad partem negatiuam. Amans melius 
+      <lb ed="#P" n="32"/>facit amato quam amatus amanti. Proinde melius est amari quam amare. Nam amari a deo est praestabilius 
+      <lb ed="#P" n="33"/>quam deum amare. Insuper illud est nobilius quod superioribus damus, sed eos plus amamus quam 
+      con<lb ed="#P" n="34" break="no"/>tra igitur. 
+    </p>
+            <p xml:id="JMAet9-d34603-d1e273">
+               <lb ed="#P" n="35"/>⁋ Respondetur quod vtilius saltem temporaliter est amari praesertim a locuplete quam amare, actus tamen 
+      <lb ed="#P" n="36"/>non est melior. Amare enim est bonum intrinsecum amantis: amari ab extrinseco dependet, 
+      sa<lb ed="#P" n="37" break="no"/>tius est tamen habere causam quare ametur &amp; quare sit dignus amatu. Deus enim &amp; virtutibus 
+      <lb ed="#P" n="38"/>praediti sunt amatu digni. 
+    </p>
+            <p xml:id="JMAet9-d34603-d1e284">
+               <lb ed="#P" n="39"/>⁋ Dubitatur secundo an amicitia inter prauos duret. Respondetur quod proprie loquendo inter 
+      pra<lb ed="#P" n="40" break="no"/>los non est amicitia, sed latius capiendo vocabulum. Et dico quod amicitia inter tales giros 
+      mini<lb ed="#P" n="41" break="no"/>mae est durationis, vt perbelle Aristoteles in litera docet. Et patet alia ratione. Nunquam enim durat 
+      <lb ed="#P" n="42"/>amicitia inter aliquos nisi habeant inter se oblectamina, quae inter flagitiosos non contingunt, 
+      im<lb ed="#P" n="43" break="no"/>mo peccata tristitia sequitur vt corpus opacum vmbra, secundum illud Augustinum. lussisti 
+      do<lb ed="#P" n="44" break="no"/>mine, &amp; ita est, vt poena sit sibi omnis inordinatus animus. Conscientiam mordentem in morem 
+      <lb ed="#P" n="45"/>draconis habent praui, Esaiae tertio. Erit cubile draconum, scilicet conscientia peccatrix.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

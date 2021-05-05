@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 10</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 10</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d30826"><!-- mair-l7c10 -->
+            <head xml:id="JMAet9-d30826-Hd1e103">Caput 10</head>
+            <p xml:id="JMAet9-d30826-d1e106">
+               <lb ed="#P" n="28"/>
+               <quote xml:id="JMAet9-d30826-Qd1e110" type="lemma">ATqui neque fieri potest</quote> &amp;c. In hoc capitulo dubitationem antea motam, an quis potest esse 
+      pru<lb ed="#P" n="29" break="no"/>dens &amp; incontinens, dissoluens prudentem cum incontinente confert, variasque 
+      incontinen<lb ed="#P" n="30" break="no"/>Atias comparat inter se quantum ad conuenientiam &amp; differentiam.
+    </p>
+            <p xml:id="JMAet9-d30826-d1e118">
+               <pc type="pilcrow">¶</pc> Prima conclusio est. Pru 
+      <lb ed="#P" n="31"/>dens &amp; incontinens simul est nemo. Haec sic probatur. Superius monstratum est prudentem moribus 
+      <lb ed="#P" n="32"/>esse praeditum, quia prudentia est habitus cum vera ratione actiuus. Prudens non solum cognoscit ea 
+      <lb ed="#P" n="33"/>quae sunt agenda, sed praeter hoc est iam idoneus illa exercere, cum non solum vniuersalium sit 
+      pru<lb ed="#P" n="34" break="no"/>dentia, verum etiam singularium, stipatus est solertia, sententia, bona consultatione atque caeteris 
+      virtu<lb ed="#P" n="35" break="no"/>tibus moralibus. Non est harundo vento agitabilis ipse prudens, verum ipsis virtutibus immobiliter 
+      <lb ed="#P" n="36"/>atque delectabiliter inhaeret. Incontinens vero ante perturbationem limpide iudicat: attamen adueniem 
+      <lb ed="#P" n="37"/>te procella perturbationis socorditer succumbit. Quocirca incontinens non est ad agendum idoneus. 
+      <lb ed="#P" n="38"/>Habilem autem &amp; bene ratiocinantem nihil prohibet incontinentem esse. Hinc fit vt aliqui interdum 
+      <lb ed="#P" n="39"/>videntur esse prudentes &amp; incontinentes. Insita habilitas est vis naturalis &amp; potentia quae habitibus 
+      <lb ed="#P" n="40"/>illustrari potest, &amp; etiam dedecorari prauis habitibus, vt astutia, malitia, &amp; similibus. Prudentia semper 
+      <lb ed="#P" n="41"/>rectum scopum ponit &amp; conuenientia media ad illum scopum carpit. Quippe illa habilitas est indiffe 
+      <lb ed="#P" n="42"/>rens ad astutiam &amp; malum finem sicut ad bonum. Habilitas a prudentia discrepat, vti enartauimus 
+      la<lb ed="#P" n="43" break="no"/>tius in sextum librum, &amp; signanter. xiii. capite. Habent tamen quandam propinquitatem. At 
+      electio<lb ed="#P" n="44" break="no"/>ne longo distant interuallo. Incontinens non: sese habet vt is qui scit &amp; actu contemplatur, sed se 
+      <lb ed="#P" n="45"/>habet vti dormiens &amp; vinolentus, sponte sua tamen operatur quodammodo &amp; quid &amp; cuius 
+      <lb ed="#P" n="46"/>gratia ipse facit. Attamen incontinens non est malignus. Probatur sic, ad malitiam duo 
+      re<lb ed="#P" n="47" break="no"/>quiruntur, scilicet peruersitas appetitus &amp; rationis corruptio, vt est in intemperato. 
+      Quicun<lb ed="#P" n="48" break="no"/>quod habet alterum istorum &amp; non reliquum est semimalus, quia malitiae medietatem habet. 
+      Eti<lb ed="#P" n="49" break="no"/>am eius electio est bona, licet in ea non persistat, quare non est iniustus. Insidiator atque ex 
+      delibera<lb ed="#P" n="50" break="no"/>tione nocens, inquantum incontinens, si aliunde sit flagitiis irretitus non est nobis curae, nam 
+      incon<lb ed="#P" n="51" break="no"/>tinentium alter quem celerem dicimus in his quae consultando ordinauit non manet, &amp; biliosus atra 
+      <lb ed="#P" n="52"/>bili prorsus ad consultandum est inidoneus. Flaua bilis est cholera. Incontinens infirmus siue debilis 
+      <lb ed="#P" n="53"/>est similis ciuitati optime decernenti in agibilibus ac male decreta exequutioni mandanti vt 
+      Ana<lb ed="#P" n="54" break="no"/>xandrides facete inuexit dicens. 
+      <lb ed="#P" n="55"/>vrbs consultabat leges quae negligit almas. 
+    </p>
+            <p xml:id="JMAet9-d30826-d1e178">
+               <lb ed="#P" n="56"/>⁋ Cauillabatur in quandam ciuitatem quae leges bonas posuit quibus non vtebatur, sic incontinens 
+      <!--256.xml-->
+      <pb ed="#P" n="118-r"/>
+               <lb ed="#P" n="1"/>signanter debilis consultat de agendo ac consilium ipsum aspernatur. Malignus autem siue intempa 
+      <lb ed="#P" n="2"/>ratus assimilatur ciuitati, quae legibus quidem, sed prauis vtitur. Ac continentia ac incontinentia 
+      cir<lb ed="#P" n="3" break="no"/>ca id insudant. Qua vincit habitum multitudinis, patet, continens magis, incontinens minus perma 
+      <lb ed="#P" n="4"/>net quam multitudo potest. Vult dicere quod licet continens vtatur ratione quam habet, incontinens vero 
+      <lb ed="#P" n="5"/>non, tamen non quilibet excessus a recta ratione facit incontinentem. Continens persistit in recta 
+      ra<lb ed="#P" n="6" break="no"/>tione magis quam multi possunt. Superat enim cupiditates a quibus multi vincuntur, incontinens ve 
+      <lb ed="#P" n="7"/>ro a cupiditatibus superatur quas multi vincunt. 
+    </p>
+            <p xml:id="JMAet9-d30826-d1e202">
+               <lb ed="#P" n="8"/>⁋ Alia conclusio. Incontinentes praeuolantes (qua incontinentia melancholici laborant sunt minus 
+      <lb ed="#P" n="9"/>mali &amp; curabiliores quam incontinentes debiles non persistentes in consultatione. Haec conclusio in 
+      vir<lb ed="#P" n="10" break="no"/>tute ante habita est. Probaturque sic. Qui habet rationem habet opem contra malum, vt debilis: 
+      prae<lb ed="#P" n="11" break="no"/>uolans autem non habet, eapropter magis debili imputatur si succumbat. 
+    </p>
+            <p xml:id="JMAet9-d30826-d1e214">
+               <lb ed="#P" n="12"/>⁋ Alia conclusio. Incontinentes per consuetudinem sunt curabiliores quam incontinentes per naturam. 
+      <lb ed="#P" n="13"/>Incontinentes per naturam sunt ex influentia caeli aut ex progenitoribus. Auiti enim mores in 
+      na<lb ed="#P" n="14" break="no"/>tos descendunt, facilius autem est consuetudinem quam naturam immutare. Assuetudinem mutare non 
+      <lb ed="#P" n="15"/>habet difficultatem nisi quia naturam aemulatur: modo propter quod vnumquodque tale &amp; illud 
+      ma<lb ed="#P" n="16" break="no"/>gis, primo posteriorum. Qu consuetudo similis sit naturae authoritate Eueni poetae probat dicentis. 
+      <lb ed="#P" n="17"/>Est vsus longus mos ac meditatio crebra: 
+      <lb ed="#P" n="18"/>Hunc tandem assero naturam mortalibus esse. 
+    </p>
+            <p xml:id="JMAet9-d30826-d1e232">
+               <lb ed="#P" n="19"/>⁋ Verum quid continentia incontinentia ve: quid item constantia &amp; mollitudo &amp; qua via inter se se 
+      <lb ed="#P" n="20"/>cernantur hi habitus iam vbertim dictum est.
+    </p>
+            <p xml:id="JMAet9-d30826-d1e239">
+               <pc type="pilcrow">¶</pc> Circa totam hanc materiam in primis dubitatus 
+      <lb ed="#P" n="21"/>an quis potest esse continens sine munere dei, hoc est speciali dei ope.
+    </p>
+            <p xml:id="JMAet9-d30826-d1e247">
+               <pc type="pilcrow">¶</pc> Relicto philosopho, ad theolo 
+      <lb ed="#P" n="22"/>gos deueniendo, dico hosce super hoc negocio disceptare. Partem negatiuam approbatis doctoribus 
+      <lb ed="#P" n="23"/>ecclesiaeque determinationibus conformiorem arbitror: eapropter eam aemulari par est. dicitur enim 
+      <lb ed="#P" n="24"/>Sapientiae octauo. Non possum esse continens nisi deus det. Quod verbum occasionem dubitandi no 
+      <lb ed="#P" n="25"/>bis in praesentiarum praebuit: &amp; non modo circa continentiam verumetiam circa omne bonum id 
+      <lb ed="#P" n="26"/>contingit. Probatur haec pars siue conclusio negatiua. Illic sapiens non loquitur de datione &amp; 
+      patro<lb ed="#P" n="27" break="no"/>cinio generali, nam sine concursu dei generali incontinens esse potest nemo, siquidem ad cuiustibet 
+      <lb ed="#P" n="28"/>rei substantiam deus concurrit vt ex symbolis edocemur, est enim visibilium &amp; inuisibilium 
+      bono<lb ed="#P" n="29" break="no"/>rum &amp; malorum actor. Aliud ergo auxilium dei ad bonum requiritur quam ad malum. Hoc tangens 
+      <lb ed="#P" n="30"/>
+               <ref xml:id="JMAet9-d30826-Rd1e271">Augustinus in epistola ad Paulinum Nolanum episcopum</ref> ait. Quando contra tentationes 
+      concu<lb ed="#P" n="31" break="no"/>piscentiasque illicitas dimicamus, quamuis illic &amp; propriam habeamus voluntatem non tamen ex 
+      il<lb ed="#P" n="32" break="no"/>la, sed ex adiutorio dei nostram prouenire victoriam arbitror. Proinde nec constans nec continens 
+      <lb ed="#P" n="33"/>potest stare inuictus in agone sine dei speciali ope. Et <ref xml:id="JMAet9-d30826-Rd1e281">Augustinus in de correctione &amp; gratia capitulo 
+        <lb ed="#P" n="34"/>quarto</ref>. Liberum arbitrium ad malum sufficit: ad bonum autem parum est nisi adiuuetur ab 
+      omni<lb ed="#P" n="35" break="no"/>potenti bono. Et doctor gentium ad Romanos nono. Deus operatur in nobis velle &amp; perficere. Et 
+      <lb ed="#P" n="36"/>
+               <ref xml:id="JMAet9-d30826-Rd1e291">primae ad Corinthios quarto</ref>. Quid habes quod non accepisti. Et <ref xml:id="JMAet9-d30826-Rd1e294">Ioannis sexto</ref>. Nemo potest venire 
+      <lb ed="#P" n="37"/>ad me nisi pater traxerit illum. Ad hoc <ref xml:id="JMAet9-d30826-Rd1e299">magister, distinctione vigesima sexta libri secundi</ref> sententia 
+      <lb ed="#P" n="38"/>rum Patrum authoritates inducit, vt in eandem distinctionem, libro secundo fusius monstrauimus. 
+      <lb ed="#P" n="39"/>Haec vocatur gratia praeueniens ad bonum. Hoc puerorum libelli indicant quicquid habes meriti 
+      <lb ed="#P" n="40"/>praeuentrix gratia donat, &amp; Quicquid peccamus, id nobis attribuamus. Oppositum erat error 
+      Pela<lb ed="#P" n="41" break="no"/>gii: cuius errores <name xml:id="JMAet9-d30826-Nd1e311">Gratianus</name> allegat, ergo aliter ad bonum aliter ad malum deus cooperatur. 
+    </p>
+            <p xml:id="JMAet9-d30826-d1e315">
+               <lb ed="#P" n="42"/>⁋ Contra hanc conclusionem argumentor sic. Ex ea sequitur hominem ad impossibile obligari, con 
+      <lb ed="#P" n="43"/>sequens est rationi dissentaneum, quia omne peccatum est voluntarium. Consequentia tamen patet. 
+      <lb ed="#P" n="44"/>quia quispiam tenetur elicere actum bonum quem cum influentia de generali habere nequit, 
+      pona<lb ed="#P" n="45" break="no"/>tur deus specialiter non concurrere tunc habetur propositum 
+    </p>
+            <p xml:id="JMAet9-d30826-d1e326">
+               <lb ed="#P" n="46"/>⁋ Secundo Socrates non necessitatur concupiscere hanc pulchram foeminam, ergo potest ab eius 
+      <lb ed="#P" n="47"/>cupiditate abstinere: ergo ad hoc speciali ope dei non eget. 
+    </p>
+            <p xml:id="JMAet9-d30826-d1e334">
+               <lb ed="#P" n="48"/>⁋ Tertio deus specialiter instigat in malum, ergo non aliter bonum quam ad malum cooperatur. 
+      As<lb ed="#P" n="49" break="no"/>sumptum patet per illud quod scribitur. primo Paralipomenum quinto. Suscitauit dominus 
+      spiri<lb ed="#P" n="50" break="no"/>tum Assyriorum regis contra Israel, &amp; transtulit Ruben &amp; Gad. At rex in hoc deliquit, Hebraeorum 
+      <lb ed="#P" n="51"/>fortunas depilans. Simile secundi Paralipomenum vigesimoprimo scribitur. Suscitauit deus contra 
+      <lb ed="#P" n="52"/>loram spiritum Philistinorum &amp; Arabum, &amp; ascenderunt in terram luda, &amp; dissipauerunt eam. Et 
+      <lb ed="#P" n="53"/>Esaiae decimo. Assur virga furoris mei &amp; baculus ipse est: mittam eum contra populum furoris mei. 
+      <lb ed="#P" n="54"/>Mandabo illi vt auferat spolia &amp; diripiat praedam: &amp; ponat eam in conculcationem quasi lutum. Hoc 
+      <lb ed="#P" n="55"/>vt commentarius exponit dictum est de Senacherib rege Assyriorum contra Israel sub Ezechia. 
+      quar<lb ed="#P" n="56" break="no"/>ti Regum. xviii.
+    </p>
+            <p xml:id="JMAet9-d30826-d1e356">
+               <pc type="pilcrow">¶</pc> Ad primum respondendo sequelam, inficior. Deus enim cuilibet suum speciale 
+      au<lb ed="#P" n="57" break="no"/>xilium dat ad bene operandum, nisi quis illo abutatur, &amp; illi reluctetur: quare se indignificat ea ope. 
+      <lb ed="#P" n="58"/>Nemo potest aliquid operari sine dei concursu generali quod semper cuilibet ad bonum &amp; malum est 
+      <lb ed="#P" n="59"/>paratum. Sic &amp; de speciali dico nisi quis se illo indignificet. Speciale hominem ad bonum non 
+      neces<lb ed="#P" n="60" break="no"/>sitat secundm legem, propterea homo eo vtens meretur. Potest tamen quempiam necessitate si voluerit ad 
+      <lb ed="#P" n="61"/>bene agendum.
+    </p>
+            <p xml:id="JMAet9-d30826-d1e373">
+               <pc type="pilcrow">¶</pc> Ad secundum prima fronte videtur ad perseuerantiam siue constantiam non 
+      requi<lb ed="#P" n="62" break="no"/>ri dei speciale auxilium, quia cum generali &amp; hominis libertate potest non agere, alioqui non sit liber. Sec? 
+      <lb ed="#P" n="63"/>est de actu continentiae difficiliore. qui actum positiuum moraliter bonum efflagitat. Attamen ob 
+      pa<lb ed="#P" n="64" break="no"/>trum determinationes considerata nostra infirmitate puto auxilium speciale requiri ad hoc vt non 
+      <!--257.xml-->
+      <pb ed="#P" n="118-v"/>
+               <lb ed="#P" n="1"/>succumbamus. Habita oportunitate obiecti &amp; loci, sine hoc praesidio essemus in mirabili pugna, &amp; tandem ntra, 
+      ibe<lb ed="#P" n="2" break="no"/>cillitatem sentiremus.
+    </p>
+            <p xml:id="JMAet9-d30826-d1e394">
+               <pc type="pilcrow">¶</pc> Ad tertium rempendetur quod non intelligatur deum speciali influentia influere voluntati ad actum qui malus 
+      <lb ed="#P" n="3"/>est.
+    </p>
+            <p xml:id="JMAet9-d30826-d1e402">
+               <pc type="pilcrow">¶</pc> Ad exempla adducta dicimus quod quando Hebraei diuino iussui non paruerunt domins deus incitauit hostes ad 
+      il<lb ed="#P" n="4" break="no"/>lorum punitionem:tquam digni erant. Quis dubitat dominum deum ad poenam &amp; actum iustitiae impellere? verum tum Assyrii 
+      <lb ed="#P" n="5"/>&amp; alii Gentiles diuino instinctu abutebantur, plus enim aequo Ilsraelitas saepenumero torquambant. Ad illorum culpam 
+      <lb ed="#P" n="6"/>speciali ope dmns deus non impellebat. Culpae enim est osor atque prohibitor. Hoc puer ethica doctrina sat est. 
+    </p>
+            <p xml:id="JMAet9-d30826-d1e414">
+               <lb ed="#P" n="7"/>⁋ Sedo dubitatur vtrum omnis continentia gradus, a temperantia in specie distinguatur, &amp; tempeantia a gradu heroico. 
+    </p>
+            <p xml:id="JMAet9-d30826-d1e420">
+               <lb ed="#P" n="8"/>⁋ Circa hanc dubitationem aliqui affirmatiue resmondent, obiecta in aere sibi fabricantes in ethicorum libris inassueti. 
+      <lb ed="#P" n="9"/>Illis autem relictis paucis rmendetur quod idem habitus nunero successiue est continentiae &amp; tempantiae. Patet, gnetur habitus 
+      <lb ed="#P" n="10"/>continentiae in Socrate circa a materiam: ad intentionem habitus, affectus minuitur perturbatione. Itaque ea sedata vel in 
+      <lb ed="#P" n="11"/>nihilum redacta, inclinat ille habitus habentem ad bene se bndum circa a materiam, &amp; non est affectus in habente ergo 
+      <lb ed="#P" n="12"/>tunc erit temperantia gradus, licet ab actibus continentiae emersit, &amp; si ex habentis ignauia cupiditas crescat ille 
+      <lb ed="#P" n="13"/>habitus erit continentia. Esse continentiam &amp; temperantiam ab extrinseco dependet scilicet aflectu. Non est de ratione continen 
+      <lb ed="#P" n="14"/>tiae hare affectum puer obiecto sat enim est affectum inesse.
+    </p>
+            <p xml:id="JMAet9-d30826-d1e438">
+               <pc type="pilcrow">¶</pc> Seda propositio. Actus continentiae &amp; temperantiae sunt eius 
+      <lb ed="#P" n="15"/>dem speciei entitatiue. Patet per identitatem obiecti, &amp; omnia quae ad identitatem specificam sufficiunt.
+    </p>
+            <p xml:id="JMAet9-d30826-d1e446">
+               <pc type="pilcrow">¶</pc> Tertia propositio. 
+      <lb ed="#P" n="16"/>ldem actus nunero successiue erit continentia &amp; temperantia. Capio Aactum continentiae affectu multum sopito, ita quod 
+      <lb ed="#P" n="17"/>pparum eius restet corrumpendum, continuetur Aactus quoad affectus sit extinctus, &amp; habetur propositio.
+    </p>
+            <p xml:id="JMAet9-d30826-d1e456">
+               <pc type="pilcrow">¶</pc> Quarta 
+      pro<lb ed="#P" n="18" break="no"/>positio. Stat eundem actum simul esse continentiae &amp; temperantiae. patet de hoc actu, nolo comedere hunc cibum proptur 
+      <lb ed="#P" n="19"/>deum, circa medium poenst esse perturbatio, non autem circa finem. ldem patet de actu habente copulatum puer obiecto, vt nolo 
+      <lb ed="#P" n="20"/>comedere hoc &amp; hoc, demonstrando fungum, &amp; perdicem. Quin aliquam continentia a temperantia distinguatur, nemo am 
+      <lb ed="#P" n="21"/>bigit: sicque est de multis actibus continentiae. Potes tamen ponere affectus in ratione obiecti, &amp; fingereianiter gra 
+      <lb ed="#P" n="22"/>dus intrinsece tales.
+    </p>
+            <p xml:id="JMAet9-d30826-d1e473">
+               <pc type="pilcrow">¶</pc> Finalr dubitatur quomodo intemperantis iudicium corrumpitur.
+    </p>
+            <p xml:id="JMAet9-d30826-d1e479">
+               <pc type="pilcrow">¶</pc> Resnondetur quod a principio fuit 
+      i<lb ed="#P" n="23" break="no"/>continens in gradu, &amp; tmporis lapsu proptificatur perperam agere, &amp; sic rectum iudicium minuitur ita quod illud quod graue 
+      <lb ed="#P" n="24"/>scelus ab exordio iudicauit, postea nihilipendit. Ostendo id ad oculum in sacerdotiorum pluralitate a princi 
+      <lb ed="#P" n="25"/>pio de duobus conscientiam faciunt, postea conscientiam abiiciunt, &amp; consuetudo pene in naturam convertitur. Et sic intempera 
+      <lb ed="#P" n="26"/>tus est irrectificabilis quodammom, dicente Hieremia. xiii. Si mutare potest aethiops pellem suam aut pardus 
+      va<lb ed="#P" n="27" break="no"/>rietates suas, &amp; vos poteritis bamen facere cum didiceritis malum. Scitum est exemplum Lycurgi volentis popso mon 
+      <lb ed="#P" n="28"/>strare quantum efficaciae bona assuefactio haberet. Acceptis enim duobus catulis vnum in silua aluit, alterum 
+      do<lb ed="#P" n="29" break="no"/>mi in culina, conuocatisque ciuibus spectaculum memorabile praebuit, proposito lepore inter canes qui culinae assue 
+      <lb ed="#P" n="30"/>tus erat, repentino cursu se ad cacabum vetus domicilium proripuit, quam vero in nemore coaluit incredibili 
+      pe<lb ed="#P" n="31" break="no"/>dum leuitate fugitantem leporem sectabatur Caue itaque a mala pelle intemperantiae in gradu: ab hoc enim gane vix il 
+      <lb ed="#P" n="32"/>laberis, non tamen est impossibile rimam elabendi inuenire. Propterea proborum consilio vtere, itellectum rectifica, rectum 
+      <lb ed="#P" n="33"/>iudicium illud quod est erroneum ab eodem subiecto circa eandem materiam exsufflabit. Nec in exemplo sacri Hie 
+      <lb ed="#P" n="34"/>remiae omnimoda similitudo est expectanda, sed aliqualis.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

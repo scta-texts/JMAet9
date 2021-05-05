@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d1e3EC"><!-- mair-l1c1 -->
+            <head xml:id="JMAet9-d1e3EC-Hd1e103">Caput 1</head>
+            <p xml:id="JMAet9-d1e3EC-d1e106">
+               <lb ed="#P" n="21"/>
+               <quote xml:id="JMAet9-d1e3EC-Qd1e110" type="lemma">OMnis ars</quote> &amp;c. Hoc est opus Ethicorum Aristotelis ad Nicomachum filium qui fuit auo  
+      <lb ed="#P" n="22"/>suo cognominis, quod &amp; aliis multis contigit. Sed quia notum est Aristotelem fuisse 
+      <lb ed="#P" n="23"/>Nicomachi ex Festiade filium, sunt qui putent ad patrem scriptum, quod non placet, quia 
+      <lb ed="#P" n="24"/>contra decorum personarum est. Non enim filii erudiunt patres in moribus, sed 
+      erudiun<lb ed="#P" n="25" break="no"/>tur ab eis. ldeoque Salomon saepe filium compellans, quasi ad filium scripsit prouerbia. 
+      <lb ed="#P" n="26"/>Cicero ad filium Officia, &amp; Cato quisquis ille fuit, ad filium opusculum illud morale. 
+      <lb ed="#P" n="27"/>Diuiditur autem in decem libros partiales. In quorum primo de felicitate in commui 
+      lo<lb ed="#P" n="28" break="no"/>quitur. in secundo de virtute morali generatim. in tertio de virtutis moralis principiis scilicet voluntario &amp; 
+      <lb ed="#P" n="29"/>inuoluntatio, consilio &amp; consiliabili, de fortitudine &amp; temperantia in specie. in quarto de liberalitate, 
+      ma<lb ed="#P" n="30" break="no"/>gnificentia, magnanimitate, modestia, mansuetudine, affabilitate, veritate, eutrapelia, verecundia &amp; earum 
+      <lb ed="#P" n="31"/>extremis. in quinto de iustitia &amp; epiicia, quae vulgo epicaia dicitur. in sexto de habitibus veridicis: in  
+      <lb ed="#P" n="32"/>septimo de virtutum gradibus. in octauo &amp; nono de amicitia, &amp; in in decimo de voluptate &amp; felicitate. 
+      <lb ed="#P" n="33"/>Rursus hunc primum librum in quatuor tractatus deducunt, in primo enim inquirit vtrum felicitas sit, &amp; an 
+      <lb ed="#P" n="34"/>quispiam possit eam adipisci, quaestio si est, quaestionem quid est antecedit, primo posteriorum. In secundo tractatu 
+      <lb ed="#P" n="35"/>felicitatem describit &amp; contemplatur quidnam ipsa sit, in quibus rebus existat, &amp; in quibus non. In tertio a quo 
+      <lb ed="#P" n="36"/>sit felicitas tamquam a causa, &amp; in quo, tamquam in subiecto. In quarto speculatur in qua animae potentia felicitas 
+      <lb ed="#P" n="37"/>collocetur. Primus tractatus est totius libri exordium, qui in tria capita seiugatur. Et in eorum primo tria 
+      <lb ed="#P" n="38"/>diuulgare proponit. Primum, quod in rebus humanis est aliquis finis bonus intentus. Secundum, aliquem finem 
+      <lb ed="#P" n="39"/>esse alio praestantiorem. Pro tertio dubitationem ex dictis immergentem diluit. Secundum ibi, finium autem differentia. 
+      <lb ed="#P" n="40"/>Tertium ibi, atque nihil interest. Prima conclusio huius primi capitis est haec. Omnia bonum appetunt. 
+      pro<lb ed="#P" n="41" break="no"/>batio, nam omnis ars omnisque doctrina atque actus similiter &amp; electio quae sunt res humanae, bonum appetere 
+      <lb ed="#P" n="42"/>videntur. proinde &amp; finem, idem enim est bonum &amp; finis. deductio est perspicua, quia per hosce fines humanarum 
+      <lb ed="#P" n="43"/>operationum homo facile omnia quae facit. Per artem intelligit auctor habitum recte faciendi, vt est domum aut  
+      <lb ed="#P" n="44"/>nauem extruere. Per doctrinam, scientiam, intellectum, &amp; sapientiam. Per actum, actum exteriorem &amp; imperatum. Per 
+      ele<lb ed="#P" n="45" break="no"/>ctionem, actum elicitum, vt volitionem &amp; nolitionem intelligit. Nam quaedam a natura emergunt, &amp; illa in ipsum 
+      <lb ed="#P" n="46"/>bonum bonique assimilationem toto conamine, secluso obice, tendunt: quia ab agente infallibili scilicet a deo diriguntur 
+      <lb ed="#P" n="47"/>vt araneis in componenda tela, formica in colligendis granis, graue leue, &amp; caetera id genus in petendo locum 
+      <lb ed="#P" n="48"/>convenientem. Quaedam bona ab humana mente variabili emanant, &amp; si illa vt ars, doctrina, actus, &amp; 
+      ele<lb ed="#P" n="49" break="no"/>ctio bonum appetant. &amp; agentia naturalia quae a supremo bono diriguntur, in bonum tendunt continuo. ergo a 
+      <lb ed="#P" n="50"/>fortiore illa bonum appetunt. &amp; per consequens recte dicit quod omnia bonum appetunt. Triplici vita mortales 
+      vi<lb ed="#P" n="51" break="no"/>uunt. Prima est effectiua, qua viuunt mechanici, victum industria sibi comparantes. Secunda est actiua, qua viuunt 
+      <lb ed="#P" n="52"/>prudentes in republica praecipue alios regentes. Tertia est contemplatiua qua sapientes &amp; deo dediti viuunt. Pri 
+      <lb ed="#P" n="53"/>ma vita quae est infima, deum inquantum est creator imitatur. Secunda quae mediocris est, deum mundum a se conditum 
+      <lb ed="#P" n="54"/>gubernantem quadam tenus imitatur. Tertia, quae est excellentissima (vt. x. Ethicorum lucebit) deum in se ociantem 
+      <lb ed="#P" n="55"/>atque in tranquillitate beatum repraesentat. Si itaque istorum trium tendentia fertur in bonum, multo magis rationis 
+      <lb ed="#P" n="56"/>expertia a deo directa in bonum feruntur. Solidat philosophus hanc conclusionem priscorum authoritate 
+      di<lb ed="#P" n="57" break="no"/>centium, omnia appetunt bonum, ac omnis ars, doctrina, actus &amp; electio sunt entia, quamobrem appetunt bonum, ar 
+      <!--17.xml-->
+      <pb ed="#P" n="1-v"/>
+               <lb ed="#P" n="1"/>bonum &amp; finis coincidunt, proinde ista omnia appetunt finem. Itaque est aliquis finis in rebus humanis.
+    </p>
+            <p xml:id="JMAet9-d1e3EC-d1e198">
+      
+      No<lb ed="#P" n="2" break="no"/>tato quod electio aliter in tertio libro accipitur vt suo in loco deo bene fortunante videbitur. Vtraque acceptio 
+      <lb ed="#P" n="3"/>est vulgaris. Nonnulli hic indagant an de moribus sit scientia, &amp; vtrum practica an speculatiua: sed tales 
+      <lb ed="#P" n="4"/>quisquilias huic loco minime congruere censeo: ideoque alia ad rem magis pertinentia quaero. Primo quid est 
+      subie<lb ed="#P" n="5" break="no"/>ctum attributionis moralis philosophiae. Secundo quomodo monastica, oeconomica &amp; politica doctrina 
+      <lb ed="#P" n="6"/>differant. Tertio dubitatur an mulierosi, veneficique qui sibi mortem consciscunt, &amp; praui malum appetant. Pari 
+      for<lb ed="#P" n="7" break="no"/>ma obiicitur quia plantae non sentiunt, ergo non appetunt, quia appetitus in appetibile non fertur sine cognitione prauia. 
+      <lb ed="#P" n="8"/>Quarto quomodo sese habent haec tria, bonum omnia appetunt: &amp; omnia bonum appetunt: omnia appetunt bonum. Quinto 
+      <lb ed="#P" n="9"/>dubitatur quare a felicitate librum exorditur &amp; in ea decimum claudit.
+    </p>
+            <p xml:id="JMAet9-d1e3EC-d1e218">
+               <pc type="pilcrow">¶</pc> Circa primam dubitationem nota quod 
+      <lb ed="#P" n="10"/>quidam non solum in hac arte, sed etiam in aliis de lana caprina fusius insudant, vt patet de subiecto 
+      attributio<lb ed="#P" n="11" break="no"/>nis logices: sed breui dicimus quod homo felicitabilis est subiectum moralis philosophiae siue homo liber 
+      <lb ed="#P" n="12"/>ad opera studiosa &amp; eorum habitus. Veluti enim medicina circa corporis curam negociatur: ita ethice hominis animam 
+      <lb ed="#P" n="13"/>flosculis virtutum ornare ac depingere laborat.
+    </p>
+            <p xml:id="JMAet9-d1e3EC-d1e232">
+               <pc type="pilcrow">¶</pc> Ad secundam dubitationem respondetur, quod liber Ethicorum 
+      <lb ed="#P" n="14"/>ordinat hominem in ordine ad se primo: siue bene se habeat cum aliis, siue non: liberalitas iustitia &amp; caeterae 
+      <lb ed="#P" n="15"/>virtutes de quibus hic est sermo ordinant hominem ad se: &amp; si bene instituatur ad se, bene ordinabitur ad alios. 
+      <lb ed="#P" n="16"/>In oeconomicis docetur homo decenter viuere in familia sua. In politicis autem bene &amp; comiter in ciuitate 
+      <lb ed="#P" n="17"/>inuersari.
+    </p>
+            <p xml:id="JMAet9-d1e3EC-d1e247">
+               <pc type="pilcrow">¶</pc> Ad tertiam dubitationem &amp; aliud quod consequenter subiungitur simul respondetur. Pro cuius solutione 
+      <lb ed="#P" n="18"/>praesupponatur quod triplex est appetitus: quidam naturalis, &amp; is nihil aliud est quam inclinatio rei ad suam 
+      perfe<lb ed="#P" n="19" break="no"/>ctionem. Hic appetitus cuilibet rei convenit nec actum distinctum ab appetente ponit: siquidem materia prima appe 
+      <lb ed="#P" n="20"/>tit formam quae nullum actum a se distinctum habet. Appetitus sensitiuus soli animali convenit. Et dicitur 
+      sensi<lb ed="#P" n="21" break="no"/>tiuus, quia sensationem obiecti praesupponit: sicut enim voluntas est caeca, lumem ab intellectu capiens, &amp; non fertur 
+      <lb ed="#P" n="22"/>in incognitum: ita nec appetitus sensitiuus fertur in obiectum non sensatum. Tertius est appetitus intellectiuus 
+      <lb ed="#P" n="23"/>agenti libero competens. Hoc praesupposito, respondetur quod omne ens appetitu naturali suam perfectionem appetit scilicet 
+      <lb ed="#P" n="24"/>esse, &amp; illud sine quo esse nequit: propterea graue descendit &amp; leue ascendit, &amp; mixtum secundum naturam elemen 
+      <lb ed="#P" n="25"/>ti praedominantis mouetur vt in suo loco naturali conseruetur. Vnde arbor posita inter terram laetam, &amp; sterilem, 
+      ra<lb ed="#P" n="26" break="no"/>dices in solum pingue extendit: &amp; ab illo alimentum radix sugit: &amp; sic rami a trunco, &amp; truncus ab radice nutri 
+      <lb ed="#P" n="27"/>mentum: sicut hepar a stomacho, ab hepate venae, &amp; a venis singula membra trahunt: si res sit imperfecta 
+      perfe<lb ed="#P" n="28" break="no"/>ctionem acquirere, &amp; si sit perfecta suam perfectionem tenere gliscit. Appetitus sensitiuus prosequitur illud quod 
+      sensa<lb ed="#P" n="29" break="no"/>tum est appetenti conveniens, &amp; disconveniens refugit. Sed appetitus intellectiuus ob suam libertatem non semper 
+      <lb ed="#P" n="30"/>fertur in bonum, verum in prosequutione satis est si in bonum apparens: bonum enim verum vel bonum apparens est eius 
+      <lb ed="#P" n="31"/>obiectum in volendo: sibi malum inferens se ab angustiis quibus praemitur exonerare intendit. hoc apparet ei bonum. 
+      <lb ed="#P" n="32"/>ldentidem libidinosus, speciosam foeminam ardens, licet censeat se peccare, in bonum tum apparens fertur, est enim 
+      <lb ed="#P" n="33"/>agens liberum. permittitur abutendo sua libertate in malum simpliciter ferri: inanimata autem in verum eis bonum 
+      <lb ed="#P" n="34"/>tendunt: quia a deo diriguntur. Et per hoc soluitur obiectio in oppositum. Hic quoque sciscitari poteris, an voluntas 
+      <lb ed="#P" n="35"/>in obiectum, quod nec est verum bonum, nec apparens ferri potest: sed de hoc postea fusius loqui proponimus. 
+      Se<lb ed="#P" n="36" break="no"/>cunda ratio est etiam soluta, quae solum probat plantas nihil appetere appetitu sensitiuo aut intellectiuo: non autem 
+      <lb ed="#P" n="37"/>appetitu naturali.
+    </p>
+            <p xml:id="JMAet9-d1e3EC-d1e296">
+               <pc type="pilcrow">¶</pc> Ad quartam dubitationem respondetur quod illae propositiones late differunt. Haec a plerisque 
+      ne<lb ed="#P" n="38" break="no"/>garetur: bonum omnia appetunt. diceret enim quod nec hoc bonum nec illud, &amp; sic de singulis, omnia appetunt, &amp; si de 
+      <lb ed="#P" n="39"/>deo instes: contra lapides non cognoscunt deum, ergo nec deum appetunt: sed dico consequentiam esse nullam de eius 
+      <lb ed="#P" n="40"/>appetitu naturali, vt ex dictis liquet. dico enim quod appetit esse &amp; conseruari, quae sunt quaedam proprietates 
+      pri<lb ed="#P" n="41" break="no"/>mae causae.
+    </p>
+            <p xml:id="JMAet9-d1e3EC-d1e310">
+               <pc type="pilcrow">¶</pc> Insultas, bruta non cognoscunt deum, ergo eorum appetitus in deum non fertur in particulari: ergo in  
+      <lb ed="#P" n="42"/>deum non omnia feruntur.
+    </p>
+            <p xml:id="JMAet9-d1e3EC-d1e318">
+               <pc type="pilcrow">¶</pc> Dicimus belluas in deum suo ipsarum modulo ferri, siquidem omnia secundum naturas ipsis 
+      <lb ed="#P" n="43"/>inditas in deum tendunt. Aristoteles dicit quod eandem voluptatem omnes appetunt in penultimo capite. vii. Ethicorum. 
+      <lb ed="#P" n="44"/>&amp; dum de hominibus loquitur, dicit eos instinctum ad eandem voluptatem habere a deo superne impressum. &amp; hoc 
+      <lb ed="#P" n="45"/>est ad felicitatem, de qua in decimo loquitur. Aristotelis placitum est, &amp; verum est, quod bonum omnia appetunt: sed vt 
+      <lb ed="#P" n="46"/>videmus quae enunciationes hic concedendae veniantur sequendo communem viam nullum bonum omnia appetunt: sed omnia bonum 
+      <lb ed="#P" n="47"/>appetunt: saltem quodlibet ens bonum appetit, in plurali numero siue collectiue siue distributiue capiatur 
+      <lb ed="#P" n="48"/>potest negari illa loquendo de appetitu particulari omnia appetunt bonum. Appetere enim vt sensualitati &amp; 
+      ap<lb ed="#P" n="49" break="no"/>petitui natur ali convenit suam rationem non appellat: sed vt intellectui convenit suam propriam rationem appellat. 
+      <lb ed="#P" n="50"/>Ergo licet in vtraque stat confuse tantum, quia verbum aliter in vna quam in alia appellat: enunciationes illae non parum 
+      <lb ed="#P" n="51"/>(vt ex logica nosti) defferunt. Aliqua logicalia logicam enucleantia sine cauillis non aspernamur: sed sub 
+      <lb ed="#P" n="52"/>epitome illa percurrimus.
+    </p>
+            <p xml:id="JMAet9-d1e3EC-d1e345">
+               <pc type="pilcrow">¶</pc> Ad quintam dubitationem respondetur, quod beatitudo est finis virtutis &amp; hominem 
+      <lb ed="#P" n="53"/>ad virtutes allicit: &amp; quia cum sudoribus virtutes acquiruntur &amp; in earum consequutione laboramus: propterea 
+      <lb ed="#P" n="54"/>ab his auspicatur &amp; his claudit Aristoteles ethica: sicut Psaltes Regius de beatitudine in Soliloquiorum 
+      <lb ed="#P" n="55"/>fronte meminit: &amp; Saluator in concione in monte a beatitudinibus praefatur. Citharoedus autem Dauid, &amp; 
+      <lb ed="#P" n="56"/>Christus dominus, sicut Aristoteles sermonem faciunt de beatitudine huius vitae: quae proxime ad superos 
+      <lb ed="#P" n="57"/>dirigit, vel de beatitudine suprema in spe.
+    </p>
+            <p xml:id="JMAet9-d1e3EC-d1e362">
+               <pc type="pilcrow">¶</pc> Finaliter dubitatur quanti momenti sit virtus cum a felicitate 
+      <lb ed="#P" n="58"/>Aristoteles auspicet, &amp; ea concludat opus hoc tamquam ad alliciendum auditorem ad virtutes. Respondetur omnes 
+      feli<lb ed="#P" n="59" break="no"/>citatem maximopere exoptant. Quis enim est tam hebetis sensus qui beatitudinem non percupiat: at fine virtutibus 
+      <lb ed="#P" n="60"/>felicitas minime inuenitur, virtutibus enim itur ad astra: fortuna vero est vndis fugacior: boni autem 
+      mo<lb ed="#P" n="61" break="no"/>res assuetudine prognati hominem pene naturaliter ad bonum impellunt. Trita est historia Licurgi, qui cum 
+      <lb ed="#P" n="62"/>vnum catulum in coquina, alterum in sylua nutriendum curasset, praeposito coram publica corona 
+      Lacedaemo<lb ed="#P" n="63" break="no"/>niorum spectaculo, leporem in illorum catellorum medio collocauit: assuetusque culinae ad lebetem citus cucurrit: 
+      <lb ed="#P" n="64"/>quia in popina alitus erat: alter citius fugientem lepusculum insequebatur. Si igitur canis assuetudine coquinae 
+      <!--18.xml-->
+      <pb ed="#P" n="2-r"/>
+               <lb ed="#P" n="1"/>seporem ad quem declinatur reliquit: virtutum consuetudine homo praeditus, carnis illecebras ad quas est 
+      propen<lb ed="#P" n="2" break="no"/>sior deseret: Nonne anachoritae in atris specubus deserti, &amp; reliqui ecclesiae confessores in temperantiae ramis 
+      <lb ed="#P" n="3"/>eniture? Nonne fortitudo martyres a tyrannorum fulminibus &amp; tonitruo tenuit infractos. in torturis enim 
+      <lb ed="#P" n="4"/>eorum patientia germinabat: oppressione ecclesia stercorabatur, flagellis frondebat: morte foetabat, in angustiis 
+      <lb ed="#P" n="5"/>fructus mirificos proferebat. Quid de liberalitate eorum memorabo qui ad pedes Apostolorum in principio 
+      <lb ed="#P" n="6"/>nascentis ecclesiae omnes suas opes posuerunt? Illorum misericordia haudquaquam marcescet: summa rerum sequendo  
+      <lb ed="#P" n="7"/>virtutibus tamquam solidissimis fulcris praeditus firmissimum meritorum aedificium superaedificabit. Abono non  
+      <lb ed="#P" n="8"/>flectitur: via regia quae non declinans ad sinistram aut dextram, tendit ad beatitudinem virtutum scopum: prompteque ac 
+      <lb ed="#P" n="9"/>delectabiliter agit, &amp; animi perturbationibus haud inquietatur. Modo voluptas operationi incidens eam 
+      ma<lb ed="#P" n="10" break="no"/>gis atque magis coalescere facit. Atque vt Aristoteles conformiter ad experientiam lib. decimo Ethicorum 
+      <lb ed="#P" n="11"/>refert, spurca coinquinamenta extremorum virtus expungit: &amp; tanquam latrinas sordiumque sentinas prorsus 
+      <lb ed="#P" n="12"/>expuit.
+    </p>
+            <p xml:id="JMAet9-d1e3EC-d1e414">
+               <pc type="pilcrow">¶</pc> Finium autem differentia quaedam esse videtur. Haec est secunda pars huius capitis in qua vnum finem alio 
+      prae<lb ed="#P" n="13" break="no"/>stantiorem esse demonstrat. In prima parte ostendit omnium artium &amp; doctrinae aliquos esse fines: lam vero finium 
+      <lb ed="#P" n="14"/>discrimen enodat, dicens: Finium quidam est operatio, vt artis citharizandi finis est, fidium ordinata pulsatio: &amp; 
+      <lb ed="#P" n="15"/>quidam opus ipsum, vt domificationis finis est ipsa domus. Hoc est, tunc operatio est finis, quando operatione 
+      fi<lb ed="#P" n="16" break="no"/>nita effectus non relinquitur, vt cum citharoedus, aut choream ducens, a fidium tactu tripudioque quiescit, nullum 
+      <lb ed="#P" n="17"/>artificium relinquitur: secus est quando res operata est finis. Si aliqua qualitas, vtpote gaudium aut huiusmodi in  
+      <lb ed="#P" n="18"/>audiente harmoniam relinquatur: nihil refert: nec hic insistas de operatione actiua quae manet post melodiam, &amp; 
+      <lb ed="#P" n="19"/>sic passiua, sat est quod nullum artificium relinquitur cessante operatione. Et si domus nullam formam artificialem 
+      <lb ed="#P" n="20"/>ponat, hoc propositum non inficit, quia post artificii structuram manet domus.
+    </p>
+            <p xml:id="JMAet9-d1e3EC-d1e437">
+               <pc type="pilcrow">¶</pc> Atque in quibus. haec est tertia 
+      <lb ed="#P" n="21"/>pars huius capitis que comparat finem operatum operationi: &amp; dicit quod quorum opera sunt fines, ipsa opera suisi 
+      <lb ed="#P" n="22"/>operationibus sunt praessabiliora. Patet exemplariter. domus enim est praestantior ipsa operatione ad domus 
+      stru<lb ed="#P" n="23" break="no"/>cturam ordinata, licet operatio actiua quae est homo operans, sit re ipsa domo praestatior: &amp; operatio passiua sit ipsa 
+      <lb ed="#P" n="24"/>domus quae non est se ignobilior, sufficit operationem ipsam cum ad domus structuram ordinetur ipsa domo esse 
+      <lb ed="#P" n="25"/>deteriorem. Semper enim in finibus odinatis praestantior est posterior. Comedimus vt viuamus: viuimus vt bene 
+      <lb ed="#P" n="26"/>operemur: bene operamur vt salutem aeternam consequamur: postremus finis est caeteris praestantior. De 
+      no<lb ed="#P" n="27" break="no"/>bilitate rei non cures, sed finis praestantiam quaere. Vnde fit quod conseruatio frigore, calore &amp; hoste, est in rationem 
+      <lb ed="#P" n="28"/>finis domo melior, cum ad haec domus ordinetur.
+    </p>
+            <p xml:id="JMAet9-d1e3EC-d1e460">
+               <pc type="pilcrow">¶</pc> Dubitatur an operatio potest esse finis vltimus. 
+      Respon<lb ed="#P" n="29" break="no"/>detur quod licet deus sit finis vltimus quem beatitudinem obiectiuam theologi nuncupant, attamen operatio im¬ i 
+      <lb ed="#P" n="30"/>manens est beatitudo: &amp; in creaturis finis vltimus est beatitudo formalis. Cum vero complures sunt 
+      <lb ed="#P" n="31"/>actus. Haec est quarta pars huius capitis: in qua dicit quod multarum artium &amp; scientiarum multi sunt fines: nam  
+      <lb ed="#P" n="32"/>arithmeticae finis est numerus &amp; eius cognitio. Geometriae finis est magnitudo. Medicinae finis est 
+      <lb ed="#P" n="33"/>sanitas: artis extruendarum nauium, nauis: &amp; facultatis rei militaris, victoria: &amp; rei familiaris gubernandae. 
+      <lb ed="#P" n="34"/>opes. Exemplariter hoc ponit: Exemplorum autem non requiritur veritas, primo priorum. Ponit diuitias 
+      instru<lb ed="#P" n="35" break="no"/>menta rei familiaris in oeconomicis &amp; primo Politicorum. Vel loquitur hic secudm aliorum opinionem, &amp; 
+      exempla<lb ed="#P" n="36" break="no"/>riter insuper opes sunt finis subordinabilis ad altiorem finem.
+    </p>
+            <p xml:id="JMAet9-d1e3EC-d1e483">
+               <pc type="pilcrow">¶</pc> Quae autem talium sub aliqua vna potentia 
+      <lb ed="#P" n="37"/>sunt, vt ars. Haec est quinta portiuncula in qua dicit quod aliquando variae artes sub vna architectonica 
+      prae<lb ed="#P" n="38" break="no"/>cipuaque arte continentur: ipsius architectonicae finis aliarum artium finibus principalior est. Semper enim 
+      nobi<lb ed="#P" n="39" break="no"/>lioris rei praestantior est finis. Exemplificat, vt artes, quarum haec frenorum factiua est, haec ephippiorum hoc est 
+      <lb ed="#P" n="40"/>sellarum quibus equis insidetur, haec phalerarum, sunt autem phalerae equorum ornamenta, sub arte equestri 
+      continen<lb ed="#P" n="41" break="no"/>tur. Hae autem pariter &amp; ars equestris sub arte militari, vt sub architectonica continentur: quocirca artis 
+      <lb ed="#P" n="42"/>equestris finis principalior est finibus artium frenorum factiuarum, ephippiorum atque phalerarum. Et artis 
+      <lb ed="#P" n="43"/>militaris finis principalior &amp; appetibilior finibus artis equestris, &amp; artium frenorum factiuarum 
+      re<lb ed="#P" n="44" break="no"/>liquorumque apparatuum equorum. Semper enim fines earum quae rationem architecturae subeunt, magis sunt 
+      appetibi<lb ed="#P" n="45" break="no"/>les quam fines inferiorum: quia illi artium horum gratia expetuntur. Ars militaris inuasionem, fugam, cunctationem, &amp; 
+      re<lb ed="#P" n="46" break="no"/>liqua stratagemata amplectitur. Sicut in natura contingit: gramina enim sunt ob pecora, pecora ob 
+      homi<lb ed="#P" n="47" break="no"/>nes, &amp; homines ad deum laudandam. Et nihil refert siue finis architectonicae artis operatio sit siue sit opus: 
+      <lb ed="#P" n="48"/>nam vbique finis architectonicae est praestabilior fine artium quae illi famulantur, vt apparet in dictis facultatibus. 
+      <lb ed="#P" n="49"/>In artibus enumeratis, contingit nonnumquam quod finis scientiae superioris est operatio, &amp; finis scientiae inferioris 
+      <lb ed="#P" n="50"/>est aliquid operatum praeter operationem: quandoque oppositum contingit. Exemplum primi. ars equestris est superior arte 
+      <lb ed="#P" n="51"/>frenifactiua: &amp; finis equestris est operatio: &amp; finis frenifactiuae est aliquid operatum. Exemplum secundi. Medicina 
+      <lb ed="#P" n="52"/>est principalior quam ars exercitatiua: &amp; finis medicinae est nonnihil operatum, vt sanitas: &amp; finis 
+      exercitati<lb ed="#P" n="53" break="no"/>uae est operatio vt ambulatio vel purgatio. Finis est praestabilior iis quae ad finem ordinantur, siue sit ope 
+      <lb ed="#P" n="54"/>ratio, siue res operata. Domificatio est vilior domo, sed praeseruari a frigore, calore, &amp; ab hoste, est domo 
+      <lb ed="#P" n="55"/>nobilius, quia ad hoc ordinatur. 
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d36340"><!-- mair-l9c1 -->
+            <head xml:id="JMAet9-d36340-Hd1e103">Caput 1</head>
+            <p xml:id="JMAet9-d36340-d1e106">
+               <lb ed="#P" n="49"/>
+               <quote xml:id="JMAet9-d36340-Qd1e110" type="lemma">IN omnibus autem amicitiis</quote> &amp;c. In octauo huius philosophus de amicitia in communi &amp; speciebus 
+      <lb ed="#P" n="50"/>quamquam eius loquutus, nunc autem de amicitiae proprietatibus &amp; difficultatibus in amicitia 
+      emergen<lb ed="#P" n="51" break="no"/>tibus loquitur. Et quaedam in octauo dicta vt tenacius menti haereant resumit. Ac 
+      pri<lb ed="#P" n="52" break="no"/>mum caput quinque conclusionibus absoluit: quarum prima est. In omnibus &amp; inaequalium 
+      <!--300.xml-->
+      <pb ed="#P" n="140-r"/>
+               <lb ed="#P" n="1"/>&amp; aequalium amicitias vicissim rependere beneficium conseruat amicitiam. Et in inaequalibus hoc probat. 
+      Primo<lb ed="#P" n="2" break="no"/>quia proportio &amp; analogia hoc est comparatio rationum communicationem politicam conseruant, ergo &amp; amicitiam. Antes 
+      <lb ed="#P" n="3"/>cedens probat. Nam ad conseruandam communicationem politicam oportet vt coriario pro calciamentis 
+      <lb ed="#P" n="4"/>&amp; textori reliquisque artificibus pro suis operibus fiat retributio secundum dignitatem &amp; operum valorem? A. 
+      <lb ed="#P" n="5"/>sumptum probat, quia ad hoc mensura communis inuenta est, scilicet nummus: vt ipso omnia 
+      mensurentur<lb ed="#P" n="6" break="no"/>Si calcei mei. xvi. denarios valent &amp; totidem agricolae parua mensura frumenti, nummo tanquam per mensu 
+      <lb ed="#P" n="7"/>ram communem hoc metimur. Sequitur secunda ratio. In amatoria autem amicitia si alteri desit quod ipse 
+      re<lb ed="#P" n="8" break="no"/>pendit, querelae fiunt &amp; amicitia pessumit. Amator querulatur quod ipse impatienter amans non redametur 
+      au<lb ed="#P" n="9" break="no"/>tem, tamen ipse nihil habeat quo dignus sit amari. Nonnumquam vero qui amatur querulus est, quod cum prius 
+      cun<lb ed="#P" n="10" break="no"/>cta amans pollicitus sit, nunc opere ipso exequatur nihil. Et hoc tunc praecipue fieri solet cum amator ob vo 
+      <lb ed="#P" n="11"/>luptatem diligit amatum: amatus autem ob vtilitatem ipsum amatorem, &amp; haec non assunt vtrisque. 
+      Por<lb ed="#P" n="12" break="no"/>ro cum propter haec fit amicitia cito rumpitur, cum ea non fiunt gratia quorum amabant. Quocirca 
+      ta<lb ed="#P" n="13" break="no"/>les amicitiae merito sunt momentaneae atque fugaces. Virtutum autem amicitiae cum per se sint, &amp; semper 
+      <lb ed="#P" n="14"/>assit repensione dignum, durant, vt dictum est. Vicissim igitur beneficium repensum amicitiam incolumemn 
+      <lb ed="#P" n="15"/>obseruat. Sequitur in litera. Differunt autem &amp;c. Ponitur hic alia ratio ad conclusionem. Contendunt ami 
+      <lb ed="#P" n="16"/>ci cum quicquam ipsis rependitur &amp; aliqua fiunt ipsis sed non illa quae appetunt. Siquidem tum simile ipsis est 
+      <lb ed="#P" n="17"/>ac si nihil eis fieret si non assequantur illud quod auent. Quale fecit is qui citharoedo pollicebatur quanto dulcius 
+      <lb ed="#P" n="18"/>caneret tanto se plura daturum: postridie vero cum citharoedus primum exposceret voluptatem se reddidisse, 
+      <lb ed="#P" n="19"/>pro voluptate asserebat. Si vterque id affectaret satis vtique habebat: sin ille voluptatem hic lucrum cupiebat 
+      <lb ed="#P" n="20"/>&amp; alter habet alter non habet, non bene sese habet ipsa societas. Quorum enim vnusquisque indiget haec &amp; 
+      <lb ed="#P" n="21"/>assequi cupit, &amp; horum gratia quae ipse habet largitur.
+    </p>
+            <p xml:id="JMAet9-d36340-d1e170">
+               <pc type="pilcrow">¶</pc> Sequitur secunda conclusio. Vtriusque autem hoc 
+      <lb ed="#P" n="22"/>est sufficienter retributio fiet, si citius recipientis estimatione id fiat quam retribuentis. Hoc probat, primo quia 
+      <lb ed="#P" n="23"/>qui primo dat videtur permittere &amp; concedere recipienti facultatem aestimandae retributionis: quod &amp; 
+      pro<lb ed="#P" n="24" break="no"/>thagoram fecisse aiunt qui cum mercede docuisset ea quae profitebatur: discipulum aestimare iubebat 
+      quan<lb ed="#P" n="25" break="no"/>ti sibi viderentur illa quae ab ipso percepisset: &amp; tantum ab illo mercedis accipiebat &amp; in aliquibus talibus 
+      <lb ed="#P" n="26"/>satis illud est, insuper merces viro datur, &amp; non ei, quod a viro praestatur: ergo illa merces est sufficiens quae  
+      <lb ed="#P" n="27"/>viro beneficiato sufficiens esse videtur. Qui vero prius acceperunt argentum, deinde nihil eorumque 
+      pro<lb ed="#P" n="28" break="no"/>miserunt ob exuperationem promissionum efficiunt, merito incusantur. Non enim perficiunt ea quae 
+      pe<lb ed="#P" n="29" break="no"/>pigerunt. Et hoc fortasse sophistae facere compelluntur: quoniam nemo daret eis pecunias pro his quae 
+      <lb ed="#P" n="30"/>sciunt. Sophista hic est qui sapiens videri cupit &amp; non est sed iners. Qui artem sophisticam nouit, &amp; scit 
+      <lb ed="#P" n="31"/>ducere rete argumenti ante permultorum oculos is plurimum peritus est. Qui circa quintam essentiam 
+      <lb ed="#P" n="32"/>&amp; mutationem inferioris metalli in aurum laborant: &amp; ignari medici incolumitatem laboranti promitten 
+      <lb ed="#P" n="33"/>tes vere sophistae sunt.
+    </p>
+            <p xml:id="JMAet9-d36340-d1e202">
+               <pc type="pilcrow">¶</pc> Sequitur tertia conclusio. Eorum autem in quibus subministrationis non fit 
+      pa<lb ed="#P" n="34" break="no"/>ctio( Subministrationis, hoc est ministrationis aut retributionis vt in iis qui propter seipos beneficium exhi 
+      <lb ed="#P" n="35"/>bent) Locum non habent, accusationes. Talis enim amicitia quae ob virtutem conflatur: vbi remuneratio 
+      <lb ed="#P" n="36"/>electione facienda est, hoc est affectu animi. Electio enim &amp; amici &amp; virtutis est? De electione superius memi 
+      <lb ed="#P" n="37"/>nimus) Et ita faciendum est in congressione quae ob philosophiam sit. Non enim numismate tanta rei 
+      <lb ed="#P" n="38"/>dignitas aestimari potest: nec honos paris vnquam fiet momenti, sed satis forte fuerit vt ad superos atque 
+      paren<lb ed="#P" n="39" break="no"/>tes id quod fieri potest reddatur. Quomodo de diis &amp; superis pluraliter loqui intelligatur in octauo 
+      dixi<lb ed="#P" n="40" break="no"/>mus.
+    </p>
+            <p xml:id="JMAet9-d36340-d1e223">
+               <pc type="pilcrow">¶</pc> Quarta conclusio est. Qu si datio non sit talis hoc est ob virtutem, sed pro aliquo, hoc est bono vti 
+      <lb ed="#P" n="41"/>li aut voluptuario: retributio forte frigida videbitur, vt vtrisque pro dignitate esse videtur: &amp; hoc si datio 
+      <lb ed="#P" n="42"/>non sit moralis sed ad certum &amp; definitum inde recipiendum, tunc frigida est retributio secundum 
+      dan<lb ed="#P" n="43" break="no"/>tis &amp; accipientis existimationem, acsi datio sit moralis &amp; non legalis. Retributio enim frigida est secundum 
+      <lb ed="#P" n="44"/>aestimationem recipientis &amp; beneficiati. Priorem partem philosophus notam relinquit, quia stipulatio con 
+      <lb ed="#P" n="45"/>trahentium consensu firmatur, secundam vero partem in litera prosequitur inquiens. Si vero hoc non 
+      <lb ed="#P" n="46"/>accidit non solum necessarium, verum etiam iustum esse videbitur ipsum praehabentem hanc ipsam 
+      sta<lb ed="#P" n="47" break="no"/>tuerit: hoc est ad recipientem attinet facere aestimationem quantum sit vtilitatis ex beneficio consequutus, 
+      <lb ed="#P" n="48"/>vel quantum appretietur delectationem sibi exhibitam. Hoc duplici argumentatione corroborat. Primo 
+      <lb ed="#P" n="49"/>inquiens. Sicut in emptionibus ad ementem aestimationem facere pertinet, quante vtilitatis res empta 
+      <lb ed="#P" n="50"/>esse ei potest, &amp; secundum hoc tantum emere debet. Et hoc est quod litera dicit. Nam si quantum hic 
+      vti<lb ed="#P" n="51" break="no"/>litatis habuit aut pro quanto voluptatem expetit tantum ille receperit, dignam de hoc remunerationem 
+      <lb ed="#P" n="52"/>habebit. Etenim in rebus venalibus ita fieri videtur. Et sequitur secunda probatio. Et quibusdam in locis 
+      <lb ed="#P" n="53"/>sunt leges quae vetant sponte actarum contractionum iudicia esse, quasi vnamquanque eiusmodi 
+      contractio<lb ed="#P" n="54" break="no"/>num dissolui oporteat, illi qui alteri aestimationis fidem credidit, quemadmodum &amp; societatem contraxit. 
+      <lb ed="#P" n="55"/>Existimat enim iustius esse eum statuere atque aestimare cui permissum est, quam eum qui permisit. 
+      Siqui<lb ed="#P" n="56" break="no"/>dem plerunque non aeque aestimant qui habent &amp; qui accipere volunt. Sua enim qui dat multi aestimat, 
+      <lb ed="#P" n="57"/>verum compensatio ea fiet quam statuunt ii qui acceperunt valorisque quantitatem agnouerunt.
+    </p>
+            <p xml:id="JMAet9-d36340-d1e267">
+      
+      Sequi<lb ed="#P" n="58" break="no"/>tur quinta conclusio illic, oportet autem fortasse. Vult dicere philosophus quod sanum est non tanti donum 
+      <lb ed="#P" n="59"/>aestimari quanti videbitur possidenti, hoc est illi qui iam rem aliquandiu tenuit quia talis donum 
+      atte<lb ed="#P" n="60" break="no"/>nuare solet, sed oportet donum tanti aestimare quanti ipsum faciebat priusquam ipsum possideret. Et hic 
+      <lb ed="#P" n="61"/>ponit philosophus temperamentum forte, nam plerique soleant rem (qua plurimum egent) 
+      notabi<lb ed="#P" n="62" break="no"/>liter plus aestimare quam valeat, tunc secundum illud non erit recompensatio. sed secundum 
+      ve<lb ed="#P" n="63" break="no"/>rum rei tunc valorem quem postea plenius cognoscet.
+    </p>
+            <p xml:id="JMAet9-d36340-d1e283">
+               <pc type="pilcrow">¶</pc> Dubitabitur an retributio 
+      mensuran<lb ed="#P" n="64" break="no"/>da venit secundum aestimationem dantis prius beneficium an accipientis. Pro dubitationis solutione I 
+      <!--301.xml-->
+      <pb ed="#P" n="140-v"/>
+               <lb ed="#P" n="1"/>ponentur propositiones quarum prima est. In amicitia ob bonum honestum non est vis siue maius siue 
+      <lb ed="#P" n="2"/>minus siue aequale retribuatur. Ratio est quia illic donans nullam retributionem intendit. Secunda conclusio. In  
+      <lb ed="#P" n="3"/>amicitia quae est precise ob bonum vtile dationes solum verbaliter a venditione distinguuntur. Intentio enim 
+      <lb ed="#P" n="4"/>dantis est aequale rehabere: alioqui non daret: sed honestius est vocabulum dandi quam vendendi aut 
+      mutuan<lb ed="#P" n="5" break="no"/>di. Propterea illo modo loquendi vtitur. In venditione enim quid pro quo dare oportet &amp; oportet vtrumque 
+      <lb ed="#P" n="6"/>illorum secundum suas opinationes lucrari. Siquidem vendens gradarium mediocrem decem scutis, 
+      lu<lb ed="#P" n="7" break="no"/>crari existimat, cum pecuniam aequo ei gratiorem acquirit: contra vero gradarium molliter ingredientem 
+      <lb ed="#P" n="8"/>acquirens, lucrari se opinatur, cum pecunia qua non eget gradarius est ei gratior. Sic amicitia ob vtile 
+      in<lb ed="#P" n="9" break="no"/>ter aliquos contrahitur vbi vterque lucrari credit: &amp; si ita non contingat, amicitia talis dissoluitur. Variae 
+      <lb ed="#P" n="10"/>enim circunstantiae donatoris considerandae sunt. Si enim det rem qua multum eget, vtpote quia 
+      iactu<lb ed="#P" n="11" break="no"/>ram in rebus suis incurrit gratia illius doni, vel lucrum eius cessat, tunc plus quam ei collatum est 
+      retribuen<lb ed="#P" n="12" break="no"/>dum est. Oppositum in vsu erit si talis rei non indigeat.
+    </p>
+            <p xml:id="JMAet9-d36340-d1e321">
+               <pc type="pilcrow">¶</pc> Tertia conclusio dubitationi partim respondens 
+      <lb ed="#P" n="13"/>est haec. Tam dans quam recipiens debet quantitatem doni aestimare. Primo quidam dans vt sciat quantum 
+      <lb ed="#P" n="14"/>retributionis recipere oportebit, secundo recipiens vt sciat in quanto ad retributionem deuinctus est. 
+    </p>
+            <p xml:id="JMAet9-d36340-d1e331">
+               <lb ed="#P" n="15"/>⁋ Quarta &amp; vltima conclusio responsionem cum priore conclusione dans est haec. Ad retribuentem 
+      per<lb ed="#P" n="16" break="no"/>tinet inuenire proportionem retributionis priori dono respondentem. Haec enim est Aristotelis in litera. 
+      <lb ed="#P" n="17"/>Et patet quodammodo ratione, eius quia benefactor ei contulit authoritatem hoc faciendi cum praemium 
+      <lb ed="#P" n="18"/>retributionis non expressit, sed suo arbitrio reliquit. Et non solum dandum est praemium priori dono 
+      re<lb ed="#P" n="19" break="no"/>spondens, sed amplius sicut Aristoteles semper in octauo innuere videtur, &amp; ratio potest esse quia quantum 
+      <lb ed="#P" n="20"/>fieri potest parificandae sunt gratiae in tali amicitia ne materia quaestus interueniat. Gratiae enim non 
+      pari<lb ed="#P" n="21" break="no"/>ficantur nisi plus quam acceptum fuerit detur: qui enim primo dedit gratiam fecit, vt dedit arcum valentem 
+      <lb ed="#P" n="22"/>decem: qui baltheum valentem praecise decem reddidit, nullam gratiam fecit. Reddidit enim solum quod  
+      <lb ed="#P" n="23"/>obnoxius est dare: ex parte rei datae ad extra &amp; nihil ex parte gratiae praeuenientis. Oportet ergo tanto 
+      <lb ed="#P" n="24"/>plus dare, quanto gratia prius dantis gratiam recipientis excessit. Nolo dicere quod plus a quolibet &amp; semper in bo 
+      <lb ed="#P" n="25"/>nis fortunae detur, sed aequale vel plus detur vel polliceatur aliter se pro beneficio accepto satissacturum.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

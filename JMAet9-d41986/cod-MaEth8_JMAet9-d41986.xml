@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 7</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 7</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d41986"><!-- mair-l10c7 -->
+            <head xml:id="JMAet9-d41986-Hd1e103">Caput 7</head>
+            <p xml:id="JMAet9-d41986-d1e106">
+               <lb ed="#P" n="44"/>
+               <quote xml:id="JMAet9-d41986-Qd1e110" type="lemma">Qvod si felicitas operatio est</quote> &amp;c. Istud est septimum caput huius decimi libri &amp; secundum 
+      tra<lb ed="#P" n="45" break="no"/>ctatus secundi. Et duas partes praecipuas complectitur. Prior pars est enarratiua, &amp; tria carptim 
+      <lb ed="#P" n="46"/>Tenarrat. Primum quod felicitas est perfecta operatio secundum optimam virtutem optimae potem 
+      <lb ed="#P" n="47"/>tiae quae est in homine. Secundum quod illa aliis hominis partibus dominatur &amp; diuinarum 
+      humana<lb ed="#P" n="48" break="no"/>rumque rerum cognitionem habet. Tertium quod talis operatio quae est felicitas est cognitio speculatiua. 
+    </p>
+            <p xml:id="JMAet9-d41986-d1e123">
+               <lb ed="#P" n="49"/>⁋ Prima conclusio huius capitis est. Operatio partis contemplatiuae secundum propriam virtutem 
+      <lb ed="#P" n="50"/>est felicitas. Hoc est contemplatio veritatis. 
+    </p>
+            <p xml:id="JMAet9-d41986-d1e130">
+               <lb ed="#P" n="51"/>⁋ Probatur haec conclusio sic. Felicitas est operatio secundum virtutem, &amp; vt in hoc decimo 
+      retuli<lb ed="#P" n="52" break="no"/>mus, rationi consentaneum est vt sit secundum praestabilissimam virtutem &amp; eius potentiae etiam 
+      <lb ed="#P" n="53"/>fuerit quae in nobis est optima, siue ea potentia sit mens hoc est ipse intellectus, siue aliquid aliud vt 
+      <lb ed="#P" n="54"/>voluntas, siue neotericorum more (volitio) quod suapte natura aliis imperat &amp; animaduersionem de 
+      <lb ed="#P" n="55"/>honestis diuinisque rebus habet. Non enim est ei curae de vtili delectabilique nisi per accidens, quando copulatur honesto¬ 
+      <!--346.xml-->
+      <pb ed="#P" n="163-r"/>
+               <lb ed="#P" n="1"/>Sane ipsum em quid diuinum, aut eorum quae in nobis sunt est quid diuinissimum. Itaque eius partis diuinae operatio 
+      <lb ed="#P" n="2"/>secundum propriam virtutem beatitudo praestabilissima est. Multa alia praesupponit vt postea dicam: 
+      <lb ed="#P" n="3"/>Per mentem, intellectum &amp; voluntatem intelligit. Patet per proprietates quas isti potentiae diuinae 
+      <lb ed="#P" n="4"/>applicat, ratione enim intellectus intelligit &amp; animaduersionem habet, per voluntatis imperium, 
+      ho<lb ed="#P" n="5" break="no"/>minis partibus imperat, dominatur enim voluntas appetitui senfitiuo principatu politico. Ille appe 
+      <lb ed="#P" n="6"/>titus nonnunquam rationi renititur, vt in continenti videre est, membris corporis principatu despotico 
+      <lb ed="#P" n="7"/>imperat. primo Politicorum hoc ipsum aliubi locupletius reteximus. Mens est quid diuinum sempiter 
+      <lb ed="#P" n="8"/>num a materia separatum. Et hoc Auerrois tertio de anima insequitur. Cui ex diametro obsistimus., 
+      <lb ed="#P" n="9"/>Aristoteles vult dicere est quid diuinissimum eorum quae in nobis sunt cum caelestia meditetur. 
+      Di<lb ed="#P" n="10" break="no"/>ctum est autem in primo libro eam felicitatem esse contemplatiuam. Proinde hoc est tam rationi quam ante enarratis 
+      conso<lb ed="#P" n="11" break="no"/>num. Et istam conclusionem tam ex parte subiecti praestantissimi, quam ex parte obiecti probat sic. Omnis ea operatio 
+      <lb ed="#P" n="12"/>quae a perfectissimo subiecto perfectissimoque obiecto proficiscitur est optima: speculatio veritatis est 
+      hu<lb ed="#P" n="13" break="no"/>iusmodi: igitur. Maior patet, quia ex praestabilissimis causis praestabilissimus emanat effectus: &amp; quia est 
+      <lb ed="#P" n="14"/>in mente, quae est diuinum aliquid &amp; circa substantias separatas. patet minor. Secundo idem 
+      pro<lb ed="#P" n="15" break="no"/>bat in valore sic. Inter omnes operationes hominis felicitas est maxime continua, vt patet ex primo 
+      <lb ed="#P" n="16"/>libro. Sed contemplari magis continue quam quoduis agere possumus. nam ob fatigationem corporum 
+      <lb ed="#P" n="17"/>sensuum accidit discontinuatio: at intellectus non vtitur organo corporeo. Intelligit enim caecus &amp; 
+      <lb ed="#P" n="18"/>surdus, &amp; anima separata. Mens est animi altior pars qua solum honesta diuinaque percipimus, vnde 
+      <lb ed="#P" n="19"/>Quidius. Mente deos adiit, &amp; quod natura negabat. Visibus humanis, oculis ea pectoris hausit. Mens re 
+      <lb ed="#P" n="20"/>ipsa est anima. sed haec vocabula in connotato differunt. Quandin corpus informat est anima &amp; 
+      ani<lb ed="#P" n="21" break="no"/>mus. sed mens solum contemplando, inferiora speculans non est mens, necdum est mente captus. 
+      <lb ed="#P" n="22"/>Non tamen inficior quin amens si literatus fuerit optime ratiocinatur, carmina enim melius quam cum 
+      <lb ed="#P" n="23"/> est mentis compos cudit. Hoc experimento in talibus noui. Ergo sensuum &amp; virium corporis 
+      indis<lb ed="#P" n="24" break="no"/>positio quae amentem facit non extrudit omnia, sed ea adhuc tanquam quid diuinum nonnihil 
+      medita<lb ed="#P" n="25" break="no"/>tur. Et patet istud. Inter principes lsraelitarum qui ad lehu inquiunt quid vult iste insanus tecum. 
+      <lb ed="#P" n="26"/>Loquentes de propheta domini vide tertium Regum. Tertio suspicamur voluptatem beatitudini 
+      <lb ed="#P" n="27"/>coniunctam esse oportere, at operationum virtutum dubio procul ea iucundissima est quae a 
+      sapien<lb ed="#P" n="28" break="no"/>tia propriaque contemplatiuae partis virtute emergit. ltaque sapientia mirabiles tum puritate cum 
+      fir<lb ed="#P" n="29" break="no"/>mitate voluptates habet. Puritate quia voluptates venereae cibi potusque impurae sunt &amp; brutales, &amp; 
+      <lb ed="#P" n="30"/>creberrima earum est poenitudo, proinde non sunt firmae. Cui astipulatur responsio illa Demosthenis 
+      <lb ed="#P" n="31"/>oratoris suo seculo principis ad laudem nobile scortum plus nimio pro concubitu expostulantem 
+      no<lb ed="#P" n="32" break="no"/>lo tanti emere istud quod poenitentia obliterare oportebit. Hae voluptates doloribus &amp; anxietatibus 
+      <lb ed="#P" n="33"/>miscentur. Qi philosophia speculationes cum voluptate habeat, patet, quia hoc quod scitu dignum 
+      <lb ed="#P" n="34"/>est inquirere est delectabile vt illud sciatur, at maior est voluptas in sciente dum illud iam nouit. Hoc 
+      <lb ed="#P" n="35"/>est philosophia duobus hominum generibus est iucunda, scilicet scire cupidis &amp; inquirentibus &amp; iam 
+      <lb ed="#P" n="36"/>eruditis. Concupiunt enim homines scire abditissima a sensu vt celorum numerum, eorumque 
+      mo<lb ed="#P" n="37" break="no"/>tum tam in epicyclis quam excentricis, cur dies hiberni sunt contracti &amp; estatis porrecti, de primo 
+      mo<lb ed="#P" n="38" break="no"/>tore &amp; quem ordinem &amp; principatum in vniuerso habeat, &amp; sic de aliis altissimis causis. Cui alludit il 
+      <lb ed="#P" n="39"/>lud virgilianum. Felix qui potuit rerum cognoscere causas. Sic de morali philosophia, quae viam 
+      ape<lb ed="#P" n="40" break="no"/>rit ad bene beateque viuendum, sic de eloquentia quae venere dicendi, vt vult, persuadet, dissuadetque. 
+      <lb ed="#P" n="41"/>nulla est ars liberalis quae non habeat suam voluptatem affinem. Pius qui eam dignitatem inter 
+      pon<lb ed="#P" n="42" break="no"/>tifices maximos secundus tulit, excelsam dignitatem nactus quicquid ocii dabatur ab 
+      admimstratio<lb ed="#P" n="43" break="no"/>ne publica id omne literis impendebat, crebriter inter necessarios testatus id tandem esse vnde mira 
+      <lb ed="#P" n="44"/>voluptas perciperetur, quocirca multo pluris libros faciebat quam vniones quibus vt fati consuerunt non 
+      <lb ed="#P" n="45"/>parum chrysolitarum inesset. <name xml:id="JMAet9-d41986-Nd1e244">Petrus blesensis</name> recte ait si paradisus est in terris, est in claustro aut 
+      stu<lb ed="#P" n="46" break="no"/>dio. Perbellum est huiusmodi similia cognoscere. At scire bolos delicatos in boue ariete ve. Item quot 
+      <lb ed="#P" n="47"/>panes sint in modio tritici, quot pintae vini in dolio, est vilium &amp; abiectorum, &amp; ita de caeteris 
+      opifi<lb ed="#P" n="48" break="no"/>cum artibus qui in sordido lucro versantur. Locupletum opes sunt sentes homininem pungentes, 
+      <lb ed="#P" n="49"/>authore Christo in euangelio. Hae scientiae in philosophia non discuntur 
+    </p>
+            <p xml:id="JMAet9-d41986-d1e257">
+               <lb ed="#P" n="50"/>⁋ Quarto. In illa operatione consistit felicitas ad quam homo est magis per se sufficiens, at inter omnes 
+      <lb ed="#P" n="51"/>operationes virtutum homo est maxime sufficiens ad speculandum: igitur.
+    </p>
+            <p xml:id="JMAet9-d41986-d1e265">
+               <pc type="pilcrow">¶</pc> Probatur minor, quia 
+      <lb ed="#P" n="52"/>aliae partes lucent. Sapiens, iustus, &amp; caeteri omnes virtute praediti iis indigent quae vitae necessaria sunt. 
+      <lb ed="#P" n="53"/>vt alimento amictuque, ac studiosus secundum virtutem moralem pluribus eget. lustus adhuc eorum 
+      <lb ed="#P" n="54"/>eget ad quos &amp; cum quibus assessoribus agat iuste, &amp; tempetantes homines communiter in societate 
+      <lb ed="#P" n="55"/>cum aliis mandunt quorum temperantiam aliorum ingluuies frangit, gulosus enim temperantem 
+      <lb ed="#P" n="56"/>ad excessiuum esum irritat, &amp; fortes &amp; alii aliorum egens &amp; cum his non parum anxietatis est. ludex 
+      <lb ed="#P" n="57"/>iustam ferens sententiam, tyrannos carnificesque veretur ob lucrum, odium, amorem in talibus multa requi 
+      <lb ed="#P" n="58"/>tuntur, &amp; est anxietas, verum si sapiens solus fuerit contemplari valet. Dicebat enim ille Romanus Scipio, numquam mi 
+      <lb ed="#P" n="59"/>nus solus sum quam cum solus sum. Tum enim sua mente hincinde rationabatur. Paucis libris vir sapiens contentus est, &amp; 
+      <lb ed="#P" n="60"/>quanto sapientior tanto pauciorum codicum est indigus. Egregie autem eruditus in scrinio pectoris libratiam circumfert 
+      <lb ed="#P" n="61"/>&amp; generosus verbi diuini declamator ad populum, solo breuiario vtens vtiliter concionatur. At nihil 
+      <lb ed="#P" n="62"/>prohibet id posse melius si habeat adiutores. Plura vident oculi quam oculus, &amp; ferrum ferro acuitur. Octauo 
+      hu<lb ed="#P" n="63" break="no"/>ius, duo simul viuentes intelligere &amp; agere sunt potentiores. Quatuor tresve mutuo conferentes solidius 
+      <lb ed="#P" n="64"/>audaciusque materiam aliquam absoluent quam octo aut decem segregati. Oedippum interdum dauus erudit,. Pugilem 
+      <!--347.xml-->
+      <pb ed="#P" n="163-v"/>
+               <lb ed="#P" n="1"/>nanus nonnunquam prostrauit, nihilo secius inter homines virtute redimitos sufficientissimus est ipse so 
+      <lb ed="#P" n="2"/>lus, si anxie eruditus fuerit magnus eius labor solitarie consistit, in ambiguis cum aliis doctis confert. 
+    </p>
+            <p xml:id="JMAet9-d41986-d1e308">
+               <lb ed="#P" n="3"/>⁋ Quinto ipsius sapientiae speculatio potissimum obseipsam vel sola amatur. Priorem exponentem 
+      <lb ed="#P" n="4"/>illius exclusiuae primo monstrat, postea secundam. Nihil enim ab ipsa praeter ipsam contemplationem proue 
+      <lb ed="#P" n="5"/>nit, at cum nonnihil in aliis virtutum operibus operamur acquirimus nobis plus minusve praeter ipsam 
+      actio<lb ed="#P" n="6" break="no"/>nem vtpote gratiam lucrum aut odium a carnificibus iustitiam colentes interdum cruciantur. Vis rationis in hoc est. Haec 
+      <lb ed="#P" n="7"/>perfecta felicitas consistit in ea operatione quae est per se expetibilis &amp; nullo modo ob aliud in rebus humanis, 
+      <lb ed="#P" n="8"/>at speculatio veritatis est humoni: igitur. Mox paulo probat felicitatem non consistere in operatione virtutis actiuae. 
+      <lb ed="#P" n="9"/>Hoc monstrat de duarum virtutum praestantissimarum operationibus scilicet virtute politica vbi superior ciues regit, 
+      <lb ed="#P" n="10"/>&amp; in virtute bellica patriam tuendo a diris hostibus &amp; immites propulsando. Et quia felicitas est in 
+      opera<lb ed="#P" n="11" break="no"/>tione alicuius virtutis excellentis &amp; non actiuae, ergo in operatione mentis contemplatiuae fuerit.
+    </p>
+            <p xml:id="JMAet9-d41986-d1e330">
+               <pc type="pilcrow">¶</pc> Sicque sexto in 
+      <lb ed="#P" n="12"/>valore argumentatur. Felicitas ipsa in ocio &amp; tramquillitate consistit, quia negocium suscipimus vt ocium ha 
+      <lb ed="#P" n="13"/>beamus, &amp; bellum gerimus vt in pace quiete viuamus. Virtutum agibilium operationes sunt in ciuilibus 
+      bel<lb ed="#P" n="14" break="no"/>licisque rebus maiorem in modum sunt eae praeciosae &amp; gratia tramquillitatis habendae suscipiuntur. Carnifex 
+      trucu<lb ed="#P" n="15" break="no"/>lentus esset ille qui bellum gratia sui susciperet. Sanguinolentus est ille si faciat amicos hostes vt pugnae &amp; 
+      cae<lb ed="#P" n="16" break="no"/>des tetrae fiant. Dissipa gentes qui bella volunt, inquit deiloquus Psalmista. Et ciuilis operatio negociosa est, vt 
+      <lb ed="#P" n="17"/>qui praeter actionem potestates sibi comparans, honores sibiipsi &amp; suis ciuibus beatitudinem parans, quae ciuilis viri fe 
+      <lb ed="#P" n="18"/>licitas diuersa est a ciuium beatitudine &amp; magis irrequieta, &amp; ab ea quam hoc in loco querimus vtraque est 
+      <lb ed="#P" n="19"/>diuersa. Si ergo ciuiles &amp; bellicae operationes reliquis actionibus quae a virtute emanant &amp; pulchritudine &amp; 
+      ma<lb ed="#P" n="20" break="no"/>gnitudine antecellunt, hae virtutes sunt circa bonum commune, vna facere ciues bene viuere, opes tramquille habe 
+      <lb ed="#P" n="21"/>re, &amp; ne ab hostibus inquietentur ars militaris insudat, &amp; negociosae sunt propter aliquem finem, non eim ob sei 
+      <lb ed="#P" n="22"/>ipsas petendae, tanto magis aliae actiones, mon mentis operatio praecellit, quia contemplatiua praeter seipsam nullum pe 
+      <lb ed="#P" n="23"/>nitus affert finem, &amp; affinitatem habet cum voluptate quae ipsam operationem auget, itaque est sufficientis 
+      <lb ed="#P" n="24"/>sima non negociosa, non turbulenta, sed in ocio &amp; tranquillitatis dexteritate, &amp; curarum expers 
+      quan<lb ed="#P" n="25" break="no"/>tum hominibus conceditur. Et vt paucis agam, quaecunque alia felici tribuuntur per hanc contemplatiuae partis ope 
+      <lb ed="#P" n="26"/>rationem secundum virtutem insunt. Proinde haec perfecta operatio hominis est felicitas, cum hoc annexo vt ipsa 
+      <lb ed="#P" n="27"/>accipiatur in vitae longitudine. Nihil enim felicitatis mancum &amp; imperfectum est, sicut enim operatio est 
+      perfe<lb ed="#P" n="28" break="no"/>cta ita temporis interuallum ad felicitatem exigitur. 
+    </p>
+            <p xml:id="JMAet9-d41986-d1e373">
+               <lb ed="#P" n="29"/>⁋ Septimo haec vita secundum sapientiam hominis superat naturam. Non enim eo ipso quod homo ita viuet, sed quo 
+      <lb ed="#P" n="30"/>quid in ipso diuinum est, scilicet mente, qua quispiam diuinus est. Quantum itaque mens a toto composito differt: 
+      <lb ed="#P" n="31"/>tantum &amp; totius operatio compositi ab ea quae est mentis. Ita politica &amp; militaris est totius composi 
+      <lb ed="#P" n="32"/>ti, quia illic est praecipua cura circa corpus, eius alimentum &amp; toti necessaria. Haec vita beata circa 
+      pri<lb ed="#P" n="33" break="no"/>mum motorem eiusque effectus sublimes insudat, vt circa caelestia. Nam caeli, teste psalmographo, 
+      enar<lb ed="#P" n="34" break="no"/>rant gloriam dei, &amp; opera manuum eius annunciat firmamentum. i. octauum caelum. In vita sensiti 
+      <lb ed="#P" n="35"/>ua cum brutis communicamus. In vita politica &amp; militari est vita perfecta humana, &amp; illam vocat 
+      to<lb ed="#P" n="36" break="no"/>tius compositi. Speculatio caelestium est vita diuina. 
+    </p>
+            <p xml:id="JMAet9-d41986-d1e393">
+               <lb ed="#P" n="37"/>⁋ Octauo, mens aliquid diuinum ad ipsum hominem est, itaque vita quae ab hac proficiscitur diuina 
+      <lb ed="#P" n="38"/>est humanae vitae respectu. Neque oportet sicut nonnulli admonent humana nos sapere, quia sumus ho 
+      <lb ed="#P" n="39"/>mines, aut mortalia, quia sumus caduci, verum quantum fieri potest nos ipsos immortales efficere 
+      eni<lb ed="#P" n="40" break="no"/>temur, vniuersaque facere vt ea viuamus vita quae ab ea deriuatur quod omnium quae nobis insunt est 
+      <lb ed="#P" n="41"/>praecipuum. Legitur Herostrati insigne flagitium. Is vt sibi nominis perennitatem conciliaret, 
+      tem<lb ed="#P" n="42" break="no"/>plum Dianae in Epheso concremauit. Qua cum ille sacrilegio suo causam praetenderet, publico edicto cau 
+      <lb ed="#P" n="43"/>tum est vt ex hominium memoria excideret vt nemo id factum enarraret, at vno referente agminatim caete 
+      <lb ed="#P" n="44"/>ri non tacuerunt. Quid ergo faciendum est pro nomine in bono? Qumquam autem mens parum est mole, quia impartibilis est, 
+      <lb ed="#P" n="45"/>&amp; sic non proprie quid magnum, cum non sit quantum: vi tamen &amp; praecio omnibus antecellit. Haec enim est Hesiodi poetae 
+      sen<lb ed="#P" n="46" break="no"/>tentia, vt primo metaphysicae patet, monentis nos circa diuina negociari. 
+    </p>
+            <p xml:id="JMAet9-d41986-d1e417">
+               <lb ed="#P" n="47"/>⁋ Nono absurdum est cuipiam non eligere propriam vitam, sed alterius sua neglecta, at vita contemplatiua est homini 
+      fa<lb ed="#P" n="48" break="no"/>miliaris &amp; propria, proinde conari debet vt secundum intellectum viuat. Minorem bifariam ostendit. Primo quia vnus 
+      <lb ed="#P" n="49"/>quisque videtur esse intellectus tamquam praecipuum, quod est in eo, quia a tali totum compositum (vt ex nono lib. patet) 
+      de<lb ed="#P" n="50" break="no"/>nominatur. Secdo quia vt prius significatum est, illud est vnicuique proprium quod est ei naturalr optimum iucundissimumque  
+      <lb ed="#P" n="51"/>at homini secunm intellectum vita est iucundissima, itaque talis vita est homini addicta. Intellectu maxime quis est homo 
+      <lb ed="#P" n="52"/>vt recentissime retulimus, &amp; haec est felicissima vita.
+    </p>
+            <p xml:id="JMAet9-d41986-d1e434">
+               <pc type="pilcrow">¶</pc> Circa literam dubitatur. Primo quomodo mens est quid diui 
+      <lb ed="#P" n="53"/>num?Sedo quanta temporis intercapedo ad felicitatem requiritur. Tertio an vna operatio an plures sunt felicitas, 
+      <lb ed="#P" n="54"/>Quarto videtur felicitas non consistere in ocio. Ociamur enim ob aliud &amp; finis est irreferibilis. Quin 
+      <lb ed="#P" n="55"/>to scriptum est altiora te ne quaesieris. Ecclesia. tertio. Cui Cato illudens ait. Cum sis mortalis quae sunt 
+      <lb ed="#P" n="56"/>mortalia cura, quomodo ergo id improbatur in litera.
+    </p>
+            <p xml:id="JMAet9-d41986-d1e448">
+               <pc type="pilcrow">¶</pc> Sexto totum compositum est mente perfectius, &amp; 
+      <lb ed="#P" n="57"/>perfectioris subiecti est perfectior operatio secundm philosophum: ergo operatio compositi est praestantior. 
+    </p>
+            <p xml:id="JMAet9-d41986-d1e456">
+               <lb ed="#P" n="58"/>⁋ Ad primum respondetur quod anima est immortalis. Patet tertio de aia. Separat hoc ab illo tanquam a 
+      <lb ed="#P" n="59"/>corruptibili, prpetuum. Secundo homo erectus graditur &amp; ad sidera tollit vultum, caetera aialia prona spectant 
+      <lb ed="#P" n="60"/>in terram ergo praesagium est hominem a belluis ad alium locum tendere. Tertio generose philosophantes 
+      <lb ed="#P" n="61"/>ita opinati sunt. Quarto deus bene regit vniuersum, proinde sontes alicubi omnes mulctat &amp; 
+      inson<lb ed="#P" n="62" break="no"/>tes pro suis bonis operibus praemiat, at hoc non semper in hac mortali vita contingit: igitur. 
+    </p>
+            <p xml:id="JMAet9-d41986-d1e469">
+               <lb ed="#P" n="63"/>⁋ Quinto qui assentitur huic, anima est immortalis, pro illius assensu siue sit immortalis siue 
+      non<lb ed="#P" n="64" break="no"/>non damnabitur. Aduersario autem pro hoc malae contingit: igitur. 
+      <!--348.xml-->
+      <pb ed="#P" n="164-r"/>
+            </p>
+            <p xml:id="JMAet9-d41986-d1e480">
+               <lb ed="#P" n="1"/>⁋ Sexto in lumine naturali quilibet ratione vtens habet assentire his. Remunerator bonorum &amp; 
+      pu<lb ed="#P" n="2" break="no"/>nitor malorum est deus ad Hebraeos. xi. ergo illi dissentiens peccat vel in solo naturali lumine ambu 
+      <lb ed="#P" n="3"/>lans, cum enim non fiat sufficienter praemiatio aut punitio in hoc mundo, per consequens erit in alio 
+      <lb ed="#P" n="4"/>&amp; propter hoc animam esse immortalem est necesse. 
+    </p>
+            <p xml:id="JMAet9-d41986-d1e491">
+               <lb ed="#P" n="5"/>⁋ Contra, naturaliter loquens nihil habet ponere sine ratione cogente, at nullus animam separatam 
+      <lb ed="#P" n="6"/>cognoscit, cum eam non videat in lumine naturali, nec eius cruciatus vel praemium. Sedo nemo scit in  
+      <lb ed="#P" n="7"/>illo lumine naturali vbi locorum anima separata praemiatur aut punitur, ergo illud non est concedendum. 
+    </p>
+            <p xml:id="JMAet9-d41986-d1e501">
+               <lb ed="#P" n="8"/>⁋ Ad priorem dico maiorem esse falsam, in omni enim scibili ponuntur aliqua demonstratione val¬)  
+      <lb ed="#P" n="9"/>lata. Secundo ratione irrefragabili illud ponitur, patet per probationes adductas: ad minorem dico aniam 
+      <lb ed="#P" n="10"/>non cadere sub obiectum alicuius sensus interioris aut exterioris, ratione tamen cognoscitur felicitas eius aut dolor. 
+    </p>
+            <p xml:id="JMAet9-d41986-d1e510">
+               <lb ed="#P" n="11"/>⁋ Ad secundm dicitur quod de loco proprio hoc est verum, sed ex hoc non sequitur illatum, Scio enim amicum meum qui 
+      <lb ed="#P" n="12"/>abiit hinc, esse in aliquo loco in contracto, sed an in isto loco an in proprio illo me prorsus fugit, scio hic 
+      <lb ed="#P" n="13"/>ad credo vel autumo extendo.
+    </p>
+            <p xml:id="JMAet9-d41986-d1e519">
+               <pc type="pilcrow">¶</pc> Secundo dico intellectum esse quid diuinum, quia deum cognoscit &amp; effectus 
+      <lb ed="#P" n="14"/>memorabilis eius, &amp; suis operibus perpetuitatem deum aemulando quaerit, &amp; dei operationes aemulatur, quae non est circa 
+      <lb ed="#P" n="15"/>operationes vitae actiuae vt in capitis sequentis dicere explanatione proponimus. 
+    </p>
+            <p xml:id="JMAet9-d41986-d1e529">
+               <lb ed="#P" n="16"/>⁋ Ad secundum dubium resmendetur quod prudentis est temporis mensuram apprehendere. Senectus non computatur in 
+      an<lb ed="#P" n="17" break="no"/>nis, sed in vitae nitore. Ioannes Tachariae filius Titus &amp; similes, licet iuuenes erant ad modum loquendi Ari 
+      <lb ed="#P" n="18"/>stotelis felices. Ad beatum satis est multo maximam partem vitae excellentibus contemplationibus applicare, proinde 
+      <lb ed="#P" n="19"/>grandaeuo plus interualli ad felicitatem quam ad iuuenem requiritur.
+    </p>
+            <p xml:id="JMAet9-d41986-d1e540">
+               <pc type="pilcrow">¶</pc> Ad tertiam dubitationem resmondetur quod felicitas hu 
+      <lb ed="#P" n="20"/>mana de qua philosophus loquitur est simia verae felicitatis, de qua verae pietatis cultores loquuntur, &amp; vt si 
+      <lb ed="#P" n="21"/>ne dubio capiatur, res paulo altius repetenda est. Nemo est in patria caelesti beatus nisi deum videns eum diligens 
+      <lb ed="#P" n="22"/>&amp; laetitia perfusus &amp; hoc virtutum cumulo redimitus, licet contendatur in quo actu mentis potior eius actus 
+      <lb ed="#P" n="23"/>consistat itidem impresentiarum felix secundum philosophum virtutibus abunde illustratus, sordium expers, he 
+      <lb ed="#P" n="24"/>roice viuens, primum motorem eiusque effectus pro virili, intelligens, &amp; deum amans, &amp; colens, talis 
+      <lb ed="#P" n="25"/>quaerit veritates altissimorum ad bene beateque viuendum. Talis autem vita vt Plato ait, superat 
+      ho<lb ed="#P" n="26" break="no"/>minis naturam, hoc est hominis strepitu forensi viuentis, &amp; est extra humanam aleam, eoque modo  
+      <lb ed="#P" n="27"/>quo mortalibus conceditur. literis indefesse vacat Rachel &amp; Magdalena vitam contemplatiuam signi 
+      <lb ed="#P" n="28"/>ficantes sunt perbellae. Martha &amp; Lva minus formosae &amp; anxietatibus onustae. Hae posteriores vitam 
+      acti<lb ed="#P" n="29" break="no"/>uam repraesentant. Ex his patet Aristotelem generose in materia felicitatis philosophatum fuisse, nec 
+      <lb ed="#P" n="30"/>poterat per naturam sublimius conscendere. aegre enim in lumine naturali ostendi potest animam 
+      <lb ed="#P" n="31"/>separatam posse deum intuitiue videre. Dicere itaque soleo philosophorum principen nusquam elegantius quam 
+      <lb ed="#P" n="32"/>de felicitate loquutum esse vbi etiam manuductionem ad veram felicitatem monstrauit. Vnde fit vt 
+      <lb ed="#P" n="33"/>carpendi sint theologorum nonnulli parum in ethica doctrina versati asserentes ipsum quasi in 
+      som<lb ed="#P" n="34" break="no"/>nio de beatitudine loquutum.
+    </p>
+            <p xml:id="JMAet9-d41986-d1e578">
+               <pc type="pilcrow">¶</pc> Ad quartam dubitationem dicitur quod non est hic sermo de ocio &amp; tran 
+      <lb ed="#P" n="35"/>quillitate ludi, sed est carentia eorum quae in vita actiua contingant, comparatiue ad eam in contemplatione est requies. 
+      <lb ed="#P" n="36"/>Pro cuius vberiore intelligentia scito quod ocium vulgare est desidia &amp; vacatio a labore, cuius contratium est 
+      ne<lb ed="#P" n="37" break="no"/>gocium, de hoc ocio non fit hic mentio.
+    </p>
+            <p xml:id="JMAet9-d41986-d1e591">
+               <pc type="pilcrow">¶</pc> Aliud est ocium philosophicum, &amp; capitur puro studio literatio. Literis 
+      <lb ed="#P" n="38"/>enim incumbentem oportet esse separatum a tumultu seculi. Vn Quintilianus. Inquirendo scribendoque talia so 
+      <lb ed="#P" n="39"/>lemur ocium nostrum. Et Tullius. Quid dulcius est ocio literario? id est studio &amp; vt ita dicam negocioso ocio. 
+      <lb ed="#P" n="40"/>de ocio hoc modo capto loquitur philosophus in ocio literario iucunde ociantur.
+    </p>
+            <p xml:id="JMAet9-d41986-d1e603">
+               <pc type="pilcrow">¶</pc> Ad quintam dubitationem. 
+      <lb ed="#P" n="41"/>dicitur quod ecclesiasticus vult nos non debere transcendere limites humanos ad cognoscenda impossibilia 
+      <lb ed="#P" n="42"/>nobis, quemadmodum sunt illa quae soli deo attribuuntur, vt occulta futura praedicere, sed enitendum est cognosce 
+      <lb ed="#P" n="43"/>re deum eo modo quo hominibus concessum est. Intellectus est ad dei imaginem crcatus. Par est ergo vt eum diligat, 
+      <lb ed="#P" n="44"/>quem diligere sine apprehensione nequit. Haec est vita aeterna vt cognoscant te solum deum verum &amp; quem misisti 
+      le<lb ed="#P" n="45" break="no"/>sum Christum. Ioannis. xvii.
+    </p>
+            <p xml:id="JMAet9-d41986-d1e620">
+               <pc type="pilcrow">¶</pc> Ad sexta dubitationem resmondetur quod totum compositum est perfectius entitatiue quam mens,  
+      <lb ed="#P" n="46"/>non tamen est perfectior potentia. Secundo quod quando intellectus etiam anxie considerat operationes vitae actiuae tunc versatur 
+      <lb ed="#P" n="47"/>circa totum hominem, &amp; quando operationes vitae contemplatiuae, tunc circa diuinum quid negociatur. De qua re prolixius in 
+      ca<lb ed="#P" n="48" break="no"/>pite immediate sequenti videbitur.
+    </p>
+            <p xml:id="JMAet9-d41986-d1e632">
+               <pc type="pilcrow">¶</pc> Dubitatur etiam quomodo homo sit mens, cum mens sit pers eius. Respondetur per 
+      suppo<lb ed="#P" n="49" break="no"/>sitionem synecdochicam, vt fusius in dialectices introductionibus iampridem retulimus.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

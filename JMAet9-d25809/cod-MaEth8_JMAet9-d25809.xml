@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 6</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 6</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d25809"><!-- mair-l6c6 -->
+            <head xml:id="JMAet9-d25809-Hd1e103">Caput 6</head>
+            <p xml:id="JMAet9-d25809-d1e106">
+               <lb ed="#P" n="46"/>
+               <quote xml:id="JMAet9-d25809-Qd1e110" type="lemma">CVm autem scientia</quote> &amp;c. Hoc caput breue in geminas partes diducitur. In priore parte conclusiones 
+      negati<lb ed="#P" n="47" break="no"/>uas adducit quibus intellectum a caeteris habitibus mentis separat. In secunda costructiuam partem affert, 
+      <lb ed="#P" n="48"/>qua euulgat intellectum esse habitum principiorum. In primis sic ait. Cum scientia sit circa vniuersalia 
+      <lb ed="#P" n="49"/>&amp; necessaria: &amp; circa conclusiones demonstrabiles: &amp; cum sint principia ex quibus tales conclusiones &amp; omnis scien 
+      <lb ed="#P" n="50"/>tia scatet: profecto principiorum huiusmodi rerum scibilium aliquis habitus peculiaris fuerit, non autem 
+      <lb ed="#P" n="51"/>scientia ars, non prudentia non sapientia, itaque alius erit habitus. Qu scientia non sit habitus principiorum 
+      <lb ed="#P" n="52"/>hoc modo ostenditur, scientia est de iis quorum est demonstratio: ac principiorum scibilium non est 
+      <lb ed="#P" n="53"/>demonstratio: igitur principiorum non est scientia. Secunda conclusio, Ars est eorum quae aliter possunt 
+      <lb ed="#P" n="54"/>se habere: at principia rerum scibilium nequeunt aliter se habere, igitur illorum non est ars, sunt enim prin 
+      <lb ed="#P" n="55"/>cipia atque causae necessariae hoc est causam necessariam important. Et eodem medio ostenditur quod  
+      <lb ed="#P" n="56"/>non est prudentia: cum obiecta prudentiae sint contingentia.
+    </p>
+            <p xml:id="JMAet9-d25809-d1e136">
+               <pc type="pilcrow">¶</pc> Alia conclusio in valore est. 
+      Sapien<lb ed="#P" n="57" break="no"/>tia est etiam de conclusionibus demonstrabilibus: at principiorum non est demonstratio: proinde 
+      <lb ed="#P" n="58"/>illorum non est sapientia in quantum conclusio. Sequitur. Quod si ea quidem haec conclusio constructiua 
+      <lb ed="#P" n="59"/>hoc pacto stabilitur, Principiorum rerum scibilium aut est scientia, sapientia, ars, prudentia, aut intelle¬ 
+      <!--211.xml-->
+      <pb ed="#P" n="96-v"/>
+               <lb ed="#P" n="1"/>ctus: at illorum non est ars, nec scientia nec sapientia nec prudentia: igitur illorum est intellectus: a sufficiem 
+      <lb ed="#P" n="2"/>ti deductione, artem hic philosophus breuiloquii causa minime supputauit. Hoc enim tanquam perspicuum 
+      <lb ed="#P" n="3"/>reliquit.
+    </p>
+            <p xml:id="JMAet9-d25809-d1e159">
+               <pc type="pilcrow">¶</pc> Circa literam dubitatur. Nam Euclydes &amp; alii authores ex conclusionibus iam demonstratis 
+      <lb ed="#P" n="4"/>alias conclusiones inferunt: itaque principiorum est scientia. Secundo haeres: quia intellectus principiis 
+      inde<lb ed="#P" n="5" break="no"/>monstrabilibus citra vllum habitum assentitur, qua de re inanis est principiorum habitus.
+    </p>
+            <p xml:id="JMAet9-d25809-d1e169">
+               <pc type="pilcrow">¶</pc> Bifariam 
+      <lb ed="#P" n="6"/>prior haesitatio soluitur: vno modo sic, Principium in vna scientia vt in subalternata, est conclusio in 
+      sub<lb ed="#P" n="7" break="no"/>alternante. Secundo quod loquitur de primis principiis quae sunt dignitates.
+    </p>
+            <p xml:id="JMAet9-d25809-d1e180">
+               <pc type="pilcrow">¶</pc> Ad secundum negamus 
+      in<lb ed="#P" n="8" break="no"/>tellectum esse eam ob causam ociosum. In ipsis enim anteloquiis habitus procreantur. assensus 
+      hu<lb ed="#P" n="9" break="no"/>ius: omne calidum est calefactium, habitum generat. Pari modo assensus actualis huius omne 
+      to<lb ed="#P" n="10" break="no"/>tum est manus sua parte, habitum parit. Capimus hic intellectum pro assensu praemissarum, &amp; non 
+      <lb ed="#P" n="11"/>pro potentia animae, habitus habentem promptificat ac interiorem actum coefficit. Caeterum habitus 
+      princi<lb ed="#P" n="12" break="no"/>piorum instar primariae lucis se habet. Sane lux per se sine alio adminiculo videtur. coloris more 
+      scien<lb ed="#P" n="13" break="no"/>tia insequitur, lucis patrocinio color videtur.
+    </p>
+            <p xml:id="JMAet9-d25809-d1e199">
+               <pc type="pilcrow">¶</pc> Ambigitur tertio, an moralis philosophia sit scientia. Re 
+      <lb ed="#P" n="14"/>spondetur quod moralis philosophia. maiore in parte habitus appetitus tractat. palamque est hanc non esse scien 
+      <lb ed="#P" n="15"/>tiam. Prudentia ad moralem philosophiam attinet, &amp; si illa sit singularium iam non clam est illam a scien 
+      <lb ed="#P" n="16"/>tia dispesci. ldem est in vniuersalibus contingentibus. Prudentia in casu cum scientia concurr ere potest. Satis 
+      <lb ed="#P" n="17"/>est illo discrimen rationis.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

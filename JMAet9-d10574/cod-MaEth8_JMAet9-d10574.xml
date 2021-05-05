@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 5</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 5</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d10574"><!-- mair-l3c5 -->
+            <head xml:id="JMAet9-d10574-Hd1e103">Caput 5</head>
+            <!--alias="mair-l3c5p1"-->
+            <p xml:id="JMAet9-d10574-d1e108">
+               <lb ed="#P" n="22"/>
+               <quote xml:id="JMAet9-d10574-Qd1e112" type="lemma">CVm igitur finis quidem sit affectabilis voluntate</quote> &amp;c. Superius philosophus de principiis 
+      vir<lb ed="#P" n="23" break="no"/>tutis &amp; vifii: vt voluntatio, inuoluntatio, electione, consilio &amp; voluntate loquutus est: nunc 
+      virtu<lb ed="#P" n="24" break="no"/>tes &amp; vitia in nostra potestate esse sita monstrat, &amp; contrarie opinantes non ab re redarguit. 
+      Quadri<lb ed="#P" n="25" break="no"/>fariamque caput hoc distrahit. In prima parte virtutes ac vitia in nostra facultate sita ostendit. In 
+      se<lb ed="#P" n="26" break="no"/>cunda placitum recitat dicentium virtutes in nostra facultate collocari, non autem vitia, quod confutat. 
+      <lb ed="#P" n="27"/>In tertia radices illius monstrat quas extirpat. In quarta epilogat supratacta de virtutibus. Prima 
+      <lb ed="#P" n="28"/>conclusio. Virtutes morales sunt in nostra potestate. Probatur haec conclusio sic. Voluntas est finis, &amp; 
+      <lb ed="#P" n="29"/>consilium &amp; electio sunt de his quae ad finem conducunt: hoc supposito, sic fit argumentum. Quorum 
+      <lb ed="#P" n="30"/>principia productiua sunt in nostra facultate, illa sunt in potestate nostra: sed primordia virtutis 
+      pro<lb ed="#P" n="31" break="no"/>ductiua penes nos sita sunt: igitur. Maior patet, quia cuius causa est penes nos, illius effectus etiam est 
+      <lb ed="#P" n="32"/>penes nos: quando illa causa est praecisa ex qua sola potest huiusmodi effectus produci. Minor patet: 
+      <lb ed="#P" n="33"/>quia bonae operationes virtutum productiuae sunt ab electione nostra, &amp; ipsa est circa illa quae sunt ad  
+      <lb ed="#P" n="34"/>finem. Ex his litera est perspicua quam repeto vt nihil obscuritatis inueniatur. Quia igitur finis est 
+      <lb ed="#P" n="35"/>affectabilis voluntate, hoc est cum finis sit hoc quod volumus, ea vero quibus ad finem itur consultabilia atque 
+      <lb ed="#P" n="36"/>eligibilia sint: sequitur vt actus qui circa haec versantur ab electione prodeant &amp; nostra sponte 
+      effician<lb ed="#P" n="37" break="no"/>tur. Sequitur secunda conclusio. Virtutes &amp; vitia in nostra potestate sunt sita. Primo, quia virtutes &amp; 
+      vi<lb ed="#P" n="38" break="no"/>tia ex operibus secundum electionem eorum quae sunt ad finem oriuntur: sed illae sunt in nostra facultate: igitur. 
+      <lb ed="#P" n="39"/>Secundo, in potestate nostra est operari bona vel mala. Nam in quibus rebus situm est agere, situm est etiam 
+      <lb ed="#P" n="40"/>non agere: &amp; quibus non agere &amp; omittere convenit etiam agere convenit. Loquitur respectu operabilium 
+      <lb ed="#P" n="41"/>a nobis. Possum quidem non euertere caelum: non autem caelum euertere: sed hoc non est ad propositum. Sequiitur 
+      <lb ed="#P" n="42"/>tertia conclusio, Virtutes &amp; vitia voluntaria sunt. In hac conclusione refellit quandam deliram opinatonem 
+      <lb ed="#P" n="43"/>eorum qui dicebant sua sponte neminem prauum nec inuitum quempiam beatum esse. Dicit itaque quod dicere neminem 
+      <lb ed="#P" n="44"/>sua voluntate prauum esse neque inuitum quempiam esse beatum, primum sane est falsum, &amp; secundum vero consonum. 
+      <lb ed="#P" n="45"/>Nemo enim est inuitus felix, sed sponte nostra ipsa prauitas comparatur: alioquin reclamandum &amp; 
+      resi<lb ed="#P" n="46" break="no"/>stendum his quae nuperrime adduximus. Et est dicere hominem non esse principium &amp; procreatorem suorum 
+      <lb ed="#P" n="47"/>actuum, perinde ac liberorum. Ex illo sequitur quod voluntas effectiue ad suos actus concurrit, cum illum 
+      con<lb ed="#P" n="48" break="no"/>cursum liberorum generationi a parente comparat: quod si pro quia, haec vera videntur, nec in alia vlla 
+      prin<lb ed="#P" n="49" break="no"/>cipia actuum quam in ea quae sunt in nobis reducere possumus. Postea omnium causam ponit inquiens. Quorum 
+      <lb ed="#P" n="50"/>principia sunt in nobis, ea quoque in nostra facultate sunt, &amp; voluntarie a nobis fiunt. Secundo. Harum 
+      <lb ed="#P" n="51"/>rerum testes sunt cum priuati homines tum legum administratores: nam publici viri eos qui praua perpetrant 
+      <lb ed="#P" n="52"/>(si non vi aut ignorantia id fecerint) corripiunt &amp; poenis afficiunt: &amp; eos qui honesta agunt, praemiis &amp; 
+      ho<lb ed="#P" n="53" break="no"/>noribus donant, tamquam hos ad perpulchra prouocantes: illos autem a malis coercentes. Atqui ad ea facienda 
+      <lb ed="#P" n="54"/>quae in nostra facultate non sunt, numquam hortarentur: quippe cum vanum sit persuadere velle non calere non 
+      <lb ed="#P" n="55"/>dolere, non esurire: nam siue quis hortetur siue deterreat, nihilo secius haec omnia quilibet patietur si causae 
+      <lb ed="#P" n="56"/>naturales sibi relinquantur. Vnde patet toxicum haereticorum nostri temporis asserentium omnes bonos actus 
+      totali<lb ed="#P" n="57" break="no"/>ter a deo produci. Insulsa sane est illorum cauillatio, aia totaliter a deo proficiscitur, proinde &amp; illius actus. Fri 
+      <lb ed="#P" n="58"/>grida profecto est haec illatio: oppositum enim consequentis concedo cum antecedente. Ostendit hoc esse verum etiam vbi 
+      <lb ed="#P" n="59"/>est quodammodo inuoluntarium per ignorationem, vbi sumus in ignorantia causae. Dicit etem pro ignoratione 
+      <!--95.xml-->
+      <pb ed="#P" n="40-v"/>
+               <lb ed="#P" n="1"/>ipsi peccant, si ignorantiae sunt causae. Probatur: quia nullus punitur nisi pro actu qui est in eius facul 
+      <lb ed="#P" n="2"/>tate situs: sed homo pro talibus punitur: igitur. Consequentia patet cum maiore. Minorem probat in  
+      <lb ed="#P" n="3"/>quiens, temulentos duplici poena afficiendos leges decernunt: principium enim in ipsis est, cum in ipsorum 
+      <lb ed="#P" n="4"/>sit facultate ebrietatem vitare, quae quidem ignorantia est causa perperam agendi. Similiter puniunt eos qui 
+      <lb ed="#P" n="5"/>delinquunt ignorantia eorum quae scire sunt obnoxii, vt sunt aliqua eorum quae in legibus includuntur, &amp; 
+      <lb ed="#P" n="6"/>quae cognitu facilia sunt: &amp; consimiliter in aliis in quibus per negligentiam ignoratione delinquunt: si 
+      <lb ed="#P" n="7"/>quidem in eorum potestate est diligentiam adhibere: &amp; sunt tales qui diligentiam legibus cognoscendis non 
+      <lb ed="#P" n="8"/>adhibent. Proinde haec opinio est falsa quae dicit: nemo est in aliis voluntarie. Insuper qui cuius studio 
+      <lb ed="#P" n="9"/>sese addicunt, &amp; in eo perseuerant operando sic dissolute viuentes vt tales euadant &amp; iniusti &amp; intemperantes, 
+      <lb ed="#P" n="10"/>sibiipsis causa sunt delicta faciendi potui ac similibus rebus indulgentes: quales enim sunt operationes 
+      <lb ed="#P" n="11"/>circa singula tales euadunt. Hoc est operationes circa singula faciunt tales habitualiter qualia sunt ipsorum 
+      <lb ed="#P" n="12"/>opera: vt si citharam pulsarent, citharoedi euadunt. Quod perspicuum est his qui ludo aut alicui arti 
+      stu<lb ed="#P" n="13" break="no"/>dent: perseuerant enim in operando, deinde habitus in eis genitus eos ad similia opera promptificat: 
+      <lb ed="#P" n="14"/>ita vt cum voluptate perseuerent, vt videre est in hominibus. deploratae malitiae, quia alea totos dies 
+      <lb ed="#P" n="15"/>ludunt ac patrimonium prodigunt. Ignorare autem habitus ex actibus fieri, nimis hebetis est hominis &amp; 
+      <lb ed="#P" n="16"/>obtusi. Praeterea a ratione alienum est dicere actu iniuriantem nolle esse iniustum, naeque intemperanter viuentem 
+      <lb ed="#P" n="17"/>esse intemperatum habitualiter, ei si quis non ignorans agit ea ex quibus est iniustus voluntarie sit iniustus. 
+    </p>
+            <p xml:id="JMAet9-d10574-d1e237">
+               <lb ed="#P" n="18"/>⁋ Circa hanc partem literae dubitatur, Primo, an ebrietas sit peccatum. Secundo, an facta ebrietatis 
+      ten<lb ed="#P" n="19" break="no"/>pore sint homini imputabilia. Tertio, an voluntas suorum actuum sit effectrix &amp; domina.
+    </p>
+            <p xml:id="JMAet9-d10574-d1e244">
+               <pc type="pilcrow">¶</pc> Ad primam 
+      <lb ed="#P" n="20"/>dubitationem respondetur, quod si homo ebrietatem ex ignorantia inuincibili incurrat, non peccat. Sed  
+      <lb ed="#P" n="21"/>pro illius ampliori enodatione ponuntur propositiones, quarum Prima est. Aliquis interdum efficitur 
+      <lb ed="#P" n="22"/>ebrius sine sua culpa. patet ex praecedente propositione. Secunda propositio. Aliquis scienter incurrit 
+      <lb ed="#P" n="23"/>ebrietatem sine sua culpa. probatio. Quispiam eget euacuatione, vt vomitu, aluo qui est incurabilis ob 
+      <lb ed="#P" n="24"/>venenum praesentaneum ab eo sumptum vel alium morbum aliter incurabilem. Casus est contingens vt 
+      supr<lb ed="#P" n="25" break="no"/>pono, his stantibus argumentor sic. Socrates est positus inter duo, vtpote de vita seruanda &amp; de 
+      temu<lb ed="#P" n="26" break="no"/>lentia euitanda, quae locum alteri parti in casu dat. igitur. Tertia propositio. Incurrere ebrietatem ex 
+      <lb ed="#P" n="27"/>ignorantia vincibili vel scienter sine rationabili causa est peccatum, &amp; exprobabile. Qu sit peccatum patet 
+      <lb ed="#P" n="28"/>quia est intemperantia. Qi sit exprobabile patet, quia ab omnibus vinosus abominabilis &amp; 
+      flagitiosissi<lb ed="#P" n="29" break="no"/>mus a vulgo reputatur. Contra secundam propositionem obiicitur, Primo sic. Talis facit actum 
+      intempe<lb ed="#P" n="30" break="no"/>rantiae, cum sit extra mensuram sobrietatis. Secundo, si homo priuaret alium ratione plus peccaret quam eum 
+      pe<lb ed="#P" n="31" break="no"/>cunia priuando: &amp; non minus quoque peccat se sua ipsius ratione priuando: igitur. Ad priorem rationem 
+      <lb ed="#P" n="32"/>respondeo negando quod faciat actum intemperantiae. Bene quidem esset extra mensuram sobrietatis nisi 
+      ratio<lb ed="#P" n="33" break="no"/>nabilis causa excusatoria occurreret Moraliter itaque loquendo in materia sobrietatis manet: solum quod 
+      <lb ed="#P" n="34"/>vulgariter loquendo est ebrius. Ad secundam rationem dicitur, quod dormiens priuat se ratione ad tempus 
+      <lb ed="#P" n="35"/>sine peccato: sic &amp; iste, signanter si inter amicos maneat qui eam ab exequutione mali impediunt. Caeterum 
+      <lb ed="#P" n="36"/>quicumque extra latitudinem sobrietatis est ebrius moraliter, licet sit mentis compos. Potestque esse 
+      mo<lb ed="#P" n="37" break="no"/>dicus excessus, &amp; sic esset veniale peccatum, aut magnus ad mortale crimen sufficiens.
+    </p>
+            <p xml:id="JMAet9-d10574-d1e290">
+               <pc type="pilcrow">¶</pc> At dubitas, an 
+      <lb ed="#P" n="38"/>assiduitas ex veniali letale efficiat. Respondetur, quod neutiquam paritate data: si praeuia parua temulentia 
+      <lb ed="#P" n="39"/>sit venialis, secunda pariter talis erit &amp; tertia, &amp; sic consequenter. Verum si debilitatem cerebri cognoscat &amp; 
+      <lb ed="#P" n="40"/>promptitudinem ad temulentiam: iam ratione nouae notitiae veniale in mortale conuertitur.
+    </p>
+            <p xml:id="JMAet9-d10574-d1e302">
+               <pc type="pilcrow">¶</pc> Circa 
+      <lb ed="#P" n="41"/>secundam dubitationem ponuntur propositiones, quarum Prima est. Occidens in ebrietate quam sine culpa 
+      <lb ed="#P" n="42"/>incurrit, non peccat. Patet, quia talis actus est inuoluntarius &amp; nullo modo in potestate viri: ergo ei ad  
+      <lb ed="#P" n="43"/>culpam non imputatur. Secunda propositio. Occidens in ebrietate culpabili quam per poenitudinem 
+      <lb ed="#P" n="44"/>emendauit, non peccat. probatur, talis ante homicidium commissum culpam praecedentem quae ad 
+      homi<lb ed="#P" n="45" break="no"/>cidium est antecedenter castigauit: ergo non peccat. Tertia propositio, loquendo de ebrio qui nihil 
+      ratio<lb ed="#P" n="46" break="no"/>nis habet qui temulentiam ex culpa non emendata incurrebat est maior ambages. Beatus enim 
+      Tho<lb ed="#P" n="47" break="no"/>mas partem affirmatiuam insequitur, quae mihi non placet. Propterea ad partem negatiuam argumentor, 
+      <lb ed="#P" n="48"/>Primo sic. Homicidium in ebrietate factum non est voluntarium, ergo non est imputabile. At dicis est 
+      vo<lb ed="#P" n="49" break="no"/>lum tarium in sua causa: poterat enim illud euitasse. Replico, illo dato sequitur quod actus exterior aliquid  
+      <lb ed="#P" n="50"/>malitiae vel bonitatis super actum elicitum poneret. Consequens est falsum, cum solum naturaliter ad actum 
+      <lb ed="#P" n="51"/>elicitum sequitur. Consequentia tamen patet. quia actus operatus est volitus in sua causa: igitur. Secundo 
+      <lb ed="#P" n="52"/>sic. Sequitur quod dormiens &amp; ad matutinum officium ad quod tenetur non surgens, peccat: consequens est 
+      fal<lb ed="#P" n="53" break="no"/>sum, quia non est situm in eius potestate surgere. Et forte dicis dedit operam rei licitae dormiens, nec 
+      <lb ed="#P" n="54"/>in hoc peccauit. Contra, saltem sequitur si ibat dormitum tempore indebito tunc non surgens ad 
+      ma<lb ed="#P" n="55" break="no"/>tutinum peccabit. Tertio, nullus vnico peccato irritatus, duobus peccatis peccat per aliquid mere 
+      natu<lb ed="#P" n="56" break="no"/>rale quod non est in facultate sua situm: sed iste ante necem erat peccator solum vnico peccato 
+      temu<lb ed="#P" n="57" break="no"/>lentiae, postea non plus vtitur ratione quam bellua: igitur. Roboratur maior. Non enim alia de causa 
+      pol<lb ed="#P" n="58" break="no"/>lutio nocturna homini, non mputatur in somno, nec actus libere elicitus in continuatione naturali. 
+      <lb ed="#P" n="59"/>Propter has &amp; multas alias rationes quae facile adduci queunt partem negatiuam teneo, videlicet quod ebrius 
+      <lb ed="#P" n="60"/>nihil rationis habens temulentiam ex culpa non emendata incurrens tempore ebrietatis, non peccat. 
+    </p>
+            <p xml:id="JMAet9-d10574-d1e351">
+               <lb ed="#P" n="61"/>⁋ Contra conclusionem secundam argumentor. Licet doleam de temulentia aut eius causa antequi 
+      ebrie<lb ed="#P" n="62" break="no"/>tas accedat, nihilo tamen minus peccatum est futurum scilicet homicidium cuius ipse sum actor, propterea talis 
+      <lb ed="#P" n="63"/>occisio mihi imputabitur. Secundo, si seruum meum mittam occidere Platonem, et me facti poenitet, 
+      cele<lb ed="#P" n="64" break="no"/>rem equitem post illum mittens ne flagitium perpetret, &amp; interim ipse occidit, innocens occiditur 
+      <!--96.xml-->
+      <pb ed="#P" n="41-r"/>
+               <lb ed="#P" n="1"/>&amp; iniuste, cuius iniustitiae ego sum fons &amp; origo: proinde culpabilis. Amplius meo famulo mando 
+      pul<lb ed="#P" n="2" break="no"/>sare Ciceronem districte vetando ne illum trucidet: famulus illum interficit, ego sum irregularis. itaque 
+      man<lb ed="#P" n="3" break="no"/>datarii scelus mihi fonti sceleris imputabitur. Haec non stringunt: fateor pro futuro scelere committendo 
+      con<lb ed="#P" n="4" break="no"/>tritio est insufficiens, sed cum auerser &amp; execrer causam ebrietatis meae futurae, feci quod potui futura mors 
+      <lb ed="#P" n="5"/>quicquid contigerit mihi haud imputabitur, tametsi innocens occidatur: illius mors mihi eam detestanti non 
+      <lb ed="#P" n="6"/>imputabitur ad nouam culpam. Attamen forensis iudex capitali supplicio me pro illo homicidio puniet, quia 
+      <lb ed="#P" n="7"/>illius eram author. Simili modo si emiserim periculum ex arcu &amp; antequam sagitta Socratem occidat doleam siue 
+      <lb ed="#P" n="8"/>occidat siue non in crimine non sum.
+    </p>
+            <p xml:id="JMAet9-d10574-d1e384">
+               <pc type="pilcrow">¶</pc> Contra. hoc est contra Aristotelem in litera dicentem ebrio debentur 
+      <lb ed="#P" n="9"/>duplices increpationes. Secundo, ex conclusione sequitur homo quod per peccatum a praecepto diuino deobligabitur. 
+      <lb ed="#P" n="10"/>Consequens est inconveniens. Tertio argumentor contra probationem de actu exteriori. Ille malitiam &amp; bonitatem 
+      <lb ed="#P" n="11"/>actui interiori superaddit, esto quod naturaliter ab eo imperatur. Assumptum patet quadrifariam. Primo, 
+      di<lb ed="#P" n="12" break="no"/>uersi decalogi praeceptionibus illi actus prohibentur, Non furtum facies, &amp; non concupisces rem proximi. 
+      <lb ed="#P" n="13"/>Tum secundo, melius est illi qui capit Eucharistiam quam illi qui capere vult, non capiendo. Tum tertio, tunc non 
+      <lb ed="#P" n="14"/>esset necesse celebrare matutinum aut vesperas, tum actus interior sit ita bonus sicut binarius vtriusque 
+      <lb ed="#P" n="15"/>actus. Tum quarto, Socrates faciens interiorem cum exteriore facit duo mala, quorum actus interior est 
+      aequa<lb ed="#P" n="16" break="no"/>lis actui Platonis vt supponitur: ergo Socrates plus peccat quam Plato.
+    </p>
+            <p xml:id="JMAet9-d10574-d1e407">
+               <pc type="pilcrow">¶</pc> Ad primum respondetur, quod illud  
+      <lb ed="#P" n="17"/>dictum ex Pitaco vno septem sapientum Aristoteles recitat. patet secundo Politicorum. Secundo est sermo de 
+      <lb ed="#P" n="18"/>ebrio vulgari nonnihil rationis habente qui in loquela blaterando delirat vel nutat, parieti aut baculo 
+      <lb ed="#P" n="19"/>adhaerendo. Tertio, interdum minores culpae acerbius reprimuntur, fures enim in trino furto repertos 
+      <lb ed="#P" n="20"/>patibulo suspendunt, non autem simoniacos, moechos, &amp; caetera id genus: propter procliuitatem ad mala illam 
+      <lb ed="#P" n="21"/>noxam acriter Pitacus sapiens puniuit. Nusquam gentium maior offenditur vinolentia quam in Lesbo, cuius 
+      Myti<lb ed="#P" n="22" break="no"/>lene est ciuitas potissima, si alicunde crimina inualescant maiori acrimonia atque vigilantia sunt arcenda. 
+      <lb ed="#P" n="23"/>Quarto, dicitur magis ad propositum distinguendo illam: ebrio debentur duplices increpationes, vnus enim 
+      <lb ed="#P" n="24"/>sensus est: Carpendus est pro temulentia &amp; etiam peccat in opere tempore ebrietatis facto, &amp; illum sensum 
+      <lb ed="#P" n="25"/>nego. Alius sensus est, argu endus est dupliciter. Primo puer ebrietate, &amp; non solum puer ea sed pro damno quod 
+      <lb ed="#P" n="26"/>verisimiliter potest proximo inferre. Sunt enim aliqui qui ebrii porcorum more dormiunt. De his non est 
+      <lb ed="#P" n="27"/>timendum, solum vno peccato peccant. Sed si illo tempore quis rabiem quandam incurrere solet secundum 
+      verisi<lb ed="#P" n="28" break="no"/>milem iacturam eius peccatum in ebrietate mensurandum est. Effectus sequens ad actus praecedentis grauitatem 
+      <lb ed="#P" n="29"/>nihil operatur: sed damnum verisimiliter sequens, iudicio prudentum actum praecedentem aggrauat. In quo membro 
+      <lb ed="#P" n="30"/>iste nunc libens ad primam ebrietatem includeretur, scit ad suam temulentiam iacturam posse sequi, quemadmodum 
+      <lb ed="#P" n="31"/>est de proiiciente lapidem per fenestram in vicum, siue occidat siue non. aequaliter peccat coram deo. Quinto, 
+      <lb ed="#P" n="32"/>expono illam propositionem sic. dupliciter increpantur &amp; puniuntur, ab hominibus. Legumlatores enim possunt 
+      <lb ed="#P" n="33"/>tales actus punire vt homines deterreantur a talibus flagitiis cum tales actus sint spontanei antecedenter. 
+      <lb ed="#P" n="34"/>Ad secundum concedo sequelam: &amp; patet ad oculum de illo qui per intemperantiam morbum incurrit in fronte 
+      qua<lb ed="#P" n="35" break="no"/>dragenarii ieiunii, ratione cuius a ieiunio deobligatur. Ad tertium, nego assumptum. fit prohibitio ob 
+      <lb ed="#P" n="36"/>aliquos existimantes actum interiorem non esse malum. Ad secundam probationem, concedo assumptum, hoc est virtute 
+      <lb ed="#P" n="37"/>operis operati in sacramentis: etiam est relaxatio poenae in veniis ponendo in esse conditionem in veniis 
+      in<lb ed="#P" n="38" break="no"/>clusam. Ad tertiam nego sequelam. Non stat virum habere actum efficacem celebrandi quin celebret secluso 
+      <lb ed="#P" n="39"/>impedimento. Potest tamen habere actum inefficacem etiam categoricum qui non sufficit celebrationem imperare 
+      <lb ed="#P" n="40"/>vt piger vult &amp; non vult, vult quidem inefficaciter &amp; non vult efficaciter, sicut de pigro scholastico mane 
+      <lb ed="#P" n="41"/>conante surgere. Ad quartum dicitur, quod cum actus exterior naturaliter imperetur ab interiore non plus illi 
+      <lb ed="#P" n="42"/>imputabitur quoad culpam quam si solus interior poneretur paritate data. Si actus elicitus ratione actus exterio 
+      <lb ed="#P" n="43"/>ris intendatur. lam caetera sunt imparia: quocirca si quispiam in mortali existens mente perpetim capiatur 
+      prpe<lb ed="#P" n="44" break="no"/>tuo in culpa manebit.
+    </p>
+            <p xml:id="JMAet9-d10574-d1e473">
+               <pc type="pilcrow">¶</pc> Ad tertiam dubitationem respondetur affirmatiue. Patet authoritate philosophi 
+      <lb ed="#P" n="45"/>in litera: alioqui voluntas non esset libera &amp; suorum actuum domina.
+    </p>
+            <p xml:id="JMAet9-d10574-d1e482">
+               <pc type="pilcrow">¶</pc> Contra illud obiicitur Primo, intellectus 
+      <lb ed="#P" n="46"/>actus ad voluntatis actum actiue concurrit, ergo actus voluntatis ab agente naturali producitur: ergo talis 
+      <lb ed="#P" n="47"/>actus non est liber. Secundo sic. aliquis actus voluntatis est mere naturaliter elicitus siue continuatus, quod 
+      <lb ed="#P" n="48"/>quintupliciter ostenditur. Primo de actu elicito in instanti quem voluntas non potest subito resecare, alioqui 
+      <lb ed="#P" n="49"/>meritum aut demeritum haberet in quolibet tempore quantum libet paruo, cum in libera continuatione in quo 
+      <lb ed="#P" n="50"/>libet instanti post primum non minus mereretur aut peccaret quam in primo. Tum secundo, si Socrates efficaciter 
+      <lb ed="#P" n="51"/>velit aliquem finem, vtpote sanitatem: &amp; intellectus iudicet solum tale medium, vtpote potionem amaram, 
+      necessa<lb ed="#P" n="52" break="no"/>rium pro talis finis consequutione, voluntas de necessitate vult tale medium. Tum tertio, si efficaciter volens 
+      <lb ed="#P" n="53"/>vna vniuersalem, subsumat sub illa minorem per intellectum: voluntas necessitatur ad consequentis volitionem. 
+      <lb ed="#P" n="54"/>vt volens efficaciter omnem peruersum esse bonum, &amp; iudicans Socratem esse peruersum, voluntas de 
+      necessi<lb ed="#P" n="55" break="no"/>tate consequentiae vult Socratem esse bonum. Tum quarto, ex connexione voluntatis cum appetitu sensitiuo, in  
+      <lb ed="#P" n="56"/>voluntate surripit actus subito qui est malus, primo primus actui sensualitatis proportionatus, quem actum 
+      <lb ed="#P" n="57"/>voluntas habet actui sensualitatis respondentem, vt vulgo dicitur. Tum quinto, dei intuitiua notitia voluntatem 
+      <lb ed="#P" n="58"/>in eius amorem rapit. Tum sexto, vnus actus voluntatis imperatur ab alio naturaliter.
+    </p>
+            <p xml:id="JMAet9-d10574-d1e516">
+               <pc type="pilcrow">¶</pc> Ad primum (licet 
+      <lb ed="#P" n="59"/>ab aliquibus an intellectio ad actus voluntatis concurrat dubitetur) concedo illud: sed non sequitur propterea 
+      <lb ed="#P" n="60"/>actum voluntatis esse naturalem. Nam actus voluntatis a charitate infusa &amp; ab habitu acquisito producitur, qui 
+      <lb ed="#P" n="61"/>sunt agentia naturalia: nec propterea sequitur quod tales actus non sunt liberi. Ad secundi argumenti sin¬ i 
+      <lb ed="#P" n="62"/>gulas obiectiones strictim respondero. Concedendo illam continuationem pro tempore, actus naturaliter liberi 
+      <lb ed="#P" n="63"/>erat a principio. voluntas est libera sub limitibus certis constituta. Non potest ad eius nutum suos actus. 
+      <lb ed="#P" n="64"/>resecare, nec habere actum cuiuscumque intentionis in gradu. Ad secundum &amp; tertium concedo tales actus esse 
+      <!--97.xml-->
+      <pb ed="#P" n="41-v"/>
+               <lb ed="#P" n="1"/>naturaliter productos: sic de volitione consequentis cuius antecedens est volitum &amp; consequentia volita 
+      <lb ed="#P" n="2"/>esse bona. sed antecedenter sunt liberi primi actus illorum productiui &amp; ipsa voluntas libere agit. 
+    </p>
+            <p xml:id="JMAet9-d10574-d1e543">
+               <lb ed="#P" n="3"/>⁋ Ad quartum de potentiarum antecedenter connexione concedo. illud est commune: &amp; de opposito mihi non 
+      <lb ed="#P" n="4"/>constat: quicquid a sensu est sensatum, intellectus non impeditus intelligit: quamobrem pari iure quicquid 
+      ap<lb ed="#P" n="5" break="no"/>petitus sensitiuus prosequitur, voluntas id suapte natura vult: &amp; in hoc non peccat si sensualitatem atque se 
+      <lb ed="#P" n="6"/>pro viribus a talibus actibus remoueat, quod est in eius facultate situm: convertendo sensum ad alia obiecta 
+      <lb ed="#P" n="7"/>vel faciendo sensualitatem proportionabiliter ad rationem moueri, imprimendo in appetitu sensitiuo actum 
+      <lb ed="#P" n="8"/>conformem ipsi voluntati, vt voluntas imprimit impetum in membris motiuis, qui hominem distractum mouet. 
+    </p>
+            <p xml:id="JMAet9-d10574-d1e559">
+               <lb ed="#P" n="9"/>⁋ Ad quintum, de opposito non doceor &amp; ita existimo. Suadetur. Solent de formosis aliquibus 
+      mulieri<lb ed="#P" n="10" break="no"/>bus traderet, vt de Helena, quod rapiebant aspicientes in sui amorem, hoc est multum impellebant. non autem 
+      ne<lb ed="#P" n="11" break="no"/>cessi tabant: quare ergo negabitur id convenire creatori, in quo omnis ratio bonitatis eminenter includitur¬ 
+    </p>
+            <p xml:id="JMAet9-d10574-d1e568">
+               <lb ed="#P" n="12"/>⁋ Ad sextum concedo vt ego volo diligere deum, haec dilectio a volitione imperatur, sublata volitione 
+      <lb ed="#P" n="13"/>ipsa euanescit: &amp; sic est libera. Sic vnus actus voluntatis sicut seta in alluta ad filum facilitat, vt dilectio 
+      <lb ed="#P" n="14"/>probi amici, ad hoc quod velim ei sacerdotium aut aliud bonum spirituale aut corporale. Ediuerso vnus 
+      <lb ed="#P" n="15"/>actus ad aliam difficultat: cum aliquem peruerso odio prosequeris, aegre ei vis bonum. Omnia ista sunt in 
+      fa<lb ed="#P" n="16" break="no"/>cultate nostra sita. licet vnus actus ex alio naturaliter sequatur. Patet. habitus enim teste philosopho in  
+      <lb ed="#P" n="17"/>in litera, mere naturaliter ex actu emegit, attamen est in potestate nostra actum admittere non habendo  
+      <lb ed="#P" n="18"/>habitum quem in nostra potestate philosophus quantum ad eius generationem, non autem ad eius 
+      corru<lb ed="#P" n="19" break="no"/>ptionem collocat: quem euestigio in litera audiamus: sequitur enim 
+    </p>
+            <!--alias="mair-l3c5p2"-->
+            <p xml:id="JMAet9-d10574-d1e591">
+               <lb ed="#P" n="6"/>Non tamen si vult cum est iniustus, desinet esse talis: ac iustus erit, hoc est comparato habitu iniuste, 
+      <lb ed="#P" n="7"/>homo non efficietur iustus pro suo arbitratu: sed mora ad id requiriritur. Patet per simile, dicit, Nec qui 
+      <lb ed="#P" n="8"/>aegrotat si vult erit sanus. Et forte sua sponte languet medicorum praeceptiones contemnens. Cum sanus 
+      <lb ed="#P" n="9"/>erat, licuit non aegrotare, sed valetudine bona perdita incolumitas non statim recuperatur. Morbus 
+      <lb ed="#P" n="10"/>(vti referunt) eques accedit sed pedes &amp; pedetentim discedit. Ac si sic argumentaretur procedit philosophus, 
+      <lb ed="#P" n="11"/>Sicut est in corporis morbo, ita est in animae languore: sed sic est circa corpus quod quispiam potest ad nutum 
+      <lb ed="#P" n="12"/>in morbum incidere, sed incidens exire nequit pro arbitrio suo: ergo ita est in animi morbo. Aliam 
+      ma<lb ed="#P" n="13" break="no"/>nuductionem dat inquiens. Sicut non fit vt quispiam resumat lapidem proiectum, erat tamen in eius facultate 
+      col<lb ed="#P" n="14" break="no"/>locatum lapidem illum sumere atque proiicere: similiter de iniusto &amp; intemperanti dicatur. Aliam conclusionem ponit: 
+      <lb ed="#P" n="15"/>Non solum vitia animi sunt in nostra potestate, verum etiam corporis vitia. Probatur sic. Nullius corporis 
+      <lb ed="#P" n="16"/>turpitudinem exprobramus nisi eam quam inertia homo acquirit, vtpote ingluuie ac bibacitate: sed aliquas 
+      <lb ed="#P" n="17"/>corporis labes increpamus, igitur. Dicit conclusio corporis vitia a nonnullis comparantur quos increpamus: 
+      <lb ed="#P" n="18"/>eos autem qui a natura sunt turpes profecto reprehendet nemo. sed eos qui per socordiam &amp; inertiam tales 
+      <lb ed="#P" n="19"/>cuaserunt. Nisi quis imprudens litigando excandescat: tunc enim quicquid ad aduersarium spectat, ad laudes 
+      <lb ed="#P" n="20"/>vsque exclusiue recitabit: vocando eum monstrum in corpore, monstrumque in anima, coclitem monophtalmum, 
+      <lb ed="#P" n="21"/>&amp; sic de reliquis quicquid in buccam primitus occurrit effutit. Verum dicaculorum ineptias signanter 
+      quan<lb ed="#P" n="22" break="no"/>do bili concitantur nos floccifacimus. ldem circa corporis imbecillitatem euenit, vt cum quispiam membris 
+      <lb ed="#P" n="23"/>est captus, vt gulae &amp; luxui indulgendo. Profecto namque nemo prosequetur contumelia aut opprobrio illum qui 
+      <lb ed="#P" n="24"/>ex plaga in bello iusto, aut a natura, aut aegritudine naturali caecitatem incurrat: sed potius eius 
+      misere<lb ed="#P" n="25" break="no"/>bitur: quod si temulentia imputabili vel aliquo alio flagitio captus sit oculis, vniuersi carpent &amp; 
+      increpa<lb ed="#P" n="26" break="no"/>bunt. Vt vero paucis concludam, vitia corporis quae in nostra potestate sita sunt carpuntur, non autem alia. 
+      <lb ed="#P" n="27"/>Post haec vnum errorem reiicit Philosophus. Dixerunt enim quelibet expetere id quod sibi bonum apparet: 
+      qua<lb ed="#P" n="28" break="no"/>lis enim vnusquisque est talem ipsi finem videri: sed non est in nostra facultate situm vt aliquid nobis 
+      appa<lb ed="#P" n="29" break="no"/>reat bonum aut malum: proinde non est penes nos collocatum vt expetamus bonum aut malum: &amp; sic non est in  
+      <lb ed="#P" n="30"/>hominis potestate vt sit bonus aut malus. Hoc delirium refellit philosophus, duo probando scilicet quod illa 
+      <lb ed="#P" n="31"/>apparitio est voluntaria &amp; in nostra facultate. Insuper quod finis expetitio homini non inest a natura. 
+      <lb ed="#P" n="32"/>Probat ergo primo apparitionem habitus esse in facultate nostra sitam, hoc pacto. Habitus morales in  
+      <lb ed="#P" n="33"/>nostra potestate sunt siti, ex praedictis: sed talis apparitio habitum moralem insequitur: proinde talis 
+      apparen<lb ed="#P" n="34" break="no"/>tia est penes nos sita. Quicumque enim habet dominium super antecedens, dominium super consequens sibi vendicat:  
+      <lb ed="#P" n="35"/>igitur. Litera est. Sed fortasse quispiam dicet: vniuersos quidem homines id affectare semper quod bonum 
+      ap<lb ed="#P" n="36" break="no"/>paret, ipsius apparentiae dominos ipsos non esse. Sed qualis tandem vnusquisque est talem &amp; finem ipsi videri. 
+      <lb ed="#P" n="37"/>Huic obiectioni respondens ait. At si habitus ipsius aliquo modo sibi quisque est causa, erit &amp; apparentiae 
+      <lb ed="#P" n="38"/>ipse sibi quodammodo causa. Replicat pro aliorum errore adhuc per ignorantiam causae finalis, diceret enim 
+      <lb ed="#P" n="39"/>quispiam: nemo est causa malitiae, sed quod sic operetur, hoc est ob finis ignorationem, quia existimat aliquod  
+      <lb ed="#P" n="40"/>optimum per suam operationem assequi: nec affectatio finis debiti est voluntaria, sed potius naturalis qui 
+      <lb ed="#P" n="41"/>optimum bonum appetiturus est: sic natura institutum esse oportet, quasi visum habeat quo discernat &amp; 
+      <lb ed="#P" n="42"/>id expetat quod est vere bonum: ita sicut organum visus habens a natura bonum de coloribus recte censet: 
+      <lb ed="#P" n="43"/>sic habens visum intellectus acutum, desiderat illud quod reuera est bonum: atque is est generoso ingenio 
+      <lb ed="#P" n="44"/>cui talis intellectus limpidus feliciter obtigit rem optimam atque pulcherrima qualem nec ab alio 
+      ac<lb ed="#P" n="45" break="no"/>cipere nec discere potest. sed quale quid ortum est, natura &amp; tale habebit. &amp; hoc recte natura beneque 
+      <lb ed="#P" n="46"/>ortum, est natura ipsa habilitas perfecta veraque naturae. Hoc est talis est bene natus &amp; vere bonum 
+      ap<lb ed="#P" n="47" break="no"/>petit. Male natus non potest verum bonum appetere. Qualis vnusquisque est talis sibi finis videtur: 
+      bifa<lb ed="#P" n="48" break="no"/>riam intelligitur. Vno modo sic, qualem quisque habitum acquisiuit talis ei finis videtur. Secundo sic, 
+      <lb ed="#P" n="49"/>qualis est quispiam a natura natus: talis sibi finis videtur. hoc est qualem virtutem cognoscendi a 
+      pri<lb ed="#P" n="50" break="no"/>mo ortu sortitur, talis illi videtur finis, priorem expositionem primo impugnat, deinde posteriorem 
+      <lb ed="#P" n="51"/>illam friuolam excusationem confutat, dicens. Si igitur haec vera sint, cur magis virtus nostra sponte 
+      <lb ed="#P" n="52"/>quam vitium comparabitur? cuius oppositum ipsi dixerunt. ambobus similiter bono &amp; malo finis ipse 
+      <lb ed="#P" n="53"/>natura aut quouis simili modo poni videtur. Clare sic dicit quia desiderium finis tam in bonis quam in  
+      <lb ed="#P" n="54"/>malis vel est naturale vel spontaneum: si secundum, ergo tam virtus quam malitia sunt voluntariae: sin 
+      pri<lb ed="#P" n="55" break="no"/>mum, tunc virtus dicitur voluntaria, ob media in finem ordinata quae sunt voluntaria secundum omnes: 
+      <lb ed="#P" n="56"/>sed etiam media in malum finem ordinata sunt voluntaria: proinde malitia erit voluntaria sicut &amp; 
+      <lb ed="#P" n="57"/>ipsa virtus. Literam iam pono. Ambobus enim tam bono quam malo finis ipsa natura aut quouis 
+      mo<lb ed="#P" n="58" break="no"/>do hoc est spontanee ponitur. hoc est natura vel non natura, qualitercumque videtur &amp; ponitur. reliqua 
+      <lb ed="#P" n="59"/>homines quouismodo agunt propter finem, hoc est suo arbitratu ea ipsa medio in illum finem 
+      refe<lb ed="#P" n="60" break="no"/>rentes. Siue igitur finis non natura, hoc est spontaneus, talis vnicuique videatur: sed sit aliquid etiam 
+      <lb ed="#P" n="61"/>apud ipsum facientem spontaneum ac liberum: siue finis sit naturalis, quia vir studiosus caetera, hoc 
+      <lb ed="#P" n="62"/>est media ad finem spontanee patrat. Profecto virtus sponte comparabitur a nobis: nec minus sponte 
+      <!--99.xml-->
+      <pb ed="#P" n="42-v"/>
+               <lb ed="#P" n="1"/>vitium parabitur. Probatio, quia etiam homini malo eadem competunt tam respectu actuum quam finis 
+      <lb ed="#P" n="2"/>Si igitur nostra sponte virtutes habeantur ipsorum habituum nos quodammodo concausae sumus: quia 
+      <lb ed="#P" n="3"/>actus efficimus: finemque ex eo ponimus talem quia nos tales sumus. Vitia sane sponte ab hominibus 
+      <lb ed="#P" n="4"/>parantur. Similes enim sunt vtrorumque modi. Postea facit epilogum, dicens, communiter igitur dictum 
+      <lb ed="#P" n="5"/>est de virtutibus: &amp; genus ipsum, hoc est virtutis est mediocritas &amp; habitus. Et a quibus virtutes 
+      emer<lb ed="#P" n="6" break="no"/>gunt &amp; principia agendi nostra esse in potestate collocata, &amp; sponte fieri vt ratio efflagitat. Verum non  
+      <lb ed="#P" n="7"/>similiter nostra sponte habitus &amp; actus fiunt: quia horum sumus domini (modo circumstantias 
+      noueri<lb ed="#P" n="8" break="no"/>mus) semper: Illorum vero post generationem minime, habituum vero principii, hoc est clare dicendo  
+      <lb ed="#P" n="9"/>sumus domini principii, hoc est originis principii habituum, hoc est sumus domini actuum qui sunt 
+      ha<lb ed="#P" n="10" break="no"/>bituum principia. Singulorum additio non est nota, hoc est additio partium habitus, non est nota. 
+      quemad<lb ed="#P" n="11" break="no"/>modum &amp; in aduersa valetudine, &amp; in hominis aut quercus cremento. At nunc repetentes de singulis 
+      <lb ed="#P" n="12"/>dicamus. hoc est in particulari quaenam sunt &amp; circa quae obiecta versantur, &amp; quo etiam modo. Ex quibus 
+      <lb ed="#P" n="13"/>&amp; illud simul emergit &amp; fiuet, quot sint ipsae virtutes. Atque de fortitudine primum dicamus. aliqui non 
+      <lb ed="#P" n="14"/>inepte tertium librum hic claudunt &amp; speciatim de virtutibus in quarto loquuntur. At ne alii libri super 
+      se<lb ed="#P" n="15" break="no"/>cundum turgeant communior via in liberalitate quartum inchoat. Et quia in hoc non est magna vis, 
+      <lb ed="#P" n="16"/>communiorem viam imitabimur. 
+    </p>
+            <p xml:id="JMAet9-d10574-d1e756">
+               <lb ed="#P" n="17"/>⁋ Dubitatur circa finem huius capitis. Primo, non possumus remouere a nobis habitus vitiosos, sicut 
+      <lb ed="#P" n="18"/>nec ipsum morbum, secundum philosophum: ergo semper in eis manebimus: quod est inconveniens. Secundo, non  
+      <lb ed="#P" n="19"/>possumus actum ad nutum resecare. Patet de actu ex dictis superius pro tempore naturalis continuationis: 
+      <lb ed="#P" n="20"/>ergo non habet discrimen ab habitu, contra Aristotelem. Tertio dubitatur, an semper volens causam vult 
+      <lb ed="#P" n="21"/>effectum, vt Socrates vult indulgere gulae: ergo vult esse intemperans, &amp; vult esse malus. Quarto 
+      dubi<lb ed="#P" n="22" break="no"/>tatur, an homo negligentia sit malus nullum actum eliciendo. Pars negatiua coloratur sic: nullum actum 
+      volun<lb ed="#P" n="23" break="no"/>tatis tunc habet, ergo non erit voluntarie malus.
+    </p>
+            <p xml:id="JMAet9-d10574-d1e774">
+               <pc type="pilcrow">¶</pc> Ad primum respondetur, quod homo habet dominium super 
+      <lb ed="#P" n="24"/>actus oppositos sui habitus, quos si iugiter &amp; efficaciter eliciet per actum voluntatis in tertio tempore suum 
+      ha<lb ed="#P" n="25" break="no"/>bitum euacuabit. Item post poenitudinem quinimo ante poenitentiam malorum actuum habitus nulli imputatur, 
+      <lb ed="#P" n="26"/>nec est amplius malus imputabiliter. At si quis in gratia discedat illi habitus inutiles a deo in patria 
+      <lb ed="#P" n="27"/>euelluntur, tametsi peruersi habitus in stygia palude siue in inferno maneant: nulli tamen mali habitus in patria 
+      <lb ed="#P" n="28"/>manebunt, quoniam ibi quisque est in gratia &amp; bonus. Non est totaliter idem de corporis languore &amp; habitu 
+      <lb ed="#P" n="29"/>malo: at habitus vitiosus si non remoueatur homini officit, bono resistit: sicut virtus vitio, inclinat ad  
+      <lb ed="#P" n="30"/>malum sicut virtus ad bonum, &amp; excaecat intellectum in agibilibus. Superius enim monstratum est quod omnis malus 
+      <lb ed="#P" n="31"/>est ignorans.
+    </p>
+            <p xml:id="JMAet9-d10574-d1e797">
+               <pc type="pilcrow">¶</pc> Ad secundam dubitationem respondetur, quod citius possumus actum quam habitum euellere, nec ipse 
+      ten<lb ed="#P" n="32" break="no"/>pore naturalis continuationis est nobis imputabilis.
+    </p>
+            <p xml:id="JMAet9-d10574-d1e805">
+               <pc type="pilcrow">¶</pc> At dicis, si homo incidat in odium dei, non est in  
+      <lb ed="#P" n="33"/>eius facultate situm poenitere &amp; deum diligere: &amp; sic est cum extra statum merentium tempore quo ratione potitur. 
+      <lb ed="#P" n="34"/>Respondetur, quod continuatio naturalis repugnat actui opposito, sicut actus liber: a principio idem actus 
+      nu<lb ed="#P" n="35" break="no"/>mero qui in primo instanti erat liber, tempore continuationis est naturalis. Nolitio dei esse non compatitur 
+      voli<lb ed="#P" n="36" break="no"/>tionem eiusdem naturaliter: sed homo potest mox habere actum reflexum quod illud odium ei displicet, &amp; velle 
+      <lb ed="#P" n="37"/>ipsum non esse, &amp; sic poenitentiam subit, &amp; poenitudine sceleris imputabilitatem abolet.
+    </p>
+            <p xml:id="JMAet9-d10574-d1e822">
+               <pc type="pilcrow">¶</pc> Quaeris quare 
+      ne<lb ed="#P" n="38" break="no"/>quimus actum subito resecare, sicut ipsum producere. Ratio est, quod ille suae corruptioni renititur: cuilibet enim 
+      <lb ed="#P" n="39"/>rei insitum est corruptioni sui reluctari: at eius productioni nullum est reluctamen. Anima cuiustibet actus 
+      <lb ed="#P" n="40"/>est capax.
+    </p>
+            <p xml:id="JMAet9-d10574-d1e835">
+               <pc type="pilcrow">¶</pc> Ad tertiam dubitationem respondetur negatiue. Nemo enim respicit ad malum volens, hoc est 
+      con<lb ed="#P" n="41" break="no"/>muniter bene sequitur de lege dei ordinata, Socrates cognoscit non suam ergo peccat: vult antecedens cum 
+      <lb ed="#P" n="42"/>opposito consequentis. Similiter <name xml:id="JMAet9-d10574-Nd1e844">Thomas Britannus</name> pergit in continentem, ergo nauigat aequor. antecedens 
+      <lb ed="#P" n="43"/>vult &amp; non oportet velle consequens: sicut in exemplo communi Socrates poenitet, ergo peccauit: antecedens 
+      <lb ed="#P" n="44"/>est volitum &amp; non consequens. Sed si consequentiam velit esse bonam vult consequens. Similiter efficaciter volens 
+      an<lb ed="#P" n="45" break="no"/>tecedens licet solitarie nolit consequens antequam derelinquat antecedens vult etiam consequens: vt ego sum in 
+      lu<lb ed="#P" n="46" break="no"/>to pro centum scutis: ergo ego sum in luto. licet Socrates nolit esse in luto absolute, tamen adiecto 
+      ma<lb ed="#P" n="47" break="no"/>gno emolumento vult totum aggregatum. Pari modo sequitur Socrates occidit hominem authoritate propria: 
+      <lb ed="#P" n="48"/>ideoque deum offendit. Antecedens est volitum &amp; consequens nolitum: nihilo tamen minus antequam antecedens 
+      con<lb ed="#P" n="49" break="no"/>cupitum deserat vult cum ipso indirecte consequens. Hic autem Socrates poenitet ergo deliquit: consequens fuit 
+      <lb ed="#P" n="50"/>ab eo volitum quod iam auersatur. antecedens obuiis vlnis amplexatur.
+    </p>
+            <p xml:id="JMAet9-d10574-d1e866">
+               <pc type="pilcrow">¶</pc> Ad quartam dubitationem concedo 
+      ho<lb ed="#P" n="51" break="no"/>minem posse esse malum per puram omissionem, licet nullum actum voluntarium eliciat. Poterat enim elicere &amp; non 
+      <lb ed="#P" n="52"/>elicere. propterea libere omittit. Si inferiori superior nonnihil operandum praeceptorie iniungat, potest 
+      <lb ed="#P" n="53"/>inferior elicere actum hunc, nolo id facere: &amp; tunc per positiuum actum delinquit. potest tamen voluntas ex sua 
+      li<lb ed="#P" n="54" break="no"/>bertate nullum actum elicere pro tempore quo est obnoxius actum elicere: &amp; tunc pure omissiue delinquit. 
+    </p>
+            <p xml:id="JMAet9-d10574-d1e880">
+               <lb ed="#P" n="55"/>⁋ Dubitatur quomodo totus habitus est notus &amp; non partium additio vt in aduersa valetudine.
+    </p>
+            <p xml:id="JMAet9-d10574-d1e885">
+      
+      Du<lb ed="#P" n="56" break="no"/>bitatur item quomodo intelligitur illud: habituum sumus quodammodo concausae.
+    </p>
+            <p xml:id="JMAet9-d10574-d1e890">
+               <pc type="pilcrow">¶</pc> Ad priorem harum 
+      dubita<lb ed="#P" n="57" break="no"/>tionem respondetur quod a posteriore per effectus habitus magnus innotescit, per impulsum adactus, sicut 
+      mor<lb ed="#P" n="58" break="no"/>bus: sed licet haec caro grossa sallita difficilis digestionis semel esa non percipiatur morbum est ingerere, vel 
+      <lb ed="#P" n="59"/>huius fructus comestio: tamen successu quando est notabilis discrasia illud deprehendetur: Parua ablatio a 
+      bo<lb ed="#P" n="60" break="no"/>na valetundine sanitatis non percipitur: si quis fuerit robustus, cuius sanitatis latitudo est magna, paruum 
+      <lb ed="#P" n="61"/>nociuum est illi imperceptibile vt mihi in viridi aetate de fructuum ampla comestione contigit: quando vero 
+      <lb ed="#P" n="62"/>sanitatis latitudo est pusilla paruum nociuum mox valetudinem (quia est parua) ext inguit, &amp; paruum 
+      mor<lb ed="#P" n="63" break="no"/>bum creat.
+    </p>
+            <p xml:id="JMAet9-d10574-d1e911">
+               <pc type="pilcrow">¶</pc> Ad posteriorem dubitationem, tenendo potentiam non concurrere immediate ad habitum, quod est 
+      <lb ed="#P" n="64"/>probabile. dicetur quod sumus concausae mediatae: quia causae effectus.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

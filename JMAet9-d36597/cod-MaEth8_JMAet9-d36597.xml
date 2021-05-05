@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d36597"><!-- mair-l9c2 -->
+            <head xml:id="JMAet9-d36597-Hd1e103">Caput 2</head>
+            <p xml:id="JMAet9-d36597-d1e106">
+               <lb ed="#P" n="5"/>
+               <quote xml:id="JMAet9-d36597-Qd1e110" type="lemma">HAbent autem &amp; talia dubitationem</quote> &amp; c. Secundum hoc caput tribus siue quatuor quaestionibus &amp; 
+      quatu<lb ed="#P" n="6" break="no"/>or conclusionibus partitum est. Quaestionum prima est. Vtrum oporteat omnia patri tribuere &amp; in 
+      omni<lb ed="#P" n="7" break="no"/>bus ei parere: &amp; vtrum aegrotanti, potius patri parendum est an physico Et vtrum diligenti ducem 
+      excer<lb ed="#P" n="8" break="no"/>citus, pater diligendus sit an homo rei militaris peritissimus. Illic potest esse secunda quaestio. Sequitur 
+      ter<lb ed="#P" n="9" break="no"/>tia siue secunda aliorum more. Vtrum amico potius an studioso subministrandum sit. Tertia. An 
+      benefa<lb ed="#P" n="10" break="no"/>ctori potius referenda sit gratia an amico tribuendum, vbi vtrunque fieri nequit. Omnia haec exacte 
+      deter<lb ed="#P" n="11" break="no"/>minare non est facile. Hic excusat se a determinatione omnium in speciali: &amp; id rationis est, nam multas ha 
+      <lb ed="#P" n="12"/>bent differentias nunc in magnitudine &amp; paruitate: nunc in honestate &amp; necessitate hoc est differentias habent in  
+      <lb ed="#P" n="13"/>quanto in quali: quantitatiuas quidem in magnitudine &amp; pauitate quia differunt secundum magis &amp; minus. Puta bene 
+      <lb ed="#P" n="14"/>factor secundm magis &amp; minus. Et magis amicus &amp; minus amicus. Et studiosus magis &amp; minus studiosus. Et 
+      <lb ed="#P" n="15"/>consanguineus magis propinquus &amp; minus propinquus. Pari iure qualitatiuas differentias habent: quia 
+      re<lb ed="#P" n="16" break="no"/>tributionum quaedam magis de bonitate, quaedam vero minus habent. Quia dare viro studioso indigenti 
+      <lb ed="#P" n="17"/>magis bonum est &amp; minus necessarium, quam reddere debitum creditori abundanti. Et sequitur in litera 
+      re<lb ed="#P" n="18" break="no"/>sponsio ad has quaestiones in speciali, ibi. Verum non omnia. Et est prima conclusio capitis &amp; solutio ad  
+      <lb ed="#P" n="19"/>quartam quaestionem qua dicit. Non omnia eidem sunt retribuenda: nam beneficia potius reddenda sunt 
+      <lb ed="#P" n="20"/>quam largiendum amico: vt mutuum reddendum potius cui debeas quam dandum sodali. Sed non forte illud est 
+      <lb ed="#P" n="21"/>vsquequaque obseruandum vt vtrum redemptum a latronibus eum qui ipsum redemit redimere 
+      oporte<lb ed="#P" n="22" break="no"/>at quicunque is sit. In his &amp; consimilibus videtur patrem potius quam seipsum etiam redimere oportere. 
+      Debi<lb ed="#P" n="23" break="no"/>tum ergo simpliciter nulla maiore honestate, aut necessitate interueniente, reddendum est: sed aut si hone 
+      <lb ed="#P" n="24"/>statis, aut necessitatis excessus intercedat, ab ipso dando declinandum est. Vult ergo philosophus dicere. 
+      Li<lb ed="#P" n="25" break="no"/>cet pluribus magis sit retribuendum, benefactori, &amp; mutuum reddendum quam amico dandum, non tamen 
+      <lb ed="#P" n="26"/>semper. Debeo enim potius patrem e carceribus liberare quam eum qui me a carcere aut ergastulo liberauit, quando 
+      <lb ed="#P" n="27"/>solum vni opem ferre queo. Similiter potius patrem liberabo quam mutuum reddam benefactori non capto, 
+      <lb ed="#P" n="28"/>&amp; mutuum repetenti. Primo citius debeo patrem a carceribus quam meipsum liberare. Vbique quando datio ho 
+      <lb ed="#P" n="29"/>nestae &amp; necessariae retributioni praestat magis ad dationem quam ad retributionem declinandum est: &amp; non 
+      <lb ed="#P" n="30"/>alias. Sequitur secunda conclusio, quae est. Interdum neque est aequum beneficium retribuere: cum alter 
+      qui<lb ed="#P" n="31" break="no"/>dem in studiosum sciens studiosum esse, contulit beneficium: alter autem illum flagitiosum existimat. Sic 
+      <lb ed="#P" n="32"/>effectualiter dicit quodam modo probando quod non oportet rependere vices benefactori, &amp; sic ait. Nonnun 
+      <lb ed="#P" n="33"/>quam non est iustum retribuere benefactori beneficium: igitur non semper est maius retribuendum 
+      benefacto<lb ed="#P" n="34" break="no"/>ri. Antecedens patet: quia ei quem quis existimat malum in certo casu non est retributio facienda. 
+      For<lb ed="#P" n="35" break="no"/>tassis enim flagitiosus ille pecuniam in reipublicae perniciem effundet, vt Catilina aut Sylla. Praeterea nonnumquam nec 
+      <lb ed="#P" n="36"/>ei qui mutuauit vicissim mutuandum est. Siquidem flagitiosus mutuat interdum probo viro spe lucri al 
+      <lb ed="#P" n="37"/>lectus: a prauo autem studiosus nihil lucri expectat: tali ergo non est iterato dandum mutuo. Vbi homo non 
+      <lb ed="#P" n="38"/>potest dare amico &amp; digno non tenetur iterato mutuum dare, vt cum Socrates non contulit Platoni mu 
+      <lb ed="#P" n="39"/>tuum gratia Platonis vllo modo sed spe tantum lucri non debet Plato saltem eadem spe illi mutuo dare. 
+      <lb ed="#P" n="40"/>Nec refert siue talis sit in rei veritate flagitiosus, vel talis putatus, non enim aequalis est dignitas: nec studi 
+      <lb ed="#P" n="41"/>osus videbitur absurde facere, quia mutua rarius non fieret mutuo accepto melior. Sequitur tertia 
+      conclusio<lb ed="#P" n="42" break="no"/>Quod igitur saepe est dictum. Sermones qui de affectibus, hoc est perturbationibus siue passionibus actibusve 
+      <lb ed="#P" n="43"/>fiunt, perinde habent definitionem, hoc est determinationem, vt ea circa quae sunt. Et primam quaestionem 
+      <lb ed="#P" n="44"/>soluit dicens. Non omnia sunt tribuenda patri: sed quae vnicuique pro dignitate accommodantur. Probat hoc sic. Non 
+      <lb ed="#P" n="45"/>omnia sacra loui dantur, aliqua enim lunoni, Mineruae. Apollini, &amp; aliis dantur. Item non solus pater ad 
+      <lb ed="#P" n="46"/>nuptias vocatur, sed etiam alii cognati &amp; consanguineisgenus enim est eis commune) quare &amp; actus, qui cir 
+      <lb ed="#P" n="47"/>ca hoc sunt. hoc est praeparationes vt sponsalia quae generis causa sunt, quocirca ad sponsalia etiam maxime 
+      <lb ed="#P" n="48"/>cognatos propter idem putant accedere oportere, &amp; ita non omnia sunt soli patri tribuenda. Sequitur 
+      quar<lb ed="#P" n="49" break="no"/>ta conclusio. Videbitur autem opitulari patri oportere: ne ei alimentum desit: cum sit filiis essendi causa: &amp; 
+      <lb ed="#P" n="50"/>videtur oportere eum more superum, hoc est proportionabiliter ad superos honorare. Honestiusque est patri 
+      <lb ed="#P" n="51"/>quam sibi succurrere. Sequitur quinta conclusio. Non omnem honorem parentibus tribuere oportet neque 
+      eun<lb ed="#P" n="52" break="no"/>dem patri &amp; matri: neque sapienti ac imperatori sed patri paternum, matri maternum, &amp; caeteris quibusque sunt. 
+      <lb ed="#P" n="53"/>Omni quoque seniori honos tribuendus est, qui ad aetatem accommodatur, vt assurgendo, locum ve ceden 
+      <lb ed="#P" n="54"/>do, secundum illud luuenalis satyra. xiii. Improbitas illo fuit admirabilis aeuo, Credebant hoc grande nephas, &amp; 
+      <lb ed="#P" n="55"/>morte piandum, Si iuuenis vetulo non assurrexerat: &amp; quae sequuntur. Fratribus autem &amp; sodalibus 
+      prae<lb ed="#P" n="56" break="no"/>standa aequa libertas &amp; bonorum communitas. Hoc est bona nostra libere eis prout ratio efflagitat communicabum 
+      <lb ed="#P" n="57"/>tur. Semper enim enitendum est tribuere quod vnicuique accommodatur, &amp; comparare quae insunt singulis ratione fami 
+      <lb ed="#P" n="58"/>liaritatis &amp; virtutis aut vtilitatis &amp; eorum qui eiusdem gnis sunt, facilis est deprehensio gnis: hoc est eiusdem parentelae. 
+      <lb ed="#P" n="59"/>quia illic facile scitur quis est nobis consanguinitate coniunctior: &amp; per consequens caeteris paribus plus illi dandum est. Diffe I 
+      <lb ed="#P" n="60"/>rentium autem est difficilius: vt vtrum magis subueniendum est studioso an tali consanguineo. Et licet in talibus iudica 
+      <lb ed="#P" n="61"/>re sit difficile, non tamen ob hoc desistendum est, sed vt fieri potest, hoc pacto inter eos est determinandum. 
+    </p>
+            <p xml:id="JMAet9-d36597-d1e235">
+               <lb ed="#P" n="62"/>⁋ Circa hoc caput nonnullae difficultates emergunt: quarum prima est. Vtrum homo magis debet parere 
+      <lb ed="#P" n="63"/>medico quam patri: Et an citius patri quam regi, aut principi militiae. Secundo an citius succurrendum est amico ob bo 
+      <!--303.xml-->
+      <pb ed="#P" n="141-v"/>
+               <lb ed="#P" n="1"/>num virtutis quam amico ob bonum generis. Tertio vtrum quis citius patrem a latronibus liberare habeat 
+      <lb ed="#P" n="2"/>an eum qui ipsum in tali necessitate liberauit. Quarto an illud est verum quod philosophus dicit: homo 
+      de<lb ed="#P" n="3" break="no"/>bet potius patrem quam seipsum ab ergastulo liberare. Quinto quando est vnus solus deus, etiam secundum 
+      philoso<lb ed="#P" n="4" break="no"/>phum, vt in octauum huius diximus, quomodo est hoc verum quod non omnis honos loui tribuitur: cum 
+      <lb ed="#P" n="5"/>per louem summum deum intelligat. 
+    </p>
+            <p xml:id="JMAet9-d36597-d1e257">
+               <lb ed="#P" n="6"/>⁋ Ad primum respondetur per conclusiones: quarum prima est. In omnibus obediendum est secundum subie 
+      <lb ed="#P" n="7"/>ctionem superioritatis &amp; non aliter. Haec conclusio duas sortitur partes, quarum prior est: vt obtutus ad subie 
+      <lb ed="#P" n="8"/>ctionem habeatur, quia par in parem non habet imperium, &amp; hoc probat secundam partem conclusionis. 
+      <lb ed="#P" n="9"/>Ex isto primo sequitur quod medico infirmus &amp; non patri obtemperare habet, vtpote si interdicat medicus 
+      <lb ed="#P" n="10"/>ipsi febricitanti vino, pater autem filio aegrotanti praecipiat bibere vinum, iam patri filius parere non tenetur. 
+      <lb ed="#P" n="11"/>Primo tenetur non parere: quia in hoc patri non est subiectus. Secundo sequitur quod si pater praecipiat filio 
+      <lb ed="#P" n="12"/>colere agros &amp; operi oeconomico intendere tempore quo illi intendendum est: &amp; rex pro libito suo illud vetat: 
+      <lb ed="#P" n="13"/>filius patri &amp; non regi parere debet. Probatio pater praecipit in his quae patris sunt non autem rex, sed (periam 
+      <lb ed="#P" n="14"/>positum fundamentum) parendum est superiori in iis quae superioritatis eius sunt. Tertio sequitur quod si 
+      con<lb ed="#P" n="15" break="no"/>fessionis auditor filio poenitentiam iniungat quam pater vetat, filius non habet patri parere sed suo confes 
+      <lb ed="#P" n="16"/>sario qui in hoc est ei superior. Quarto sequitur quod si alicui domino filius famuletur &amp; pater prohibeat ser 
+      <lb ed="#P" n="17"/>uitium quod dominus eius praecipit, domino &amp; non patri parendum est. 
+    </p>
+            <p xml:id="JMAet9-d36597-d1e286">
+               <lb ed="#P" n="18"/>⁋ Secunda conclusio principalis est haec. Quando &amp; pater &amp; rex rationabiliter petunt vt quando seorsum 
+      <lb ed="#P" n="19"/>vtriusque praeceptum esset licitum reliquo secluso: tunc regi &amp; non patri parendum est. Declaro exemplariter vt 
+      <lb ed="#P" n="20"/>si Rex praecipit filio adire bellum pro salute patriae necessarium: pater vero praecipit colere agros. 
+      Proba<lb ed="#P" n="21" break="no"/>tur haec conclusio sic. domino superiori potius est obediendum quam inferiori vbi incompossibilia praecipiunt: at 
+      <lb ed="#P" n="22"/>rex est dominus superior: igitur. Insuper bonum quanto communius tanto est diuinius: at rex commune 
+      <lb ed="#P" n="23"/>bonum magis intuetur quam pater: igitur. Domus enim est pars ciuitatis, propterea imperfectior, sicut pars 
+      re<lb ed="#P" n="24" break="no"/>spectu totius primo politicorum. Tertio licet ab inferiori domino ad superiorem prouocare, non autem 
+      <lb ed="#P" n="25"/>contra: ergo homo tenetur superiori in casu isto parere, inferiori neglecto. Quarto opposito dato, omnes fi 
+      <lb ed="#P" n="26"/>lios a iusto bello excusares, quod est inconueniens.
+    </p>
+            <p xml:id="JMAet9-d36597-d1e309">
+               <pc type="pilcrow">¶</pc> Contra secundum corollarium primae conclusionis, 
+      po<lb ed="#P" n="27" break="no"/>nendo quod pater iuste praecipiat filio retinere frumentum, quod rex iniuste praecipit exponere venditioni. argu 
+      <lb ed="#P" n="28"/>mentor sic. In hoc casu non tenetur parere patri, &amp; tamen casus huiusmodi est de iurisdictione paterna: igitur. 
+      <lb ed="#P" n="29"/>Consequentia tenet cum minore. Et probaretur maior: quia tunc a rege occidetur. <name xml:id="JMAet9-d36597-Nd1e320">Ioannes Buridanus</name> hic dicit quod 
+      prae<lb ed="#P" n="30" break="no"/>ceptum regis est iniquum &amp; propterea non est ei parendum. Et quia imponere manus in bona alterius inuito dmno 
+      <lb ed="#P" n="31"/>est iniuste agere, si metu cadente in constantem virum principi obediat tunc peccat, sed solum venialiter. Insuper 
+      <lb ed="#P" n="32"/>argumentor aliter ponendo casum quod pater filio praecipiat frumentum in horreum deferre. &amp; princeps sub poena ca 
+      <lb ed="#P" n="33"/>pitis id vetet: tunc filius non parebit patri. Dicit idem Ioannes quod in isto casu filius non debet obedire patri, quia 
+      <lb ed="#P" n="34"/>patris praeceptum esset irrationabile. Hic dico <name xml:id="JMAet9-d36597-Nd1e334">Buridanum</name> multifariam labi, tum primo quia erronee primo argu 
+      <lb ed="#P" n="35"/>mento respondet: tum secundo quia falsum est, quod venialiter peccat. Secundum est quod tertia responsio cum prima 
+      <lb ed="#P" n="36"/>pugnat. Probatur. Primum praeceptum patris erit rationabile in hoc casu si velit filium praeceptum suum exequi, 
+      stan<lb ed="#P" n="37" break="no"/>te sua nece magis suam mortem filius euitare habet quam patris imperium non exaudire: primo non est iustum imperium. 
+      <lb ed="#P" n="38"/>Filius ergo impune frumentum vendet sine peccato vllo: &amp; cum sit timor cadens in constantem virum sicut 
+      <lb ed="#P" n="39"/>suppono, ex dicto <name xml:id="JMAet9-d36597-Nd1e348">Buridani</name> a toto excusatur. Ille enim timor secundum omnes recte loquentes a toto 
+      excu<lb ed="#P" n="40" break="no"/>sat. In secundo etiam casu regi parebit patre neglecto. Irrationabile enim esset quod filius vitam suam exponeret pe 
+      <lb ed="#P" n="41"/>riculo pro sacco frumenti: &amp; pater debet ita censere. Qu si pater constanter clamet fili mihi obedias non autem 
+      <lb ed="#P" n="42"/>regi: dicat filius, pater mi pro te hoc in casu faciam nihil, quia iniuste praecipis.
+    </p>
+            <p xml:id="JMAet9-d36597-d1e359">
+               <pc type="pilcrow">¶</pc> At forte dicis, rex peccat 
+      <lb ed="#P" n="43"/>in sic praecipiendo, ergo &amp; filius hoc exequens. Consequentia est nulla: quemadmodum sicario petenti iniuste 
+      de<lb ed="#P" n="44" break="no"/>cem, decem porrigo sine peccato, quae tamen iniuste ipse capit.
+    </p>
+            <p xml:id="JMAet9-d36597-d1e369">
+               <pc type="pilcrow">¶</pc> Contra secundam conclusionem principalem 
+      <lb ed="#P" n="45"/>&amp; quodammodo contra solutiones argumentorum praecedentium argumentor sic. Filius est magis obnoxius 
+      <lb ed="#P" n="46"/>patri quam regi, &amp; plura bona ab illo accepit, vt patet ex octauo &amp; nono huius: ergo citius patri parere debet. 
+      Se<lb ed="#P" n="47" break="no"/>cundo fortior est obligatio quae est secundum naturam quam quae est ab hominum institutione: prior autem est pa 
+      <lb ed="#P" n="48"/>tris ad filium, secunda regis ad subditos.
+    </p>
+            <p xml:id="JMAet9-d36597-d1e383">
+               <pc type="pilcrow">¶</pc> Tertio prius est homo patri obligatus quam regi: cum domus sit prior 
+      <lb ed="#P" n="49"/>ciuitate. primo oeconomicorum &amp; primo politicorum: sed posterius non deobligat a priore: igitur. 
+    </p>
+            <p xml:id="JMAet9-d36597-d1e391">
+               <lb ed="#P" n="50"/>⁋ Ad primum concedo totum antecedens, &amp; nego consequentiam. Plus enim oportet hunc filium respicere ad 
+      bo<lb ed="#P" n="51" break="no"/>num totius reipublicae, cuius est pars, quam ad patris imperium.
+    </p>
+            <p xml:id="JMAet9-d36597-d1e398">
+               <pc type="pilcrow">¶</pc> Ad secundum, nego maiorem, si intelligatur 
+      <lb ed="#P" n="52"/>in omni casu: dato quod haec superioritas regalis sit ab hominum institutione conformius est legi naturali, huic 
+      <lb ed="#P" n="53"/>regi in casu parere quam patri. Insuper si in hoc regno ortus sit pater non prius est filius patri subiectus quam 
+      re<lb ed="#P" n="54" break="no"/>gi: immo &amp; pater &amp; filius vt primum sunt, regi subiiciuntur. Solent autem aliqui dicere quod prius homo 
+      <lb ed="#P" n="55"/>est regi quam deo subiectus: quia ante baptismum non est deo subiectus, bene autem regi. lstud tamen non placet, 
+      <lb ed="#P" n="56"/>quia vt primum est ipse &amp; etiam rex: deo est vterque subiectus. domini enim est terra &amp; plenitudo eius. Per hoc 
+      <lb ed="#P" n="57"/>ad tertium responsio patet. Ad tertiam dubitationem affirmatiue respondetur. Magis enim subueniendum est 
+      <lb ed="#P" n="58"/>amico ob bonum virtutis, quam amico ob generis identitatem. Probatur tam ex parte amicitiaequam ex parte ami 
+      <lb ed="#P" n="59"/>corum. Prius patet, satius enim est operandum secundum amicitiam integerrimam &amp; optimam quam secundum aliam 
+      mi<lb ed="#P" n="60" break="no"/>nus bonam: sed sic est de amicitia ob honestum ex octauo huius igitur. Insuper magis operandum est secundum 
+      <lb ed="#P" n="61"/>amicitiam quae bonitatem &amp; vtilitatem cum oblectamento syncere &amp; permanenter conglutinant, quam secundum illam quae  
+      <lb ed="#P" n="62"/>haec non annectit: sed sic est de amicitia ob honestum respectu aliarum amicitiarum: igitur. Ex parte amicorum sic 
+      <lb ed="#P" n="63"/>argumentor. Illi magis subueniendum est qui simpliciter est melior, &amp; subuenienti melior: quam illi qui non est 
+      <lb ed="#P" n="64"/>talis: sed amicitia studiosorum est huiusmodi, igitur. Consequentia tenet cum maiore. Probatur minor. Ipse est studiosua 
+      <!--304.xml-->
+      <pb ed="#P" n="142-r"/>
+               <lb ed="#P" n="1"/>ergo probus, &amp; amico est bonus. Patuit hoc octauo huius. Contra hanc responsionem argumentor. Fortior 
+      <lb ed="#P" n="2"/>est amicitia ex natura veniens quam amicitia consuetudine parta: facilius enim est consuetudinem quam naturam 
+      <lb ed="#P" n="3"/>permutare: &amp; si quam difficultatem permutandi consuetudo habeat, hoc est quia naturam imitatur, ex 
+      se<lb ed="#P" n="4" break="no"/>ptimo huius: sed amicitia eiusdem generis est a natura: amicitia ob virtutem ex assuefactione parta: igitur. 
+      <lb ed="#P" n="5"/>Respondetur negando maiorem quod fortior sit permanentior, syncerior &amp; solidior: bene tamen est naturalior. 
+      <lb ed="#P" n="6"/>Et intelligo de amicitia consanguineorum inquantum huiusmodi. Nam si inter consanguineos sit 
+      amici<lb ed="#P" n="7" break="no"/>tia ob honestum nihil contra nos. 
+    </p>
+            <p xml:id="JMAet9-d36597-d1e452">
+               <lb ed="#P" n="8"/>⁋ Ad tertiam dubitationem <name xml:id="JMAet9-d36597-Nd1e456">Gerardus odo</name>, quem <name xml:id="JMAet9-d36597-Nd1e459">Buridanus</name> insequitur tenet partem affirmatiuam: sed 
+      <lb ed="#P" n="9"/>haec responsio est manifeste contra literam philosophi, vt ex ea colligitur. Insuper indistincte est omnino 
+      <lb ed="#P" n="10"/>falsum vt in respondendo ad dubitationem liquebit. Pro qua eluenda ponentur propositiones. Prima est. 
+      <lb ed="#P" n="11"/>Patrem in casu dubitationis liberare oportet alio, de quo dubitatur relicto. Probatur conclusio: Quia sicut iste 
+      <lb ed="#P" n="12"/>alius vitam istius conseruauit eum liberando a carcere in quo (si redemptus non fuisset) mortem obiisset 
+      <lb ed="#P" n="13"/>prout supponitur: sic pater huic vitam dedit. Vlterius pater filium diu aluit &amp; eum in moribus erudire 
+      fe<lb ed="#P" n="14" break="no"/>cit: modo hoc totum est maius quam filium e carcere liberare: ergo citius patri propterea succurrendum est. Et 
+      <lb ed="#P" n="15"/>quia communiter patres haec omnnia liberis faciunt, sane dicit Aristoteles patrem (hoc relicto) e carcere libe 
+      <lb ed="#P" n="16"/>randum. Et illa est secunda conclusio in valore. Adde etiam quod multa apud liberos parentum amor 
+      immo<lb ed="#P" n="17" break="no"/>bilis meretur. Adde item parentum singularem amorem in filios. Dum enim Agrippina Neronem filium 
+      <lb ed="#P" n="18"/>imperaturum a Ca hldeis intellexisset, se ab eo occidendam, interficiat inquit modo imperet. Immensus est 
+      <lb ed="#P" n="19"/>parentum in filios amor qui apud liberos plurimum meretur. Tertia conclusio. Dato. A. patre qui 
+      Plato<lb ed="#P" n="20" break="no"/>nem genuit, &amp; nihil amplius boni ei fecit: puta nec illum aluit nec erudire fecit: quem Cicero cum suae 
+      vi<lb ed="#P" n="21" break="no"/>tae discrimine seruat in vitasputa ne occidatur submergatur ve viriliter resistit) citius Plato debet 
+      succurre<lb ed="#P" n="22" break="no"/>re Ciceroni quam. A. patri. Probatio. Sicut enim. A. Platoni vitam contulit sic Cicero illam inesse conseruauit. 
+      <lb ed="#P" n="23"/>Modo vetus est sententia. Non minor est virtus quam quaerere parta tueri. Et cum hoc, casus A non erat diffi 
+      <lb ed="#P" n="24"/>cilis: casus vero Ciceronis est difficillimus, ergo plus laudandus est Cicero Platoni quam proprius pater &amp; illi est 
+      <lb ed="#P" n="25"/>praeponendus. Et istud opposito probabilius puto. 
+    </p>
+            <p xml:id="JMAet9-d36597-d1e500">
+               <lb ed="#P" n="26"/>⁋ Ad quartam dubitationem lib, nono huius respondebitur. Ad quintam dubitationem suppositis his quae in octa 
+      <lb ed="#P" n="27"/>uo dicuntur Aristoteles per louem primum motorem &amp; deum intelligit. Licet enim vulgus de illo pestife 
+      <lb ed="#P" n="28"/>ro viro Graeco intellexerit. Philosophi tamen de alio sicut &amp; nos intellexerunt Dicimus enim hoc faciam 
+      <lb ed="#P" n="29"/>loue propitio per iouem deum intelligentes ex vsu eruditorum. Intelligentiae autem &amp; animae 
+      heroico<lb ed="#P" n="30" break="no"/>rum virorum, qui fato cesserunt in gratiae cumulo honoribus inferioribus, venerandae veniunt, sicut 
+      lo<lb ed="#P" n="31" break="no"/>quimur de latria dulia &amp; hyperdulia. 
+    </p>
+            <p xml:id="JMAet9-d36597-d1e516">
+               <lb ed="#P" n="32"/>⁋ Dubitatur sexto: an aliqui ita arctae amicitiae nexum seruarunt non sanguinis vinculo coniuncti sicut &amp; 
+      <lb ed="#P" n="33"/>consanguinei. Constructiue respondeo. Nullus enim est verae amicitiae nodus nisi inter probos, vt 
+      saepenu<lb ed="#P" n="34" break="no"/>mero in octauum librum diximus. Multo facilius amabis candidum non contribulem cum quo tui mo 
+      <lb ed="#P" n="35"/>res quadrabunt quam liuidum contribulem cum quo non conuenient. De meipso dicere soleo quod nunquam fidelio 
+      <lb ed="#P" n="36"/>rem amicum offendi quam extraneum, a sanguinis parentela semotum. Et patet exemplariter de Oreste &amp; 
+      Py<lb ed="#P" n="37" break="no"/>lade: siquidem Orestes &amp; Pylades singulariter se dilexerunt. Orestes enim cum esset a barbaro rege capitis 
+      <lb ed="#P" n="38"/>damnatus &amp; nesciret rex vter esset Orestes, Pylades se Orestem finxit vt pro Oreste seruando necaretur. 
+      Ore<lb ed="#P" n="39" break="no"/>stes autem se criminis reum constanter affirmabat &amp; commilitonem insontem constituerat. Feruidus ira 
+      <lb ed="#P" n="40"/>Achilles ad pugnam in Troianos nunquam redire proponebat ob Briseidem ei ab Agamennone ereptam. Et 
+      <lb ed="#P" n="41"/>ipsum vt videbatur inexorabilem, virum, nec Aiax, nec Diomedes, nec facundus Vlysses flectere quibant. 
+      <lb ed="#P" n="42"/>verum vbi intellexit Patroclum amicum ab Hectore occisum, ad bellum vltro alacer rediit: nec satiatus est 
+      <lb ed="#P" n="43"/>donec Hectorem per pergama Troiae in loris ad caudam equi traheret. Ter circum iliacos raptauerat 
+      He<lb ed="#P" n="44" break="no"/>ctora muros: ait Maro. Damon &amp; Pythias Pythagorae discipuli sic inter se amauerunt vt cum alterum 
+      il<lb ed="#P" n="45" break="no"/>lorum Dionysius syracusanus trucidare vellet, alter se periculo mortis vadem praestiterit, donec alter rebus 
+      <lb ed="#P" n="46"/>domesticis dispositis reuerteretur. Aduenerat autem hora constituta qua vas extremum supplicium pati 
+      <lb ed="#P" n="47"/>debebat amico non reuerso: at ille dicebat se de amici reditu non ambigere: &amp; quod libens si non redierit pro 
+      <lb ed="#P" n="48"/>illo pateretur. Verum eodem pene momento quo supplicium tyrannus indixerat: is qui discesserat superue 
+      <lb ed="#P" n="49"/>nit, obsidem liberaturus: admiratus autem illorum fidem tyrannus vtrique pepercit, rogans vt tertius in  
+      <lb ed="#P" n="50"/>illorum fidem amicitiamque admitteretur. Cicero huius rei author est.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

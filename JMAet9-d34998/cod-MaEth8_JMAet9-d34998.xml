@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 10</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 10</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d34998"><!-- mair-l8c10 -->
+            <head xml:id="JMAet9-d34998-Hd1e103">Caput 10</head>
+            <p xml:id="JMAet9-d34998-d1e106">
+      <!--288.xml-->
+               <pb ed="#P" n="134-r"/>
+               <lb ed="#P" n="1"/>
+               <quote xml:id="JMAet9-d34998-Qd1e114" type="lemma">REi autem publicae</quote> &amp;c. Hoc est quartum capuntur huius secundi tractatuns, in quo Aristoteles dictis dicen 
+      <lb ed="#P" n="2"/>da assuit atque annectit. Nuperrime dixit quod amicitia in societate consistit. Insuper enodauit 
+      iusti<lb ed="#P" n="3" break="no"/>tiam atque amicitiam circa eandem versari materiam. Praeterea monstrauit singulas societates ad ciuilem 
+      <lb ed="#P" n="4"/>attinere, tamquam partes ad totum, nunc vero societatem ciuilem in suos ramos distrahit, &amp; similitudinem ipsarum 
+      <lb ed="#P" n="5"/>enucleat ad societatem rei familiaris. Et hoc quia ad illas non solum iustitia extenditur, verumetiam amicitia. In  
+      <lb ed="#P" n="6"/>geminas partes caput secat. In priore species rei ciuilis aperit. In posteriore vero societates rei 
+      fami<lb ed="#P" n="7" break="no"/>liaris. Dicit ergo primo. Rei autem publicae tres sunt species, &amp; totidem transgressiones &amp; quasi labes, hoc 
+      <lb ed="#P" n="8"/>est corruptiones. Et illae quidem sunt, Regum, Optimorum potestas, hoc est Aristocratia, &amp; tertia est ea quae  
+      <lb ed="#P" n="9"/>&amp; censibus fit, quam censupotestatem dicere accommodatum videtur, plurimi autem rempublicam appellare 
+      consue<lb ed="#P" n="10" break="no"/>uere. Aliis vero Timocratia. Hodierno die in his extera subnectemus duorum secundorum. quia regia 
+      po<lb ed="#P" n="11" break="no"/>testas est perspicua Aristocratia est. In Venetiis vbi patritii soli reipublicae habenas moderantur. Metis 
+      <lb ed="#P" n="12"/>in confinio Lotharingiae, Florentiae, Senis, Lubeccae in Germania. Exemplum tertii est apud Heluetios: 
+      <lb ed="#P" n="13"/>qui homines in illa politia sunt aequales, nec inter nobiles &amp; ignobiles est discrimen: sed ciuium 
+      aequa<lb ed="#P" n="14" break="no"/>litatem quaerunt. Sequitur. Atque harum politiarum optima est regnum, deiectissima censupotestas, &amp; media 
+      <lb ed="#P" n="15"/>optimorum potestas. Regnum est optima politia quia illic vnus prudens praeest. Ex hoc duodecimo 
+      Meta<lb ed="#P" n="16" break="no"/>physicae Aristoteles vnum rectorem vniuersi concludit. Et quia politia Timocratica ambitiosorum maxime 
+      <lb ed="#P" n="17"/>ab vnitate recedit, illa est deterrima. Et quia paucorum potestas non ita late a politia regali distat illa est 
+      <lb ed="#P" n="18"/>media. Transgressio regni tyrannis vocatur, hoc est ea labes quae politiae regali opponitur tyrannis appellatur. 
+      <lb ed="#P" n="19"/>In vtraque enim politia vnus est monarcha, sed inter selate differunt. Tyrannus enim suum, rex vero eorum qui 
+      <lb ed="#P" n="20"/>reguntur quaerit emolumentum. Non enim quispiam meretur dici rex nisi ad regendum ex se sufficiens fuerit &amp; 
+      <lb ed="#P" n="21"/>omnibus bonis antecellat. Non ergo suas ipse sed eorum quos regit vtilitates quaerit: qui autem talis non  
+      <lb ed="#P" n="22"/>est forte potius est quidem princeps quam rex. Tyrannis est labes inter has tres transgressiones abiectissima. 
+      <lb ed="#P" n="23"/>Probatio, quia opponitur optimae: quamobrem ipsa est pessima. Propterea eim odium dei est flagitium immane. 
+      <lb ed="#P" n="24"/>quia virtuti optimae. i. dilectioni dei aduersatur. Ex optimatum vero potestate ad paucorum potentiam fit 
+      <lb ed="#P" n="25"/>transgressio, &amp; haec labes in antiqua translatione vocatur oligarchia, hoc est quoniam probi &amp; pauci a 
+      <lb ed="#P" n="26"/>principio habenas reipublicae bene moderantur, qui res ciuitatis praeter dignitatem distribuunt, &amp; 
+      magi<lb ed="#P" n="27" break="no"/>stratus non aequa lance partiuntur, sed eosdem magistratus opulentis conferunt. Ex censupotestate ad 
+      po<lb ed="#P" n="28" break="no"/>pularem potestatem fit transgressio, hoc est ad Democratiam. Hae enim duae sunt finitimae. At minima 
+      <lb ed="#P" n="29"/>transgressionum reipublicae est popularis potestas: quandoquidem parum reipublicae transgreditur speciem 
+      <lb ed="#P" n="30"/>&amp; patet ratione. Timocratica est politiarum infima, itaque lues ei opposita est infima. Item in politia 
+      <lb ed="#P" n="31"/>Timocratica, est aequalis obtuitus ad locupletes &amp; inopes: in Democratica inopibus plus fauoris datur 
+      <lb ed="#P" n="32"/>quam locupletibus. Et licet id praeter dignitatem fiat, labes tamen non est maxima. Inopibus enim quia non 
+      <lb ed="#P" n="33"/>est iniuria, sed locupletibus, parua est transgressio, qui illam melius quam pauperes sustinere possunt:, &amp; hoc 
+      <lb ed="#P" n="34"/>est totum peccatum quod in hac politia fit. De Democratica ad Timocraticam quia sunt multum finitimae 
+      <lb ed="#P" n="35"/>facilis est transitus: quia in symbolizantibus facilior est transmutatio, secundo de generatione. Harum 
+      <lb ed="#P" n="36"/>trium specierum reipublicae effigiem in oeconomicis &amp; in re familiari accipere potes. Societas enim 
+      <lb ed="#P" n="37"/>patris ad filium prae se fert specimen ipsius politiae regalis. Patri namque liberi sunt curae. Hinc &amp; 
+      Ho<lb ed="#P" n="38" break="no"/>merus louem patrem appellat. Ipsum enim regnum imperium vult esse paternum. Patris tamen apud Persas 
+      <lb ed="#P" n="39"/>imperium tyrannicum est: suis enim filiis vtuntur vt seruis. Non est hic sermo de seruis mercenariis sed  
+      <lb ed="#P" n="40"/>legalibus. Heri dominium ad seruos tyrannicum est. Herus est dominus, Heros autem quasi diuinus &amp; 
+      semi<lb ed="#P" n="41" break="no"/>deus: sicut aeneas a poeta maximus heros appellatur: &amp; hinc heroica virtus, de qua in septimo Ethicorum 
+      <lb ed="#P" n="42"/>dictum est. Et licet seruitus recta sit: tamen per se errant in hoc quod filiis tamquam seruis vtuntur. Nam diuersorum 
+      <lb ed="#P" n="43"/>diuersa debent esse imperia. At viri &amp; vxoris societas similis optimatum potestati videtur. Pro 
+      di<lb ed="#P" n="44" break="no"/>gnitate vir praesidet &amp; in his quae virum decent: quae vero vxori accommodantur haec illi tribuit vir. Hoc 
+      <lb ed="#P" n="45"/>est de exterioribus &amp; de his quae sunt magnae molis vir prouidet, de minutioribus &amp; his quae domi 
+      <lb ed="#P" n="46"/>sunt, mulier prouidet. Qa si in omnibus vir dominetur in paucorum potestatem mutatur. Nonnunquam 
+      <lb ed="#P" n="47"/>tamen vxores ob patrimonii amplitudinem dominantur, sed tunc non sunt imperia ob virtutem sed ob 
+      <lb ed="#P" n="48"/>opes: perinde atque in paucorum fit potestate, fratrum vero societas similis est censupotestati: sunt enim 
+      <lb ed="#P" n="49"/>pares praeter differentias aetatis, &amp; si in aetate multum distent aegre inter eos seruatur fraterna 
+      ami<lb ed="#P" n="50" break="no"/>citia. Popularis autem potestas in his maxime habitationibus est quae domino carent. Hic autem omnes 
+      <lb ed="#P" n="51"/>sunt aequales, &amp; in quibus princeps est imbecillis &amp; vnicuique inest potestas, debilis est princeps inter 
+      <lb ed="#P" n="52"/>eos. Vt Heluetii quando ad bellum proficiscuntur, ductores ordinant qui &amp; magistratus in republica, 
+      <lb ed="#P" n="53"/>sed parum authoritatis habent. Certe si in paruis labantur vltimo supplicio feriuntur, sic est de priore 
+      <lb ed="#P" n="54"/>Sorbonico annuo &amp; in collegiis in quibus est sociorum aequalitas, hoc dempto quod quidam cum parua 
+      <lb ed="#P" n="55"/>authoritate aliquando magistratum gerit. 
+    </p>
+            <p xml:id="JMAet9-d34998-d1e235">
+               <lb ed="#P" n="56"/>⁋ Quaeritur, quae politiarum est praestantissima. Respondetur, monarchia inter omnes politias est ( 
+      <lb ed="#P" n="57"/>prima caeterisque anteponenda. In apibus est rex, cuius auspiciis bella cum hoste gerunt, defessum p 
+      <lb ed="#P" n="58"/>subleuant: egredientem turmatim circumuolant. &amp; cum apes rationis expertes id doceant, 
+      omni<lb ed="#P" n="59" break="no"/>bus non est praetereundum. Et prima quia ante alias fluxit. Assyrii enim reges tempore Tharae 
+      <lb ed="#P" n="60"/>patris Abrahae floruere. Abraham cum regibus bellabat, vt ex. ia. capite Geneseos edocemur. Ad 
+      <lb ed="#P" n="61"/>haec vsque tempora perdurat vbiuis gentium diffusa. In Asia, Affrica, ac pene in tota Europa reges 
+      im<lb ed="#P" n="62" break="no"/>perant. Secundo, pluralitas principum mala est. . Metaphysicae, vnusque est mundi rector scilicet deus. 
+      <lb ed="#P" n="63"/>itaque vnus habenas regni moderabitur, in cuius argumentum Romulus &amp; Remus simul regnare 
+      <lb ed="#P" n="64"/>nequibant. Parricidium monarcham peperit, convenienti similitudine, nec in omnibus similitudinem 
+      <!--289.xml-->
+      <pb ed="#P" n="134-v"/>
+               <lb ed="#P" n="1"/>quaerimus, in vniuerso praeest deus in variis regnis princeps. Ad hoc est Aristoteles in litera. 
+    </p>
+            <p xml:id="JMAet9-d34998-d1e264">
+               <lb ed="#P" n="2"/>⁋ Contra istud argumentor. Optimorum potestas siue politia Aristocratica est pepetua, quando centum 
+      <lb ed="#P" n="3"/>vel ducenti patricii reipublicae praesunt, vno moriente alius in illius locum sufficitur, extincto autem 
+      <lb ed="#P" n="4"/>rege tenellus puer futurus rex relinquitur: sub interrege respublica nutat, vt nauis in procelloso 
+      <lb ed="#P" n="5"/>mari sine nauarcha. Secundo, a politia regali tamquam labe in Aristocraticam correctricem regiae audaciae 
+      <lb ed="#P" n="6"/>ascenditur quamobrem Aristocratica politia est praeferenda. Assumptum patet in Romana politia. 
+      <lb ed="#P" n="7"/>vbi Tarquinio Superbo deiecto consules eligebantur. Pari modo Athenienses expulsis regibus a 
+      se<lb ed="#P" n="8" break="no"/>natoribus regebantur, &amp; illorum respublica creuit atque floruit. Tempore etiam Senatus Romanorum 
+      <lb ed="#P" n="9"/>respublica in sua celsitudine extitit, quae postquam ad impetatores deuenit parum in suo robore stetit. 
+      <lb ed="#P" n="10"/>Et patet hodierna tempestate in Italia in qua veneti late imperant ab erroribus quibus Romana 
+      po<lb ed="#P" n="11" break="no"/>litia pessundabatur cauentes Romani duces excercituum, vt Sylla. Marius, Caesar, Pompeius, Crassus 
+      <lb ed="#P" n="12"/>&amp; similes dissidia excitarunt &amp; funesta bella populo. Insuper Aristoteles duodecimo capite tertii 
+      Po<lb ed="#P" n="13" break="no"/>liticorum Aristocraticam regali politiae praefert, librum autem Politicorum post Ethica edidit vt in  
+      <lb ed="#P" n="14"/>calce Ethicorum constat. 
+    </p>
+            <p xml:id="JMAet9-d34998-d1e295">
+               <lb ed="#P" n="15"/>⁋ Ad primum concedo politiam Aristocraticam aliqua proprietate nobili ornari, qua regia 
+      celsi<lb ed="#P" n="16" break="no"/>tudo vacat. ex opposito multa litigia &amp; occulta odia in multorum regimine contingunt. 
+      Roma<lb ed="#P" n="17" break="no"/>norum respublicae. Atheniensium atque Lacedaemoniorum hoc ipsum docuerunt: &amp; nouissime apud  
+      <lb ed="#P" n="18"/>Genuenses id patuit. Aristocraticam veneti illustrant quibus Creta, Cyprus &amp; quaedam alia regna 
+      <lb ed="#P" n="19"/>obediunt. Alapsibus enim Romanorum maximopere cauent. Florentini paucis imperant. Senensium 
+      <lb ed="#P" n="20"/>fama regnandi vix Alpes transilit. 
+    </p>
+            <p xml:id="JMAet9-d34998-d1e312">
+               <lb ed="#P" n="21"/>⁋ Ad secundum argumentum inficior assumptum. illic enim erat tyrannis. Tarquinius 
+      Super<lb ed="#P" n="22" break="no"/>bus regium sceptrum in tyrannidem conuerterat. Regis prouincia est subditorum commodo 
+      stude<lb ed="#P" n="23" break="no"/>re: hoc illum aeternabit. Extolluntur reges ad astra qui propriis commodis neglectis populi salutem 
+      <lb ed="#P" n="24"/>quaesiuere. 
+    </p>
+            <p xml:id="JMAet9-d34998-d1e323">
+               <lb ed="#P" n="25"/>⁋ Ad Aristotelem tertio politicorum dicimus, quod illic disputatiue solum procedit, nec sibi in 
+      Ethi<lb ed="#P" n="26" break="no"/>ca doctrina reluctatur: verum ponit aliqua praeconia quibus Aristocratia monarchiam antecellit, &amp; 
+      <lb ed="#P" n="27"/>hoc ingenue fatemur. Reges plerique adulatorum melle deliniti intumescunt, &amp; saepe numero 
+      exorbi<lb ed="#P" n="28" break="no"/>tant, tali lue optimates reipublicae rectores minime corrumpuntur. 
+    </p>
+            <p xml:id="JMAet9-d34998-d1e334">
+               <lb ed="#P" n="29"/>⁋ Dubitatiunculas duas incidentes carptim mouemus. Primo quod est regium munus. Secundo, an  
+      <lb ed="#P" n="30"/>conducibilius est habere regem successione quam electione.
+    </p>
+            <p xml:id="JMAet9-d34998-d1e341">
+               <pc type="pilcrow">¶</pc> Priorem dubitationem octo aut nouem 
+      do<lb ed="#P" n="31" break="no"/>cumentis strictim absoluerimus. Primum documentum est. Rex deum timere (sub aliis verbis idem 
+      <lb ed="#P" n="32"/>dicam) incontaminate viuere satagat vt non solum legibus subiectis imperet, verum etiam vitae exemplo. 
+      <lb ed="#P" n="33"/>Nam qui sibi nequam est, cui alii bonus erit? Eccle. ix. Sedet in specula velut exemplar aliis. Ad morum 
+      <lb ed="#P" n="34"/>primi mobilis spherae inferiores, perenni vertigine irrequiete circumtorquentur. Rex virtuti 
+      incum<lb ed="#P" n="35" break="no"/>bat &amp; studiosos honoribus praeficiat. omnesque summopere virtutibus innitentur, sin vitiis insudet 
+      <lb ed="#P" n="36"/>hiatum singulis ad malum aperiet. Homines ad malitiam proni velamine superioris licentiosius 
+      pec<lb ed="#P" n="37" break="no"/>cant. Quicquid monarchae cum aulicis factitant ignobile vulgus protinus insequitur. Hoc 
+      experi<lb ed="#P" n="38" break="no"/>mento pluries didicimus. Deum timere est illibate vitam transigere. Propterea haec duo (vt retulimus)  
+      <lb ed="#P" n="39"/>conspirant. Tametsi autem haec praeceptio vitium extrudat, nihilo tamen minus gratia maioris 
+      ex<lb ed="#P" n="40" break="no"/>planationis speciatim quaedam alia subdemus quae ad laudabilem eius vitam ancillantur: quorum 
+      pri<lb ed="#P" n="41" break="no"/>mum secundum tamen in ordine est. Rex sit verax. Mendacium enim quarto Ethicorum est per se 
+      vi<lb ed="#P" n="42" break="no"/>tuperabile, ac in rege foedissimum. In verbo regio (dicere solent) consulendum est. Quicquid 
+      promit<lb ed="#P" n="43" break="no"/>tat si cancellos honestatis haud transiliat obseruetur: alioqui fidefragus atque contemptibilis 
+      cense<lb ed="#P" n="44" break="no"/>bitur. Fides est hosti inuiolate seruanda, proinde valentiore ratione inter suos. Tertium. Carnis 
+      <lb ed="#P" n="45"/>illecebras domet: alienas mulieres non sollicitet, nullam a sua coniuge carnaliter cognoscat, si secus 
+      <lb ed="#P" n="46"/>fecerit hiatum illecebrosis voluptatibus patefaciet. Alii enim ad inconcessas libidines proni, illius 
+      <lb ed="#P" n="47"/>vestigia sequentur, Venerem illicitam etiam alia crimina comitantur. Dauidis adulterium cum 
+      Bersa<lb ed="#P" n="48" break="no"/>bea, Vriae mariti eius homicidium attraxit, Salomonis infrenis libido ipsum iam annosum pene 
+      <lb ed="#P" n="49"/>praecipitauit ita vt a nonnullis ambigatur, an sit damnatus. Talia scelera deus non sinit esse inulta. 
+      <lb ed="#P" n="50"/>Secundus &amp; tertius regum de praefatis regibus haec docent. Libidinosi sunt Martis nothi, quia 
+      in<lb ed="#P" n="51" break="no"/>eptissime ad excercitum rite ductandum. Compti capilli, tripudia, atque escarum luxuria neruum 
+      bel<lb ed="#P" n="52" break="no"/>licum attenuant, frangunt, potentatusque exterminant. Sardanapali exitus id edocet, qui inter 
+      gre<lb ed="#P" n="53" break="no"/>ges meretricum pensa diuisit, ludibundisque oculis illas intuebatur, indignusque erat cui 
+      armipoten<lb ed="#P" n="54" break="no"/>tes parerent. Hamnibal poenus ducum vix vlli secundus, campana luxuria corruptus, fiorentissimas 
+      <lb ed="#P" n="55"/>acies secum pessundedit. Quas paruo negocio Scipio Africanus attriuit. Nec mirum congressus fuit 
+      <lb ed="#P" n="56"/>impar. Scipio militari disciplina inter milites proficiens seipso robustior quotidie euasit. Annibalis 
+      <lb ed="#P" n="57"/>iam delicatus miles scortorum illecebras redolebat. In Cannarum exitu cum Alexandro Macedone 
+      <lb ed="#P" n="58"/>bello tonitruante ambiguo Marte conflixisset. Nec Alexandrum sua laude fraudabo: qui Darium 
+      re<lb ed="#P" n="59" break="no"/>gem pugna superauit: in qua eius coniugem cum duabus filiabus viro maturis cepit. Erat regina 
+      in<lb ed="#P" n="60" break="no"/>credibilis formae pariter &amp; filiae, &amp; Alexander in viridiaetate, eas tamen inuiolatas vt sorores 
+      custo<lb ed="#P" n="61" break="no"/>diuit, strictissime vetans ne quispiam captiuarum corporibus illuderet, in qua castitate mirifice a 
+      scri<lb ed="#P" n="62" break="no"/>ptoribus laudatur. Quarto sit grassatorum &amp; parricidarum seuerus (secundum iustitiam) vltor. 
+      Ali<lb ed="#P" n="63" break="no"/>cubi homicidas gentium homicidas magni faciunt animosos praedicant. Qui secundum iustitiam 
+      le<lb ed="#P" n="64" break="no"/>galem extremo supplicio sunt reprimendi vt caeteri a tanta audacia cohibeantur. Interuentu magna¬ 
+      <!--290.xml-->
+      <pb ed="#P" n="135-r"/>
+               <lb ed="#P" n="1"/>tum reges plerunque illis ignoscunt, a cuiusmodi remissione peccatoribus conrnua aperiuntur. Istud 
+      <lb ed="#P" n="2"/>nullo modo ad clementiam, sed principis ignauiam referendum est. Si quispiamduos aut tres 
+      <lb ed="#P" n="3"/>occiderit regem aut iudicem omnium homicidam praeter primum nostrates prodant eo quod 
+      <lb ed="#P" n="4"/>impunitas audaciam parricidae contulit. Quando multae particulares caedes in eius regno 
+      fi<lb ed="#P" n="5" break="no"/>unt, eius culpabilis omissio conuincitur. Quinto sit princeps iustitiae seruantissimus: neminem 
+      <lb ed="#P" n="6"/>ipse laedat, cum enim patriae pater merito dicendus sit, absonum est illi quempiam iniuria afficerem. 
+      <lb ed="#P" n="7"/>Nulliusque nummosi pecuniam sub sophistico velamine capiat. Dionysium Syracusanum merito 
+      cul<lb ed="#P" n="8" break="no"/>pant omnes quod opulentorum opes sub vmbra laesae maiestatis, aut proditionis diripuit. Adque eum 
+      <lb ed="#P" n="9"/>metum improbus tyrannus deuenit, vt tonsorum nouaculas timens, filias tondendi artem 
+      doce<lb ed="#P" n="10" break="no"/>ret: quas tandem suspectas habens viuo carbone barbam exussisse traditur. Eccem quid ex tyrannide 
+      <lb ed="#P" n="11"/>lucrefecerit. Plurimum peccauit propterea dignus vt vigorem &amp; animi fortitudinem dominus ei 
+      <lb ed="#P" n="12"/>tolleret. Meminerit rex quod rex est ob bonum commune multitudinis. Et ideo male meritos condigno 
+      <lb ed="#P" n="13"/>supplicio mulctet: benemeritos laude &amp; praemio prosequatur vt reliqui vitia execrentur atque ad virtutum 
+      <lb ed="#P" n="14"/>nitorem anhelent. Regnatenim citra iustitiam in sua integritate stare nequeunt, nam sine ea non  
+      <lb ed="#P" n="15"/>sunt nisi latrocinia. Sexto pacem inter suos nutriat, pacemque initam cum hoste inuiolate seruet. 
+      <lb ed="#P" n="16"/>Fidefragi Poeni suis dolosis machinamentis Carthaginem euerterunt. Pace diuinus cultus fioret. 
+      <lb ed="#P" n="17"/>Pace artes incrementa capiunt: mercator tuto mare sulcat, patrias merces in exteras defert oras: 
+      <lb ed="#P" n="18"/>ac peregrinas affatim domum aduehit. Pace agricola sua munia nauiter obit. Agricolae autem 
+      mor<lb ed="#P" n="19" break="no"/>talibus vitam suppeditant. Belli horror mortem ominatur. At agricolae diutino labore sub loue. i 
+      <lb ed="#P" n="20"/>nudo caelo assueti tempore praelii durissimi milites repente euadunt. Pondus rei bellicae in agricolis 
+      <lb ed="#P" n="21"/>post nobiles in vtroque Britanniae regno consistit: proinde sunt humane tractandi, quia 
+      tempo<lb ed="#P" n="22" break="no"/>re belli atque pacis sunt reipublicae maiorem in modum vtiles. Septimo, nihil ardui citra 
+      matu<lb ed="#P" n="23" break="no"/>rum consilium definiat. Multitudo enim sapientum sanitas est orbis terrarum, Sapientiae sexto. 
+      <lb ed="#P" n="24"/>Sint consiliarii eius longa rerum experientia &amp; immaculatae vitae splendore conspicui. Ne innitatur 
+      <lb ed="#P" n="25"/>prudentiae suae: &amp; ne sit sapiens apud semetipsum Prouerbiorum tertio. Rex etiam hebes 
+      pruden<lb ed="#P" n="26" break="no"/>tium consilio fretus, regi ingenioso &amp; suopte ingenio confidenti anteponendus est. Octauo sit rex 
+      <lb ed="#P" n="27"/>humanus, &amp; sit ad illum accessus facilis. Non loquatur cum honestis viris per interpositos 
+      cubicula<lb ed="#P" n="28" break="no"/>rios more Sardanapali regis Assyriorum vel Annibalis, qui post victoriam Cannensem ita 
+      victo<lb ed="#P" n="29" break="no"/>ria intumuit vt nullum Carthaginensium suo colloquio dignaretur. Serena fronte superuenientes 
+      <lb ed="#P" n="30"/>rex ipse suscipiat. lusta postulanti si ab alio non sit praeuentus hilariter concedat, vel spem 
+      conce<lb ed="#P" n="31" break="no"/>dendi porrecta fronte monstret. Nullum a se tristem abire permittat. In re dubia dilationem 
+      su<lb ed="#P" n="32" break="no"/>per hoc deliberandi petat. Interim consultando cum a secretis competitorum desiderio faciet, satis 
+      <lb ed="#P" n="33"/>cauendo ne mendacio appropinquet. Demum sit verborum parcus, grauitatem gestu verboque 
+      te<lb ed="#P" n="34" break="no"/>neat decentem, fastum euitet. In vulgus bene cultus ac clientibus secundum exigentiam dignitatis, 
+      <lb ed="#P" n="35"/>comitatus prodeat. Meminerit se hominem communem cuius maiestas in omnes subditos deriuatur 
+      <lb ed="#P" n="36"/>&amp; cuius ignominiae illi omnes sint ab extraneis participes. 
+    </p>
+            <p xml:id="JMAet9-d34998-d1e503">
+               <lb ed="#P" n="37"/>⁋ Pro secundo dubio respondemus, quod successio haereditaria, electioni in regno est praeferenda ob 
+      ar<lb ed="#P" n="38" break="no"/>matorum strepitum &amp; dissidium pro futuro rege contingente. Rarissime enim in maxime idoneum 
+      <lb ed="#P" n="39"/>coirent. Et nouus homo in regem electus, se &amp; contribules in aliorum iacturam eueheret. Et patet 
+      <lb ed="#P" n="40"/>istud a signo. Proximi haeredes in regium solium collocantur. Vetustus Taprobanensium mos est 
+      per<lb ed="#P" n="41" break="no"/>rarus. Elegerant enim illi in Regem, virum probum, senem, liberisque orbum, cui pauci erant 
+      sangui<lb ed="#P" n="42" break="no"/>nis nexu conglutinati.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

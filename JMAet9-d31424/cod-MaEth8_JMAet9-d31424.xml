@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 12</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 12</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d31424"><!-- mair-l7c12 -->
+            <head xml:id="JMAet9-d31424-Hd1e103">Caput 12</head>
+            <p xml:id="JMAet9-d31424-d1e106">
+               <lb ed="#P" n="22"/>
+               <quote xml:id="JMAet9-d31424-Qd1e110" type="lemma">NOn effici autem</quote> &amp;c. In superiore capite aliorum opinationem recitauit, hic autem suam 
+      anne<lb ed="#P" n="23" break="no"/>ctit, dicit ergo primo. Superioribus rationibus a priscis allatis non est conclusum vt voluptas 
+      <lb ed="#P" n="24"/>bonum non sit, vt prima opinio praetendebat, neque ostensum est quod non sit optimum, hoc est sum 
+      <lb ed="#P" n="25"/>mum bonum, quod secunda opinatio praetendebat, ex hisce dicendis hoc constabit. Secunda opinio 
+      <lb ed="#P" n="26"/>absolute est vera in conclusione: ideo contra eam nihil se dicturum ostendit, quamquam ad vnam eius 
+      ratio<lb ed="#P" n="27" break="no"/>nem inefficacem postea respondebit. Etiam praetermittit, quia illa verum concludit, dicit ante ratio 
+      <lb ed="#P" n="28"/>num solutionem quod boni communiter sumpti duo sunt genera: quoddam est bonum simpliciter quod 
+      <lb ed="#P" n="29"/>homini perfecto est bonum, vt speculari, &amp; bonum alicui quod imperfecto homini conducit. Natura 
+      <lb ed="#P" n="30"/>perfecto habitu decorata est perfecta simpliciter. Alia est imperfecta cuius cupiditas adhuc non est 
+      <lb ed="#P" n="31"/>domita. Habitus perfectus appetitum sensitiuum iam domat: imperfectus aliquem perturbationis 
+      <lb ed="#P" n="32"/>insultum compatitur adhuc. Ita generatio &amp; motus distinguantur. de prauis voluptatibus vide. xiiii. 
+      <lb ed="#P" n="33"/>capite quia aliae prauae naturae sunt operationes aut ab ortu: quaedam nec sunt expetibiles huic, sed 
+      non<lb ed="#P" n="34" break="no"/>nunquam paruo tempore vt manducare, bibere: expetibiles tanquam perfectiones non sunt, sed quia ad 
+      per<lb ed="#P" n="35" break="no"/>fectionem tendunt. Non enim viuimus vt comedamus: verum manducamus vt viuamus. Quaedam 
+      <lb ed="#P" n="36"/>reipsa non sunt voluptates verum sunt voluptatum simiae: dolorem enim annexum habent &amp; medi 
+      <lb ed="#P" n="37"/>cinae gratia fiunt: quales sunt illorum qui morbo illaqueantur. Decimumtertium caput cum. xiiii. 
+      <lb ed="#P" n="38"/>haec omnia affatim docebunt. Ista pro illis summatim solum praelibantur. Praeterea cum bonorum 
+      <lb ed="#P" n="39"/>aliud sit operatio &amp; actus secundus: aliud habitus &amp; actus primus, verbis philosophi vtendo. Secundo 
+      <lb ed="#P" n="40"/>de anima operationes quo ad naturalem constituunt habitum per accidens afficiunt voluptatem. Di 
+      <lb ed="#P" n="41"/>stingunt hic habitum naturalem &amp; innaturalem multi, &amp; multa inutilia &amp; peregrina languida 
+      po<lb ed="#P" n="42" break="no"/>nunt quae breuiloquii causa relinquo. Vult enim philosophus dicere quod operationes habitum 
+      praece<lb ed="#P" n="43" break="no"/>dentes per accidens solum voluptatem generant: cuius causam statim tangit quae est: duplex est 
+      igi<lb ed="#P" n="44" break="no"/>tur operatio in cupiditatibus, restantis habitus &amp; naturae. Vult enim dicere quod ante habitum 
+      virtu<lb ed="#P" n="45" break="no"/>tis homo est pronus ad malum, &amp; habet cupiditatem. Successiue generatur habitus ab operationibus 
+      <lb ed="#P" n="46"/>successiue adductis. Toto generationis tempore habitus parui aut mediocris adhuc dominatur 
+      cupi<lb ed="#P" n="47" break="no"/>ditas inclinans contra bonum, quia habitus non est completus &amp; perfectus qui cupiditatis feruorem 
+      <lb ed="#P" n="48"/>mulceat. Habitus ipse est natura &amp; naturaliter inclinans. Alio modo etiam &amp; fortasse melius, naturae 
+      <lb ed="#P" n="49"/>habitum, habitus intellige. ltaque in praesentia per naturam hic totum hominem intellige, quae 
+      ad<lb ed="#P" n="50" break="no"/>huc est imperfecta accidentaliter, cum non habeat habitum perfectum. Nam &amp; sine dolore &amp; 
+      cupidi<lb ed="#P" n="51" break="no"/>tate sunt voluptates purae. Hoc est voluptates sequentes habitum virtutis expellunt &amp; dolorem &amp; cu 
+      <lb ed="#P" n="52"/>piditatem. Cupiditate vir affectus cum dolore abstinet, &amp; a prosequutione obiecti si non iuuetur 
+      ve<lb ed="#P" n="53" break="no"/>hementi habitu virtutis. Exemplificat de hac puritate per vnum notius, quia talis debet esse 
+      pro<lb ed="#P" n="54" break="no"/>batio, vt contemplatio non deficiente natura, hoc est non morbo laborante vel male aliter se 
+      haben<lb ed="#P" n="55" break="no"/>te: operatio autem contemplandi in corpore sano est voluptuosa, quare mentem sanam in corpore sano non 
+      <lb ed="#P" n="56"/>ab re quidam expetebat. Probat illud a signo in corporalibus, sicut saepius facit &amp; ea sunt nobis 
+      sensibi<lb ed="#P" n="57" break="no"/>liora quam mentis abdita vti diximus, &amp; vult dicere quod esurientes gaudent malis cibis &amp; potibus quo ad 
+      refi<lb ed="#P" n="58" break="no"/>ciantur, quia eorum pori sunt vacui &amp; refocillatione egent, &amp; est quidam languor stomachi ob cibi potus 
+      <lb ed="#P" n="59"/>que carentiam donec repleatur, at cum homines replentur, optime iudicant quae sint delectabilia &amp; quae non¬ 
+      <!--260.xml-->
+      <pb ed="#P" n="120-r"/>
+               <lb ed="#P" n="1"/>Ponam literam. Signum autem est quod non eisdem ganudent homines cum replentur, hoc est cum 
+      <lb ed="#P" n="2"/>sunt in tempore repletionis: &amp; cum constituta in natura humana, hoc est refocillata. lam homo est for 
+      <lb ed="#P" n="3"/>tificatus per cibum qui ante debilitatus erat, sed cum natura humana est constituta &amp; fortificata in 
+      <lb ed="#P" n="4"/>cibo natura sufficienter alimenti poculentique, sibi assumpsit, tunc ganudet natura his quae simpliciter 
+      <lb ed="#P" n="5"/>afficiunt voluptate, vt vino belnensi &amp; perdicibus, cum homines fuerint repleti, hoc est in tempore 
+      <lb ed="#P" n="6"/>repletionis contrariis gaudent, vt vino acri &amp; cibo amaro. At esuries est eis salsa, seu condimentum. 
+      <lb ed="#P" n="7"/>facitque haec &amp; illa apparere eis delectabilia, quorum nihil prorsus aut natura aut simpliciter afficit 
+      <lb ed="#P" n="8"/>voluptate. Delectabilissimum simpliciter afficit voluptate vt optimus cibus, optimusque potus. 
+      Pati<lb ed="#P" n="9" break="no"/>ens sitim de potus bonitate sinistre iudicat, sed cum satis potus natura sibi assumpsit si crapulae 
+      nimie<lb ed="#P" n="10" break="no"/>tate non sit absorpta optime iudicat. Sic de cibo. Perinde atque est de voluptate, quae inest operi ante ha 
+      <lb ed="#P" n="11"/>bitus generationem &amp; eius productionem. Et ad illam analogiam Aristoteles hoc induxit. Nempe 
+      <lb ed="#P" n="12"/>&amp; ea quae voluptatem efficiunt ante habitum genitum &amp; post ipsum productum: hoc est vt ipsa dele 
+      <lb ed="#P" n="13"/>ctabilia voluptatum obiecta inter sese distant, sic &amp; voluptates quae ab ipsis emanant. Variae 
+      operatio<lb ed="#P" n="14" break="no"/>nes specie distinctae, varias voluptates specie distinctas producunt. Tametsi calor ignis &amp; solis sint 
+      <lb ed="#P" n="15"/>eiusdem speciei. In actibus animae id verum habet. Alioqui non probabis mihi scientiam &amp; 
+      opinio<lb ed="#P" n="16" break="no"/>nem de eodem obiecto specie distingui.
+    </p>
+            <p xml:id="JMAet9-d31424-d1e233">
+               <pc type="pilcrow">¶</pc> Deinde soluit rationes pro opinionibus inductis, non ea ra 
+      <lb ed="#P" n="17"/>tione qua propositae erant. Primo enim eluit vnam rationem tertiae opinationis, per quam in 
+      valo<lb ed="#P" n="18" break="no"/>re vi etiam primae opinionis eluitur, &amp; incipit secunda illic. Atqui non necesse est aliquid aliud &amp;c. 
+      di<lb ed="#P" n="19" break="no"/>cit non esse necessarium ob rationem inductam, nullam delectationem esse optimam. Illa nanque 
+      ra<lb ed="#P" n="20" break="no"/>tio hoc non concludit, ratio enim erat haec. Finis est praestabilior his quae sunt ad finem: igitur est 
+      <lb ed="#P" n="21"/>omnium generatione praestantior: quia omnis generatio est ad finem: at omnis voluptas est 
+      genera<lb ed="#P" n="22" break="no"/>tio: igitur emni voluptate est nonnihil praestantius, scilicet finis voluptatis. Hanc rationem 
+      eluen<lb ed="#P" n="23" break="no"/>do negat hanc omnis voluptas est generatio aut cum generatione, vt parebit in decimo, sed solae illae 
+      vo<lb ed="#P" n="24" break="no"/>luptates quae sunt cum tristitia &amp; cupiditate constitutiua habituum sunt generationes aut cum 
+      ge<lb ed="#P" n="25" break="no"/>neratione, ac non omnis voluptas est cum tristitia vt ex proxime significatis constat, quia quaedam 
+      <lb ed="#P" n="26"/>voluptates sunt operationes vel cum operationibus, quae sunt ab habitu iam constituto &amp; 
+      per<lb ed="#P" n="27" break="no"/>fecto: &amp; nihil vetat talem voluptatem esse optimam, cum habeat rationem finis. Saltem oppositum 
+      <lb ed="#P" n="28"/>illi non probant, etiam perficiunt operationem vt quidam finis in decimo dicetur. Solum illarum 
+      <lb ed="#P" n="29"/>operationum quae ducunt ad perfectum habitum est alius finis ab eis, at non operationum habitum 
+      <lb ed="#P" n="30"/>sequentium. Ille enim ad perfectionem ducunt hae a perfecta natura habituata emergunt. Capio 
+      lite<lb ed="#P" n="31" break="no"/>ram. Atqui non necesse est aliquid aliud esse praestabilius voluptate, vt quidam inquiunt dicentes 
+      ge<lb ed="#P" n="32" break="no"/>nerationis finem supple esse meliorem generatione. Loco generationis Leonardus effectionem ponit. 
+      <lb ed="#P" n="33"/>Non enim generationes, neque cum generatione sunt omnes voluptates, sed aliquae sunt operationes, 
+      <lb ed="#P" n="34"/>&amp; etiam finis: quae voluptates non eueniunt dum habitus fiunt &amp; generantur, sed dum fit vsus post 
+      ha<lb ed="#P" n="35" break="no"/>bitum complete genitum. Et per hoc patet quod non omnium voluptatum est alius finis ab ipsa voluptate, sed so 
+      <lb ed="#P" n="36"/>lum earum est alius finis quae sequuntur. operationes inducentes habitum ad perfectionem naturae. Origines habituum 
+      <lb ed="#P" n="37"/>tempore generationis erant cum tristitia &amp; cupiditate. Quapropter voluptatem sinistre diffiniunt dicentes, eam 
+      <lb ed="#P" n="38"/>esse generationem ad naturam sensibilem, quia ea non competit nisi voluptatibus imperfectis. 
+      Quin<lb ed="#P" n="39" break="no"/>immo potius dicendum fuisset voluptatem operationem esse illius habitus qui secudm naturam est. Haec enim diffi 
+      <lb ed="#P" n="40"/>nitio omni voluptati perfecte convenit. Et loco particulae sensibilem, potius dicendum fuisset sine 
+      im<lb ed="#P" n="41" break="no"/>pedimento.
+    </p>
+            <p xml:id="JMAet9-d31424-d1e293">
+               <pc type="pilcrow">¶</pc> An delectatio sit operatio formaliter an causaliter in decimo vbi locum habet 
+      videbi<lb ed="#P" n="42" break="no"/>tur. Et operationem hic extendit ad omnem actum secundum ab habitu, &amp; forma procedentem. Stri 
+      <lb ed="#P" n="43"/>ctius in decimo capit delectationem operationem negans. Operatio non impedita est voluptuosa, 
+      <lb ed="#P" n="44"/>quia omnis operans voluntarie ex desiderio operatur, proinde si operatio non fuerit impedita, deside 
+      <lb ed="#P" n="45"/>rium complebitur: quod si compleatur plurimum delectat ipsam animam: vt ait sapiens 
+      Prouerbio<lb ed="#P" n="46" break="no"/>rum decimo tertio. In capite sequenti parum vltra medium ostenditur quonam pacto operatio 
+      po<lb ed="#P" n="47" break="no"/>test impediri. Visum erat antiquis delectationem esse generationem, quia voluptas est quid optimum 
+      <lb ed="#P" n="48"/>in felicitate, &amp; idem est operatio &amp; generatio, vt ipsi existimabant. At ita non est, quia operatio 
+      sal<lb ed="#P" n="49" break="no"/>tem perfecta est posterior generatione. Generatio enim est via ad naturam ac operatio est formae 
+      <lb ed="#P" n="50"/>aut ipsius habitus vsus. 
+    </p>
+            <p xml:id="JMAet9-d31424-d1e318">
+               <lb ed="#P" n="51"/>⁋ Sequitur in litera. At vero si voluptates &amp;c. lam tangit motiuum in capite praecedenti tactum, 
+      <lb ed="#P" n="52"/>quo dicebatur. Praeterea voluptates impedimento prudentiae sunt, illicque soluit rationem pro secunda 
+      <lb ed="#P" n="53"/>positione quae ponit aliquam voluptatem non esse bonam, quia aliqua est nociua morbos inducens. 
+    </p>
+            <p xml:id="JMAet9-d31424-d1e328">
+               <lb ed="#P" n="54"/>⁋ Et in valore sic argumentatur. Nullum bonum est nociuum, at quaedam voluptates sunt nociuae 
+      <lb ed="#P" n="55"/>ceu aegrititudinem inducentes. Dicit ergo quod non sufficienter voluptates esse prauas concludunt per 
+      <lb ed="#P" n="56"/>hoc quod nonnullae voluptatem afferentium morbos efficiant. Primo quia aliquae delectationes quae 
+      va<lb ed="#P" n="57" break="no"/>litudinem restituunt rei pecuniariae obsunt, &amp; sic idem in salubribus rebus censerent puta eas esse 
+      <lb ed="#P" n="58"/>prauas, quod est falsum. 
+    </p>
+            <p xml:id="JMAet9-d31424-d1e341">
+               <lb ed="#P" n="59"/>⁋ Secundo contemplatio crebriter sanitatem praepedit, vt pleno stomacho literis insudare, vnde ne 
+      <lb ed="#P" n="60"/>gat illam: omne afferens corpori iacturam est malum: contemplatio enim magni studii spiritus 
+      con<lb ed="#P" n="61" break="no"/>iumit, &amp; longaeuitati obest, &amp; tamen non continuo est praua. In actu fortitudinis vita confestim 
+      peri<lb ed="#P" n="62" break="no"/>clitatur, &amp; nemo inficias iuerit, quin fortitudo sit laudabilis. Et sic eorum argumento contemplatio esset 
+      <lb ed="#P" n="63"/>mala. Contemplatiui enim in rebus sublimibus nisi ratione vtantur interdum ingenium remittendo, sunt breuis aeui. In  
+      <lb ed="#P" n="64"/>tercisis horis linis est vacandum: a sumpto pastu aliquandiu fabulabere cum salsis atque facetis, si haberi queant: 
+      <!--261.xml-->
+      <pb ed="#P" n="120-v"/>
+               <lb ed="#P" n="1"/>Honesti sales a lepidis prolati animum recreant atque refocillant. Si illi tibi non occurrant, ante meri 
+      <lb ed="#P" n="2"/>dianas horas, hoc est nonam perficito, atque vespertinum officium consummato, digestione celebrata 
+      <lb ed="#P" n="3"/>studio operam nauabis. Nec hoc est temporis faeces deo porrigere &amp; meliora mundo. Literarum enim 
+      <lb ed="#P" n="4"/>studium est propter deum atque eius cultum capessendum. Non loquor de regentibus cursus artium. Nam 
+      <lb ed="#P" n="5"/>a pastus calce reparant Artistae, cauillos Sophisticos a suis pharetris extrahunt, vt machinis 
+      respon<lb ed="#P" n="6" break="no"/>dentem circumueniant. Haecque exercitatio eis minime obfuerit. Ita &amp; nosipsi fecimus. Tenuis est colle 
+      <lb ed="#P" n="7"/>giorum portio, vinum per se debile, aqua debilitatur, &amp; illis materiis excercitati abundant, &amp; viridis 
+      <lb ed="#P" n="8"/>sunt aetatis, proinde ea palaestra eis non obest.
+    </p>
+            <p xml:id="JMAet9-d31424-d1e378">
+               <pc type="pilcrow">¶</pc> Sequitur in litera. Impedit autem neque prudentia &amp;c. 
+      <lb ed="#P" n="9"/>Hic soluit quartam rationem pro prima opinione inductam, illic: dicebatur quod voluptas prudentiam 
+      <lb ed="#P" n="10"/>impedit: dicitque quod neque prudentiam neque aliorum habitum vllum voluptas quae vnicuique 
+      operatio<lb ed="#P" n="11" break="no"/>ni propria est, impedit: vnde voluptas quae procedit ab operatione prudentis prudentem iuuat non im 
+      <lb ed="#P" n="12"/>pedit. Nec alicuius habitus propria voluptas habitum a quo proficiscitur impedit: quippe voluptas 
+      <lb ed="#P" n="13"/>contemplationi superueniens adminiculum ad contemplandum ministrat. Quando artifex in sua 
+      <lb ed="#P" n="14"/>operatione delectatur clarius atque sincerius animaduertit diutiusque continuat opus. Nausea vero atque 
+      <lb ed="#P" n="15"/>fastidium opus coeptum interrumpunt, non delectatio: quae perficit opus vt medicus sanum, decimo 
+      <lb ed="#P" n="16"/>Ethicorum, sed sicut sanitas &amp; finis causae sunt sibiinuicem causae. secundo Physicorum. Operatio est vo 
+      <lb ed="#P" n="17"/>luptatis fons &amp; affectrix. Verum delectationes extraneae vt corporales operationem scholasticam praepe 
+      <lb ed="#P" n="18"/>diunt. Voluptates enim corporales aliquae corpus transmutant &amp; rationem pro tempore adimunt, vt 
+      <lb ed="#P" n="19"/>de venereis vno ore perhibent omnes. Aliquae distrahunt, &amp; homo distractus in priore operatione 
+      <lb ed="#P" n="20"/>minus immoratur, itaque delectatio illius operationis minuitur. Aliquae excessiuae voluptates 
+      existi<lb ed="#P" n="21" break="no"/>mationem prudentiae corrumpunt, non autem speculabilium iudicium. vi. Ethicorum. Vna voluptas 
+      <lb ed="#P" n="22"/>alteri interdum consonat, operationemque pristinam parum nihil ve minuit, vt lyricen musicus inter 
+      <lb ed="#P" n="23"/>prandendum.
+    </p>
+            <p xml:id="JMAet9-d31424-d1e416">
+               <pc type="pilcrow">¶</pc> Sequitur in litera. Id praeterea quod dicitur nullam &amp;c. Quintam rationem primae 
+      <lb ed="#P" n="24"/>opinationis hoc pacto infirmat. Ratio siue captio fuit haec. Omne bonum est opus artis: at nulla 
+      vo<lb ed="#P" n="25" break="no"/>luptas est opus artis, proinde nulla voluptas est opus bonum. In secundo modo secundae figure, 
+      scili<lb ed="#P" n="26" break="no"/>cet Camestres. Maior ostenditur. Quia omne bonum a recta ratione emergit, quae apud illos est ars. 
+      <lb ed="#P" n="27"/>Philosophus maiorem inficiatur dicens quod operatio non est propria artis, sed potentiae, quae talem ha 
+      <lb ed="#P" n="28"/>bitum habet. Potentia est artis principium, quod omnis operatio primo erit ipsius potentiae in qua postea 
+      <lb ed="#P" n="29"/>ars fundatur. Qui si voluptas more eorum sit operatio non erit bonum artis, sed potentiae. Ars est re 
+      <lb ed="#P" n="30"/>cta ratio factibilium, &amp; eorum quae efficiuntur, non eorum quae a nobis aguntur. Deinde minorem 
+      <lb ed="#P" n="31"/>interimit, scilicet quod voluptas non sit opus artis, quia ars coquinaria est facere concoctiones &amp; 
+      condi<lb ed="#P" n="32" break="no"/>menta irritamenta gulae vt archimageri Parisienses in nuptiis locupletum faciunt. Pariter &amp; ars vn  
+      <lb ed="#P" n="33"/>guentaria voluptatis esse videtur. Post haec soluit rationem secundo loco positam per dicentes tempe 
+      <lb ed="#P" n="34"/>Fatum fugere voluptates, dicitque vbi addunt, temperantem fugere delectationem &amp; prudentem sequi 
+      <lb ed="#P" n="35"/>vacuitatem doloris, hoc est non tristem vitam, etiam pueros cum belluis voluptate trahi. Eadem 
+      so<lb ed="#P" n="36" break="no"/>lutione haec omnia, scilicet secunda tertia &amp; sexta rationes eluuntur. Dicit enim temperatum fugere 
+      <lb ed="#P" n="37"/>dolores, quod in secunda ratione tangebatur, &amp; quod prudens vitam sine tristitia quaerit, prout in 
+      ter<lb ed="#P" n="38" break="no"/>tia dicebatur. Insuper in sexta argumentatione insinuabat pueros atque belluas voluptates quaerere. 
+      <lb ed="#P" n="39"/>omnia haec eandem solutionem efflagitant, quae erit haec. Voluptatum quaedam sunt absolutae, hoc est 
+      <lb ed="#P" n="40"/>reipsa bonae, siue sint corporales siue spirituales. Aliae sunt non bonae, sed adulterinae &amp; sophisticae. Volu 
+      <lb ed="#P" n="41"/>ptates illae sunt tristitiae immunes, hae vero cum cupiditate &amp; tristitia. Tales voluptates tam pueri quam 
+      <lb ed="#P" n="42"/>belluae sequuntur. Verum harum voluptatum indolentiam, hoc est non contristationem prudens quaerit. Prudens 
+      <lb ed="#P" n="43"/>enim in harum voluptatum corporalium absentia non tristatur. Vitam sine tristitia indagat. dicit ergo litera. 
+      Ha<lb ed="#P" n="44" break="no"/>rum voluptatum indolentiam prudens quaerit, quas voluptates cupiditas dolorque comitatur, corporis enim 
+      <lb ed="#P" n="45"/>sunt. Hae namque voluptates tales existunt, &amp; horum excessus, quibus intemperans euadit intemperans, vir tempe 
+      <lb ed="#P" n="46"/>ratus fugit. Nam aliquae sunt voluptates ipsius temperantis. Sane vnusquisque habitu redimitus voluptatem 
+      ca<lb ed="#P" n="47" break="no"/>pit in sui habitus actibus, in cibo potuque conformiter ad rationem voluptatem capit. Ante esuriem &amp; sitim non 
+      <lb ed="#P" n="48"/>esitat bibit ve, quare palatum benme dispositum habet, &amp; sua temperantia prudentiam conseruat. Proinde in spirituali 
+      <lb ed="#P" n="49"/>bus, vt par est, plurimum delectatur. Nec non temperatus in connubio in re vxoria voluptatem capit, quia communiugen 
+      <lb ed="#P" n="50"/>prolis gra cognoscit &amp; castitatem in se ac in vxore conseruet, ne cum aliena persona sit coitus, &amp; hoc sine 
+      pec<lb ed="#P" n="51" break="no"/>cato (vt reor) vllo. Et si voluptates vnius formae prodirent, illi veteres bene censerent. modo non est ita. 
+      Tempe<lb ed="#P" n="52" break="no"/>rans in cibo potuque eorum quae ad corporis sustentationem capit, exuperationem auersatur atque abhorret. Pueri &amp; 
+      pe<lb ed="#P" n="53" break="no"/>cora plus aequo si alimentum eis ministretur capiunt. Bamn dicitur. Da puero dum vult, catulo dum cauda mouetur. Sic 
+      <lb ed="#P" n="54"/>puer indoctus, catulus male pastus habetur. Puer sane vltra sufficientiam nutrimentum applicatum suscipiet sicut 
+      <lb ed="#P" n="55"/>in intemperato adulto &amp; bellua, &amp; erit sui homicida, nisi prouida nutrix prouideat. Discretione prudentis 
+      me<lb ed="#P" n="56" break="no"/>dici illustrium liberis in pueritia alimentum detur. Memineris quod promiscue Aristoteles capit delectationem puer opera 
+      <lb ed="#P" n="57"/>tione vel quaelitate concomitante. Super hoc veteres digladiabantur, &amp; nostri theologi vt in decimo patebit.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

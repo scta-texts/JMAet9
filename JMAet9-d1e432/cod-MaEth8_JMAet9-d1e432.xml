@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d1e432"><!-- mair-l1c2 -->
+            <head xml:id="JMAet9-d1e432-Hd1e103">Caput 2</head>
+            <p xml:id="JMAet9-d1e432-d1e106">
+               <lb ed="#P" n="14"/>
+               <quote xml:id="JMAet9-d1e432-Qd1e110" type="lemma">SI igitur quispiam rerum agendarum est finis</quote>. Primo dicit quod in humanis rebus est aliquis finis vltimus 
+      <lb ed="#P" n="15"/>&amp; optimus. Probatio, quia si est quispiam finis: que non desideratur ob aliquid aliud, sed alia ob ipsum 
+      <lb ed="#P" n="16"/>Cexpetuntur, est finis vltimus atque optimus: at in rebus humanis aliquis talis finis est huiuscemodi. igitur. 
+      <lb ed="#P" n="17"/>Consequentia tenet a tota conditionali cum positione antecedentis ad positionem consequentis. Probatur maior. 
+      <lb ed="#P" n="18"/>Nam si finis ad quem aliquid ordinatur sit melior illo quod ordinatur ad ipsum, ergo finis ad quem omnia alia 
+      ordi<lb ed="#P" n="19" break="no"/>nantur si ipse non ordinatur ad aliquid aliud in illo genere, erit finis vltimus &amp; optimus in illo genere. lam 
+      <lb ed="#P" n="20"/>probatur minor, vnus finis ob alium (ex praecedenti capite) ordinatur: aut ergo in rebus humanis est deuenire 
+      <lb ed="#P" n="21"/>ad finem, qui ob alium non expetitur. aut non est ad talem finem deuenire, si primum, propositum habemus, &amp; probata est mi 
+      <lb ed="#P" n="22"/>nor: si secundum, hoc ad impossibile syllogisare non est difficile: quia tunc in finibus erit processus in abyssum: &amp; 
+      <lb ed="#P" n="23"/>sic hominis expetitio esset irrita &amp; vacua, cum illum vltimum finem expetibilissimum attingere nequeat: sed  
+      <lb ed="#P" n="24"/>hoc est falsum: quoniam deus &amp; natura nihil incassum &amp; ociosum faciunt, primo caeli.
+    </p>
+            <p xml:id="JMAet9-d1e432-d1e136">
+               <pc type="pilcrow">¶</pc> Deinde dicit quod 
+      <lb ed="#P" n="25"/>plurimum ad nostram vitam conducit summi boni notitia: nam ex bonitatis suae vbertate duo bona nobis suppe 
+      <lb ed="#P" n="26"/>ditat. Primo allicit appetitum vt ex eius flagranti desiderio magis ac magis inflammemur ad bonorum operum 
+      <lb ed="#P" n="27"/>incrementum. Secundo intellectum, eius notitiam apprehendendo, dirigit, vt eius operationibus illum finem attingat. 
+      <lb ed="#P" n="28"/>Fige in beatitudine scopum, facile discernes quae ad illam orbitam &amp; compendia perducunt, vt virtutum opera, &amp; qui ab 
+      <lb ed="#P" n="29"/>illo fine auocant aufugies. Atri ditis carcer in terrae sinu reconditus cum Olympo ex diametro pugnat. vt 
+      <lb ed="#P" n="30"/>tuipse nosti in tartarea regna vitiis itur: bonis operibus itur ad astra. Fige itaque obtutum agibilium in 
+      bea<lb ed="#P" n="31" break="no"/>titudine: tum si beatitudinem assequi anniteris, piis operibus insudabis, atque a malo auerteris. ltaque agnitio 
+      fi<lb ed="#P" n="32" break="no"/>nis vltimi est nobis perquam vtilis. Probatur sic. Ad nihil quod difficile acquiritur potest homo recte &amp; 
+      certitu<lb ed="#P" n="33" break="no"/>dinaliter se dirigere, nisi cognoscat illud in quod dirigendum est. Patet de sagittario scopum puer sagitta ponente: 
+      <lb ed="#P" n="34"/>sed operationes humanae diriguntur in finem vltimum: ergo ad hoc vt homo suas operationes dirigat oportet 
+      <lb ed="#P" n="35"/>finem vltimum cognoscere: sic qui ab extremis virtutum se elongare concupiscit, oportet obtutum ad finem honestum 
+      <lb ed="#P" n="36"/>praestituat. Corollarium propterea infert inquiens, quod si ita est, enitendum est hunc ipsum figura &amp; rudi Minerua 
+      <lb ed="#P" n="37"/>quidnam sit comprehendere, &amp; ad quam facultatem attinet. Ad hoc autem explanandum ordine praepostero vtitur. 
+      Pri<lb ed="#P" n="38" break="no"/>mo explanat ad quam facultatem attineat id cognoscere, deinde in secundo tractatu huius primi libri 
+      do<lb ed="#P" n="39" break="no"/>cet id quod primo proposuit scilicet quis est nouissimus finis humanus, ipsum graphice depingendo.
+    </p>
+            <p xml:id="JMAet9-d1e432-d1e174">
+               <pc type="pilcrow">¶</pc> Sequitur 
+      <lb ed="#P" n="40"/>in litera. <quote xml:id="JMAet9-d1e432-Qd1e181" type="lemma">Videtur autem eius</quote>. Hic ostendit ad quam scientiam attineat considerare de cognitione 
+      vlti<lb ed="#P" n="41" break="no"/>mi finis: &amp; intendit in hac parte probare quod maxime pertineat ad scientiam ciuilem siue politicam. 
+      <lb ed="#P" n="42"/>Probatur sic. Ad scientiam principalissimam &amp; maxime archetectonicam pertinet consideratio de 
+      vl<lb ed="#P" n="43" break="no"/>timo &amp; nobilissimo fine hominis: at scientia ciuilis est maxime architectonica. igitur. Maior patet ex 
+      <lb ed="#P" n="44"/>dictis: quia fines scientiarum superiorum sunt praestantiores quam inferiorum: ergo finis scientiae nobilissimae quae  
+      <lb ed="#P" n="45"/>est de rebus humanis est finis nobilissimus rerum humanarum. Probando minorem tangit duas conclusiones 
+      <lb ed="#P" n="46"/>appropriatas scientiae maxime architectonicae. Prima est quod ipsa praecipit arti ipsi famulanti quid ope. 
+      <lb ed="#P" n="47"/>rari debeat: sicut equestris freni factiuae praecipit. Secunda, quod ipsa vtitur arte &amp; officio artis inferioris ad  
+      <lb ed="#P" n="48"/>suum finem: vt nauita vtitur naui quam faber lignarius fecit: modo haec duo, arti politicae competunt. Nempe 
+      <lb ed="#P" n="49"/>eiuilis docet quales scientias discere oportet. Plato ab vrbe poetas eiecit: quia irritamenta libidinis 
+      <lb ed="#P" n="50"/>sub Venere dicendi cultae tractant, vt de luuenale est videre qui vitia carpens ea docet. Sicut Naso 
+      <lb ed="#P" n="51"/>in arte amandi, &amp; in epistolis docet. Praeterea ciuilis facultas quam scientiam iste vel ille addiscet. Hic 
+      <lb ed="#P" n="52"/>ad artes mechanicas aptus, ad literas forte est ineptus. Vnus ad carmen natus, ad prosam est inidoneus 
+      <lb ed="#P" n="53"/>vt Quidius qui de se dicit, Quicquid conabar dicere versus erat. Et praeter haec prodit quousque discere 
+      <lb ed="#P" n="54"/>oportet, signanter quousque. Argutiolae enim sophisticae &amp; captiunculae grammaticae, atque alia sopismata 
+      tirun<lb ed="#P" n="55" break="no"/>culos decentia prouectiores dedecent: sicut crepitacula, ensiculi, &amp; caetera id genus pueris conveniunt, senibus 
+      <lb ed="#P" n="56"/>sunt indigna. Seniores ad capulum vsque haec facultas sane honestat. Circa mores anxie desudat ciuilis 
+      <lb ed="#P" n="57"/>tacultas. Artem amandi, magicas artes iuetionesque Sathanicas reiecit, salutares admittit. Insuper huic arti 
+      <lb ed="#P" n="58"/>eas facultates quae summis afficiuntur honoribus parere &amp; obsequi cernimus, vt sunt ars militaris, oeconomica, &amp; 
+      <lb ed="#P" n="59"/>ars oratoria. Praeterea ipsa artibus inferioribus ad suum finem vtitur, quemadmodum sunt ars militaris quam pacem 
+      conser<lb ed="#P" n="60" break="no"/>uat in ciuitate: oeconomica, quae necessaria praeparat: &amp; rhetorica, quae emergentes causas enodat, lites componit, 
+      <!--20.xml-->
+      <pb ed="#P" n="3-r"/>
+               <lb ed="#P" n="1"/>viterius quod sit principalissima argumento probatur tali. Illa scientia est principalissima cuius intentio est 
+      <lb ed="#P" n="2"/>procurare &amp; conseruare bonum humanum, hoc est bonum commune: sed ciuilis scietia est hmodi, quia procurat 
+      <lb ed="#P" n="3"/>bonum commune: licet autem idem sit bonum vnius hominis &amp; ciuitatis, bonum tum commune est diuinius: illic eum 
+      <lb ed="#P" n="4"/>procuratur bonum commune, deum omnium conditorem &amp; directorem aemulando.
+    </p>
+            <p xml:id="JMAet9-d1e432-d1e241">
+               <pc type="pilcrow">¶</pc> Post haec vnum corollarium infert 
+      <lb ed="#P" n="5"/>inquiens. Haec igitur appetit haec doctrina: hoc est ad ethicam pertinet de praedicto vltimo fine operationum huma 
+      <lb ed="#P" n="6"/>narum tractare: quia circa haec indefesse insudat. Probatur, quia haec scientia ciuilis quaedam facultas est, hoc est pars 
+      <lb ed="#P" n="7"/>ciuilis scientiae.
+    </p>
+            <p xml:id="JMAet9-d1e432-d1e254">
+               <pc type="pilcrow">¶</pc> Circa hanc literam dubitatur. Primo, videtur non esse inconveniens appetitum frustrari suo fine: 
+      sae<lb ed="#P" n="8" break="no"/>pius enim intendimus aliquid quo numquam potimur: voluntas enim est impossibilium. x. Ethicorum. &amp; tamen Philosophus 
+      <lb ed="#P" n="9"/>probat statum in finibus per hoc, tamquam rationi dissentaneum.
+    </p>
+            <p xml:id="JMAet9-d1e432-d1e264">
+               <pc type="pilcrow">¶</pc> Secundo dubitatur quid intelligatur per scientiam 
+      politi<lb ed="#P" n="10" break="no"/>cam.
+    </p>
+            <p xml:id="JMAet9-d1e432-d1e272">
+               <pc type="pilcrow">¶</pc> Tertio, ipsa non est scientia, ergo falsum supponit. Antecedens patet, quia ipsa debet rudi minerua tra 
+      <lb ed="#P" n="11"/>ctari secunm philosophum: &amp; hoc scientiae non convenit.
+    </p>
+            <p xml:id="JMAet9-d1e432-d1e280">
+               <pc type="pilcrow">¶</pc> Quarto, illud non est necessarium ad vitae humanae 
+      di<lb ed="#P" n="12" break="no"/>rectionem cum quo stat vitae malignitas, sed vltimi finis agnitio stat cum vitae peruersitate: ergo male dicit 
+      <lb ed="#P" n="13"/>philosophus.
+    </p>
+            <p xml:id="JMAet9-d1e432-d1e290">
+               <pc type="pilcrow">¶</pc> Quinto, quid est ars militaris, &amp; videtur ipsa inutilis vtpote circa bellum insudans, in quo 
+      <lb ed="#P" n="14"/>multa flagitia committuntur.
+    </p>
+            <p xml:id="JMAet9-d1e432-d1e298">
+               <pc type="pilcrow">¶</pc> Sexto, quid facit ars oratoria in politia ad res defendendas. Aduocati inopum 
+      <lb ed="#P" n="15"/>bona suis cauillis depopulantur: quorum enim paucos praeter beatum luonem dicunt in sanctorum numerum relatos. 
+    </p>
+            <p xml:id="JMAet9-d1e432-d1e307">
+               <lb ed="#P" n="16"/>⁋ Ad primam dubitationem respondetur quod appetitus naturalis non frustratur a tota specie, signanter in fine 
+      prae<lb ed="#P" n="17" break="no"/>cipuo rationabilissime intento. Licet natura in aliquibus deficiat: non tamen in omnibus: modo desiderium naturale 
+      <lb ed="#P" n="18"/>est ad vltimum finem. Et si voluntas sit impossibilium, no tamen electio, vt suo loco (deus cepta secundet) dicetur. 
+    </p>
+            <p xml:id="JMAet9-d1e432-d1e316">
+               <lb ed="#P" n="19"/>⁋ Ad secundam dubitationem respondetur. Doctrina ethicorum est politicae potissima pers, &amp; sub ea includitur, sicul 
+      <lb ed="#P" n="20"/>philosophus in fine huius capitis expresse ait: &amp; in antiqua tralatione in hoc prologo ait. luuenis non 
+      <lb ed="#P" n="21"/>est idoneus auditor politicae, vbi alii huius scientiae, loco politicae ponunt. Nam moralis philosophia docet 
+      <lb ed="#P" n="22"/>hominem honeste secundm se viuere ad quencumque statum deuenerit, &amp; ex morali philosophia, tamquam ex principiis 
+      <lb ed="#P" n="23"/>accipiuntur conclusiones in politicis. Ergo politica stricte sumpta est subalternata ethicae. Hanc materiam fusis 
+      <lb ed="#P" n="24"/>tangere proponimus in. &amp; cap. sexti libri: quia idem philosophus illic tractat. Contra. consideratio hmoi finis 
+      <lb ed="#P" n="25"/>spectat ad scientiam maxime architectonicam, vt dicit philosophus in ittera: sed metaphysica est hmodoi. Re 
+      <lb ed="#P" n="26"/>spondetur. Philosophus loquitur inter architectonicas practicas &amp; non speculatiuas: &amp; suo more 
+      naturali<lb ed="#P" n="27" break="no"/>ter loquitur
+    </p>
+            <p xml:id="JMAet9-d1e432-d1e338">
+               <pc type="pilcrow">¶</pc> Ad tertiam dicitur quod scientia capitur late puer arte &amp; omni assensu euidente: &amp; non semper 
+      posterioristi<lb ed="#P" n="28" break="no"/>ce. Et ad obiectionem dicentem philosophiam moralem sub rudi minerua debere tractari, respondebitur in capite 
+      <lb ed="#P" n="29"/>sequenti: sed pro nunc dicitur quod hoc est propterea quod hic sunt analogiae &amp; figurae intelligendae per exempla 
+      applican<lb ed="#P" n="30" break="no"/>dae, ad singularia quae maxime mouent.
+    </p>
+            <p xml:id="JMAet9-d1e432-d1e350">
+               <pc type="pilcrow">¶</pc> Ad quartus, nego maiorem illius argumenti. Non enim loquimur de 
+      ne<lb ed="#P" n="31" break="no"/>cessitate simpliciter dicta, sed de necessitate ad bene beateque viuendum, &amp; maxime vtili.
+    </p>
+            <p xml:id="JMAet9-d1e432-d1e358">
+               <pc type="pilcrow">¶</pc> Ad quintam 
+      <lb ed="#P" n="32"/>dubitationem respondetur, quod militia nihil aliud est quam ars docens arcere hostem, rebelles fures castigare pro 
+      in<lb ed="#P" n="33" break="no"/>sontium tranquilla vita. Ad militiam autem debite exercendam, vires, exercitatio, &amp; Minerua requiruntur: &amp; licet 
+      <lb ed="#P" n="34"/>vitia in militia contingant: ipsa tamen est iustitia aut iustitiae pers, si eam bene exerceant in sontium poenam, &amp; ad 
+      in<lb ed="#P" n="35" break="no"/>nocuorum protectionem.
+    </p>
+            <p xml:id="JMAet9-d1e432-d1e372">
+               <pc type="pilcrow">¶</pc> Ad sextam respondetur, quod per oratores tranquillitas ciuium procuratur: orator phaleratis 
+      <lb ed="#P" n="36"/>verbis animos audientium ad bonum allicit, &amp; incendit: &amp; a tetris vitiis deterret. Hic est finis artis oratoria 
+      <lb ed="#P" n="37"/>verus. in ea tamen per malos aduocatos saepius contingunt abusus. De hac materia fusius in quintum loqui propono. 
+    </p>
+            <p xml:id="JMAet9-d1e432-d1e383">
+               <lb ed="#P" n="38"/>⁋ Septimo dubitatur, an bonum commune sit bono priuato praeferendum, sicut philosophus in ira dicit. Et videtur quod 
+      <lb ed="#P" n="39"/>non: quia citius debeo in me peccatum vitare, imo veniale in me quam mortale in proximo aut tota ciuitate 
+      <lb ed="#P" n="40"/>secudm ordinem charitatis: quia anima mea in manibus meis semper: ergo bonum particulare est bono communi 
+      <lb ed="#P" n="41"/>praeferendum.
+    </p>
+            <p xml:id="JMAet9-d1e432-d1e394">
+               <pc type="pilcrow">¶</pc> Postremo dubitatur an aliqua scientia sit inutilis quam nescire praestaret.
+    </p>
+            <p xml:id="JMAet9-d1e432-d1e400">
+               <pc type="pilcrow">¶</pc> Ad septimam 
+      dubita<lb ed="#P" n="42" break="no"/>tionem respondetur, quod si bonum proprium in communi includatur siue sit spirituale ad animam, siue temporale ad corpus 
+      <lb ed="#P" n="43"/>principaliter attinens, illud est bono particulari caeteris paribus magis procurandum: sed iam loquendum est quando vnum 
+      <lb ed="#P" n="44"/>in alio non includitur, si vtrumque sit bonum spirituale: vbique spirituale particulare est praeponendum communi. Satius 
+      <lb ed="#P" n="45"/>est mihi me a culpa seruare, &amp; habere beatitudinem, &amp; reliquos damnari, quam ipsos saluari me damnato. Licet 
+      <lb ed="#P" n="46"/>sit maior gloria dei in oppositum. Etiam modicum meritum meum ob aeternitatem praemii non negligam ob grande 
+      <lb ed="#P" n="47"/>meritum communitatis. Et ex isto sequitur quod si meum bonum sit spirituale &amp; bonum commune temporale: magis debeo 
+      <lb ed="#P" n="48"/>rem meam curare. Si enim promouere debeo bonum meum spirituale, neglecto aliorum spirituali: a fortiore amisso 
+      <lb ed="#P" n="49"/>eorum temporali, quod est spirituali minus. Si vero aliorum commune sit spirituale, &amp; meum proprium sit temporale: tunc vel 
+      <lb ed="#P" n="50"/>ego multum egeo temporali, vt pane, alioqui occumbam: aut non multum illo bono temporali egeo: si secundum, bonum 
+      <lb ed="#P" n="51"/>ommune praeferam &amp; sic bonum spirituale mihi procuro: si primo modo, aut commune non procuratum redundat in iacturam 
+      pu<lb ed="#P" n="52" break="no"/>blicam ecclesiae in fide &amp; moribus, aut no, sed aliquorum hominum praecise: si primo modo, magis est promouendum 
+      <lb ed="#P" n="53"/>bonum vulgare, etiam si defectu propriitemporalis debeat quis mortem obire: si secundum, bonum meum particulare 
+      pro<lb ed="#P" n="54" break="no"/>mouebo: si vtrumque bonum est temporale, &amp; bonum particulare mihi admodum vtile, vt necessarium, etiam 
+      necessi<lb ed="#P" n="55" break="no"/>tatem extendendo, &amp; non est tale communitati: tunc meum particulare bonum communi praeponam. Sed si communitas illo 
+      <lb ed="#P" n="56"/>bono plurimum eget, non autem ego, tunc illud bonum communitati relinquam: &amp; sic studiose ago. semper enim mihi 
+      <lb ed="#P" n="57"/>spirituale bonum adipiscor. Ex his potes paucis membra colligere, vel vtrumque bonum est spirituale, aut  
+      <lb ed="#P" n="58"/>vtrumque temporale, aut vnum temporale &amp; alterum spirituale: &amp; hoc dupliciter, vel mihi spirituale erit, &amp; 
+      con<lb ed="#P" n="59" break="no"/>munitati temporale, aut contra, etiam loquendo quando bonum particulare meum non includitur in 
+      communi<lb ed="#P" n="60" break="no"/>tatis bono. Regis tamen munus est bonum commune bono priuato anteponere. Ipse enim est persona pu 
+      <lb ed="#P" n="61"/>blica, cuius animus ad salutem communem intentus esse debet, vt pater patriae merito dicatur.
+    </p>
+            <p xml:id="JMAet9-d1e432-d1e449">
+               <pc type="pilcrow">¶</pc> Ad vltimam 
+      <lb ed="#P" n="62"/>dubitationem dicitur quod licet quaelibet scientia sit bona in genere qualitatis &amp; notitiae: tamen aliqua est per 
+      <lb ed="#P" n="63"/>accidens scienti inutilis, quando est ei occasio propinqua inquinamenti futuri. Aliquae contra sunt artes, vt 
+      <lb ed="#P" n="64"/>nostra moralis philosophia, quae plurimum conducunt ad bene beateque viuendum.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

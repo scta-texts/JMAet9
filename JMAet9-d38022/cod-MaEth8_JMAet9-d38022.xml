@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 8</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 8</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d38022"><!-- mair-l9c8 -->
+            <head xml:id="JMAet9-d38022-Hd1e103">Caput 8</head>
+            <p xml:id="JMAet9-d38022-d1e106">
+               <lb ed="#P" n="15"/>
+               <quote xml:id="JMAet9-d38022-Qd1e110" type="lemma">Dvbitatur autem</quote> &amp;c. In hoc octauo capite philosophus inquirit an oporteat hominem seipsum 
+      <lb ed="#P" n="16"/>maxime amare an potius alium: &amp; vtrinque argumentatur. Primo, probando quod amator sui sit 
+      re<lb ed="#P" n="17" break="no"/>prehendendus: deinde ad partem affirmatiuam ratiocinatur. Et demum quaestionem soluendo dicit 
+      <lb ed="#P" n="18"/>quod ille peccat in amore sui qui caduca fortunae bona &amp; corporis illecebras insequitur: ille vero non 
+      pec<lb ed="#P" n="19" break="no"/>cat qui se maxime secundum bona spiritualia diligit. Et caput hoc totum quinque conclusionibus, 
+      dubita<lb ed="#P" n="20" break="no"/>tione, &amp; vno corollario distractum est. Dicit ergo primo. Dubitatur, vtrum oporteat seipsum 
+      maxi<lb ed="#P" n="21" break="no"/>me amare an quemquam alium. Et videtur primo non oportere, seipsum maxime amare: nam eos qui 
+      <lb ed="#P" n="22"/>seipsos maxime amant increpant homines, appellantque sui amatores tamquam id turpe sit: &amp; de talibus 
+      dici<lb ed="#P" n="23" break="no"/>mus, isti sese fruuntur. Non igitur seipsum maxime amare licebit.
+    </p>
+            <p xml:id="JMAet9-d38022-d1e131">
+               <pc type="pilcrow">¶</pc> Secundo argumentatur ad eandem 
+      <lb ed="#P" n="24"/>partem negatiuam de amore sui: quia prauus cuncta sui gratia facere videtur, &amp; eo magis quo deterior 
+      <lb ed="#P" n="25"/>est: incusant enim ipsum quia nihil nisi sibiipsi suique gratia agit. Probus autem contra, ob honestatem 
+      <lb ed="#P" n="26"/>amicique gratiam agit &amp; eo magis quo praestabilior est.
+    </p>
+            <p xml:id="JMAet9-d38022-d1e143">
+               <pc type="pilcrow">¶</pc> Verum iis quae dicta sunt ipsa opera &amp; res ipsae 
+      <lb ed="#P" n="27"/>non sine ratione discordare videntur, atque ediuerso maxime seipsum amare oportere: ratio est: nam eum 
+      <lb ed="#P" n="28"/>dicunt maxime amare oportere qui maxime sit amicus: at is maxime est amicus qui maxime alicui 
+      <lb ed="#P" n="29"/>bona vult, &amp; illius gratia, etiam si nullus alius id scierit: haec autem ad seipsum maxime competunt. 
+      <lb ed="#P" n="30"/>igitur seipsum maxime amare operaeprecium est. Secundo, caetera omnia quibus definitur amicus, 
+      maxi<lb ed="#P" n="31" break="no"/>me ad seipsum competunt, dictum est enim ex iis quae ad seipsum sint caetera omnia quae ad amicitiam 
+      <lb ed="#P" n="32"/>attinent metienda esse, &amp; a seipso omnia ad amicitiam spectantia ad reliquos proficisci: maxime igitur 
+      <lb ed="#P" n="33"/>oportet seipsum amare. Tertio idem sic vallatur. Ad hoc prouerbia vniuersa accedant, vt Anima 
+      <lb ed="#P" n="34"/>est vna. Et amicorum omnia sunt communia. Et amicitia est aequalitas, &amp; tibia genu est propinquius. 
+      <lb ed="#P" n="35"/>Quia vero haec prouerbia quatuor non ab omnibus capiuntur quidam sic ea exposuit Vna est anima 
+      <lb ed="#P" n="36"/>amicorum, quia vna voluntas: sed sibi cuique anima sua proxima est. Item amicorum sunt omnia 
+      com<lb ed="#P" n="37" break="no"/>munia, sed vt dicit Terentiuus, Proximus sum egomet mihi. Et amicitia est aequalitas: sed nihil est 
+      <lb ed="#P" n="38"/>cuiquam seipso aequalius. Praeterea genu non hoc cordi &amp; non praecordiis in quibus est affectionum sedes est 
+      <lb ed="#P" n="39"/>propinquius tibia quae infra genu est: sic sibi quisque proximus est, et enim vniuersa ad seipsum 
+      maxi<lb ed="#P" n="40" break="no"/>me competunt, maxime namque amicus est sibi &amp; seipsum maxime amare oportet, haec enim merito 
+      ad<lb ed="#P" n="41" break="no"/>dubitare faciunt cui potius parti assentiendum sit cum vtrinque rationes credibilitatem afferant. 
+    </p>
+            <p xml:id="JMAet9-d38022-d1e181">
+               <lb ed="#P" n="42"/>⁋ Sequitur prima conclusio, dicens opus est distinctione: sicque litera clara, inquit. Fortasse igitur 
+      ta<lb ed="#P" n="43" break="no"/>les sermones distinguendi determinandique sunt quousque &amp; quomodo sint veri. Nam si acceperimus 
+      quo<lb ed="#P" n="44" break="no"/>nammodo vtrique amatorem sui dicant, cito fiet manifestum id de quo ambigitur.
+    </p>
+            <p xml:id="JMAet9-d38022-d1e191">
+               <pc type="pilcrow">¶</pc> Sequitur secunda 
+      <lb ed="#P" n="45"/>conclusio. Qui igitur hoc reprehendendum esse existimant, eos amatores sui appellant qui sibi plus 
+      tri<lb ed="#P" n="46" break="no"/>buunt in pecuniis &amp; honoribus &amp; voluptatibus corporis: haec enim ipsa multitudo affectat &amp; ipsis vt 
+      <lb ed="#P" n="47"/>optimus omni studio incumbit. Hoc est multitudo corporales illecebras prosequitur, &amp; eis vt optimis 
+      <lb ed="#P" n="48"/>rebus fruitur: quapropter &amp; in certamen veniunt, quia pro eis certant. Qui igitur in hisce plus habere 
+      <lb ed="#P" n="49"/>pergunt ii cupiditatibus &amp; perturbationibus eique parti animae qui rationis est expers gratificantur, 
+      <lb ed="#P" n="50"/>hoc est condescendunt sensualitati &amp; parti brutali. Tales autem suntr multi, iccirco &amp; appellatio orta 
+      <lb ed="#P" n="51"/>est ex multitudine quae quidem est praua: est orta. i, primam originem duxit. Secundo, non est 
+      obscu<lb ed="#P" n="52" break="no"/>rum vulgus eos sui amatores dicere consueuisse qui sibiipsis talia tribuunt: nam si quis studet semper 
+      <lb ed="#P" n="53"/>iusta agere: &amp; maxime omnium aut temperata aut quaeuis alia ex virtutibus ipsis emergentia 
+      hone<lb ed="#P" n="54" break="no"/>statemque omnino sibiipsi semper vendicet atque vsurpet, hunc nemo dicit amatorem sui: neque 
+      vitu<lb ed="#P" n="55" break="no"/>perabit. Liquet ergo multitudinem amatorem sui appellare eum qui corpus &amp; corporis affectiones 
+      <lb ed="#P" n="56"/>sequitur: &amp; is est merito arguendus.
+    </p>
+            <p xml:id="JMAet9-d38022-d1e223">
+               <pc type="pilcrow">¶</pc> Tertia conclusio. Magis autem videbitur talis homo sui amator scilicet 
+      <lb ed="#P" n="57"/>qui honesta sectatur. Nam ea sibi tribuit quae pulcherrima sunt maximeque bona: &amp; gratificatur ei quod sui 
+      <lb ed="#P" n="58"/>ipsius est potissimum, in omnibusque illi obtemperat. Hoc est intellectui &amp; rationi quae est hominis pars potissima. 
+      <lb ed="#P" n="59"/>pecundo quemadmodum ciuitas &amp; omnis alia societas maxime id esse videtur quod sui optimum est, sic &amp; homo 
+      <lb ed="#P" n="60"/>ergo amator sui maxime is dicetu qui id quod sui optimum est amat eique obsequitur. Tertio, quia vt ciuitas id  
+      <!--315.xml-->
+      <pb ed="#P" n="147-v"/>
+               <lb ed="#P" n="1"/>maxime esse videtur quod est in ea potissimum. vt concilium sapientum: &amp; aliud esse censetur conuentus scilicet hominum, non  
+      <lb ed="#P" n="2"/>ciuitas: sic homo est id quod est in eo potissimum, scilicet ratio &amp; intellectus, qui id in se amat, is sui amator 
+      <lb ed="#P" n="3"/>dicendus est. Quarto, quia quis dicitur continens aut incontinens, quia mens &amp; ratio in eo vincit aut vincitur, 
+      <lb ed="#P" n="4"/>quia quisque hominum potissimum mens est: &amp; maxime ea homines sua sponte egisse videntur quae cum mente 
+      <lb ed="#P" n="5"/>rationeque gerunt: igitur non obscurum est hanc maxime virum bonum amare quare talis maxime suiipsius est 
+      <lb ed="#P" n="6"/>amator.
+    </p>
+            <p xml:id="JMAet9-d38022-d1e255">
+               <pc type="pilcrow">¶</pc> Hinc corollatium infert dicens. Quapropter maxime sui est amator scilicet amans quod in se 
+      potissi<lb ed="#P" n="7" break="no"/>mum est, diuersa specie ab eo qui reprehendit scilicet vulgo, dictus amator sui, sibi nimis indulgens, tantumque distat 
+      <lb ed="#P" n="8"/>atque differt quantum vita cum ratione differt a vita cum perturbatione: &amp; quantum appetere quod honestum est, ab 
+      <lb ed="#P" n="9"/>eo quod videatur prodesse.
+    </p>
+            <p xml:id="JMAet9-d38022-d1e267">
+               <pc type="pilcrow">¶</pc> Sequitur quarta conclusio. Bonum hominem esse amatorem sui expedit: nam &amp; sibi &amp; 
+      cae<lb ed="#P" n="10" break="no"/>teris proderit agendo honesta.
+    </p>
+            <p xml:id="JMAet9-d38022-d1e275">
+               <pc type="pilcrow">¶</pc> Quinta conclusio. Prauum autem esse amatorem sui non expedit. Hanc probat 
+      <lb ed="#P" n="11"/>philosophus. Quia &amp; sibi &amp; propinquis oberit affectus prauos sequendo. Non enim potest arbor mala 
+      bo<lb ed="#P" n="12" break="no"/>nos fructus facere.
+    </p>
+            <p xml:id="JMAet9-d38022-d1e285">
+               <pc type="pilcrow">¶</pc> Sequitur cuiusdam dubitationis solutio. Diceret enim aliquis sic. Nullus suam vitam 
+      nihili<lb ed="#P" n="13" break="no"/>faciens in opere honesto se maxime diligit: sed studiosus est huiusmodi, igitur. Philosophus concedit in  
+      <lb ed="#P" n="14"/>genue in litera minorem: &amp; ex consequente maiorem interimeret. Circa minorem insudat, &amp; litera est peruia. 
+      <lb ed="#P" n="15"/>Atqui verum est illud quod de studioso dicitur: complura ipsum agere &amp; amicorum &amp; patriae gratia, &amp; si opus fue 
+      <lb ed="#P" n="16"/>rit mortem obire. Et pecunias enim &amp; honores abiiciet: &amp; super. abiiciat etiam ea bona de quibus homines 
+      de<lb ed="#P" n="17" break="no"/>certant, digladiantur &amp; insaniunt: vendicans. i. vt propriam asserens sibi honestatem: hoc est illud quod rationi 
+      re<lb ed="#P" n="18" break="no"/>ctae est consentaneum. Et quia homines delectationem, bona opera, &amp; longam vitam exoptant de illis tribus loquens 
+      <lb ed="#P" n="19"/>comparationem facit sic inquiens. Vir bonus &amp; magnanimus expetet potius voluptatem breui tempore 
+      vehe<lb ed="#P" n="20" break="no"/>mentem quam longo tempore leuem. i. exilem: &amp; vitam honestam vno anno, quam quanuis. i. quamlibet aut qualencumque vitam 
+      <lb ed="#P" n="21"/>&amp; mediocrem, multis sup. annis. Et vnum actum honestum magnum expetet magis quam multos &amp; minutulos. 
+      <lb ed="#P" n="22"/>Atque iis qui pro amicis, qui propriam mortem obeunt, hoc forsitan obtigit. Magnam igitur sibi ipsis eligunt 
+      <lb ed="#P" n="23"/>honestatem, abiiciuntque pecunias vt amici capiant plures. Hinc em amicus facultates: ipse vero studiosus ho 
+      <lb ed="#P" n="24"/>nestatem consequitur: Atque sibi maius tribuit bonum: quia virtutem &amp; non solum istud circa vitam &amp; pecuniam 
+      <lb ed="#P" n="25"/>factitat, sed etiam circa magistratus &amp; honores. Praeterea eundem circa honores modum magistratusque 
+      serua<lb ed="#P" n="26" break="no"/>bit, nam haec omnia amico suo concedit. Est enim hoc honestum ipsi ac laudabile. Merito igitur studiosus 
+      vi<lb ed="#P" n="27" break="no"/>detur ante ponens omnibus honestatem. Insuper studiosus facit amicum agere illa quae immediate ipse 
+      <lb ed="#P" n="28"/>agere potest, vt etiam honorem amico partiatur: &amp; vult esse causa quare amicus perbelle agat. Quare litera 
+      <lb ed="#P" n="29"/>dicit, fit etiam vt &amp; res agendas concedat amico: sitque honestius seipsum fuisse causam vt agat illas 
+      ami<lb ed="#P" n="30" break="no"/>cus, quam si ipsemet agat. Summatim vt paucis omnia complectatur sic dicit. In vniuersis igitur laudabilibus ipse 
+      <lb ed="#P" n="31"/>studiosus plus honestatis tribuere sibiipsi videtur. Sic igitur (quemadmodum astruximus) amatorem suiipsius esse 
+      <lb ed="#P" n="32"/>oportet, vt ipsi autem multi sunt non oportet, hoc est oportet vt vir studiosus sit amator sui, sic vt 
+      <lb ed="#P" n="33"/>diximus. i, sibi virtutem vendicans, cum non vt multi sunt amatores sui, sibi indulgentes quemadmodum 
+      <lb ed="#P" n="34"/>diximus de amicis vituperabilibus. Ecce Aristotelis sententiam paucis relatam, quae perbella est: &amp; mirum 
+      <lb ed="#P" n="35"/>est gentilem virum ita veritate conformiter ad orthodoxam fidem fuffultum &amp; praeditum esse. 
+    </p>
+            <p xml:id="JMAet9-d38022-d1e342">
+               <lb ed="#P" n="36"/>⁋ Circa hanc materiam aliquot enunciationes breui perstrinxero, quarum prima est. Potius omnem culpam in 
+      <lb ed="#P" n="37"/>meipso euitauero quam in quopiam alio. Anima mea in manibus meis, &amp; nullus sibi secundus: proinde 
+      solli<lb ed="#P" n="38" break="no"/>citior ero de mea salute, quam de herili aut paterna. Quinimo potius a veniali noxa cauebo in meipso quam 
+      <lb ed="#P" n="39"/>de laetifero crimine proximi.
+    </p>
+            <p xml:id="JMAet9-d38022-d1e353">
+               <pc type="pilcrow">¶</pc> Secunda propositio. Potius procurabo mihi vitam aeternam &amp; ea quae adipsam 
+      <lb ed="#P" n="40"/>amminiculantur quam cuipiam alteri. Et si insultaueris. Obnoxius sum diligere proximum sicut meipsum. Saepe 
+      <lb ed="#P" n="41"/>numero dictum est, quod aduerbium sicut ibi omnimodam similitudinem haud quaquam denotat. Ipse sum mensura 
+      <lb ed="#P" n="42"/>atque regula dilectionis fraternae, eius salutis non ero immemor quum praeceptum me ad eam astringit. Sic eiu 
+      <lb ed="#P" n="43"/>corpus protegam ne a saeuo carnifice iniuste trucidetur. Pari modo meis fortunis eius inopiae succurram. 
+      <lb ed="#P" n="44"/>Generatim in bonis virtutum meipsum illi semper praetulero, &amp; hoc eleganter in litera Aristoteles explicat.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

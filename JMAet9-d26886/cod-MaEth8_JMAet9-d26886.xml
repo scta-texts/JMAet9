@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 10</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 10</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d26886"><!-- mair-l6c10 -->
+            <head xml:id="JMAet9-d26886-Hd1e103">Caput 10</head>
+            <p xml:id="JMAet9-d26886-d1e106">
+               <lb ed="#P" n="50"/>
+               <quote xml:id="JMAet9-d26886-Qd1e110" type="lemma">ESt autem &amp; ipsa sagacitas</quote> &amp;c. Prio monstrat suo more quiod non est sagacitas, deide quid sagacitas. Igitur sa 
+      <lb ed="#P" n="51"/>gacitas &amp; eius contrarium hebetudo a quibus homines sunt sagaces ac hebetes non sunt omnino ide cum scia ac opi 
+      <lb ed="#P" n="52"/>nione. Nam illo dato. Oens scientes ac opinantes essent sagaces, consequans liquat esse falsum. Nec est scia particula 
+      <lb ed="#P" n="53"/>ris vt medicina de sanitatibus, aut geometria circa magnitudines. Neque enim est de his quae semper sunt &amp; non 
+      <lb ed="#P" n="54"/>mouetur, vt primus motor aut intelligentiae quae nec corrumpuntur nec mouentur. Neque sagacitas est de his quae a quouis 
+      <lb ed="#P" n="55"/>fiunt, sed praecise de his de quibus quispiam ambegerit aut consultauerit. Neque sagacitas est prudentia, quia prudentia e 
+      <lb ed="#P" n="56"/>praeceptiua &amp; eo prudentia tendit, vt quidnam agendum sit aut non agendum praecipiat. Sagacitas est solum iudicatiua dae 
+      <lb ed="#P" n="57"/>mediis inuentis a bene consultante. Sagax sollerter iudicat. Aliqui enim sunt inuentiui non autem ancipitum in proptu 
+      <lb ed="#P" n="58"/>resolutiui. Aliqui bene resoluunt &amp; quidem repente, non multum inuentiui, vti in sorbonica palaestra ac vico 
+      strami<lb ed="#P" n="59" break="no"/>neo videre est. Nec mirabere. Ipse de artifice funambulo iudico, tamen in morem bouis super nauticum 
+      fu<lb ed="#P" n="60" break="no"/>nem a terra erectum obambularem. Addit philosophus quod idem est sagacitas &amp; bona sagacitas, subidicans sagacem 
+      <!--220.xml-->
+      <pb ed="#P" n="101-r"/>
+               <lb ed="#P" n="1"/>non esse astutum vt plerique arbitrantur: itaque in bonam partem vsquequaque accipitur, cui non accidit illa 
+      <lb ed="#P" n="2"/>acceptio consultationis bonae aut malae. Sequitur. Neque autem habere video &amp;c. Quia hoc sicut pleraque 
+      <lb ed="#P" n="3"/>alia ab aliis frigide ac ieiune enarrata sunt ideo pro captu meo literam aptius exponam. Sagacitas nec est 
+      <lb ed="#P" n="4"/>prudentia habita a quopiam, neque prudentia in actuali acceptione a praeceptore: quinimo nullo modo est 
+      <lb ed="#P" n="5"/>prudentia. Quid ergo? Est enim sagacitas in vsu existimationis ad bene iudicandum de iis de quibus 
+      pru<lb ed="#P" n="6" break="no"/>dens comminiscitur: &amp; perinde emergit sagacitas cum sedulus discipulus dicit ea quae a praeceptore 
+      tra<lb ed="#P" n="7" break="no"/>duntur. Verbi causa: Apud diuinum Platonem multa media pro tali aut tali materia inter docendum 
+      <lb ed="#P" n="8"/>proponentem assident discipuli varia Miuerua pollentes, illorum qui recte iudicant optimam inuentionem 
+      <lb ed="#P" n="9"/>medii, sunt sagaces: hebes enim inuentionem conducibilem supprimit, deteriorem viam acceptans non sic 
+      <lb ed="#P" n="10"/>ipse sagax. Ecce sollertiam bonae consultationis siue euboliae speciem cum ipsa sagacitate. Bene consultus 
+      <lb ed="#P" n="11"/>medium conducibile hinc inde volutans, caput scalpens aut vngues rodens inuenit cum quadam temporis 
+      <lb ed="#P" n="12"/>conducentia: sollers enim minore maturitate medium depromit, &amp; ipse sagax tamquam Argus linceis oculis 
+      <lb ed="#P" n="13"/>optimam inuentionem ab aliis segregat. Verborum prodigalitate nolo digladiari, an sint prudentiae necne: 
+      <lb ed="#P" n="14"/>verum vt consentanee ad Aristotelem dicam, ad illam plurimum attinent: sunt enim eius partes quasi 
+      <lb ed="#P" n="15"/>integrales aut subiectiuae: sicut in Theosophia dicimus, quod restitutio &amp; satiffactio sunt partes 
+      poeniten<lb ed="#P" n="16" break="no"/>tiae. Vel si dicere mauis capiendo prudentiam in toto suo ambitu, sunt illius partes. Sagacitas reipsa 
+      <lb ed="#P" n="17"/>est prudentia ac pars subiectiua sic gnome siue sententia. De prudentia monastica oeconomica &amp; 
+      ci<lb ed="#P" n="18" break="no"/>uili non verto in dubium quin sint partes subiectiuae prudentiae: sed praecipuum est in prudentia. 
+      Praeci<lb ed="#P" n="19" break="no"/>pere video nonnullos qui parum olei in peripateticorum dogmate consumpserunt in hoc diuum taxare 
+      <lb ed="#P" n="20"/>
+               <name xml:id="JMAet9-d26886-Nd1e182">Thomam</name>: perinde ac si ex eius fonte illa tempestas imperandi emanaret: cum illud in litera 
+      Ari<lb ed="#P" n="21" break="no"/>stoteles affirmet. Non censeo philosophum aliquid gratis in morali philosophia asseruisse: sed cum 
+      <lb ed="#P" n="22"/>magno examine atque trutina digessisse, ac saepius hasce materias inter suos auditores agitasse. Moralem 
+      <lb ed="#P" n="23"/>philosophiam, vt Cicero inquit, caelestis ille Socrates caelis deuocauit, cuius lacte Aristoteles a teneris 
+      <lb ed="#P" n="24"/>annis alitus, post senticosas professiones huic morali philosophiae sese dedidit.
+    </p>
+            <p xml:id="JMAet9-d26886-d1e195">
+               <pc type="pilcrow">¶</pc> Quaeremus itaque quo¬? C 
+      <lb ed="#P" n="25"/>modo prudentiae est praecipere cum nullum auctoramentum intellectus super appetitum vendicet. 
+      <lb ed="#P" n="26"/>Hanc quaestionem carptim extricare curauero. Dico igitur hanc vim imperandi non a solo 
+      intelle<lb ed="#P" n="27" break="no"/>ctu profluere, sed ab eo cum appetitu intellectiuo consentaneo. Est enim inter hasce virtutes eonnexus 
+      <lb ed="#P" n="28"/>quidam ac glutinium. ltaque prudentia opem appetitus illi adiuncti implorat. In eo negocio duorum 
+      concur<lb ed="#P" n="29" break="no"/>rentium scilicet prudentiae cum appetitione consentanea totius imperii vis stat. Super hoc amplius 
+      <lb ed="#P" n="30"/>capite finali huius libri dicere proponimus, cum de virtutum connexione loquemur, nunc autem 
+      com<lb ed="#P" n="31" break="no"/>pendio scribens dico consultationem ad prudentiam pertinere tamquam partem potentialem &amp; 
+      admini<lb ed="#P" n="32" break="no"/>culatiuam: sagacitatemque sollertiam ac scientiam reipsa esse prudentias: sunt enim recta iudicia agibi¬¬ 
+      <lb ed="#P" n="33"/>lium. Ita Theosophi ac morales capiunt: verumtamen potissimum prudentiae munus est imperium, in hoc 
+      <lb ed="#P" n="34"/>illius vigor relucet: De hac autem materia nunc receptui cano.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

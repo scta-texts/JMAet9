@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 11</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 11</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-de3861"><!-- mair-l1c11 -->
+            <head xml:id="JMAet9-de3861-Hd1e103">Caput 11</head>
+            <p xml:id="JMAet9-de3861-d1e106">
+               <lb ed="#P" n="18"/>
+               <quote xml:id="JMAet9-de3861-Qd1e110" type="lemma">FOrtunam autem posterorum</quote>. Istud est tertium caput huius tertii tractatus, siue vndecimum primi 
+      li<lb ed="#P" n="19" break="no"/>Fbri, quo monstratur quomodo posterorum amicorum fortunae ad felices attineant. Cuius declaratio 
+      <lb ed="#P" n="20"/>quaestionem capitulo praecedenti motam diluit. Caput est argutum &amp; trifatiam diuisum. Primo 
+      <lb ed="#P" n="21"/>enucleat quod posterorum calamitates ad defunctos redundant. Secundo quod non tamen eo modo quo ad 
+      su<lb ed="#P" n="22" break="no"/>perstites. Tertio quod non habent tantum momenti vt eos a felicitate in miseriam aut contra moueant. 
+      <lb ed="#P" n="23"/>dicitque quod illa quae sunt aliena ab officio amicit: ae, non sunt tribuenda felici: at dicere fortunas posterorum 
+      <lb ed="#P" n="24"/>&amp; amicorum nihil ad felices attinere, alienum videtur: proinde non est affirmandum quod talia nullo modo  
+      <lb ed="#P" n="25"/>ad felicem pertineant. Esset praeterea contra communem hominum opinationem: cum pleraque sint quae  
+      <lb ed="#P" n="26"/>eueniunt &amp; varias differentias habeant: alii enim sunt filii, alii pronepotes, alii abnepotes, alii trinepotes, aliqua 
+      ma<lb ed="#P" n="27" break="no"/>gis aliqua vero minus conferunt: quae in singularia deducere prolixum &amp; taediosum foret: sat est fortasse de his 
+      <lb ed="#P" n="28"/>ipsis summatim nec non rudi minerua dicere. Nuperrime denarrauimus si felix mutetur, a magnis variatur. 
+      <lb ed="#P" n="29"/>Prospera felicitatem augmentant, aduersa eam laedunt atteruntque, nisi adfuerit patientia. Pusilla felicitatem 
+      <lb ed="#P" n="30"/>minime variant. Pari modo diceremus de his ipsis quae vsu veniunt posteris amicis aut sodalibus ipsius 
+      <lb ed="#P" n="31"/>felicis.
+    </p>
+            <p xml:id="JMAet9-de3861-d1e142">
+               <pc type="pilcrow">¶</pc> Sequitur in litera. Sic sese habent &amp; ea quae circa amicos accidunt omnes, hoc est tam amicor 
+      <lb ed="#P" n="32"/>viuos quam mortuos. Verum enimuero an sic circa mortuos &amp; viuos contingunt, id multo plus refert quam in  
+      <lb ed="#P" n="33"/>tragoediis scelera vt iam patrata narrari, vel quasi nunc patrentur. Breui vult dicere, mala amicorum quae 
+      <lb ed="#P" n="34"/>recitantur superstitibus atque defunctis, plus differunt quam ea mala quae patrantur &amp; quae in tragoediis acta 
+      re<lb ed="#P" n="35" break="no"/>citantur. Porro dum aguntur oppido torquent tam agentes quam patientes. Paricidae cor, ante opus, in 
+      ope<lb ed="#P" n="36" break="no"/>re, &amp; post opus, ardet, &amp; a spina pungitiua eius conscientia torquetur: interempertus vtcumque torquetur. 
+      Re<lb ed="#P" n="37" break="no"/>citatio enim talium minus angit quam opus. Perinde acsi diceret. Nepotum aduersitates parum defunctos 
+      mo<lb ed="#P" n="38" break="no"/>lestant, plurimum tamen viuos cruciant: &amp; cum orthodoxa fide non parum convenit. Beati enim ob 
+      ami<lb ed="#P" n="39" break="no"/>corum diffortunia non ringuntur: immo forsitan, inquit, speculandum est vtrum defuncti sint 
+      pro<lb ed="#P" n="40" break="no"/>speritatum &amp; aduersitatum amicorum participes. Quasi diceret, proprium syntagma haec indago 
+      expostu<lb ed="#P" n="41" break="no"/>lat. Postea concludens ait. Prosperitates atque aduersitates amicorum parum ad defunctos pertinent, sic scilicet 
+      <lb ed="#P" n="42"/>quod illorum statum mutare nequeunt. Achillis interitus Patroclo relatus eius statum variare non poterat. 
+      <lb ed="#P" n="43"/>Hsitas quid sit tragoedia: &amp; an mortui sciant illa quae hic tractantur natura duce. Apud priscos erant 
+      tra<lb ed="#P" n="44" break="no"/>goediarum scriptores, qui gesta heroum infelicium memorabant. faustum enim principium, &amp; sinistrum 
+      <lb ed="#P" n="45"/>exitum tragoedia continet: stilus tamen erat grandiloquus canente Nasone. 
+      <lb ed="#P" n="46"/>Omne genus scripti grauitate tragoedia vincit. Diciturque a tragos graece quod est hircus Latine: cui 
+      applau<lb ed="#P" n="47" break="no"/>dit carmen horatianum in Arte. 
+      <lb ed="#P" n="48"/>Carmine qui tragico vilem certauit ob hircum &amp;c. Plerique scriptorum turi se continebant hirco pro 
+      prae<lb ed="#P" n="49" break="no"/>mio contenti. Quantum ad secundam partem dubii. Natura duce anima est immortalis, quae in gratia &amp; 
+      me<lb ed="#P" n="50" break="no"/>ritis decedens perenniter munere dei gaudet, calamitatibus posterorum non dolet. Peccatores autem faece 
+      <lb ed="#P" n="51"/>lapsuum oppleti in tartarea regna perpetuo cruciandi descendunt. Suadetur. Plerique vitae immaculatae a 
+      <lb ed="#P" n="52"/>saeuis carnificibus atque tyrannis hic torquentur: &amp; non omnes malefactores vtpote impune grassantes hic 
+      <lb ed="#P" n="53"/>puniuntur: quamobrem aliubi mulctantur vt Maro sexto aeneidos philosophorum dogma: sequutus hoc 
+      <lb ed="#P" n="54"/>psum scribit. lstud est de lege naturae, omnes adultos rationis capaces obligans, &amp; signanter 
+      philosophan<lb ed="#P" n="55" break="no"/>tes ita assentiri astringit, qui noctes atque dies talium contemplationi vacabant, quod ita assentiri erant 
+      obno<lb ed="#P" n="56" break="no"/>xii. Patet ad hebraeos vndecimo. Credere enim oportet accedentem ad deum, quia est, &amp; inquirentibus 
+      <lb ed="#P" n="57"/>se remunerator sit. Omnes generose philosophantes agminatim id tenuerunt, vt Thales, Pythagoras, So 
+      <lb ed="#P" n="58"/>crates, Plato, Aristoteles: Poetae etiam, Homerus Virgilius &amp; Seneca: Homerus enim manifestat viuentum ne 
+      <lb ed="#P" n="59"/>gocia defunctis esse curae. Patroclum ad Achillem dicentem hoc modo introducens. 
+      <lb ed="#P" n="60"/>Num dormis oblite mei, nunc neglaegis orbum? 
+      <!--46.xml-->
+      <pb ed="#P" n="16-r"/>
+               <lb ed="#P" n="1"/>Lucem modo viuum quem sic curaueris ante. 
+      <lb ed="#P" n="2"/>Me sepeli propere quo inferni Ditis Achille 
+      <lb ed="#P" n="3"/>Transuehar ad portas amnis nam me eminus areent. 
+      <lb ed="#P" n="4"/>Extincti populi: secum tranare vetantes. 
+      <lb ed="#P" n="5"/>En vagor &amp; frustra manes peto porrige dextram. 
+      <lb ed="#P" n="6"/>Imploro. ldem virgilius in sexto canit. 
+      <lb ed="#P" n="7"/>ldemque iuuenalis sentit: quamuis innuat esse qui aliter credant, inter quos videtur &amp; Cicero fuisse negans saepen 
+      <lb ed="#P" n="8"/>supplicia defunctorum.  Dicit itaque luuenalis satyra secunda. 
+      <lb ed="#P" n="9"/>Esse aliquos manes. &amp; subterranea regna. 
+      <lb ed="#P" n="10"/>Et contum, &amp; stigio ranas in gurgite nigras, 
+      <lb ed="#P" n="11"/>Atque vna transite vadum tot milia cymba: 
+      <lb ed="#P" n="12"/>Nec pueri credunt nisi qui nondum aere lauantur. 
+      <lb ed="#P" n="13"/>Sed tu vera puta. Curius quid sentit &amp; ambo 
+      <lb ed="#P" n="14"/>Scipiadae: quid Fabricius, manesque 
+      Camilli<lb ed="#P" n="15" break="no"/>Quid Cremerae legio &amp; cannis consumpta iuuentus 
+      <lb ed="#P" n="16"/>Tot bellatorum animae: quotiens hinc talis ad illos 
+      <lb ed="#P" n="17"/>Vmbra venit: cuperent lustrari &amp;c.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

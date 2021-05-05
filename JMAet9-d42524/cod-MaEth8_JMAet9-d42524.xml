@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 8</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 8</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d42524"><!-- mair-l10c8 -->
+            <head xml:id="JMAet9-d42524-Hd1e103">Caput 8</head>
+            <p xml:id="JMAet9-d42524-d1e106">
+               <lb ed="#P" n="8"/>
+               <quote xml:id="JMAet9-d42524-Qd1e110" type="lemma">SEcundo autem est ea vita</quote> &amp;c. In honc octauo capite philosophus ostendit vitae contemplatiuae excel 
+      <lb ed="#P" n="9"/>lentiam &amp; praestantiam super actiuae vitae operationes in quibus sedatio bonitas consistit, non enim est beatitudo, sed  
+      <lb ed="#P" n="10"/>Cbeatitudini multum affinis.
+    </p>
+            <p xml:id="JMAet9-d42524-d1e118">
+               <pc type="pilcrow">¶</pc> Ad literae explanationem accedo. dicit itaque primo sic. Sedo autem loco po 
+      <lb ed="#P" n="11"/>nitur ea vita quae a virtute alia, hoc est actiua quae est alia quam speculatiua proficiscitur. Quia felicitas contemplatiua vt 
+      <lb ed="#P" n="12"/>superiore capite retulimus primas occupat pertes, &amp; adhuc idipsum hoc in capite detegere enitemur. 
+      Opera<lb ed="#P" n="13" break="no"/>tioes autem eae quae ab hac actiua virtute emergunt humanae sunt, quia totius compositi, iusta enim fortia, &amp; reliquam 
+      <lb ed="#P" n="14"/>quam a virtutibus talibus fiuunt inter nos agimus in commerciis &amp; necessitatibus nostris mutuo succurrentes atque 
+      <lb ed="#P" n="15"/>actibus communibus &amp; item affectibus seruantes vnicuique quod ad eum spectat, sicque in politica vita viuimus. Liquet autem 
+      <lb ed="#P" n="16"/>haec omnia humana esse &amp; aliqua istorum a corpore prouenire videntur, hoc est vt corpori succurratur. Operationes qua 
+      <lb ed="#P" n="17"/>rundam virtutum sunt circa facultates quam in hominium vsum veniunt, vt opera iustitiae, fortitudinis, &amp; aliarum virtu 
+      <lb ed="#P" n="18"/>tum secundm quams mutuiter agimus in commutationibus. In iustitia commutatiua distribntiuaque suas opes homines 
+      <lb ed="#P" n="19"/>mutuo coicant. Quaedam enim virtutes sunt circa hominim indigentias quibus alius alii subuenit, cuiusmodi est li 
+      <lb ed="#P" n="20"/>teralitas &amp; hmodi. Per haec Aristoteles intendit omnem virtute moralem esse circa bona humana, quia omnis vir 
+      <lb ed="#P" n="21"/>tus moralis est vel circa bona fortunae, quae in hominium vsum contingunt, vel circa bona corpris, vt ei succurra 
+      <lb ed="#P" n="22"/>tur vel circa animi affectum. Quae aiae non contingunt nisi quando est in toto composito, &amp; virtus haec moralis 
+      mul<lb ed="#P" n="23" break="no"/>tum affectibus commiscet, vt circa iram, mansuetudinem &amp; caetera, quae inter homines contingunt. Praeterea illi virtuti in  
+      <lb ed="#P" n="24"/>separabiliter prudentia coniungetur vt in sexto lib. dictum est. Virtus moralis certum finem statuit quem finem pru 
+      <lb ed="#P" n="25"/>dentia supponit tamquam principium. Si enim quispiam non fuerit studiosus circa principia agibilium errabit, capto 
+      <lb ed="#P" n="26"/>principio prudentia capit media per quae recte ad talem finem perueniri potent. Hoc patuit in sexto, Prudentia &amp; 
+      vir<lb ed="#P" n="27" break="no"/>tus moralis a se mutuo pendent, &amp; sunt circa affectus &amp; perturbationes, &amp; sunt totius compositi. Proinde huma 
+      <lb ed="#P" n="28"/>nae virtutes sunt. Vn fit vt ea vita hoc est operatio quae ab ipsis manat, sit humana, secundum tamen locum 
+      <lb ed="#P" n="29"/>post felicitatem contemplatiuam sibi vendicat. Felicitas mentis est separata hoc est convenit animae se 
+      <lb ed="#P" n="30"/>paratae, quae non minus immo magis contemplatur quam corpori coniuncta. Corpus enim quod corrumpitur 
+      <lb ed="#P" n="31"/>aggrauat animam. In corpore tamen glorificato quaetuor dotibus, subtilitate, impassibilitate, claritate, agilita 
+      <lb ed="#P" n="32"/>taeque ornata, nullum habebit obicem. Verum euangelica lege &amp; non naturaliter id deprehenditur. 
+      Tan<lb ed="#P" n="33" break="no"/>tum de ipsa dictum hic satis sit, quia illud exacte prosequi proposito maius est. Et quia fortasse 
+      Tulli<lb ed="#P" n="34" break="no"/>us &amp; plerique alii reipub, studiosi contenderent vitam actiuam contemplatiua esse praestantiorem illius 
+      <lb ed="#P" n="35"/>opposium eleganter conformiter ad euangelium philosophorum princeps probat hanc conclusionem 
+      <lb ed="#P" n="36"/>ponens. Felicitas contemplatiua est actiua longe praestabilior. Probatur haec conclusio quadruplici 
+      ar<lb ed="#P" n="37" break="no"/>gumento. Primo sic. Illud quod est separati &amp; diuini, est praestantius eo quod est compositi inquantum 
+      <lb ed="#P" n="38"/>talis, auditus entitatiue est intellectu perfectior non tamen in ratione potentiae, sic de toto 
+      composi<lb ed="#P" n="39" break="no"/>to &amp; intellectu intellige, at felicitas contemplatiuae respectu actiuae est huiusmodi: igitur. Ego enim 
+      <lb ed="#P" n="40"/>sane reor Aristotelem velle consequenter ad dicta in tertio de anima, animam immortalem dicere. 
+      <lb ed="#P" n="41"/>&amp; non solum hoc sed etiam eam separatam perpetuo contemplari celestia, &amp; non habere 
+      commerci<lb ed="#P" n="42" break="no"/>um cum vita humana. Hoc in tertium de anima &amp; in distinctionem quadragesimam tertiam, quarti sen 
+      <lb ed="#P" n="43"/>tentiarum locupletius monstrauimus. 
+    </p>
+            <p xml:id="JMAet9-d42524-d1e195">
+               <lb ed="#P" n="44"/>⁋ Secundo probatur eadem conclusio sic. Vita ea quae paucioribus indiget quam alia, paritate data, est alia 
+      <lb ed="#P" n="45"/>melior. (Homo plura ad sui sustentationem efflagitat quam catus aut glis imperfectior. ergo quantum ad  
+      <lb ed="#P" n="46"/>vitam actiuam in quibusdam est illis imperfectior. Paucioribus quidem indigere sane nobilis est conditio, sed  
+      <lb ed="#P" n="47"/>nonnihil boni dedit deus belluis rationis expertibus quod non dedit homini, verum multo excellem 
+      <lb ed="#P" n="48"/>tiora homini tribuit &amp; in hoc magis nobilem conditionem habet, &amp; est in se magis sufficiens. At 
+      <lb ed="#P" n="49"/>vita contemplatiua respectu actiuae est huiusmodi: igitur. Minorem litera ponit. Opus est tamen vtrisque 
+      <lb ed="#P" n="50"/>necessariis rebus pro corporis sustentatione. Oportet vtrumque, &amp; quamquam ita est vt ciuilis homo circa 
+      <lb ed="#P" n="51"/>corpus &amp; res tales magis insudet, dato tamen quod posueris &amp; contemplatiuum &amp; actiuum aequaliter 
+      <lb ed="#P" n="52"/>agere, hoc sane parum ad id quod paramus interest, &amp; parui est momenti. Nam in operationibus 
+      plu<lb ed="#P" n="53" break="no"/>rimum differunt. Liberali ad liberales operationes faciundas, &amp; iusto ad retributiones opus est 
+      pecu<lb ed="#P" n="54" break="no"/>niis, contemplatoribus autem hac affluentia non opus est. Voluntates sine datione exteriori non sunt 
+      <lb ed="#P" n="55"/>manifestae. Per hoc dubitationem eluit. Diceret enim quispiam. Et si ei non sunt opes poest tamen habere voluntatem 
+      <lb ed="#P" n="56"/>dandi &amp; ea sufficit. Dicit philosophus quod non constat aliis de hoc aio, bene autem deo constat. Etiam multi iniu 
+      <lb ed="#P" n="57"/>sti se iustos simulant. Verum forti opus est potentia &amp; robore, si aliquid eorum agere debeat quae a fortitudine ma 
+      <lb ed="#P" n="58"/>nant, &amp; temperato qui circa epulas &amp; conuiuia cum ratio efflagitat insudat, opus est facultate eorum circa quae 
+      conti<lb ed="#P" n="59" break="no"/>git temperatum intemperatumque esse. Quomodo enim aut temperans aut aliorum studiosorum quispiam cognitus erit nisi 
+      <lb ed="#P" n="60"/>circa extrinsecum operetur? Et ideo quaeritur ab eruditis an magis sit virtuti proprium ipsa electio an actus ipse 
+      exte<lb ed="#P" n="61" break="no"/>tior, quaesi in vtrisque ipsa virtus consistit &amp; palam est perfectum ab vtrisque pendere, magis tamen in radice ab electione. 
+      <!--351.xml-->
+      <pb ed="#P" n="165-v"/>
+               <lb ed="#P" n="1"/>verum ad actus exteriores multis eget actiua &amp; administratiua virtus, &amp; quo pulchrior est tanto plu 
+      <lb ed="#P" n="2"/>ribus indiget quibus contemplans ad sui muneris functionem non eget, immo contemplationi fere 
+      <lb ed="#P" n="3"/>sunt impedimento, ea de re praedicatorii ordinis viri &amp; minoritae nominis celebritate clari egregia vo 
+      <lb ed="#P" n="4"/>lumina condiderunt. Patet de <name xml:id="JMAet9-d42524-Nd1e249">Thoma aquinate</name>. <name xml:id="JMAet9-d42524-Nd1e252">Alberto</name>, <name xml:id="JMAet9-d42524-Nd1e255">Alexandro halensi</name>, <name xml:id="JMAet9-d42524-Nd1e258">Ioanne duns</name> 
+      conterra<lb ed="#P" n="5" break="no"/>neo meo &amp; sexcentis aliis vbi locupletes asseclarum turba impliciti licet eruditi fuerint perparum 
+      li<lb ed="#P" n="6" break="no"/>terarum monimentis mandauerunt. Aliacensis antequam esset cameracensis praesul &amp; rubro galero dona 
+      <lb ed="#P" n="7"/>tus exacte in sententias &amp; in alia scripsit, postea finem imposuit. Negociosus in soro (vt in 
+      apophthegma<lb ed="#P" n="8" break="no"/>te dicitur) nequicquam in ocio literario proficit. Nec ab re, vsu enim venit vt ea quibus actiuus eget con 
+      <lb ed="#P" n="9"/>templantem impediunt. Nam in actiua vita homo hoc ipso quo homo viuit, &amp; quanto cum pluribus 
+      <lb ed="#P" n="10"/>degit tanto magis facere optat quae ab humana virtute oriuntur. Proinde fortuna egebit, vt ea quae  
+      <lb ed="#P" n="11"/>ad hominem attinent peragat.
+    </p>
+            <p xml:id="JMAet9-d42524-d1e277">
+               <pc type="pilcrow">¶</pc> Alia ratio ad conclusionem ex rebus supra nos capitur a deo scilicet Per 
+      <lb ed="#P" n="12"/>fectissimus enim absolute est deus, quia prima causa &amp; primus motor, licet interdum intelligentiae 
+      <lb ed="#P" n="13"/>caelestes dii nuncupentur, vti sacrae literae faciunt. Postea hoc ipsum probat per res nobis subiectas 
+      <lb ed="#P" n="14"/>scilicet pecora. Accedendo ad literam ratio admodum est pulchra, quae est haec. Ea operatio quam deo 
+      <lb ed="#P" n="15"/>&amp; substantiis separatis attribuimur est perfectior illa quam ab eis secludimus, quia perfectioribus per 
+      <lb ed="#P" n="16"/>fectiora damus, &amp; non ab re imperfectiora ab illis remouemus. At veritatem contemplari deo &amp; 
+      sub<lb ed="#P" n="17" break="no"/>stantiis separatis damus, relicto tedioso syllogismo. remouemus a diis immortalibus opera vitae acti 
+      <lb ed="#P" n="18"/>uae, proinde actus vitae contemplatiuae est operatione actiua praestantior. Vel sic. Deorum vita est 
+      no<lb ed="#P" n="19" break="no"/>bilissima. Ergo vita illi maxime affinis, secundum locum bonitatis simpliciter sibi asciscit. Maior 
+      <lb ed="#P" n="20"/>patet. Brutum enim maxime ad hominem accedens brutorum est nobilissimum, &amp; substantia deo 
+      <lb ed="#P" n="21"/>simillima est optima. Itaque ea vita quae deo est maxime affinis est praestantissima. 
+    </p>
+            <p xml:id="JMAet9-d42524-d1e305">
+               <lb ed="#P" n="22"/>⁋ Sententiam literae pono. Hinc deprehendimus contemplatiuam felicitatem perfectam esse 
+      opera<lb ed="#P" n="23" break="no"/>tionem, &amp; primum sibi vsurpare perfectionis locum, quod deos hoc est superhumanas mentes maxime 
+      <lb ed="#P" n="24"/>felices renuit, illis autem nullas actiones tribuimus. Nonne iustos censemus? verum hoc ridiculae 
+      <lb ed="#P" n="25"/>erunt illae celestes mentes si commutent frumentum pro vino aut simile, aut deposita reddant &amp; 
+      cae<lb ed="#P" n="26" break="no"/>tera opera iustitiae efficiant. Fortesve? sed id foret absonum quasi res formidolosas tolerent &amp; 
+      discri<lb ed="#P" n="27" break="no"/>mina subeant honestatis gratia. An liberales? sed precor cuinam tum dabunt inopi? &amp; absurdum 
+      <lb ed="#P" n="28"/>est, praeterea si nummos habeant &amp; loculos aut aliquid simile. An temperantes? sed qua via quaeso 
+      <lb ed="#P" n="29"/>id fuerint, &amp; vtrum indecens &amp; inopportuna laus est si malas cupiditates dii non habere dicantur? 
+      <lb ed="#P" n="30"/>Et ita per omnia discurrenti omnia quae sunt circa actus, parua quaedam &amp; non digna diis 
+      immor<lb ed="#P" n="31" break="no"/>talibus plane videntur. Aliqua Archimagirum decent quae virum illustrem dedecent. Illa quae prer 
+      <lb ed="#P" n="32"/>ciose mortalibus applicantur indecore caelitibus applicentur. At vero ipsos viuere existimant omnes. 
+      <lb ed="#P" n="33"/>Eam ob rem &amp; operari. Non enim oportet illos vt Endimion fecisse fabulatur, semper dormire. 
+      En<lb ed="#P" n="34" break="no"/>dimion ( vt poetae finxere) a luna fuit dilectus &amp; in monte Lyciae perpetuo somno sopitus quo 
+      lu<lb ed="#P" n="35" break="no"/>na licentius dormientis carperet oscula. Sed quidnam potius eis tribuemus quam contemplari? Cum 
+      <lb ed="#P" n="36"/>enim operantur, vti dictum est, &amp; vitam actiuam non ministrent, &amp; a fortiori neque artis quicquam, 
+      ni<lb ed="#P" n="37" break="no"/>hil praeter contemplationem a sufficienti diuisione eis relinquitur. Eam ob rem dei operatio 
+      praecel<lb ed="#P" n="38" break="no"/>lens felicitate, contemplatiua sine controuersia fuerit. Et secundo de celo capite tertio ex Argyropili 
+      <lb ed="#P" n="39"/>tralatione philosophus sic ait. Dei autem operatio est immortalis, hoc autem est vita sempiterna. Illa 
+      <lb ed="#P" n="40"/>igitur operatione inter humanas operationes homo maxime beatus est, quae illi diuinae 
+      beatitudi<lb ed="#P" n="41" break="no"/>ni maxime affinis &amp; cognata est, haec autem est contemplatiua. Proinde non ab re diximus 
+      contem<lb ed="#P" n="42" break="no"/>platiuam felicitatem eminentissimum perfectionis locum inter humanas operationes iure quidem 
+      <lb ed="#P" n="43"/>optimo sibi vendicare. Huius rei signum est quod animalia beatitudinis expertia contemplatione 
+      pror<lb ed="#P" n="44" break="no"/>sus vacant. Quando bos cognouit possessorem suum in praesepio, dominus eius genua more 
+      homi<lb ed="#P" n="45" break="no"/>nis procumbentis disposuit. Et sic de asino quem deum cognouisse vulgo perhibent. Supermundanis 
+      <lb ed="#P" n="46"/>spiritibus tota vita felix est, talem habentibus operationem, hominibus autem quantum ad superos 
+      <lb ed="#P" n="47"/>talis operationis inest similitudo. At aliorum animalium nullum penitus est felix, quia huius contem 
+      <lb ed="#P" n="48"/>plationis non est particeps. Quousque igitur veritatis speculatio sese effundit, eousque praecise se extendit 
+      <lb ed="#P" n="49"/>felicitas. Quae enim contemplatione orbantur etiam felicitate carent, &amp; quibus contemplatio magis 
+      <lb ed="#P" n="50"/>inest (vt celestibus spiritibus) &amp; felicitas magis inhaerebit, non per accidens quidem &amp; alterius gratia, 
+      <lb ed="#P" n="51"/>verum per ipsam contemplationem. Est enim contemplatio per seipsam praeciosa. 
+    </p>
+            <p xml:id="JMAet9-d42524-d1e373">
+               <lb ed="#P" n="52"/>⁋ Alia conclusio. Contemplatiua operatione felix exterarum rerum praesidio eget. Cum enim re ipsa sit homo, na 
+      <lb ed="#P" n="53"/>tura humana non sinit eum sine fortunarum amminiculo sufficientem, sed corpus sanum esse oper alimenta &amp; reli 
+      <lb ed="#P" n="54"/>quum famulatum adesse. Si valitudinarius fuerit &amp; aegritudine vexatus minus speculari poterit ob 
+      <lb ed="#P" n="55"/>corporis impedimentum. Et signanter si morbus peracutus vt cholica, nephresis lliaca ve fuerit. Per alimen 
+      <lb ed="#P" n="56"/>ta, vestimenta, domum quia sub dio male habitet &amp; silia intelligit. Et per famulatum innuit eum non debere 
+      <lb ed="#P" n="57"/>impediri circa suam prouisionem, sed talium curam minister eius habebit. Dedecet eum circa haec 
+      transi<lb ed="#P" n="58" break="no"/>toria impediri. At si sine aliquibus opibus beatus fieri nequeat, non tamen magnis eget, quia neque 
+      suf<lb ed="#P" n="59" break="no"/>ficientia neque iudicium rectum tam in speculabilibus quam actiuis neque actus studiosus in affluentia 
+      for<lb ed="#P" n="60" break="no"/>tunae consistit. Fieri enim potest vt qui neque principes terrae neque altis natalibus sunt agant honesta, nam in  
+      <lb ed="#P" n="61"/>mediocribus facultatibus potest quis secundum virtutem agere quod videre licet, quia cum priuati homines non 
+      <lb ed="#P" n="62"/>minus res praeclaras agere videntur quam illi qui sunt in potestatibus constituti, immo &amp; magis. Quantitas enim 
+      <lb ed="#P" n="63"/>rei expositae non est consideranda solum, verum etiam animus dantis. quocirca vidua illa euangelica apud  
+      <lb ed="#P" n="64"/>Lucam quae duo minuta in Gazophylacium misit a domino plus effertur quam multo plura ponentes. 
+      <!--352.xml-->
+      <pb ed="#P" n="166-r"/>
+               <lb ed="#P" n="1"/>Etiam felicis vita in virtutum splendore literarumque, eminentia emicat, ita vt cum fato cesserit a pluribus 
+      <lb ed="#P" n="2"/>cognoscatur quam pecuniosus tyrannus sua solum tempestate &amp; inter suos vel ob sordidam vitam notus. Satis 
+      <lb ed="#P" n="3"/>ergo fuerit tot habere opes quot ad bene agendum sufficiant: quia eius vita felix erit qui secundum virtutem 
+      <lb ed="#P" n="4"/>operabitur. Quae si sufficiant ad agendum, per locum a maiore ad contemplandum sufficiunt. Hanc conclusionem 
+      <lb ed="#P" n="5"/>sapientum authoritate roborat. Primo, quia Solon eos felices dicebat qui mediocribus habent opes. 
+      <lb ed="#P" n="6"/>Propterea Croesum Lydorum regem omnium locupletissimum a felici remotissimum rectissime censuit, &amp; 
+      <lb ed="#P" n="7"/>Tellum Atheniensem bonos liberos habentem qui fortiter pugnando pro patria occubuit felicissimum 
+      <lb ed="#P" n="8"/>iudicauit. Qui mediocres opes habebant &amp; modeste viuebant, poterant res pulcherrimas, vt ipse 
+      arbitra<lb ed="#P" n="9" break="no"/>batur, facere. Et Anaxagoras Clazomenius cuius est illa vox, cum liberos mortuos audiret, scio me 
+      <lb ed="#P" n="10"/>mortales genuisse: &amp; de quo sexto Ethicorum habitus est sermo, nec pecuniosum neque potentem felicem 
+      <lb ed="#P" n="11"/>existimabat. Quocirca dicit se non stupere si absurdus quidem multitudini videretur: quia multitudo 
+      <lb ed="#P" n="12"/>multorum capitum bellua, opes solum cognoscens ab his praecise iudicium fert quae videntur. Anaxagoras 
+      <lb ed="#P" n="13"/>vt recte &amp; libere philosopharetur facultates suas concessit, pauca &amp; sufficientia sibi seruans. Constans est 
+      <lb ed="#P" n="14"/>etiam fama quod priuauit se visu vt altius contemplaretur. Ergo dicit philosophus sapientum opiniones 
+      <lb ed="#P" n="15"/>sunt nobis consentaneae, &amp; talia quandam fidem habent, quia sine ratione loqui non solent: &amp; iam ob 
+      tem<lb ed="#P" n="16" break="no"/>poris lapsum &amp; famam celebrem eis creditur. Huc accedit eorum vita quae sermonibus erat consona: 
+      medio<lb ed="#P" n="17" break="no"/>cribus enim erant contenti, &amp; ita tales fuisse credendi. Nam a fructibus eorum cognoscetis eos, teste scriptura. 
+      <lb ed="#P" n="18"/>veritas in iis quae veniunt in actionem ex operibus iudicatur: &amp; si sermones vitae sint consoni 
+      accepten<lb ed="#P" n="19" break="no"/>tur. Sin vero discrepent, verba tantum quidem caduca putanda sunt.
+    </p>
+            <p xml:id="JMAet9-d42524-d1e449">
+               <pc type="pilcrow">¶</pc> At vero qui mente &amp;c. Superius 
+      <lb ed="#P" n="20"/>ostendit quomodo felix se habeat ad aliqua externa scilicet ad opes. Nunc vero ascendendo ad grauiora 
+      <lb ed="#P" n="21"/>monstrat quomodo se habeant ad deos immortales. Et hanc conclusionem in valore ponit. Felix 
+      felici<lb ed="#P" n="22" break="no"/>sate contemplatiua est deo amicissimus &amp; maxime ab eo diligitur. Probatur haec conclusio. Ille qui 
+      men<lb ed="#P" n="23" break="no"/>tem colit &amp; maximam curam habet de illo quod est deo maxime cognatum illique simillimum est deo 
+      ami<lb ed="#P" n="24" break="no"/>cissimus, at felix contemplatiuus est huiusmodi, igitur. Nam se dii humanarum rerum curam habent vt ab 
+      <lb ed="#P" n="25"/>omnibus recte existimantibus putantur, rationi sane maxime fuerit consentaneum eos eo gaudere: quod est 
+      <lb ed="#P" n="26"/>optimum maximeque sibi cognatum: hoc autem est ipsa mens quae est perpetua a tergo, licet initium a fronte 
+      <lb ed="#P" n="27"/>acceperit. Consentaneum igitur est numina in eos maximopere qui mentem venerantur, beneficia 
+      vicis<lb ed="#P" n="28" break="no"/>sim conferre, velut curam eorum qui sibi sunt cordi ac diligentiam habentia &amp; recte agentia: quilibet enim 
+      <lb ed="#P" n="29"/>diligit diligentem se &amp; amicum suum. Et etiam diligo benefacientem fratri meo. At intellectus est deo 
+      cogna<lb ed="#P" n="30" break="no"/>tissimus: ergo qui eum diligit colit, honoratque, est a deo maxime diligendus. 
+    </p>
+            <p xml:id="JMAet9-d42524-d1e479">
+               <lb ed="#P" n="31"/>⁋ Circa hoc caput felicitatisque fertilissimae materiam, non pauca diluenda occurrunt. Primo circa haec 
+      <lb ed="#P" n="32"/>quae nuperrime dicta sunt, An anima sit aeterna &amp; felix. Secundo, an sine actu exteriore virtus 
+      gene<lb ed="#P" n="33" break="no"/>retur per solam electionem. Et, an actus exterior nonnihil bonitatis malitiae ve electioni superaddar. 
+      <lb ed="#P" n="34"/>Tertio, qualis fuit iste Endymion de quo haec fictio recitetur, &amp; quid veri in se contineat: licet autem 
+      <lb ed="#P" n="35"/>nollem lectorem in hac de felicitate tam vbere materia in talibus morari, dignum induxi cum dei 
+      <lb ed="#P" n="36"/>operationem contingat hoc inquirere. haec igitur primum tractemus, postea alia dissectari. 
+    </p>
+            <p xml:id="JMAet9-d42524-d1e495">
+               <lb ed="#P" n="37"/>⁋ Ad primam dubitationem respondendo primo ad suppositum, deinde ad dubitatum. Ad suppositum 
+      <lb ed="#P" n="38"/>dico quod in lumine naturali concedendum est animam intellectiuam esse immortalem, vt in explanatione 
+      <lb ed="#P" n="39"/>superioris capitis circa finem iam disputauimus. At tunc rogas quid erit de anima post separationem 
+      <lb ed="#P" n="40"/>a corpore? Dicerem quod natura duce resurrectio non probatur, verum anima illius qui probe vixit 
+      <lb ed="#P" n="41"/>praemiabitur alicubi licet quo in loco sit philosophis dubium, an in elisiis campis, an in caelo, an alibi 
+      <lb ed="#P" n="42"/>&amp; ea quae in mortalibus decessit perpetim cruciabitur. 
+    </p>
+            <p xml:id="JMAet9-d42524-d1e511">
+               <lb ed="#P" n="43"/>⁋ Ad secundam dubitationem respondetur, quod perfectius generatur virtus per excercitium actus 
+      exterio<lb ed="#P" n="44" break="no"/>ris quam cum solo interiore. Mansuetudo enim &amp; huiusmodi sine actu exteriori produci valet: sed 
+      vir<lb ed="#P" n="45" break="no"/>tus line actu exteriore non innotescit. Ad alteram dubitationis partem dico actum exteriorem actui 
+      inte<lb ed="#P" n="46" break="no"/>riori efficaci, nihil bonitatis aut culpae superaddere. Socrates volens in opus exterius prodit quantum 
+      <lb ed="#P" n="47"/>est ex parte eius: &amp; Plato in actum exteriorem exiens cum simili actu interiori aequaliter peccant in malis, 
+      <lb ed="#P" n="48"/>&amp; aequaliter merentur in bonis. Probatur haec conclusio affirmatiua. Actus exterior naturaliter ab 
+      ele<lb ed="#P" n="49" break="no"/>ctione proficiscitur: electio efficax semper exteriorem operationem secluso impedimento ponit, &amp; propterea 
+      <lb ed="#P" n="50"/>&amp; habitus &amp; affectus non imputantur, quia naturaliter actus comitantur: ergo cum Socrates tantum facit ex 
+      <lb ed="#P" n="51"/>parte sua ad positionem exterioris operationis non minus ei imputabitur. Secundo, Socrates dirigens 
+      <lb ed="#P" n="52"/>spiculum in Ciceronem vt eum occidat, eum casu non occidit tantum peccat quantum Plato sagitta sua Robertum 
+      <lb ed="#P" n="53"/>occidens, paritate data ex parte obiectorum &amp; intensionis gradualis, sint omnia paria praeter illum euentum 
+      <lb ed="#P" n="54"/>sequentem vnius necis &amp; non alterius. Antequam enim sagitta Platonis Robertum attingebat aequaliter 
+      pecca<lb ed="#P" n="55" break="no"/>bant, ergo &amp; post aequaliter peccauerunt. Pono Platonem decedere vita repente post spiculum emissum, 
+      occi<lb ed="#P" n="56" break="no"/>datur videlicet a Ioanne, post mortem non peccat, &amp; ante erant in delictis paribus, igitur. 
+    </p>
+            <p xml:id="JMAet9-d42524-d1e545">
+               <lb ed="#P" n="57"/>⁋ Contra hanc conclusionem Primo sic argumentor. Platoni imputabitur mors (si superuiuat) pro 
+      <lb ed="#P" n="58"/>Roberti interitu: non autem Socrati pro nece Ciceronis. Secundo, actus interiores sunt omnino pares ex 
+      <lb ed="#P" n="59"/>casu: &amp; actus exterior Platonis est etiam culpa, cum non est actus bonus aut indifferens at culpa culpae 
+      ad<lb ed="#P" n="60" break="no"/>dita aggregatum facit peius. Tertio, actus exterior interiorem auget, ergo ipsum habens est altero 
+      de<lb ed="#P" n="61" break="no"/>terior. Quarto, consecrans habet gratiam sacramentalem cui gloria respondet: volens efficaciter celebrare 
+      <lb ed="#P" n="62"/>hanc non habet: stat enim hominem velle efficaciter celebrare &amp; habere impedimentum intrinsecum aut  
+      <lb ed="#P" n="63"/>extrinsecum non subiacens voluntati illius, vt pote quia non habet panem triticeum, vt vinum, vel quia est 
+      <lb ed="#P" n="64"/>factus de nouo in manu vel in lingua paralyticus. Quinto, diuersis praeceptis prohibentur in decalogo. 
+      <!--353.xml-->
+      <pb ed="#P" n="166-v"/>
+               <lb ed="#P" n="1"/>Patet de furto in quo actus exterior prohibetur, &amp; de concupiscentia, quae est actus interior. Sexto 
+      <lb ed="#P" n="2"/>aliqua operatio exterior bonitatem aut malitiam sibi sine electione vendicat, ergo habet familiarem 
+      <lb ed="#P" n="3"/>malitiam aut praemium. Antecedens patet. Tum primo de distrado celebrante, qui satis facit de dicendi 
+      <lb ed="#P" n="4"/>horis canonicis. Tum secundo de martyribus qui pro Christo passi sunt quibus mors ab extrinseco 
+      in<lb ed="#P" n="5" break="no"/>ferebatur. Tum tertio, si dominus famulo praecipit dare stipem inopi, dominus per clientis dationem 
+      <lb ed="#P" n="6"/>meretur. Et idem est quoad demeritum. Si praeciperet homicidium qui accidit imperante domino, hic etiam 
+      <lb ed="#P" n="7"/>domino dormiente peccat.
+    </p>
+            <p xml:id="JMAet9-d42524-d1e584">
+               <pc type="pilcrow">¶</pc> Respondetur, quod primum argumentum probat, quod in foro exteriore 
+      homici<lb ed="#P" n="8" break="no"/>dium committens, plus punitur. &amp; hoc est verum cum actualiter plus politiam inquietet, in foro tamen dei 
+      aequa<lb ed="#P" n="9" break="no"/>liter delinquunt.
+    </p>
+            <p xml:id="JMAet9-d42524-d1e594">
+               <pc type="pilcrow">¶</pc> Ad secundum dicitur, quod culpa naturaliter a culpa emanans non reddit congeriem deteriorem 
+      <lb ed="#P" n="10"/>quam culpa ea sola a qua emergit: modo operatio exterior ab electione naturaliter scatet si ea efficax fuerit.
+    </p>
+            <p xml:id="JMAet9-d42524-d1e602">
+               <lb ed="#P" n="11"/>Ad tertium concedo antecedens, &amp; talis tunc est alio deterior secundum illud Augustini, voluntate sola 
+      qui<lb ed="#P" n="12" break="no"/>libet miser efficitur: miserior tamen quando potestas peccandi opere completur: sed conclusio intelligitur 
+      <lb ed="#P" n="13"/>semper paritate data in electione quantum ad intensionem gradualem quantum ad obiectum &amp; volitionis 
+      <lb ed="#P" n="14"/>efficaciam, &amp; summatim quod sint omnia paria, dempta operatione exteriore in vno &amp; non in altero ob 
+      <lb ed="#P" n="15"/>positum impedimentum, quod non est situm in facultate non operantis.
+    </p>
+            <p xml:id="JMAet9-d42524-d1e615">
+               <pc type="pilcrow">¶</pc> Ad quartum dicitur, quod in operibus 
+      <lb ed="#P" n="16"/>sacramentorum non intelligimus conclusionem, quia illic virtute operis operati bonum additur. 
+    </p>
+            <p xml:id="JMAet9-d42524-d1e623">
+               <lb ed="#P" n="17"/>⁋ Ad quintum dicitur, quod illic sunt diuersae prohibitiones, ne imperiti existiment non esse peccatum 
+      <lb ed="#P" n="18"/>in solo actu interiore Plerique enim ludaeorum (vt ipse losephus) opinati sunt oppositum.
+    </p>
+            <p xml:id="JMAet9-d42524-d1e631">
+               <pc type="pilcrow">¶</pc> Ad sextum 
+      <lb ed="#P" n="19"/>nego antecedens. Ad eius primam probationem dico, quod celebratio cum distractione signanter inuoluntarie 
+      <lb ed="#P" n="20"/>incidente est satisfactoria, sic quod homo est deobligatus ab illius celebratione: tamen talis celebratio 
+      ten<lb ed="#P" n="21" break="no"/>pore purae distractionis non est meritoria vitae aeternae. Modo aliud est esse satiffactorium, aliud 
+      meri<lb ed="#P" n="22" break="no"/>torium satiffactio est sepius in mortali peccato. Propterea talis celebrat ne peccatum peccato addat, 
+      <lb ed="#P" n="23"/>licet non mereatur. In praesentia non disceptabo, an quispiam satiffaciat cum actu qui est peccatum, vt 
+      quan<lb ed="#P" n="24" break="no"/>do religiosus vult ieiunare ut famam bonam aucupetur abbatis. in die ieiunabili: vel Socrates vult 
+      cele<lb ed="#P" n="25" break="no"/>brare horas tali loco ob inanem gloriam, in die quo celebrare est obstrictus.
+    </p>
+            <p xml:id="JMAet9-d42524-d1e652">
+               <pc type="pilcrow">¶</pc> Ad secundam probationem 
+      <lb ed="#P" n="26"/>dicitur, quod martyres meriti sunt per actus spontaneas nolendi relinquere opera praecepti aut consilii: 
+      <lb ed="#P" n="27"/>non obstante morte &amp; per aequanimem mortis tolerantiam.
+    </p>
+            <p xml:id="JMAet9-d42524-d1e662">
+               <pc type="pilcrow">¶</pc> Ad tertiam probationem dicitur, quod siue 
+      <lb ed="#P" n="28"/>minister eleemosynarius eleemosynam det siue non, dominus non magis neque minus meretur quantum 
+      <lb ed="#P" n="29"/>ad vitam aeternam, licet posset prodesse quantum ad liberationem a poena purgatorii si stipem erigat 
+      actua<lb ed="#P" n="30" break="no"/>liter ad quod haec operatio exterior valet. Et pedisequus peccat non dando imperante domino. 
+      Simi<lb ed="#P" n="31" break="no"/>liter de nece dicitur siue cliens interimat siue non, non magis dominus vel minus peccat. Euentus 
+      <lb ed="#P" n="32"/>enim actualiter sequens illi non imputabitur eius culpam mensurans, sed solum illud quod vero 
+      simi<lb ed="#P" n="33" break="no"/>liter eo mandante sequeretur. Si vnius famulus perimat, alterius vero non, domini aequaliter peccant 
+      <lb ed="#P" n="34"/>coram deo: licet vnus ad maiorem restitutionem liberis &amp; communiugi occisiquam alter teneatur, ob actualem 
+      iniu<lb ed="#P" n="35" break="no"/>tiam illatam.
+    </p>
+            <p xml:id="JMAet9-d42524-d1e685">
+               <pc type="pilcrow">¶</pc> Ad tertiam dubitationem respondetur, quod Endymion primus rationem cursus lunae inuenit 
+      <lb ed="#P" n="36"/>&amp; obdormisse triginta annos dicitur, quia iudicio vulgi meditationi vacantes operam vti dormientes perdunt. 
+    </p>
+            <p xml:id="JMAet9-d42524-d1e693">
+               <lb ed="#P" n="37"/>⁋ Quarto dubitatur, quid est dei felicitas secundum Aristotelem. Respondetur, quod eadem est cum Christiani 
+      <lb ed="#P" n="38"/>philosophi definitione dicenda, Deus cognoscit se perfectissima cognitione scilicet intuitiua: &amp; 
+      cogni<lb ed="#P" n="39" break="no"/>tio dei a deo non distinguitur, duodecimo Metaphysicae: &amp; diligit se intuitiue cognitum &amp; laetitia 
+      con<lb ed="#P" n="40" break="no"/>sequitur per modnm dicendi in deo, cum eo re ipsa idemptificatur. Licet notitia creaturarum in deo est 
+      <lb ed="#P" n="41"/>beatitudo, tamen non pro quanto est creaturarum notitia. ltaque ridendi sunt dicentes Aristotelem dixisse 
+      <lb ed="#P" n="42"/>deum non cognouisse creaturas. Hominum enim mentes noscunt &amp; probos qui mentem excolunt, diligunt. 
+    </p>
+            <p xml:id="JMAet9-d42524-d1e709">
+               <lb ed="#P" n="43"/>⁋ Quinto dubitatur, an in philosophia aliquid probabilitatis sit dicere louem. Herculem aut venerem 
+      <lb ed="#P" n="44"/>deum deam ve. Respendetur negatiue. Philosophi enim ponebant intelligentias incorporeas caelorum 
+      <lb ed="#P" n="45"/>motrices inter quas est primus motor quem deum pietatis cultores nominant. Vulgus vero vitiis 
+      irreti<lb ed="#P" n="46" break="no"/>tos vt louem, Venerem, Martem deorum catalago apposuit. hoc autem est valde alienum apud graecos &amp; 
+      <lb ed="#P" n="47"/>eos qui lac Atheniensium biberunt.
+    </p>
+            <p xml:id="JMAet9-d42524-d1e723">
+               <pc type="pilcrow">¶</pc> Dubitatur sexto, quomodo virtus moralis a prudentia &amp; 
+      econ<lb ed="#P" n="48" break="no"/>tratio pendet. Respondetur, hoc est in alio genere dependentiae. Milites enim pro aliis belligerantes ab 
+      <lb ed="#P" n="49"/>his qui eis stipendia dant pendent Et tursus mercedem dantes sua prosperitate a forti propulsatore 
+      <lb ed="#P" n="50"/>in pace pendent. Item Ludimagister pendet a locuplete discipulo in alimento corporali: &amp; nummosus 
+      <lb ed="#P" n="51"/>scholasticus in vita spirituali a praeceptore pendet.
+    </p>
+            <p xml:id="JMAet9-d42524-d1e737">
+               <pc type="pilcrow">¶</pc> Dubitatur septimo, quomodo requiratur 
+      cor<lb ed="#P" n="52" break="no"/>poris sanitas ad felicitatem. Videtur enim illud esse rationi dissentaneum, in pluribus morbosis. 
+      <lb ed="#P" n="53"/>Respondetur, quod sermo est de morbo atroci &amp; illo qui mentis operationem praepedit. Experimur enim quod 
+      <lb ed="#P" n="54"/>corpore male disposito in speculatione &amp; aliis capimus fastidium. Patet in rheumatico qui cum bene 
+      cu<lb ed="#P" n="55" break="no"/>ratur altius contemplatur &amp; attentius diuina celebrat. Interdum ob animae bonum conducibile est hab re 
+      <lb ed="#P" n="56"/>corporis indispositionem quae mentis operationes haud laedit: &amp; si aliquod tale quod rarenter fit euenit: 
+      <lb ed="#P" n="57"/>nihil male est. Socrates &amp; martyres corpus sanum antequam essent interempti habuere: quocirca de eis non 
+      <lb ed="#P" n="58"/>est facienda obiectio. In graui morbo etiam homo intantum cruciatur vt mentis deuotionem perparum 
+      <lb ed="#P" n="59"/>admittat. iuxta illud Psalmographi. Qnum non est in morte qui memor sit tui. Interdum variis in locis 
+      <lb ed="#P" n="60"/>ob alias responsiones indem mouemus: &amp; quia semper pertinenter occurrit hanc dubitatiunculam aliubi 
+      <lb ed="#P" n="61"/>fecimus. Carptim dico quod nulli corporis angores nec tyrannorum fulmina, foelicitatem expellunt. Ea 
+      <lb ed="#P" n="62"/>enim in virtutum operationibus solidissime consistit, Phalaridis tormenta hominem a gyro rationis 
+      <lb ed="#P" n="63"/>(modo non sit mentis inops) extrudere nequeunt. In procella &amp; tonitruo tormentorum foelicitas non 
+      <lb ed="#P" n="64"/>obfuscatur. sed splendescit, sicut fuluum aurum fornax probat, sic angores corpori illati foelicem examinant. 
+      <!--354.xml-->
+      <pb ed="#P" n="167-r"/>
+               <lb ed="#P" n="1"/>examinatumque comprobant. In martyrum choro hoc &amp; in Socrate hoc ipsum est lucidum. De beatitudinem 
+      <lb ed="#P" n="2"/>contemplatiua in praesentia loquor. Ingenue tamen fatebor quod felicitas actiua in afflictionibus 
+      obfu<lb ed="#P" n="3" break="no"/>scata videtur, signanter apud vulgus. Superius in septimo libro Stoicorum paradoxum sumus secuti 
+      <lb ed="#P" n="4"/>&amp; obuiis vlnis hoc placitum semper amplectimur, scilicet quod felicitas sine culpa non amittitur. 
+    </p>
+            <p xml:id="JMAet9-d42524-d1e784">
+               <lb ed="#P" n="5"/>⁋ Quaeritur item, an vita contemplatiua vitae actiuae praestet. Pro huius quaestionis solutione ante 
+      con<lb ed="#P" n="6" break="no"/>clusionem aliquas notatiunculas pro nouitiis ponemus. Solum est hic sermo de vita humana separata 
+      <lb ed="#P" n="7"/>a brutali. Sane in foedis corporis voluptatibus non est vita sed mors. Nec in voluptate honesta 
+      mane<lb ed="#P" n="8" break="no"/>mus tamquam in fine: omnia enim quae ordinantur circa exteriora vt tranquille viuatur ad actiuam vitam 
+      at<lb ed="#P" n="9" break="no"/>tinent, vt opera iustitiae, liberalitatis, &amp; caetera id genus. Vita contemplatiua est in veritatis agnitione, 
+      po<lb ed="#P" n="10" break="no"/>tissimum nobilissimi obiecti, scilicet dei. Vacate &amp; videte, quoniam ego sum dominus, dicit 
+      Psalmogra<lb ed="#P" n="11" break="no"/>phus regius. Hoc Aristoteles in litera innuit. Et<ref xml:id="JMAet9-d42524-Rd1e801"> Gregorius. S Moralium</ref>. Etiam est in contemplatione 
+      crea<lb ed="#P" n="12" break="no"/>turarum pro quanto in eis relucet supremus ille artifex qui cuncta gubernat. Ad Romanos primo. 
+      Inui<lb ed="#P" n="13" break="no"/>sibilia dei per ea quae facta sunt intellecta conspiciuntur. Aposteriore ab effectuum notitia in causae 
+      intelli<lb ed="#P" n="14" break="no"/>gentiam deuenimus. Propterea dicit Psalmista. Mirabilia opera tua &amp; anima mea cognoscit nimis. Et 
+      <lb ed="#P" n="15"/>alibi. Iditatus sum in omnibus operibus tuis, &amp; in factis manuum tuarum meditabor. Expandi manus 
+      <lb ed="#P" n="16"/>meas au te.
+    </p>
+            <p xml:id="JMAet9-d42524-d1e816">
+               <pc type="pilcrow">¶</pc> Sedo, scito quod non est discrimen inter intellectum &amp; voluntatem, imo est eadem res numero, hoc 
+      <lb ed="#P" n="17"/>ex philosophia supponatur. Aristoteles per mentem &amp; intellectum, voluntatem etiam intelligit. In lumine 
+      <lb ed="#P" n="18"/>naturali diceret philosophus voluntatem debere deum diligere &amp; eum magnificare, qui cuncta 
+      mo<lb ed="#P" n="19" break="no"/>deratur, a quo esse &amp; viuere habemus, plus quam a parentibus, etiam secundum eum.
+    </p>
+            <p xml:id="JMAet9-d42524-d1e828">
+               <pc type="pilcrow">¶</pc> His suppositis 
+      affirma<lb ed="#P" n="20" break="no"/>tiue respondetur ad quaestionem, quod hanc Aristoteles eleganter in lumine naturali probat in litera. 
+      Fe<lb ed="#P" n="21" break="no"/>licitas tam speculatiua qui practica est in intellectu, haec in actiuo, illa in contemplatiuo: haec ab habitu 
+      <lb ed="#P" n="22"/>prudentia, illa vero ab habitu sapientia, proficiscitur. Sapientia &amp; habitus contemplatiuus, prudentiae est 
+      <lb ed="#P" n="23"/>intellectui actiuo praestant. Item ex parte obiecti intellectus contemplatiui potissimum obiectum est causa 
+      <lb ed="#P" n="24"/>prima: obiectum felicitatis politiae est humana politia. Addo philosophi viam esse consonam doctrinae 
+      <lb ed="#P" n="25"/>Christianae. Dicit enim veritas Lucae. io. Maria optimam partem elegit, per Mariam autem vita 
+      contempla<lb ed="#P" n="26" break="no"/>tiua intelligitur, vt Augustinus de verbis domini exponit. &amp; Gregorius. &amp;S. Moralium, &amp; super Ezechielem 
+      <lb ed="#P" n="27"/>&amp; omnes in theologia sapientes.
+    </p>
+            <p xml:id="JMAet9-d42524-d1e851">
+               <pc type="pilcrow">¶</pc> Contra hoc argumentor primo. Est in via mixta tam actiua quam 
+      con<lb ed="#P" n="28" break="no"/>templatiua, &amp; ea sicut totum parti, vtrique praestat. Secundo, opus vitae actiuae est maioris meriti, ergo illa d 
+      <lb ed="#P" n="29"/>vita est melior. Tertio, nemo debet relinquere meliorem vitam ob minus bonam. Dicit enim <ref xml:id="JMAet9-d42524-Rd1e860">Apostolus 
+        <lb ed="#P" n="30"/>primae ad Corinthios</ref>. . mulam ini charismata meliora: at quidnam a vitae contemplatiuae statu ad 
+      <lb ed="#P" n="31"/>vitam actiuam &amp; ad praelaturas euocantur, igitur. Quarto, dicit <ref xml:id="JMAet9-d42524-Rd1e868">Gregorius super Ezechielem</ref>, quod nullum 
+      <lb ed="#P" n="32"/>sacrificium est deo magis acceptum quam aelus animarum: at per animarum aelum quispiam se ad opera actiuae 
+      <lb ed="#P" n="33"/>vitae accingit. Quinto, dicit <ref xml:id="JMAet9-d42524-Rd1e875">Gregorius tertia homilia super Ezechielem</ref>, quod vita actiua prior est 
+      con<lb ed="#P" n="34" break="no"/>templatiua: sed quod est prius est melius, igitur. Sexto, homo plus assimilatur deo in actu felicitatis 
+      <lb ed="#P" n="35"/>politicae quam in actu felicitatis contemplatiuae. Patet, quia per talem, homo est causa multorum operum sicut 
+      <lb ed="#P" n="36"/>deus per intellectum est causa rerum. a. Metaphysicae. Septimo, felicitas politica in melioribus 
+      inue<lb ed="#P" n="37" break="no"/>nitur, scilicet in regentibus qui reipublicae praesunt, qui secundum philosophum praestantiores esse 
+      <lb ed="#P" n="38"/>debent. Octauo, felicitas politica laborat circa bonum commune quod est diuinissimum, primo 
+      Ethi<lb ed="#P" n="39" break="no"/>corum: non sic autem de felicitate contemplatiua, igitur. 
+    </p>
+            <p xml:id="JMAet9-d42524-d1e893">
+               <lb ed="#P" n="40"/>⁋ Ad primum respondetur, quod sermo est de parte vitae contemplatiuae, ad actiuam comparatae quae est 
+      <lb ed="#P" n="41"/>illa praestantior. Maria optimam partem elegit, dicit Saluator, hoc est de illo aggregato vitae actiuae 
+      <lb ed="#P" n="42"/>&amp; contemplatiuae, totum tamen est praestantius, cum vitam actiuam bonam vitae contemplatiue superaddit. 
+    </p>
+            <p xml:id="JMAet9-d42524-d1e902">
+               <lb ed="#P" n="43"/>⁋ Ad secundum dicitur, quod interdum ita est, sed crebrius est oppositum. Et ex parte contemplationis maius est 
+      <lb ed="#P" n="44"/>meritum in dei contemplatione &amp; mirabilium eius eum diligendo, colendo. magnificando, hoc est maius quam bene 
+      <lb ed="#P" n="45"/>operari circa proximum. Si enim detur vnus actus actiuae vitae praestantior hoc vel illo opere vitae 
+      conten<lb ed="#P" n="46" break="no"/>platiuae, nihil ad rem. Sic aliquod opus est temperantiae quod vnum opus fortitudinis transcendit sub quo est a toto 
+      <lb ed="#P" n="47"/>genere. Optimus actus vitae contemplatiuae optimo actui vitae actiuae praestat, sicut. . Topicorum dicit 
+      philo<lb ed="#P" n="48" break="no"/>sophus. Melius est philosophari quam ditari. At egenti est satius ditari quam philosophari: sic licet in casu actus 
+      <lb ed="#P" n="49"/>vitae actiuae sit actu vitae contemplatiuae melior, non tamen absolute. 
+    </p>
+            <p xml:id="JMAet9-d42524-d1e920">
+               <lb ed="#P" n="50"/>⁋ Ad tertium dicitur, quod suscipiens praelaturam non deserit dulcedinem vitae contemplatiuae. Praelatus nunc cum Martha 
+      <lb ed="#P" n="51"/>circa subditos est sollicitus, nunc vero cum Maria contemplatur. Et ita concionator peritus Christum imitando. 
+      <lb ed="#P" n="52"/>qui se ad partem aliis exemplum orandi relinquens retraxit. Gregorius in Pastorali ait sic. Rector in actione 
+      <lb ed="#P" n="53"/>praecipuus sit prae cunctis in contemplatione suspensus. Et <ref xml:id="JMAet9-d42524-Rd1e930">August. r. de Ciuitate dei.</ref> 
+               <quote xml:id="JMAet9-d42524-Qd1e934" source="http://scta.info/resource/adcd-l19-d1e3149" synch="292-320">Ocium sanctum quaerit 
+        <lb ed="#P" n="54"/>charitas, veritatis negocium iustum suscipit necessitas charitatis: quam sarcinam si nullus imponit percipiendae 
+        <lb ed="#P" n="55"/>atque intuendae vacandum est veritati. Si autem imponitur sustinenda est propter charitatis necessitatem</quote>. 
+      <lb ed="#P" n="56"/>Pro nunc non insisto an homo teneatur maius meritum ob melius meritum deserere, cum illa 
+      cir<lb ed="#P" n="57" break="no"/>cunstantia maioris meriti relinquendi faciat minus turgere. hoc aliubi disseruimus. 
+    </p>
+            <p xml:id="JMAet9-d42524-d1e946">
+               <lb ed="#P" n="58"/>⁋ Ad quartum dicitur, quod in primis est aelus proprie animae procurandae. Eccli. 5. Miserere anime tuae 
+      pla<lb ed="#P" n="59" break="no"/>cens deo. Modo in dei contemplatione &amp; eius dilectione, &amp; in hac tramquillitate vitae homo est maxime sui 
+      <lb ed="#P" n="60"/>sollicitus, cum autem non negligat aliorum aias sedo tamen in toto post suam. Charitas, vt phibent incipit ab habente. 
+    </p>
+            <p xml:id="JMAet9-d42524-d1e955">
+               <lb ed="#P" n="61"/>⁋ Ad quintum distinguo maiorem, vel prioritate perfectionis, &amp; sic negatur, vel prioritate generationis 
+      <lb ed="#P" n="62"/>&amp; sic conceditur. Vnde homo antequam conscendit ad hanc contemplationis celsitudinem debet prius in campo vitae 
+      <lb ed="#P" n="63"/>actione se exercere. Et dicit Gregorius. &amp;. Moralium, quod vita actiua in virtutum dispositionem est dispositio 
+      <lb ed="#P" n="64"/>ad veram contemplatiuam, quia tollit impedimenta vitae contemplatiuae per iracundi am inflationem illiberalitate um 
+      <!--355.xml-->
+      <pb ed="#P" n="167-v"/>
+               <lb ed="#P" n="1"/>&amp; caetera vitia impeditur quispiam plurimum a vita contemplatiua, insistere circa quisquilias has an 
+      rela<lb ed="#P" n="2" break="no"/>tio distinguatur a fundamento &amp; termino &amp; similia a vita contemplatiua est alienum: oportet primum 
+      dispo<lb ed="#P" n="3" break="no"/>nere vitam in virtutum operibus &amp; tum bonum principium habet ad ingressum scholae contemplatiuae. 
+    </p>
+            <p xml:id="JMAet9-d42524-d1e977">
+               <lb ed="#P" n="4"/>⁋ Ad sextum dicitur in actu contemplatiuo magis deo assimilamur quam in actu intellectus actiui: quia per 
+      <lb ed="#P" n="5"/>illum deum contemplamur, vt deus semper seipsum contemplatur in quo est sua beatitudo. 
+      Creatu<lb ed="#P" n="6" break="no"/>ras in se contemplatur quia sua essentia est sibi creaturarum notitia actualis. 
+    </p>
+            <p xml:id="JMAet9-d42524-d1e987">
+               <lb ed="#P" n="7"/>⁋ Ad septimum respondetur conformiter ad tertii solutionem, quod qui praesunt in vtraque vita sunt vel esse 
+      <lb ed="#P" n="8"/>debent perfecti, cum optimi sint: modo optimus est contemplatiuus, &amp; felicitas actiua ob 
+      contempla<lb ed="#P" n="9" break="no"/>tiuam &amp; eius finem ordinatur, vt superius philosophus probauit. 
+    </p>
+            <p xml:id="JMAet9-d42524-d1e996">
+               <lb ed="#P" n="10"/>⁋ Ad octauum respondetur, quod contemplatiua vita laborat circa obiectum communissimum in causando quod alia 
+      pro<lb ed="#P" n="11" break="no"/>ducit conseruatque continuo, &amp; communitas causatiua est praestantior communitate multitudinis creaturarum. 
+    </p>
+            <p xml:id="JMAet9-d42524-d1e1003">
+               <lb ed="#P" n="12"/>⁋ Dubitatur, quomodo manuducamur cognoscere in deo esse summam felicitatem. Respondetur hoc pacto 
+      <lb ed="#P" n="13"/>censemus luminibus orbatos miseros &amp; in luctu positos, cui astipulatur Thobias, qui angelo salutanti 
+      <lb ed="#P" n="14"/>respondit. Quale gaudium mihi erit cum lumen caeli non videam. Visus est omnium exteriorum sensuum longe 
+      gratis<lb ed="#P" n="15" break="no"/>simus, primo Metaphysicae: quo sensu mundi theatrum intuemur. Thobias gaudio exiliebat, cum ab 
+      ange<lb ed="#P" n="16" break="no"/>lo visum recepit &amp; sibi gratulabatur ac si ab inferis rediuisset. Quod oculis corporeis est tam iocundum, hoc 
+      <lb ed="#P" n="17"/>daeus iustitiae sol &amp; solis factor est mentis iubar immarcessibile, proinde optabilissimum fuerit videre deum.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

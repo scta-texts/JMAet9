@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 6</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 6</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-de6284"><!-- mair-l2c6 -->
+            <head xml:id="JMAet9-de6284-Hd1e103">Caput 6</head>
+            <p xml:id="JMAet9-de6284-d1e106">
+               <lb ed="#P" n="22"/>
+               <quote xml:id="JMAet9-de6284-Qd1e110" type="lemma">OPortet autem</quote>. In hoc capite philosophus vestigat virtutis moralis differentiam, &amp; integram eius 
+      diffi<lb ed="#P" n="23" break="no"/>nitionem concludit. Et caput hoc quatuor partes principales continet. In prima docet quod 
+      vir<lb ed="#P" n="24" break="no"/>tus hominis perficit hominem &amp; eius opus bonum reddit. In secunda quaedam praeambula ad propositum 
+      <lb ed="#P" n="25"/>ostendendum praemittit. In tertia omnem virtutem in medio consistere monstrat: &amp; moralis virtutis diffinitionem 
+      <lb ed="#P" n="26"/>concludit, explicans quorum extremorum medietas sit virtus. In quarta docet quod non in omnibus affectibus &amp; 
+      <lb ed="#P" n="27"/>operationibus est medietas quae est virtus. Secunda pars ibi. Habet exordium. Et nunc etiam. Tertia pars illic, 
+      <lb ed="#P" n="28"/>Qu si omnem scientiam. Quarta pars ibi. Non autem omnis actus.
+    </p>
+            <p xml:id="JMAet9-de6284-d1e127">
+               <pc type="pilcrow">¶</pc> In prima igitur parte docens virtutem 
+      ho<lb ed="#P" n="29" break="no"/>minis hominem perficere, dicit. Oportet non solum ita diffinire virtutem habitum esse vti nuperrime iam 
+      si<lb ed="#P" n="30" break="no"/>gnificauimus: puta vitium etiam est habitus: sed monstrare qualis sit habitus operaeprecium est. Vtraque 
+      homi<lb ed="#P" n="31" break="no"/>nis virtus est habitus qui hominem probum efficit, &amp; eius opus bonum reddit. Sane omnis virtus perficit. 
+      <lb ed="#P" n="32"/>illud cuius est virtus, hoc est habentem &amp; eius opus bonum reddit, quamobrem virtus hominis hominem perficit 
+      <lb ed="#P" n="33"/>&amp; opus eius bonum reddit. Antecedens probatur inductiue. Oculi enim virtus oculum perficit &amp; facit oculum 
+      <lb ed="#P" n="34"/>bene sese habere videndo. ldentidem virtus aequi facit aequum bene se habere vt opus suum bene efficiat vt 
+      <lb ed="#P" n="35"/>impigre currat &amp; equitem bene vehat, &amp; vt idoneus sit qui perinde ad expectandum impauide ipsum hostem quando 
+      <lb ed="#P" n="36"/>equestri bello decertatur: &amp; ita vbique comperitur. Non immerito igitur virtus hominis is erit habitus per 
+      <lb ed="#P" n="37"/>quem homo efficitur probus, &amp; quo bene suum opus ipse reddet. quomodo autem id erit dictum est superius scilicet in  
+      <lb ed="#P" n="38"/>praecedente capite, &amp; in secundo capite. Sequitur secunda pars principalis. Num etiam &amp;c. In quo philosophus 
+      <lb ed="#P" n="39"/>inuestigat secundam diffinitionem virtutis dicens, Omnis virtus consistit in medio, siue est coniectatrix 
+      me<lb ed="#P" n="40" break="no"/>dii. Pro cuius foecundiore probatione quinque praeambula praemittit. Primo quod in omni continuo &amp; partibili 
+      <lb ed="#P" n="41"/>plus, minus, &amp; aequale reperitur. Maioris autem diluciditatis gratia ponitur partibile: quoniam omne continuum 
+      <lb ed="#P" n="42"/>est diuisibile. Secundum praeambulum, quod aequale bifariam dicitur. Vno modo respectu rei: alio modo respectu 
+      <lb ed="#P" n="43"/>nostri. Equale est medium inter exuperationem &amp; defectum. Aquale rei est medium quod ab vtroque exti emo 
+      <lb ed="#P" n="44"/>aequaliter distat, &amp; apud omnes vnum, &amp; idem est: &amp; per consequens habet determinata extrema, vt datis extremis 
+      <lb ed="#P" n="45"/>decem tamquam extremo maiore: &amp; duobus tamquam extremo minore, sex est aequale medium rei: nam ab extremis 
+      <lb ed="#P" n="46"/>aequaliter distat: quia sex aequaliter exuperantur a decem, atque excedunt duo: quia vtroque fit excessus 
+      quater<lb ed="#P" n="47" break="no"/>natio. Hoc medium arithmeticum fertur: quod superat minus, &amp; a maiori aequaliter superatur. Hoc est aequalis 
+      <lb ed="#P" n="48"/>est distantia quantitatiua ab vtroque extremorum vt in nostro paradigmate iam dato, senarii a decem &amp; 
+      duo<lb ed="#P" n="49" break="no"/>bus aequaliter distantis. Medium quantum ad nos potius accipitur secudm proportionem gemeotricam, hoc est secundm eandem 
+      <lb ed="#P" n="50"/>proportionem ad subiectum sic: sex est medium inter nouem &amp; quatuor: quia quae est proportio sex ad quatuor 
+      <lb ed="#P" n="51"/>ea est nouem ad sex, quia vtrobique est proportio sesquialtera. Sed in exemplo philosophi intelligitur proportio 
+      <lb ed="#P" n="52"/>geometrica: quia sex ad duo est proportio multiplex quia tripla: decem ad sex proportio superpartiens. Quae est 
+      <lb ed="#P" n="53"/>proportio digestiuae virtutis vnius ad digestiuam alterius, eadem proportio in cibo seruetur. Accedendo ad 
+      li<lb ed="#P" n="54" break="no"/>teram: si alicui decem minae sint medium, vt Miloni: tunc alteri cuius proportio ad Milonem est, sicut proportio 
+      <lb ed="#P" n="55"/>sex ad decem. erunt sex medium inter superfluum &amp; diminutum. Istud medium quantum ad nos non est idem apud omnes. 
+      <lb ed="#P" n="56"/>Etenim si comedere decem minas, hoc est decem libras est superfluum alicui, &amp; manducare duas minas sit nimis 
+      <lb ed="#P" n="57"/>parum, non tamen propterea est consequens quod comedere sex sit simpliciter medium &amp; bonum simpliciter. Sex enim 
+      <lb ed="#P" n="58"/>minas ludimagister percipiet, est enim id fortasse ei qui accepturus est multum: forte Miloni Crotoniati 
+      <lb ed="#P" n="59"/>pugili robustissimo parum, quoniam Milo si vera perhibent historici, manus ictu taurum prostrauit: quem hu¬ 
+      <!--65.xml-->
+      <pb ed="#P" n="25-v"/>
+               <lb ed="#P" n="1"/>meris impositum per stadium retento spiritu portauit, &amp; eum vno die comedebat. Et illud rudi tyroni 
+      inci<lb ed="#P" n="2" break="no"/>pienti sese exercere nimium est. Similiter res se habet in cursu &amp; in palaestra. Palaestra est luctatio qua 
+      lucta<lb ed="#P" n="3" break="no"/>tores currendo &amp; luctando certare &amp; se exercere solent. &amp; denique in omni arte: omnis enim artifex exuperationem 
+      <lb ed="#P" n="4"/>&amp; defectum fugit, &amp; medium quaerit. Non medium rei sed rationis.
+    </p>
+            <p xml:id="JMAet9-de6284-d1e213">
+               <pc type="pilcrow">¶</pc> Dubitatur, an affectus sit diuisibilis. 
+      Vo<lb ed="#P" n="5" break="no"/>luptas enim in momento temporis elicitur. x. Ethicorum. Et dicit hic omne quantum partibile: idemque videtur velle 
+      <lb ed="#P" n="6"/>de affectu. Respondetur, quod affectus corporeus est partibilis subiectiue, sicut eius subiectum, vt albedo quae est 
+      <lb ed="#P" n="7"/>eius quantitas secundum communiorem viam. Voluptas mentis est partibilis intensiue.
+    </p>
+            <p xml:id="JMAet9-de6284-d1e225">
+               <pc type="pilcrow">¶</pc> Sequitur tertia pars 
+      prin<lb ed="#P" n="8" break="no"/>cipalis huius capitis, quod virtus moralis est coniectatrix medii. Haec probatur per locum a minore sic. Omnis 
+      <lb ed="#P" n="9"/>scientia operatiua siue omnis ars cum bene perficit opus suum, attingit medium: at virtus moralis est certior 
+      <lb ed="#P" n="10"/>&amp; praestantior arte: sicut natura est arte praestantior. Maior declaratur e signo. Artifices enim &amp; vniuersaliter 
+      <lb ed="#P" n="11"/>omnes operibus bene se habentibus dicere consueuerunt quod nihil est operi addendum aut subtrahendum: per hoc 
+      <lb ed="#P" n="12"/>fignificantes excessum &amp; defectum operis bonitatem corrumpere, &amp; mediocritatem inter excessum &amp; defectum 
+      <lb ed="#P" n="13"/>artificii bonitatem seruare. De morali virtute quae dicta sunt intelliguntur: quae circa affectus operationesque 
+      <lb ed="#P" n="14"/>insudat: in quibus exuperatio, defectus &amp; medium reperiuntur, vt cum quis metuit, confidit, concupiscit, 
+      co<lb ed="#P" n="15" break="no"/>temnit, irascitur, miserescit: &amp; cum quis delectatur aut dolet. Potest enim vnumquodque istorum &amp; amplius &amp; 
+      <lb ed="#P" n="16"/>minus fieri quam oportet: &amp; vtroque istorum modorum perperam fiunt. Similiter &amp; vnumquodque istorum potest 
+      fie<lb ed="#P" n="17" break="no"/>ri quando oportet, &amp; vt oportet: cum caeteris circumstantiis: &amp; hoc est assequi medium: quod est in virtute 
+      praesta<lb ed="#P" n="18" break="no"/>bilissimum. Et sicut circa affectum declaratum est, ita circa actus exuperatio, defectus, &amp; medium inueniuntur. 
+      <lb ed="#P" n="19"/>Siquidem virtus circa affectus &amp; actus inuigilat. in quibus exuperatio vitiosa est &amp; defectus similiter 
+      <lb ed="#P" n="20"/>vituperatur: medium vero probatur &amp; rectum fit. Sed haec duo probari &amp; recte perfici virtutis sunt: non ergo 
+      <lb ed="#P" n="21"/>mirum si virtus mediocritas quaedam ponatur cum ipsius medii sit coniectatrix.
+    </p>
+            <p xml:id="JMAet9-de6284-d1e262">
+               <pc type="pilcrow">¶</pc> Sequitur. Quapropter 
+      vir<lb ed="#P" n="22" break="no"/>tutem assequi est difficile: facillimum autem in vitia incidere. Multifariam enim deuiare cotingit, solum autem vno 
+      <lb ed="#P" n="23"/>modo bene agere. Cum enim malum vt Pythagorici tradunt, infinitum. Malum siquidem in eodem ordine cum 
+      <lb ed="#P" n="24"/>infinito, &amp; bonum cum finito ponunt. Facile igitur in vitium prolabimur, &amp; in vitia ruimus: in bonum vero 
+      <lb ed="#P" n="25"/>difficile peruenimus. Dat analogiam de sagittario. Facile enim ei est signum non attingere sed ipsum 
+      <lb ed="#P" n="26"/>attingere, perdifficile. Et hoc est quod Maro sexto neidos dicit. 
+      <lb ed="#P" n="27"/>Facilis descensus auerni. 
+      <lb ed="#P" n="28"/>Noctes atque dies patet atri ianua ditis. 
+      <lb ed="#P" n="29"/>Sed reuocare gradum superasque euadere ad auras: 
+      <lb ed="#P" n="30"/>Hoc opus, hic labor est &amp;c. 
+      <lb ed="#P" n="31"/>Et Saluator, Lata est, inquit, via, quae ducit ad perditionem: &amp; arcta est via quae ducit ad vitam: &amp; pauci 
+      in<lb ed="#P" n="32" break="no"/>grediuntur per eam. Et patet similitudine corporis cuius turpitudo multifariam euenit: sane ex iniquo 
+      colo<lb ed="#P" n="33" break="no"/>re aut membri vnius indispositione, caeteris omnibus bene dispositis. Pulchritudo autem plurimam 
+      har<lb ed="#P" n="34" break="no"/>moniam efflagitat, scilicet decentem colorem &amp; membrorum omnium bonam dispositionem. Sic &amp; sanitas omnium 
+      hu<lb ed="#P" n="35" break="no"/>morum bonam proportionem exigit, vna enim ruente mox in morbi latitudinem inciditur: sic ad actus 
+      bonita<lb ed="#P" n="36" break="no"/>tem congruitas obiecti cum omnibus circumstantiis requisitis exigitur: obiecto enim existente in debito aut vna 
+      <lb ed="#P" n="37"/>circumstantia debita deficiente, actus est malus: imo si obiectum cum circumstantiis debitis omnibus ponatur &amp; 
+      in<lb ed="#P" n="38" break="no"/>uoluatur vna circumstantia mala cadens in rationem obiecti, totus actus malus efficitur. Bonum enim est ex 
+      inte<lb ed="#P" n="39" break="no"/>gra causa, vt dicit beatus Dionysius. Etiam medium est vnum, &amp; extrema sunt duo. ltaque vno modo aliquis 
+      <lb ed="#P" n="40"/>est bonus, multisque modis nefandus, quia multifariam in quolibet extremo vitioso prolabi in vitium 
+      <lb ed="#P" n="41"/>contingit. Postea virtutis diffinitionem infert, dicens, Virtus est habitus electiuus in mediocritate consistens 
+      <lb ed="#P" n="42"/>ea ratione qua est ad nos diffinita, hoc est in medio rationis quantum ad nos, &amp; non in medio secundum rem, &amp; 
+      <lb ed="#P" n="43"/>vt diffiniret ipse prudens &amp; moralis. Virtus est mediocritas duorum vitiorum, vnius per excessum, &amp; alterius 
+      <lb ed="#P" n="44"/>per defectum. Et etiam quia alia excedunt, alia deficiunt magis quam oportet, tam in affectibus quam in actibus: virtus 
+      <lb ed="#P" n="45"/>autem medium inuenit per prudentiam. &amp; eligit per voluntatem. Sed quia quispiam diceret, quod virtus est bona &amp; 
+      <lb ed="#P" n="46"/>actum bene circumstantionatum elicit, sed bonum malo contrarium est. ltaque virtus est extremum non autem medium. 
+      <lb ed="#P" n="47"/>Hoc soluens dicit virtutem esse &amp; medium &amp; extremum, aliter tamen &amp; aliter. Nam secundum substantiam &amp; rationem 
+      dif<lb ed="#P" n="48" break="no"/>finitiuam dicentem quid est, medietas est: sic tenet medium, substantia est diffinitio, patet in antepraedicamentis. 
+      <lb ed="#P" n="49"/>EEquiuoce dicuntur quorum nomem est commune &amp; ratio substantiae est diuersa. Cape ergo literam. Quapropter 
+      <lb ed="#P" n="50"/>virtus substantia quidem &amp; ratione dicente, hoc est diffinitione, ratio exponit substantiam mediocritas est, 
+      <lb ed="#P" n="51"/>quia diffinitur, est habitus electiuus in mediocritate consistens inter superabundantiam &amp; defectum, tamen aliter 
+      <lb ed="#P" n="52"/>consideratur, tamque optimum aut bonum &amp; respectu actus bene sese habentis sic opponitur vitio tamquam extremum. 
+      Di<lb ed="#P" n="53" break="no"/>eit litera ac optimi respectu &amp; bene sese habentis extremitas. Sub clarioribus verbis dicamus sic. 
+      Vir<lb ed="#P" n="54" break="no"/>tus bifariam consideratur, vno modo inquantum bonum quod malo aduersatur, quo respectu est extremum. Sunt enim 
+      <lb ed="#P" n="55"/>duo extrema opposita bonum &amp; malum: in altero est virtus in altero autem vitium. In geminos ramos 
+      distra<lb ed="#P" n="56" break="no"/>hitur scilicet excessum atque defectum. Alio respectu consideratur virtus secundum essentiam suam siue diffinitionem siue 
+      <lb ed="#P" n="57"/>rationem formalem, qua consideratione est mediocritas inter duo extrema interstes. Nihil sane 
+      absur<lb ed="#P" n="58" break="no"/>ditatis est dicere, idem vno respectu extremum, &amp; alio medium.
+    </p>
+            <p xml:id="JMAet9-de6284-d1e348">
+               <pc type="pilcrow">¶</pc> Sequitur quarta pars capitis principalis. 
+      <lb ed="#P" n="59"/>Non autem omnis actus. Hic vnum dubium remouet. potest enim dubitari, an cuiustibet operationis vt 
+      pertur<lb ed="#P" n="60" break="no"/>bationis esset medium, dicit quod non, dictum suum limitans: trifariam istud probat. Primo aliquorum nonest 
+      me<lb ed="#P" n="61" break="no"/>dium, sunt enim affectus nonnulli qui continue nomine suo sunt cum prauitate connexi. Exemplificat, vt inuidem 
+      <lb ed="#P" n="62"/>tia maliuolentia imprudentia. Et actus similiter, vt adulterium, furtum, homicidium. haec enim vniuersa ita 
+      <lb ed="#P" n="63"/>dicuntur praua non ob idipsum quod ipsorum sunt excessus aut defectiones, nec circa similia tempus vllum vnquam 
+      <lb ed="#P" n="64"/>est recte agendi sed simpliciter in quolibet istorum delinquitur. Non enim in furto licet furari quantum 
+      <!--66.xml-->
+      <pb ed="#P" n="26-r"/>
+               <lb ed="#P" n="1"/>oportet &amp; quando oportet. certe omne furtum est prauum.
+    </p>
+            <p xml:id="JMAet9-de6284-d1e373">
+               <pc type="pilcrow">¶</pc> Sequitur in litera. Simile est. Probat istud 
+      <lb ed="#P" n="2"/>conuenienti similitudine habitus vitiosos assignans in quibus non inuenitur medium. Simile est circa 
+      <lb ed="#P" n="3"/>iniustitiam, timiditatem &amp; luxuriam, mediocritatem, &amp; exuperationem &amp; defectionem esse censere. Secunda 
+      <lb ed="#P" n="4"/>ratio est, ducens ad impossibile ac si sic argumentaretur, quia operationes &amp; affectus praefati secundum se 
+      <lb ed="#P" n="5"/>important malitiam sicut &amp; vitia. extrema quorum medietas est virtus, ideo qui in huiuscemodi 
+      ope<lb ed="#P" n="6" break="no"/>ribus &amp; affectibus medium inuestigat persimilis est illi, qui in extremis vitiosis quaerit medium, &amp; 
+      cir<lb ed="#P" n="7" break="no"/>ca quod est iniusta facere, timere &amp; incontinentem esse &amp; luxui deditum esse, sed inconvenit quaerere 
+      medio<lb ed="#P" n="8" break="no"/>critatem circa extrema, vt circa defectionem &amp; exuperationem: quia sic excessus haberet defectum 
+      <lb ed="#P" n="9"/>&amp; medium, &amp; defectio medium &amp; exuperationem, quod est impossibile: ergo impossibile est vt in actibus 
+      <lb ed="#P" n="10"/>&amp; affectibus qui secundum se important malitiam, sit medium laudabile. Tertio probat per simile in 
+      virtuti<lb ed="#P" n="11" break="no"/>bus sic. Sicut virtutes quae sunt secundum se bonae se habent ad extrema, sic se habent vitia quae sunt 
+      se<lb ed="#P" n="12" break="no"/>cundum se mala ad medium: sed palam est quod virtutis in sua latitudine non est excessus &amp; defectus: Temperantiae 
+      <lb ed="#P" n="13"/>enim &amp; fortitudinis non est exuperatio &amp; defectio: quia cum secundum se importent medium, si earum essent 
+      <lb ed="#P" n="14"/>extrema, sequeretur quod extrema essent in medio, &amp; medium in extremis: quod est impossibile. Litera est, 
+      <lb ed="#P" n="15"/>sed vt temperantiae fortitudinisve non est exuperatio atque defectio: quia medium ipsum esset modo  
+      <lb ed="#P" n="16"/>quodam extremum, quomodo virtus est in medio &amp; quomodolin extremo nuperrime in hoc capite 
+      enu<lb ed="#P" n="17" break="no"/>cleauimus: non quin virtus extrema sortiatur, sed illa latitudinem medii haud contingunt, sed eius fimi 
+      <lb ed="#P" n="18"/>brias praetergrediuntur: sic nec illorum quae nominauimus est mediocritas exuperatio aut defectio: sed  
+      <lb ed="#P" n="19"/>quomodocumque agantur semper peccatur omnino, nec excessus &amp; defectus est mediocritas: nec medii est 
+      <lb ed="#P" n="20"/>experatio, sunt enim latitudines omnino diuisae sese minime ambientes 
+    </p>
+            <p xml:id="JMAet9-de6284-d1e420">
+               <lb ed="#P" n="21"/>⁋ Dvbitatur primo, quomodo intelligitur illud, virtus est omni arte exactior &amp; praestantior 
+      quemad<lb ed="#P" n="22" break="no"/>modum &amp; natura. Secundo, an virtutis diffinitio sit bona. Tertio, de virtutis mediatione: extrema 
+      <lb ed="#P" n="23"/>enim sunt infinita, vt authoritate Pythagore philosophus probat, &amp; patet ratione: nam quocunque 
+      <lb ed="#P" n="24"/>intemperante dato, datur intemperantior, &amp; quocumque meticuloso oblato timidior dari potest, &amp; sic in 
+      <lb ed="#P" n="25"/>insensibilitate &amp; in audacia: sed inter infinita non est dare medium. Quarto dubitatur, an omnis 
+      <lb ed="#P" n="26"/>virtus sit in duarum malitiarum medio. Quinto, an latitudo virtutis sit diuisibilis. 
+    </p>
+            <p xml:id="JMAet9-de6284-d1e436">
+               <lb ed="#P" n="27"/>⁋ Ad primam dubitationem dicitur, quod virtus est praestantior arte: nempe per eam homines sunt boni 
+      <lb ed="#P" n="28"/>non autem per artem: sed boni secundum quid, vt boni geometrae, periti artistae, boni oratores. Auro quoqu 
+      <lb ed="#P" n="29"/>virtus praestat secundum illud Horatianum. Vilius argentum est auro, virtutibus aurum. Est etiam virtus arte 
+      <lb ed="#P" n="30"/>exactior: naturaliter enim ad suum actum elicitum impellit. Artem autem habens potest ea abuti &amp; secundum artem 
+      <lb ed="#P" n="31"/>minime operari.
+    </p>
+            <p xml:id="JMAet9-de6284-d1e449">
+               <pc type="pilcrow">¶</pc> Ad secundam dubitationem respondetur, quod non quaerimus hic diffinitionem quae datur 
+      <lb ed="#P" n="32"/>per essentialia. Primo enim Topicorum solius substantiae est diffinitio quidditatiua, hoc est termini de 
+      <lb ed="#P" n="33"/>praedicamento substantiae rem compositam significantes: sed loquendo de descriptione quam habere potest, 
+      <lb ed="#P" n="34"/>est bona. Ponitur enim genus virtutis habitus: &amp; ponitur suus actus implicite, per hoc quod dicitur 
+      ele<lb ed="#P" n="35" break="no"/>ctiuus, reliquae particulae discriminis gratia ponuntur: in medietate consistens per hoc ab extremis 
+      se<lb ed="#P" n="36" break="no"/>iungitur. Prout determinat ipse prudens, antiqua translatio habet sapiens improprie. Quonam pacto 
+      <lb ed="#P" n="37"/>autem prudens &amp; sapiens distinguantur, in sextum librum deus cepta secundet latius aperiemus. Quia 
+      <lb ed="#P" n="38"/>vero innumerae circumstantiae sunt pro tempore &amp; loco circa materiam virtutis variandae, propterea 
+      <lb ed="#P" n="39"/>vna regula virtutis dari nequit: proinde continue philosophus adiunxit, prout determinat ipse prudens. 
+    </p>
+            <p xml:id="JMAet9-de6284-d1e473">
+               <lb ed="#P" n="40"/>⁋ Ad tertiam dubitationem, licet non detur limes possibilis in vitiis: tamen non inconuenit dare 
+      me<lb ed="#P" n="41" break="no"/>dium inter vitia: &amp; si extrema essent infinita ascendendo &amp; descendendo non inconveniret inter illa esse 
+      <lb ed="#P" n="42"/>medium. Patet, sint duae lineae infinitae: a occidentem versus, b ad orientem solem terminatae ad 
+      pe<lb ed="#P" n="43" break="no"/>dem meum: inter illas potest poni medium. Vnus paulo pius quam oportet bibit alius amplius: &amp; sic cape 
+      <lb ed="#P" n="44"/>asotos ascendendo in mensa ingurgitatos ad vomitum, calices coronantes. Assuetudine gastrimargi 
+      <lb ed="#P" n="45"/>venter distenditur &amp; appetit alimenta vorare ad nauseam vsque. Aristoxenus enim Cyreneus omnium 
+      <lb ed="#P" n="46"/>nepotum altissimus gurges, lactucas vesperi mulso irrigauit, quo luxuriosius crescerent &amp; delicatioris 
+      <lb ed="#P" n="47"/>saporis essent. Et si illic in excessu non ponatur limes, in medio tamen homo manducat bibitque prout 
+      <lb ed="#P" n="48"/>ratio postulat, quocirca nulla est ambages quin inter haec extrema infinita, hoc est indeterminata 
+      me<lb ed="#P" n="49" break="no"/>dium detur.
+    </p>
+            <p xml:id="JMAet9-de6284-d1e497">
+               <pc type="pilcrow">¶</pc> Ad quartam dubitationem affirmatiue respondetur. Omnis enim virtus naturaliter acqui 
+      <lb ed="#P" n="50"/>sita est in duorum vitiorum meditullio: &amp; sic de theologicis dici potest. In deficiendo enim potest esse 
+      <lb ed="#P" n="51"/>defectus, &amp; sic in excessiuo actu: qui homini in casu officit, quando est quiescendum orare &amp; circa diuina 
+      <lb ed="#P" n="52"/>meditari. Sic &amp; sperare potest esse contra conscientiam rectam vel erroneam.
+    </p>
+            <p xml:id="JMAet9-de6284-d1e509">
+               <pc type="pilcrow">¶</pc> Ad quintam dubitationem 
+      <lb ed="#P" n="53"/>respondetur, quod latitudo medii est diuisibilis. Porro si esset impertibilis a viatore non cognosceretur, 
+      <lb ed="#P" n="54"/>vel saltem aegerrime deprehenderetur. Praeterea possum a pane comedere qui mihi sufficit, sed paulo 
+      <lb ed="#P" n="55"/>maior mihi non nocet: sic in potu, carne, piscibus, &amp; caeteris id genus. Et quicquid alii de iustitia 
+      loquan<lb ed="#P" n="56" break="no"/>tur id idem censeo: nam in plerisque eius speciebus non est adaequatus valor precii ad mercem. Est enim 
+      <lb ed="#P" n="57"/>precium rigorosum gratumque, &amp; inter illa mediocre: sic quod stando in latitudine medii venditor vnam 
+      <lb ed="#P" n="58"/>vlnam holoserici, &amp;, scuta vni vendit, &amp; illud est supremum precium atque rigorosum, latitudinem tamen 
+      <lb ed="#P" n="59"/>medii tenet. Secundo per gratum precium alteri cuipam tribus scutatis cum duabus tertiis vnius scutati 
+      <lb ed="#P" n="60"/>commutat. Tertio mediocre precium assignat. Potest etiam iudex pro mutilatione vel alio crimine 
+      <lb ed="#P" n="61"/>hanc pecuniae summam aut illam paulo minorem imponere. Pro mutui restitutione in aliquibus quorum 
+      <lb ed="#P" n="62"/>valor est adaequate notus opus est tenere medium ei, quod cum medio rationis coincidit.
+    </p>
+            <p xml:id="JMAet9-de6284-d1e536">
+               <pc type="pilcrow">¶</pc> Sexto 
+      <lb ed="#P" n="63"/>dubitatur circa ista quae inuolutam malitiam habent, videtur enim quod quis possit dormire cum vxore 
+      <lb ed="#P" n="64"/>tyranni, vt ipse intereat &amp; ciuitas aut patria liberetur. Iccirco tunc adulterium est licitum. Insuper 
+      <lb ed="#P" n="65"/>ex ignorantia nonnunquam inter veros coniuges diuortium celebratur, sit talis Socrates qui cognoscit 
+      <!--67.xml-->
+      <pb ed="#P" n="26-v"/>
+               <lb ed="#P" n="1"/>postea aliam cum qua in facie ecclesiae contrahit: &amp; hoc facto argumentor sic. Socrates cum hanc 
+      adul<lb ed="#P" n="2" break="no"/>terium committit: patet quia non est vxor eius cum coram deo non sit separatus a priore: quos enim 
+      <lb ed="#P" n="3"/>deus coniunxit homo non separet. Matthaei. xix. Ergo Socrates cum secunda adulterium committit: 
+      <lb ed="#P" n="4"/>&amp; est copula carnalis inter vxoratum &amp; Bertam aliamve solutam vel matrimonii vinculo adnexam 
+      <lb ed="#P" n="5"/>non refert. Tertio medicus infirmo mentitur dicens eum sanandum proximo quem arbitratur 
+      mo<lb ed="#P" n="6" break="no"/>riturum, hoc est pro alterius vita seruanda. Quarto iudex hominem iuste occidit, ergo homicidium 
+      <lb ed="#P" n="7"/>est in casu licitum, ergo potest bene fieri. Quinto, si deus praeciperet Platoni dormire cum vxore 
+      Ci<lb ed="#P" n="8" break="no"/>ceronis, ille actus est licitus, &amp; est adulterium. igitur.
+    </p>
+            <p xml:id="JMAet9-de6284-d1e570">
+               <pc type="pilcrow">¶</pc> Ad primam rationem dicitur, quod perperam is 
+      <lb ed="#P" n="9"/>agit qui cum tyranni coniuge ob expetibilem finem adulterino coitu commiscetur. Non enim 
+      fa<lb ed="#P" n="10" break="no"/>cienda sunt mala vt inde eueniant bona. Ad Romanos. 5. Ad secundum argumentum dicitur, quod 
+      <lb ed="#P" n="11"/>si casus datus ex ignoratione inuincibili proueniat, illa carnalis copula est coniugalis castitatis actus. 
+      <lb ed="#P" n="12"/>Ad castitatem enim coniugalem sat est matrimonium inuincibiliter putatum. At si vni ignorantia 
+      <lb ed="#P" n="13"/>vincibilis extiterit is a toto excusaudus non venit, alter tamen ob probabilem ignorantiam est 
+      pec<lb ed="#P" n="14" break="no"/>cati immunis, vnde fit quod in eadem commixtione alter aut altera castitatis coniugalis actum, alter vel 
+      <lb ed="#P" n="15"/>altera vero moechiam committit. Ad tertiam dicitur, quod sinistre agit medicus mentiendo. Bene 
+      <lb ed="#P" n="16"/>autem agit si laborantem veritate ad sanitatis spem erigat, eum hortando vt in domino confidat: 
+      <lb ed="#P" n="17"/>&amp; quod plerique in deteriori statu existentes quam ipse laborans, dei adiutorio &amp; medicorum solertia bene se 
+      <lb ed="#P" n="18"/>habuerunt, esto quod eum arbitratur animam efflaturum. hoc enim modo verum dicit. Plerique enim 
+      lan<lb ed="#P" n="19" break="no"/>guentes supernaturaliter aut medicorum solertia incolumes euaserunt. Ad quartam respondetur, 
+      <lb ed="#P" n="20"/>quod sermo est de nece, authoritate propria. homicidium enim in communi potest &amp; bene &amp; male fieri. 
+      <lb ed="#P" n="21"/>Ad quintam respondetur, si deus praeciperet Platoni dormire cum hac muliere quae est Ciceronis 
+      <lb ed="#P" n="22"/>ille actus non esset adulterium, sed ad castitatem coniugalem spectaret.
+    </p>
+            <p xml:id="JMAet9-de6284-d1e606">
+               <pc type="pilcrow">¶</pc> Dubitatur septimo, an 
+      vir<lb ed="#P" n="23" break="no"/>tus potest augeri &amp; minui. Respondetur affirmatiue. Aliquis enim est temperans, &amp; alius 
+      temperan<lb ed="#P" n="24" break="no"/>tior, non solum extensiue secundum plures actus specie distinctos extensiue, sed etiam intensiue: vnus 
+      <lb ed="#P" n="25"/>est fortis vt vnum, alius vt duo, tertius vt tria. Item vnus est peior alio, proinde est vnus alio etiam 
+      <lb ed="#P" n="26"/>melior. Praeterea vnus est alio sanior in corpore, &amp; illo debilior: ergo pari iure sanior &amp; debilior in  
+      <lb ed="#P" n="27"/>mente.
+    </p>
+            <p xml:id="JMAet9-de6284-d1e624">
+               <pc type="pilcrow">¶</pc> Contra hoc arguitur. Virtus determinatur secundum excellentiam termini. primo caeli, sed talis 
+      <lb ed="#P" n="28"/>excellentia in indiuisibili consistit. igitur. Dicitur quod excellentia virtutis cognoscitur secundum 
+      extre<lb ed="#P" n="29" break="no"/>mum potentiae, hoc est secundum maximum in quod potest: siquidem Milonis vires per arietis portationem 
+      <lb ed="#P" n="30"/>non cognoscerem, sed per immanis tauri portationem, quem cum magna difficultate portat.
+    </p>
+            <p xml:id="JMAet9-de6284-d1e636">
+               <pc type="pilcrow">¶</pc> Octauo 
+      <lb ed="#P" n="31"/>dubitatur, an virtutes distinguantur per obiecta, an per affectus &amp; perturbationes. Respondetur quod 
+      vir<lb ed="#P" n="32" break="no"/>tutes distinguuntur per obiecta adaequata &amp; totalia, eadem caro numero potest esse obiectum partiale 
+      li<lb ed="#P" n="33" break="no"/>beralitatis &amp; illiberalitatis, temperantiae &amp; intemperantiae, iustitiae &amp; iniustitiae. Volo dare hanc carnem 
+      <lb ed="#P" n="34"/>vero domino, est actus iustitiae, restituendo alienum: &amp; si postea sit mea, volo ipsam liberaliter alteri 
+      <lb ed="#P" n="35"/>dare est materia liberalitatis. Nolo eam indigenti dare, est materia illiberalitatis: temperanter eam 
+      <lb ed="#P" n="36"/>comedendo erit materia temperantiae, intemperanter intemperantiae. Si quis in naturali philosophia 
+      <lb ed="#P" n="37"/>imbutus fuerit de intellectus aut voluntatis obiecto hic nulla est difficultas. Illud est obiectum 
+      poten<lb ed="#P" n="38" break="no"/>tiae in quod potentia tendit vt intellectus intelligendo, voluntas volendo &amp; nolendo: &amp; sub 
+      nolitio<lb ed="#P" n="39" break="no"/>nem &amp; volitionem generatim particulares actus cadunt: quare impertinens est virtutes aliquas per 
+      <lb ed="#P" n="40"/>passiones &amp; alias per operationes seiungere. Rarenter enim aliqua virtus habet effectum pro obiecto. 
+      <lb ed="#P" n="41"/>potest tamen ipsum pro materia habere, vt ego volo expectare vt timorem mihi innatum abolere discam. 
+    </p>
+            <p xml:id="JMAet9-de6284-d1e666">
+               <lb ed="#P" n="42"/>⁋ Haeres forsan quare dicat philosophus, ars confert opus suum redigendo ad medium. Dico hoc intelligi 
+      <lb ed="#P" n="43"/>de medio inter excessum defectumque non de medio inter bonum &amp; malum.
+    </p>
+            <p xml:id="JMAet9-de6284-d1e673">
+               <pc type="pilcrow">¶</pc> Dubitas, quomodo virtus 
+      <lb ed="#P" n="44"/>inter extrema intermediat. Respondetur, quod aliquid est medium participatione, cum extremis 
+      con<lb ed="#P" n="45" break="no"/>ueniens, vt colores interstites inter alborem &amp; nigredinem, aliquid est medium per extremorum 
+      ab<lb ed="#P" n="46" break="no"/>negationem vt in praesentia: tametsi enim magnanimitas circa extrema obiectiue desudet: locum tamen 
+      <lb ed="#P" n="47"/>medii inter excessum &amp; defectum tenet.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

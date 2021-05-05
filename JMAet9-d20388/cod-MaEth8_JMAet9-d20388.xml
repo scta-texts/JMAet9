@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d20388"><!-- mair-l5c2 -->
+            <head xml:id="JMAet9-d20388-Hd1e103">Caput 2</head>
+            <p xml:id="JMAet9-d20388-d1e106">
+               <lb ed="#P" n="41"/>
+               <quote xml:id="JMAet9-d20388-Qd1e110" type="lemma">Qvaerimus autem</quote> &amp;c. Hic philosophus de iustitia particulari determinat, primoque ostendit praeter iustitiam 
+      <lb ed="#P" n="42"/>legalem ponendam esse iustitiam particularem. Prima conclusio huius capitis. De iustitia quae pars est virtutis, 
+      si<lb ed="#P" n="43" break="no"/>⁋Omiliter &amp; de iniustitia quae est pars vitii indagandum est, siquidem talem esse iustitiam iniustitiamque hoc indicat si 
+      <lb ed="#P" n="44"/>gnum quod qui caeteris vitiis operatur iniuriam quidem facit, sed non plus hoc est non magis auide quam dignum est accipit: 
+      <lb ed="#P" n="45"/>hoc est peccans secundum alias malitias facit iniuste secundum iniustitiam contra legem quia facit quod lex prohibet: 
+      <lb ed="#P" n="46"/>&amp; tamen non facit auare, quia non capit alienum inuito domino. Exemplificat. Per caetera vitia ea intelligas de 
+      <lb ed="#P" n="47"/>quibus superius mentio in fine tertii &amp; quarti habita est, ceu qui clypeum ob formidinem abiicit: qui conuicia ob ira 
+      <lb ed="#P" n="48"/>cundiam dicit, aut qui ob auaritiam per pecuniam auxilium non praestat: non plus quam dignum sit capit. Verum saepius cum 
+      ali<lb ed="#P" n="49" break="no"/>quis auare capit nullo aliorum vitiorum operatur neque vniuersis simul. Dicit saepe plus capit: infrequens enim captio 
+      <lb ed="#P" n="50"/>pluris eum iniustum apud alios non patefacit: sed aliqua malitia operatur. Sane hunc vituperamus, haec autem 
+      iniusti<lb ed="#P" n="51" break="no"/>tia est. Est igitur alia quaedam iniustitia quae totius legalis iustitiae pars quaedam est. Etiam &amp; aliquod iniustum quod 
+      to<lb ed="#P" n="52" break="no"/>tius iniusti(quod quidem praeter legemn est) pars quaedam existit. Etiam ediuerso aliquis potest peccare tollendo alienum per 
+      <lb ed="#P" n="53"/>auaritiam, &amp; tamen non peccat secundum aliquam aliarum malitiarum, neque omnes simul: &amp; tamen peccat secundum 
+      <lb ed="#P" n="54"/>aliquam malitiam: quoniam vituperatur tanquam iniustus. Et sic habetur conclusio, quod est quaedam alia iustitia quae est sicut 
+      <lb ed="#P" n="55"/>pars totius virtutis, &amp; est virtus specialis. Similiter est quoddam iniustum quod est pars iniusti legalis quod est omne 
+      <lb ed="#P" n="56"/>iniustum. Nunc enucleat iustitiam esse particularem quae est pars iustitiae legitimae: &amp; hoc per iniustitiam tanquam notiorem 
+      <!--166.xml-->
+      <pb ed="#P" n="75-r"/>
+               <lb ed="#P" n="1"/>probat sic. Habitus ex habitibus contrariis cognoscuntur vt superiore capite meminimus: tametsi in 
+      logica<lb ed="#P" n="2" break="no"/>libus technis negationem per affirmationem vulgo deprehendimus, in morali tamen philosophia extrema sunt 
+      <lb ed="#P" n="3"/>medio certiora: latius enim extenduntur. Assumptum itaque enucleatur sic. Si est aliqua iniustitia vt pars totius 
+      in<lb ed="#P" n="4" break="no"/>iustitiae, erit aliqua iustitia quae erit pars totius iustitiae legalis: at est aliqua iniustitia particularis, proinde est 
+      <lb ed="#P" n="5"/>iustitia particularis. Iniustitiam particularem monstrat per illud quod quispiam plus appetit vt nuperrime 
+      enuclea<lb ed="#P" n="6" break="no"/>uimus. Secundo idem probat sumendo eundem actum cum diuerso scopo, &amp; vt lectorem non remorarer breui sic in 
+      valo<lb ed="#P" n="7" break="no"/>re rationatur. Illae malitiae sunt distinctae quae ordinantur ad distinctos fines: at auaritia quae est particularis 
+      iniu<lb ed="#P" n="8" break="no"/>stitia, ordinatur ad alium finem quam iniustitia illegalis: igitur sunt malitiae distinctae. Maior est nota. Habitus enim 
+      <lb ed="#P" n="9"/>distinguuntur &amp; ex parte obiectorum &amp; finium intrinsecorum, quia illi sunt obiecta partialia &amp; etiam finium extrin 
+      <lb ed="#P" n="10"/>secorum. Minorem ponit in litera inquiens. Praeterea si quispiam lucrandi causa cum vetula caperata fronte adulte 
+      <lb ed="#P" n="11"/>rium patrat, vt pecunias accipiat, quidam contra bona sua erogans formosae, damnum ob concupiscentiam 
+      pati<lb ed="#P" n="12" break="no"/>tur: hic quidem intemperans magis videtur esse quam plus appetens, ille autem iniustus quidem sed non intemperans. 
+      <lb ed="#P" n="13"/>Prior ille auarus ob lucrum facit iniustitiam: alter libidinosus est quia finem venereum voluptatem intendit. Tertia ra 
+      <lb ed="#P" n="14"/>tio est. Quicumque facit contra aliquam virtutem specialem facit contra iustitiam legalem, quae praecipit operationes omnium 
+      <lb ed="#P" n="15"/>virtutum moralium, vt in capite priore est dictum: at non quicumque facit contra aliquam virtutem moralem facit 
+      iniu<lb ed="#P" n="16" break="no"/>stitiam particularem: ergo praeter malitiam illegalem est alia malitia particularis, quae est iniustitia particularis, sci 
+      <lb ed="#P" n="17"/>licet auaritia. Litera tertiae rationis est. Omnis alia iniuria in aliquod particulare vitium refertur: vt moechia 
+      <lb ed="#P" n="18"/>in intemp erantiam. socii in bello desertio ad timiditatem: si quis quempiam pulsauit ad iram redigatur. At si plus 
+      <lb ed="#P" n="19"/>habeat ad nullum aliud peculiare vitium relatio fit quam ad iniustitiam: quare perspicuum est quod praeter iniustitiam quae  
+      <lb ed="#P" n="20"/>est tota malitia, est aliqua iniustitia particularis: &amp; per consequens praeter iustitiam legitimam est aliqua iustitia par 
+      <lb ed="#P" n="21"/>ticularis: tenet consequentia: quia quot modis dicitur vnum oppositorum tot modis dicitur reliquu: ex primo 
+      ca<lb ed="#P" n="22" break="no"/>pite huius libri.
+    </p>
+            <p xml:id="JMAet9-d20388-d1e198">
+               <pc type="pilcrow">¶</pc> Dubitatur an moechans ob emolumentum sit &amp; moechus &amp; auarus. Respondetur affirmati 
+      <lb ed="#P" n="23"/>ue. Nam dilectio Socratis propter deum, actus vnus est vsus proximi &amp; fruitio dei, ergo actus latus in vnam mate 
+      <lb ed="#P" n="24"/>riam obiectiuam &amp; in alium finem signanter cadentem in ratione obiecti denominationem, vtriusque sortiet. Et idem 
+      <lb ed="#P" n="25"/>est si finis non sit actualiter volitus. Fortasse insultas. Aristoteles ait si quis lucri causa moechetur ille est in  
+      <lb ed="#P" n="26"/>iustus &amp; non intemperans, proinde ab vltimato fine actus solam denominationem suscipit. Secundo opposito 
+      dato<lb ed="#P" n="27" break="no"/>vnus actus simplex erit duorum vitiorum &amp; eius oppositum duarum virtutum aeque primo, quod est rationi 
+      dissen<lb ed="#P" n="28" break="no"/>taneum. Dico te Aristotelicam literam truncare: relinquis enim aduerbium potius: antea enim dixit. hic quidem 
+      intempe<lb ed="#P" n="29" break="no"/>rans potius quam pluris auidus: repete etiam potius ad alterum quod sequitur. Ad secundum, illatum concedo: nec ipsum 
+      quo<lb ed="#P" n="30" break="no"/>quo pacto est rationi dissentancum. Aliubi contra Martinum magistrum ostendimus. Et vno verbo patet. Pone plu 
+      <lb ed="#P" n="31"/>res fines eiusdem actus, vt casta mulier vult suam castitatem communiugalem seruare propter temperantiae iustitiam, non obstante 
+      <lb ed="#P" n="32"/>conditione mortis: quia recta ratio dictat. Hic actus quatuor virtutes cardineas pro fine nanciscitur. Alia con 
+      <lb ed="#P" n="33"/>clusio. Tota iniustitia &amp; ea quae pars est inter se differunt, &amp; itidem de iustitia. Hic ponit convenientiam &amp; 
+      differen<lb ed="#P" n="34" break="no"/>tiam quae est inter iustitiam totam legalem siue legitimam &amp; particularem. In primis conveniunt quia vniuocantur 
+      <lb ed="#P" n="35"/>in genere, dicuntur enim ambae iustitiae. Insuper in quadam ratione communi generis conveniunt: sunt enim ambae 
+      <lb ed="#P" n="36"/>ad alium. Cape habitum hisce duabus iustitiis communem ( &amp; diuidatur in legitimam ac particularem, tamen ex par 
+      <lb ed="#P" n="37"/>te materiae differunt: quia iustitia particularis est circa determinatam materiam moralem, vt circa honorem, 
+      pecu<lb ed="#P" n="38" break="no"/>niam, salutem, &amp; circa haec vniuersa si quo vno nomine haec complecti possemus: &amp; circa voluptatem lucri causa 
+      <lb ed="#P" n="39"/>prouenientem, illa vero quae tota est est circa omnia, in quibus studiosus versatur. Et consimiliter dicendum est 
+      plu<lb ed="#P" n="40" break="no"/>res esse iustitias: vnam totam &amp; legitimam &amp; alteram partem: &amp; hoc ex dictis est perspicuum. Sed qualis ea sit 
+      <lb ed="#P" n="41"/>deinceps dicendum est. Postea subdit epilogum, determinatum est quoddam iniustum esse totum &amp; contra leges, &amp; 
+      <lb ed="#P" n="42"/>quoddam speciale dictum iniquum. Similiter &amp; quoddam iustum esse legitimum: &amp; quoddam quod appellatur aequum: 
+      <lb ed="#P" n="43"/>&amp; iniustitia de qua supra dictum est ea quae est tota illegitima praeter legem appellatur a qua iniustum praeter 
+      <lb ed="#P" n="44"/>legem emanat. Tertia conclusio. Non est prorsus indem iniquum &amp; iniustum praeter legem: siue iniustum 
+      in<lb ed="#P" n="45" break="no"/>aequale &amp; iniustum illegale non sunt penitus idem. Nec iniustitia inaequalis &amp; iniustitia illegalis. Priorem 
+      par<lb ed="#P" n="46" break="no"/>tem probat: quia sicut se habent plus &amp; inaequale, ita inaequale &amp; illegale: sed plus &amp; inaequale non sunt idem, sed  
+      <lb ed="#P" n="47"/>se habent vt pars &amp; totum: quia omne plus est inaequale, &amp; non contra vniuersaliter: aequum enim est cum neque plus 
+      <lb ed="#P" n="48"/>neque minus quam par sit tribuitur. Iniquum ergo erit non solum plus sed etiam minus. Plus igitur est pars iniqui. minus 
+      <lb ed="#P" n="49"/>de malo est iniquum, &amp; non plus. Similiter iniustitia inaequalis &amp; iniustitia illegalis non sunt simpliciter idem: sed  
+      <lb ed="#P" n="50"/>se habent sicut totum &amp; pars: quia iniustitia inaequalis est pars iniustitiae illegalis: sicut iustitia particularis est 
+      <lb ed="#P" n="51"/>pars iustitiae illegalis, quia omne inaequale in hominum commutatione est etiam illegale, &amp; contra sanctiones 
+      <lb ed="#P" n="52"/>legum: sed non contra. Temulentia est quid illegale, quia legi contrarium: &amp; tamen non est inaequale in homi 
+      <lb ed="#P" n="53"/>num commutatione: perinde iniustum &amp; iniustitia vtroque modo sumpta non sunt eadem sed altera: quia se habent 
+      <lb ed="#P" n="54"/>sicut totum &amp; pars. Quia iniustum inaequale &amp; iniustitia inaequalis sunt partes, &amp; iniustum illegile &amp; iniustitia 
+      ille<lb ed="#P" n="55" break="no"/>galis sunt quasi tota, vt in fine capitis praecedentis diximus. Capio traductionem argyropili quam aliqui 
+      intri<lb ed="#P" n="56" break="no"/>catam censent sed animaduertenti est perspicua. At cum iniquum &amp; iniustum quod contra leges est non idem sint 
+      <lb ed="#P" n="57"/>supple convertibiliter: sed alterum se habet vt pars, alterum vt totum. Nam iniquum omne iniustum est, quod contra leges 
+      <lb ed="#P" n="58"/>est quae illud vetant, si enim est iniquum vetatur a lege, iniustum autem quod est contra leges non omne iniquum vt temulentia, iniquum 
+      <lb ed="#P" n="59"/>est iniustitia particularis solum, plus omne est iniquum. habere plus quam par sit est iniquum, sed non omne iniquum est plus 
+      <lb ed="#P" n="60"/>habens. Minus in malis habens qui ratio dictat iniquum habet, &amp; no habet plus: iniustum etiam &amp; iniustitia non eadem 
+      <lb ed="#P" n="61"/>sunt sed diuersa ab illis scilicet a pluri &amp; iniquo. Haec sunt vt partes, illa vt tota. Summatim omne plus est iniquum, at omne 
+      <lb ed="#P" n="62"/>iniquum iniustum illegale. Superuacaneum reor vltra dicta aliquid exponere, imo vt clarius fiam saepius praeter meum modum in 
+      <lb ed="#P" n="63"/>legedo sum verbosus exarando. Verum hic insultas. In praecedenti capite ante illius medium dicebat: est autem iniquus, hoc 
+      <lb ed="#P" n="64"/>continet &amp; est commune. Paucis verbis interiectis subdidit: Iniquitas omnem iniustitiam continet, illic iniquum ad omnem 
+      <!--167.xml-->
+      <pb ed="#P" n="75-v"/>
+               <lb ed="#P" n="1"/>iniustitiam diffundit &amp; non ab re, omne enim quod non est aequum iniquum est: propterea dicunt Leonardum cum 
+      Ar<lb ed="#P" n="2" break="no"/>gyropilo insulse Aristotelem in hoc transtulisse, vetustam translationem imitantes Nos vero Ioannem 
+      Ar<lb ed="#P" n="3" break="no"/>gyropilum quem interpretandum suscepimus exponimus: nec vlla est magni momenti difficultas, tametsi pro 
+      <lb ed="#P" n="4"/>Aristotelica sententia laborem, ac eius intentionem depromerem enitar, non tamen sic exacte vt in euangelio: 
+      hu<lb ed="#P" n="5" break="no"/>mana diuinis longissimo interstitio a tergo postponuntur.
+    </p>
+            <p xml:id="JMAet9-d20388-d1e310">
+               <pc type="pilcrow">¶</pc> Ponit aliam conclusionem quae est. lustitia &amp; 
+      in<lb ed="#P" n="6" break="no"/>iustitia vniuersalis relinquatur de particulari fiat sermo. Sic dicit illic. Igitur. iustitiaque secundum vniuersam 
+      <lb ed="#P" n="7"/>virtutem ordinata est &amp; quae vsus totius ad alium existit omittatur. ltidem &amp; ipsa iniustitia quae totius vitii vsus 
+      <lb ed="#P" n="8"/>&amp; iustum &amp; iiustum quantum ad has attinet ex superioribus deprehenduntur. Et enim pleraque legitimorum ea fere sunt 
+      <lb ed="#P" n="9"/>quae a tota virtute emanant. Nam lex praecipit viuere secundum omnem virtutem: &amp; vnumquodque vitium prohibet. 
+      <lb ed="#P" n="10"/>Effectiua siue factiua vniuersae virtutis sunt illa omnia iura quae ad publicam pertinent disciplinam. Sed vtrum 
+      <lb ed="#P" n="11"/>priuata singulorum disciplina qua vir bonus absolute dicitur, hoc est in ordine ad se vt sit bonus vir ciuilis, 
+      <lb ed="#P" n="12"/>sit pars, ad aliam attinet facultatem scilicet tertium politicorum. Nam non idem fortasse est esse bonum virum &amp; ciuem bonum 
+      <lb ed="#P" n="13"/>esse. Plerique enim soli vbi in domo dominantur bene viuunt qui cum aequalibus &amp; coaetaneis viuere nequeunt. 
+    </p>
+            <p xml:id="JMAet9-d20388-d1e333">
+               <lb ed="#P" n="14"/>⁋ Dubitatur quo modo id intelligitur, praecepta a legesunt a tota virtute. Respondetur hoc potest 
+      intel<lb ed="#P" n="15" break="no"/>ligi in ratione causae effectiuae &amp; principii mouentis secundum quod virtus legislatorem inclinat ad praecipienda 
+      stu<lb ed="#P" n="16" break="no"/>diosa opera. Et si sit circa fortunas adhuc virtus illas distribuit &amp; eis vtitur si in bono sintysu. Alio modo  
+      <lb ed="#P" n="17"/>in ratione finis, secundum quod legislator intendit ciues suos facere bonos per opera virtutum. Alia conclusio. 
+      Quae<lb ed="#P" n="18" break="no"/>dam est particularis iustitia quae est communium partitiua, quam distributiuam dicunt, &amp; quaedam rerum commutatiua. Simi 
+      <lb ed="#P" n="19"/>liter quoddam est particulare iustum &amp; in distributione consistit: quoddam vero in commutatione. In distributione 
+      <lb ed="#P" n="20"/>vt honoris &amp; pecuniarum vel aliorum quae talia sunt &amp; diuidi possunt inter eos qui in ciuili societate versantur. 
+      <lb ed="#P" n="21"/>In his enim fieri potest vt aequum habeant vel iniquum. In commutatione vero similiter vt in hominum commerciis 
+      <lb ed="#P" n="22"/>rite peragendis. Verumtamem commercia biphariam diuiduntur. Nam quaedam sponte fiunt quorum principium sponte procedit 
+      <lb ed="#P" n="23"/>in vtraque parte: quaedam vero inuoluntaria, &amp; quae fiunt ab inuitis ex vna saltem parte. Sponte facta sunt haec: 
+      <lb ed="#P" n="24"/>emptio, venditio, mutuatio, vadimonium, quod est sponsio comparendi in iudicio ad diem praestitutum, locatio, 
+      <lb ed="#P" n="25"/>depositio, mercede conductio. Inuoluntaria &amp; quae inuitis fiunt, sunt quae clandestina &amp; violenta sunt. 
+      Clande<lb ed="#P" n="26" break="no"/>stina vt furtum, moechia, veneficium, lenocinium seruorum seditio, mors dolosa, falsum testimonium. Exempla de 
+      <lb ed="#P" n="27"/>violentis sunt verbera, vincula, mors, rapinae, membrorum delaniatio: conuicium, contumelia &amp; similia. Fide 
+      ius<lb ed="#P" n="28" break="no"/>sor est qui alienam obligationem in se recipit iussu alterius fidem suam ponens. Locationi mercede conductio 
+      re<lb ed="#P" n="29" break="no"/>spondet: illic traditur vsus rei retento dominio. Pro pecunia in emptione &amp; venditione dominium transfertur. 
+      <lb ed="#P" n="30"/>Mutuatio est rerum quae numero pondere &amp; mensura mensurantur., vt fit in pecunia, tritico, vino: &amp; in illo con 
+      <lb ed="#P" n="31"/>tractu gratis dominium transfertur, si aliquid gratia mutui capitur est vsura, sic accommodatio gratis dat rei 
+      <lb ed="#P" n="32"/>vsum. depositum est alicuius fidei creditum. Veneficium actus venenandi a venefico intentus. Lenocinium ipse 
+      <lb ed="#P" n="33"/>actus lenocinandi, lenocinium facere est foedo corporis alieni vt ancillae vsu quaestum facere.
+    </p>
+            <p xml:id="JMAet9-d20388-d1e380">
+               <pc type="pilcrow">¶</pc> Dubitatur quo 
+      mo<lb ed="#P" n="34" break="no"/>do adulterium est species iniustitiae: cum sit species actus venerei &amp; intemperantiae. Respondetur Moechia biphariam con 
+      <lb ed="#P" n="35"/>sideratur, vno modo vt est inordinata copula circa tactum cum coniugata, &amp; sic ad intemperantiam spectat. Alio 
+      <lb ed="#P" n="36"/>modo pro quanto iniuria fit viro mulieris occulte rem habendo cum eius vxore, &amp; si ipse adhuc consentiat non 
+      re<lb ed="#P" n="37" break="no"/>fert. Laeditur enim respublica malo exemplo. &amp; lex naturae quibus iniuria fit.
+    </p>
+            <p xml:id="JMAet9-d20388-d1e394">
+               <pc type="pilcrow">¶</pc> Secundo dubitatur an sit 
+      ali<lb ed="#P" n="38" break="no"/>qua iustitia particularis. Ad negatiuam partem breui argumentabor, lustitia legitima siue legalis ordinat 
+      ho<lb ed="#P" n="39" break="no"/>minem sufficienter in ordine ad alteram, ergo particularis iustitia est inanis. Respondetur. lustitia legalis sufficien 
+      <lb ed="#P" n="40"/>ter ordinat hominem circa suam propriam materiam scilicet bonum commune: sed oportet esse vnam iustitiam quae ordinat 
+      <lb ed="#P" n="41"/>hominem in ordine ad personam singularem hanc vel illam: sicut oportet habere temperantiam, fortitudinem &amp; similia. Ter 
+      <lb ed="#P" n="42"/>tio dubitatur: an iustitia distributiua &amp; commutatiua specie differunt, &amp; vnde illa distinctio prouenit. 
+      Respon<lb ed="#P" n="43" break="no"/>tur quod aliqui delire existimant omnem iustitiam esse eiusdem speciei specialissimae, cum alia hae duae iustitiae specie 
+      dif<lb ed="#P" n="44" break="no"/>ferant, quinimmo multae distributiuae inter se differunt: &amp; multae commutatiuae eodem modo inter se discrepant. 
+      <lb ed="#P" n="45"/>Ex distinctione obiectorum totalium &amp; diuerso modo tendendi ea distinctio sumitur. sed licet distributiuae va 
+      <lb ed="#P" n="46"/>rie inter se specie differant quia conueniunt in vno modo seruandae iustitiae, qua de re quatenus ad 
+      distributi<lb ed="#P" n="47" break="no"/>uam attinet, stat dare duos actus plus entitatiue convenire inter se quorum alter est temperantia alter iustitia, quam 
+      <lb ed="#P" n="48"/>duos actus iustitiae: sed quia non conuenienter in hoc quod est ad alterum, ad iustitiam, non pertinent. Exempli causa: 
+      <lb ed="#P" n="49"/>volo dare tibi hunc bouem: ad liberalitatem &amp; temperantiam attinet, si gratis eum tibi dem &amp; vt eo temperanter vescaris. 
+      <lb ed="#P" n="50"/>Et volo dare tibi hunc bouem, demonstrando tuum quem restituere sim obnoxius, iste est actus iustitiae. Quia quilibet 
+      <lb ed="#P" n="51"/>in philosophia naturali &amp; logica eruditus haec nouit non est opus explicatione prolixiore. Alii sese non 
+      intel<lb ed="#P" n="52" break="no"/>ligentes, cisternas obliquas fingunt. Dum hic de iustitia particulari loquimur, an ipsa sit potissima inter omnes 
+      <lb ed="#P" n="53"/>cardinales: de legali non vertitur in dubium. Affirmatiue respondemus: &amp; sufficiant probationes capite 
+      prae<lb ed="#P" n="54" break="no"/>cedenti allatae ex Agiselao &amp; reliquis. Obiicitur tamen sic primo. Misericordia est ipsa iustitia nobilior. 
+      Tul<lb ed="#P" n="55" break="no"/>lius enim vt Aug, nono de ciuitate recitat inter omnes Caesaris virtutes misericordiam laudat. Et primae ad 
+      <lb ed="#P" n="56"/>Timo. quinto. Pietas ad omnia vtilis est. Vbi glossa Ambrosii. Omnis summa disciplinae christianae in mi 
+      <lb ed="#P" n="57"/>sericordia &amp; pietate est. Secundo sic. Quod necessitatis est non est meritorum: actus enim virtutum sunt 
+      <lb ed="#P" n="58"/>meritorii in habente gratiam. at iustitia est necessitatis: ferre enim iustam sententiam, &amp; reddere alienum 
+      ne<lb ed="#P" n="59" break="no"/>cessitatis sunt, ergo iustitia non est meritoria, proinde nec virtus optima. Ad priorem rationem dicimus 
+      <lb ed="#P" n="60"/>quod non poterat Tullius bene laudare Caesarem in iustitia cum politiam aristocraticam multitudini 
+      conue<lb ed="#P" n="61" break="no"/>nientem sibi vsurpasset. Nec sequitur, clementia fuit summa aut pulcherrima in Caesare virtus: ergo est 
+      <lb ed="#P" n="62"/>simpliciter &amp; in omnibus summa virtus. Clementia tamen saepe est eximia virtus: &amp; de supremis deo in fon 
+      <lb ed="#P" n="63"/>te conueniens: qui omnium indigentias congruentissime supplet. Propterea misericordia illi tanquam decus 
+      <lb ed="#P" n="64"/>proprium est applicanda. In precatione enim canimus: deus cui proprium est misereri &amp;c. In creatura ver 
+      <!--168.xml-->
+      <pb ed="#P" n="76-r"/>
+               <lb ed="#P" n="1"/>charitas illi supereminet: scribente doctore gentium ad Colo. iii. induite vos sicut dilecti dei viscera miseri 
+      <lb ed="#P" n="2"/>cordiae: &amp; paulo post. Super omnia charitatem habete. Item misericordia est ad alium nonnunquam de 
+      prae<lb ed="#P" n="3" break="no"/>cepto: &amp; sic est iustitiae actus.
+    </p>
+            <p xml:id="JMAet9-d20388-d1e469">
+               <pc type="pilcrow">¶</pc> Ad secundum dicitur quod tametsi iustitiam ministrare sit necessarium 
+      ne<lb ed="#P" n="4" break="no"/>cessitate praecepti. est timen spontaneum ex libertate arbitrii &amp; hoc non tollit meritum. gloriam tamen 
+      su<lb ed="#P" n="5" break="no"/>pererogationis subducit dicente diuiniloquo paulo. i. Corinth. ix. Si euangelizauero non est mihi gloria: 
+      <lb ed="#P" n="6"/>necessitas enim mihi incumbit. Caue autem lector ne circunueniaris a putantibus opus praeceptionis non 
+      <lb ed="#P" n="7"/>esse meritorium.
+    </p>
+            <p xml:id="JMAet9-d20388-d1e483">
+               <pc type="pilcrow">¶</pc> Ambigitur a quibusdam primo pro qua culpa depositarius ad restitutionem est obno 
+      <lb ed="#P" n="8"/>xius si depositum pereat. Scito quod depositum est aliquid custodiendum alicuius fidei traditum. nostra non 
+      <lb ed="#P" n="9"/>nisi apud putatos bonos deponimus. Quo praelibato dico depositarium regulariter non teneri nisi ad 
+      do<lb ed="#P" n="10" break="no"/>lum vel ad latam culpam. depositio enim est deponentis gratia &amp; non depositarii: si depositarius pro 
+      custo<lb ed="#P" n="11" break="no"/>dia rei mercedem acceperit: vel si inter se conuenerint de leui atque leuissima culpa, contractus ei est 
+      obser<lb ed="#P" n="12" break="no"/>uandus. Siquidem contractus ex conuentione non iniqua robur vsurpant. dixi non iniqua: conuentio enim 
+      <lb ed="#P" n="13"/>vt depositarius de dolo malo non obligaretur esset, iniqua &amp; lapsuum spelunca prorsusque rescindenda. 
+      Cae<lb ed="#P" n="14" break="no"/>terum non potest depositarius vti deposito nisi consensum depositoris expressum aut praesumptum 
+      verosi<lb ed="#P" n="15" break="no"/>militer habeat: si tamen deponens nullo modo consensisset, me verosimiliter ita praesumente nihil interest: 
+      <lb ed="#P" n="16"/>hoc mihi satis est ne a giro medii exorbitem. Si enim depositum sit pecunia, possum impune illa vti nec 
+      <lb ed="#P" n="17"/>lucrum aut eius partem illi refundam: sat enim est depositum illi integrum restituere, si vero mihi pecuniam 
+      <lb ed="#P" n="18"/>clausam in sacculo custodiendam tradat, indicium est quod cupit illam pecuniam non distrahi. Nihilo tamen mi 
+      <lb ed="#P" n="19"/>nus in ea distractione parum aut nihil pecco: mihi enim in vsu pecuniae prosum, nec illi obsum dummodo  
+      <lb ed="#P" n="20"/>sum semper paratus depositum ipsi petenti restituere. Haec est lex depositi vt depositarius deponenti semper 
+      <lb ed="#P" n="21"/>restituat etiam si deposuisset vt certo tempore restitueret. Hoc enim est lege cautum L.i, si deposuero ci i. 
+      ti<lb ed="#P" n="22" break="no"/>tulo minus materiam strictim agitamus. Interdum depositarius depositum minime depositori reddet: hoc 
+      <lb ed="#P" n="23"/>quod ipse rationabiliter velle est obstrictus: vtpote si deponens est fictus amens per id temporis mucronem 
+      de<lb ed="#P" n="24" break="no"/>positum minime illi exigenti restituam. Nam verisimile est quod seipsum aut alium quempiam mucrone 
+      <lb ed="#P" n="25"/>transfoderet: etiam si iureiurando affirmauerim me semper mucronem illum eo petente restituturum. xxii. 
+      <lb ed="#P" n="26"/>qui. ii. cap. ne quis. Illum casum ius naturae excipit. Secundo quando verus dominus cum fure deponente 
+      <lb ed="#P" n="27"/>in repetitione conueniunt, tunc dominus rei furi anteponitur.
+    </p>
+            <p xml:id="JMAet9-d20388-d1e532">
+               <pc type="pilcrow">¶</pc> Secundo dubitatur quid est accommo 
+      <lb ed="#P" n="28"/>datum &amp; quae eius natura. dicitur quod vsus rei gratuito in accommodatione praestatur, retento dominio 
+      <lb ed="#P" n="29"/>penes accommodantem. Suboritur auctarium: si commodo accipiens pro vsu rei nonnihil tradat, desinit 
+      <lb ed="#P" n="30"/>esse accommodatio, tuncque est locatio. Accommodatum accommodantis esse non desinit quare accommodatum 
+      <lb ed="#P" n="31"/>in manu accommodantis perit, patet: quia ipse est dominus rei: &amp; hoc nisi commodo accipiens in culpa extite 
+      <lb ed="#P" n="32"/>rit. Nec potest commodo dans accommodatum ante vsum rei expletum reuocare: nam interim commodo 
+      acci<lb ed="#P" n="33" break="no"/>piens dispendium incurreret nisi commodans in similem iacturam etiam simul incideret. In mea enim re 
+      <lb ed="#P" n="34"/>meae indemnitati potius consulam quam tuae, licet enim grauamem interea patiaris, mea non interest. Nec propterea me 
+      <lb ed="#P" n="35"/>iuuito potes alioqui rem meam accommodato capere. Si gradarium tuum mihi accommodaueris diuum Fiacrium visen 
+      <lb ed="#P" n="36"/>di gratia, tum deldolo, lata culpa, leui atque leuissima tenebor: nam ad vsum meum gradarium suscepi, de for 
+      <lb ed="#P" n="37"/>tuito tamen casu minime obligabor: &amp; similiter si illum per nuneium remitto, nisi in illo paciscar, vel 
+      <lb ed="#P" n="38"/>in mora restituendi fuerim, siue equus sit precio aestimatus siue non, aestimatio enim vltra naturam 
+      contra<lb ed="#P" n="39" break="no"/>ctus obstringit neminem. verum id operatur si sonipes mea culpa perdatur deterioretur ve, quid 
+      refunde<lb ed="#P" n="40" break="no"/>re astringar.
+    </p>
+            <p xml:id="JMAet9-d20388-d1e566">
+               <pc type="pilcrow">¶</pc> Hic incidenter haesitas. Limitaneus habet caballum accommodato: hostilis insultus de omnibus 
+      <lb ed="#P" n="41"/>rapiendis occurit: an commodatarius potest suas opes potius quam caballum seruare. Responsio si accommodatio gratia 
+      <lb ed="#P" n="42"/>accommodantis fiat, accommodatarius res suas etiam viliores praereciosioribus accommodantis in seruando praeferat: 
+      <lb ed="#P" n="43"/>secus est si accommodatum sit gratia sui factum: seipsum paritate alteri praeponet: sin res accommodata sit preciosa, 
+      <lb ed="#P" n="44"/>accommodatarii vilis tunc non omnia sunt paria. Dubitatur etiam de furto, an omne tale sit mortale. Respon 
+      <lb ed="#P" n="45"/>detur quod furtum est contractio rei alienae clanculum inuito dimino. Suboritur auctirium. Qui. inuentum non restituit 
+      <lb ed="#P" n="46"/>furtum committit: patet per diffinitionem furti. Affirmatiue ad quaesitum respondetur. Nam in praeceptis decalogi 
+      <lb ed="#P" n="47"/>prohibetur: nisi tamen ob paruitatem ablati, ac in deliberationem id proueniat. Exemplum primi vt pomum 
+      <lb ed="#P" n="48"/>aut cerasum pendens extra hortum furari. Ablatum enim non est notabilis bonitatis. Etiam datur actus indelibe 
+      <lb ed="#P" n="49"/>ratus circa materiam letalem. Ob talem indeliberationem stat dare furtum quod sit veniale peccatum. Deliberatio 
+      for<lb ed="#P" n="50" break="no"/>malis est iudicium intellectus interdum completum de omnibus circumstantiis quandoque incompletum. Deliberatio 
+      inter<lb ed="#P" n="51" break="no"/>pretatiua est quando habetur tempus suffciens ad deliberandum, &amp; mora praetermittitur.
+    </p>
+            <p xml:id="JMAet9-d20388-d1e597">
+               <pc type="pilcrow">¶</pc> Aliquot iaculis 
+      con<lb ed="#P" n="52" break="no"/>clusionem pulsabimus. Diximus quod ablatio pomi aut cerasi non est laetalis: ponatur quod successiue auferantur omnia 
+      <lb ed="#P" n="53"/>cerasa ab horto per volitiones distinctas singulis cerasis respondentes: si prima volitio non est letifera, pari iure 
+      <lb ed="#P" n="54"/>nec secunda, tertia ac quarta &amp; sit in abyssum. Respondetur quod octaua aut nona volitio virtute praecedentum 
+      <lb ed="#P" n="55"/>est mortalis, iam enim alienum contractans non Ignorat se habere alienum notabilis bonitatis Si successiue 
+      <lb ed="#P" n="56"/>siue plures cerasa singula adimant nullo aliquid sciente de alio, nullus letaliter delinquit: sin id sciant, vnusquisque 
+      <lb ed="#P" n="57"/>letifero crimine innodatur. Vnde fit vt si idem habeat. viii. distinctas volitiones quibus velit subducere 
+      <lb ed="#P" n="58"/>haec. viii. cerasa, quaelibet illarum volitionum ob praesentiam &amp; similitudinem alterius sit mortalis. Dissentaneum est 
+      <lb ed="#P" n="59"/>affirmare illic mortale ex venialibus vel non peccatis componi: attamen tota congeries non est multo deterior 
+      <lb ed="#P" n="60"/>quam vnus actus quo vult omnia haec cerasa surripere. Haesitas super veritate istius? Aliquis iniuriam facit &amp; non 
+      <lb ed="#P" n="61"/>est iniustus, fieri enim potest vt quispiam coeat cum muliere sciens cum qua coit, sed non ob electionis I 
+      <lb ed="#P" n="62"/>principium sed ob affectum iniuriam agit, sed iniustus non est, &amp; quae sequuntur. In exordio capitis 
+      <lb ed="#P" n="63"/>Aristoteles solum disputat, dubitationem excitat interrogans qui fieri queat vt quispiam iniuriam 
+      <lb ed="#P" n="64"/>faciat &amp; non sit iniustus. Quonam pacto illa iniuria oritur ex qua homo iniustus euadit: secundum 
+      <!--169.xml-->
+      <pb ed="#P" n="76-v"/>
+               <lb ed="#P" n="1"/>multas iniustitiae species paradigmata ponit vt fuit adulter &amp; latro. postea rogando hanc dubitationem 
+      <lb ed="#P" n="2"/>rite motam innuit: quasi diceret non parum interest quempiam iniuriam ex habitu patrasse an ex affectu 
+      <lb ed="#P" n="3"/>&amp; perturbatione. Inter soluendum indicat, qui facit iniuriam sine electione &amp; deliberatione praeuia non est 
+      <lb ed="#P" n="4"/>dicendus iniustus. Caeterum bifariam quispiam aliquid facit. Vno modo eligens atque id volens: &amp; hoc est 
+      <lb ed="#P" n="5"/>illud per se intendere. obiectum per se actum specificat vt electione occidens, furans, moechans ve talis di 
+      <lb ed="#P" n="6"/>ci debet homicida, fur, moechus. Obiectum per accidens operantem haud denominat, quando illud praeter 
+      <lb ed="#P" n="7"/>illius intentionem euenit. dirigo spiculum in campo inter diuum Marcellum ac Gentiliacum 
+      iuuen<lb ed="#P" n="8" break="no"/>culus ouium custos in rubo mihi incognito latet: cadens sagitta illum perimit: ea hypothesi stante 
+      ho<lb ed="#P" n="9" break="no"/>micida non appellabor: potest enim esse ignoratio ita inuincibilis, vt nullo modo peccem si scrutinium 
+      <lb ed="#P" n="10"/>sufficiens inter sagittandum fecerim. Ille tamen est occisus quem occidi: at non est peccatum homicidii. 
+      <lb ed="#P" n="11"/>Et si lacob Liam loco Rachelis lecto suo impositam prima nocte cognouisset, ignorantia inuincibilis 
+      <lb ed="#P" n="12"/>contingere poterat. Sed an debeat dici castitas matrimonialis: an scortatio, an vero adulterium, est de 
+      no<lb ed="#P" n="13" break="no"/>mine contendere. Soleo illam copulam matrimonialem appellare. Sic si inuenio alienum meis mixtum 
+      <lb ed="#P" n="14"/>quod meum reor, non sum propterea fur, licet alienum cepero. Rursus potest esse ignorantia vincibilis 
+      <lb ed="#P" n="15"/>non in toto excusatiua &amp; tunc in omnium istorum operatione exorbito: &amp; adhuc cum ex electione haec non 
+      <lb ed="#P" n="16"/>facio non sum dicendus fur latro aut homicida, tametsi peccato homicidii peccem. Obiectum per accidens 
+      <lb ed="#P" n="17"/>hoc est non intentum vix quempiam minus imputabiliter denominat. Subito ira commotus sine 
+      maliuolen<lb ed="#P" n="18" break="no"/>tia praeuia sane delirat atque peccat, &amp; tamen quia sine electione ac deliberatione id patrat, in truculentorum 
+      homi<lb ed="#P" n="19" break="no"/>cidarum numero est collocandus, verum totius difficultatis cardinem Aristoteles octauo capite 
+      locuple<lb ed="#P" n="20" break="no"/>tissime diluit. in eo plenam dilutionem cum his paucis expecta.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

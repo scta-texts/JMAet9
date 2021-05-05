@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 9</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 9</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d23174"><!-- mair-l5c9 -->
+            <head xml:id="JMAet9-d23174-Hd1e103">Caput 9</head>
+            <p xml:id="JMAet9-d23174-d1e106">
+               <lb ed="#P" n="17"/>
+               <quote xml:id="JMAet9-d23174-Qd1e110" type="lemma">AMbiget autem quispiam</quote> &amp;c. Dubitabit aliquis an de agendo patiendoque iniuriam sufficienter 
+      <lb ed="#P" n="18"/>determinatum sit, sicut sufficienter loquuti sumus de eo quod est facere iniustum vbi omne ta 
+      <lb ed="#P" n="19"/>le diximus voluntarium: quare merito ambigitur an ita sit de pati iniustum, &amp; an ita sit vt 
+      Eu<lb ed="#P" n="20" break="no"/>ripides tragicus poeta, satis absurde quidem, dicit 
+      <lb ed="#P" n="21"/>Quaeris parentem quomodo occidi meam. 
+      <lb ed="#P" n="22"/>Sermo est breuis, non exitus longos habet: 
+      <lb ed="#P" n="23"/>Volens volentem, vel volentem non volens. 
+    </p>
+            <p xml:id="JMAet9-d23174-d1e127">
+               <lb ed="#P" n="24"/>⁋ Loquitur poeta de bellerophonte qui matrem more Neronis atque Alemeonis occidit, quia ipsa a fi 
+      <lb ed="#P" n="25"/>lio occidi voluit &amp; filius voluit. Vel filio nolente ipsa voluit. Quaeritur ergo, primo an volenti fiat in  
+      <lb ed="#P" n="26"/>iuria an non. sed omnes qui patiuntur iniuriam eam inuiti patiantur, quemadmodum &amp; omnes qui 
+      <lb ed="#P" n="27"/>iniuriam faciunt eam sua sponte faciunt. Patet in capite praecedenti, an aliqui sponte &amp; aliqui inuiti. 
+      <lb ed="#P" n="28"/>Similis quaestio est vtrum omnis qui patitur ius id voluntarie patiatur, sicut omnes qui faciunt ius 
+      <lb ed="#P" n="29"/>sponte quidem faciunt, an aliqui sponte, aliqui vero inuiti. Postea vtrinque argumentatur. Ad partem 
+      <lb ed="#P" n="30"/>affirmatiuam probando quod omne iniustum pati sit voluntarium vel quod omne iniustum pati, sit iuoluntarium. Et argumentum est 
+      <lb ed="#P" n="31"/>hoc. Ois operatio iusta est voluntaria, sed iustum facere est oppositum ei quod est iustum pati: ergo omne 
+      opera<lb ed="#P" n="32" break="no"/>ri iustum est voluntarium: aut omne tale est inuoluntarium. dicit litera, nam omnes cum ius agunt 
+      <lb ed="#P" n="33"/>sua faciunt sponte. ldem est etiam de faciente iniustum: quare rationi consentaneum est similiter 
+      op<lb ed="#P" n="34" break="no"/>poni eos quo ad voluntarium, aut inuoluntarium qui ius patiuntur, vt aut sponte patiantur aut 
+      in<lb ed="#P" n="35" break="no"/>uiti. Si enim oppositum in opposito, &amp; propositum in proposito. In oppositum ratiocinatur inquiens. 
+      <lb ed="#P" n="36"/>At absurdum videbitur si omnes ius pati sua sponte dixerimus, cum aliqui pulsentur &amp; licet iuste 
+      <lb ed="#P" n="37"/>plectantur inuiti. Siquidem ius est emendatio iniuriae vel aequa retributio, ille cui nonnihil datur 
+      spon<lb ed="#P" n="38" break="no"/>te sua patitur, ille cui aufertur non sua sponte ius patitur, pariter nec ille qui ad supplicium trahitur. 
+      <lb ed="#P" n="39"/>quocirca quidam sponte quidam vero inuitus ius patitur. Et haec est resolutio interrogationis de 
+      il<lb ed="#P" n="40" break="no"/>lo qui ius patitur. Sunt hic duo oppositionum paria, scilicet iniuriam agere &amp; iniuriam pati, ius 
+      age<lb ed="#P" n="41" break="no"/>re atque ius pati. Dicit quod absurdum est asserere quod omnes sua sponte patiantur ius, quia ius est ad iniuriae 
+      <lb ed="#P" n="42"/>reparationem, vel ad retributionem aequi. hic sponte patitur, ille vero inuitus, pauci ad supplicium 
+      <lb ed="#P" n="43"/>sua sponte trahuntur.
+    </p>
+            <p xml:id="JMAet9-d23174-d1e173">
+               <pc type="pilcrow">¶</pc> Vlterius ambigitur an idem sit iniuriam pati ac iniustum pati, iustum 
+      age<lb ed="#P" n="44" break="no"/>re &amp; iustum pati. ltaque in vniuersum quatuor sunt oppositiones, sed duo termini cum his concurrunt, 
+      <lb ed="#P" n="45"/>scilicet agere atque pati. Sequitur in litera. Enimuero de hoc quispiam dubitauerit &amp;c. Aliam adhuc 
+      <lb ed="#P" n="46"/>quaestionem mouet, vtrum omnis qui patitur iniustum iniuriam patiatur, an vt in agendo sic in 
+      pa<lb ed="#P" n="47" break="no"/>tiendo res se habeat. Respondetur. Etenim fit vt ipsa iusta &amp; iniusta ad vtrunque, scilicet agere &amp; pati aci 
+      <lb ed="#P" n="48"/>commodantur. Ponitur haec in principio capitis praecedentis. dixit iniuriam quidem quispiam facit 
+      <lb ed="#P" n="49"/>&amp; ius agit, cum ea sua sponte agit, &amp; quae sequuntur. Et paucis interpositis subdidit. Agit enim ea qui 
+      <lb ed="#P" n="50"/>bus accidit vt sint iusta atque iniusta. Quando quispiam inuitus aut ignorantia agit iniustum hoc est 
+      <lb ed="#P" n="51"/>per accidens. Si quispiam inuitus seipsum laedat, iniustum per accidens sibi facit. At si quis iniuriam 
+      <lb ed="#P" n="52"/>facit per se loquendo quis iniuriam patitur &amp; si quis agit ius similiter ius quis patitur. Fieri enim non 
+      <lb ed="#P" n="53"/>potest (inquit in litera) vt quispiam patiatur iniuriam &amp; nemo iniuriam faciat. Itidem vt patiatur 
+      <lb ed="#P" n="54"/>ius &amp; nemo faciat ius. Nam relatiue dicuntur iniuriam facere &amp; iniuriam pati, &amp; passio est effectus 
+      actio<lb ed="#P" n="55" break="no"/>nis. Similiter iniustum facere &amp; iniustum pati, sed iniustum facere &amp; iniustum pati sunt 
+      communio<lb ed="#P" n="56" break="no"/>ra. Ergo conditionales istae nouissimo propositae sunt verae. Item in eis oppositum consequentis 
+      ante<lb ed="#P" n="57" break="no"/>cedenti repugnat: igitur sunt consequentiae bonae, &amp; per consequens etiam propositiones verae. lusta ergo &amp; 
+      iniu<lb ed="#P" n="58" break="no"/>sta &amp; agendo &amp; patiendo conformiter se habent. Sequitur in litera, quod si simpliciter iniuriam facere occurrat. 
+      <lb ed="#P" n="59"/>Recens quaestio vtrum fieri queat vt quispiam sibiipsi iniuriam faciat, &amp; omnino an aliquis vltro &amp; sua spon 
+      <lb ed="#P" n="60"/>te iniuriam patiatur. Et aliquibus mox ita videri potest. Primo quia diffinitio eius quod est iniuriam facere est 
+      <!--190.xml-->
+      <pb ed="#P" n="87-r"/>
+               <lb ed="#P" n="1"/>vbluntariae aliquem laedere, sed sua sponte laedere est ipsum laedentem scientem laedere: scientem dico &amp; quem 
+      <lb ed="#P" n="2"/>&amp; quo instrumento &amp; quo modo, cum incontinens siue intemperans sua sponte sibi noceat vtpotem qui 
+      <lb ed="#P" n="3"/>se cognoscit &amp; quid operatur profundendo suas opes meretrici, quam deperit: ergo ipse incontinens 
+      <lb ed="#P" n="4"/>vltro sibi iniuriam facit cum se infortunis laedat: igitur fieri contingit vt quispiam sciens sibiipsi 
+      in<lb ed="#P" n="5" break="no"/>iuriam faciat, quod dubitabatur. Secundo fieri potest vt incontinens ob suam concupiscentiam ab alio 
+      <lb ed="#P" n="6"/>sponte quidem vt a scorto nocere volenti patiatur, quare eodem modo ab seipso iniuriam patietur, 
+      <lb ed="#P" n="7"/>&amp; sic fieri potest vt quis voluntarie iniuriam patiatur. Huiusce quaestionis haec ponitur solutio. Non  
+      <lb ed="#P" n="8"/>bene diffinitur iniuriam facere esse sua sponte quempiam laedere, sed addendum venit scientem quem. 
+      <lb ed="#P" n="9"/>quo. quomodo praeter illius voluntatem qui laeditur. Quocirca nihil prohibet quempiam sua sponte 
+      <lb ed="#P" n="10"/>laedi &amp; iniusta pati, patet in casu intemperantis suas fortunas in meretricem profundentis. Hoc ipsum 
+      <lb ed="#P" n="11"/>in materia Glauci apud Homerum in lliade patet: de qua paulo mox dicetur, sed nemo sua sponte 
+      <lb ed="#P" n="12"/>iniuriam patitur neque incontinens ipse de quo in argumento habita est mentio, sed praeter 
+      volunta<lb ed="#P" n="13" break="no"/>tem id agit, hoc est sibi nocendo. Nemo vult illud quod non putat vtile, &amp; bonum. Voluntas non 
+      fer<lb ed="#P" n="14" break="no"/>tur communiter nisi in bonum saltem putatum in volendo vti alias locupletius declarauimus. 
+      Ap<lb ed="#P" n="15" break="no"/>petit vnum incontinens, scilicet explere libidinem, alterum refugit absolute, scilicet suas profundere 
+      <lb ed="#P" n="16"/>opes: tamen ob voluptatem quam putat esse sibi vtilem, vult opum sustinere iacturam, ita quod pluris 
+      <lb ed="#P" n="17"/>voluptatem faciat quam fortunas expensas. In cuius argumentum si pecuniae ingens excessus a 
+      meretri<lb ed="#P" n="18" break="no"/>ce petatur resilit, vt de Demosthene oratorum clarissimo referunt, qui Laide petente pro concubitu ta 
+      <lb ed="#P" n="19"/>lentum noluit ita care emere poenitere, sed de incontinente &amp; quo modo extra affectum &amp; in affectio 
+      <lb ed="#P" n="20"/>ne concupiscentiae iudicat in septimum ssi fata sinant) loqui proponimus. Neque ab altero quis 
+      pati<lb ed="#P" n="21" break="no"/>tur iniuriam volens dato quod alteri plusquam par sit tribuat de suis seipsum laedens. Quemadmodum 
+      fe<lb ed="#P" n="22" break="no"/>cit Glaucus Homericus Diomedi, vni quinque bellacium Graecorum qui troiam oppugnarunt: de quo 
+      <lb ed="#P" n="23"/>Homerus vates canit. 
+      <lb ed="#P" n="24"/>Proque nouem centum, &amp; pro ferro tradidit aurum. 
+    </p>
+            <p xml:id="JMAet9-d23174-d1e272">
+               <lb ed="#P" n="25"/>⁋ Glaucus iniuriam non est passus cum sua arma autea pro aereis &amp; precio centum boum aestimata 
+      <lb ed="#P" n="26"/>pro nouem aestimatis permutauerit, cum id facere in ipso collocatum esset. Conclusio. Non est situm 
+      <lb ed="#P" n="27"/>in facultate hominis vt iniuriam patiatur, quia non est in eius potestate vt quis illi iniuriam inferat. 
+      <lb ed="#P" n="28"/>Siquidem quia passio ab agente dependet, requiritur aliquis qui illi iniuriam inferat 
+    </p>
+            <p xml:id="JMAet9-d23174-d1e284">
+               <lb ed="#P" n="29"/>⁋ Dubitatur circa diffinitionem eius quod est iniuriam facere quam philosophus dat. Videtur enim 
+      <lb ed="#P" n="30"/>ex ea sequi quod non est in facultate viri facere alteri iniuriam. Patet non est penes facientem vt ille cui 
+      <lb ed="#P" n="31"/>iniuria irrogatur velit nolit ve. Rendetur concedendo quod complete ratio iniuriae dependet ab agente &amp; patientem, tamen 
+      <lb ed="#P" n="32"/>actio illa quae est iniuria complete malitiam habet ab agente, sicut ab eo fit, licet ipsam taliter denominari ab 
+      ex<lb ed="#P" n="33" break="no"/>trinseco dependeat.
+    </p>
+            <p xml:id="JMAet9-d23174-d1e297">
+               <pc type="pilcrow">¶</pc> Sequitur in itra eiusdem capitis. Insuper ex his quae proposuimus haec duo restant circa iustitiam &amp; 
+      <lb ed="#P" n="34"/>iniustitiam discutiendas. Hoc est examinare ops de duobus in medium allatis. Prius est vter iniuriam facit an ille qui 
+      <lb ed="#P" n="35"/>praeter dignitatem dat, vt Glaucus an is qui illd ha &amp; incipit vt Diomedes. Seudm iterum an fieri quaeat vt quis 
+      sibi<lb ed="#P" n="36" break="no"/>ipsi iniuriam faciat.
+    </p>
+            <p xml:id="JMAet9-d23174-d1e309">
+               <pc type="pilcrow">¶</pc> Ad priorem quaestionem an iudex plus tribuendo vni quam alteri aequamlium de bonocommuni peccet. 
+    </p>
+            <p xml:id="JMAet9-d23174-d1e315">
+               <lb ed="#P" n="37"/>⁋ Ad negatiuam partem argumentor, quia illo dato sequitur quod iudex sibiipsi potet facere iniuriam, se, hoc es inconveniens. 
+      <lb ed="#P" n="38"/>Qui sequatur pte, poest minora sibi qui maioribus dignus est quam alteri, pari in bonitate dare. Se quilibet laudat tales vo 
+      <lb ed="#P" n="39"/>cans eos bonos moderatores &amp; aequos: ergo plus capiens &amp; non plus vni parti dans, deliquit. Hoc diluit prio, an 
+      <lb ed="#P" n="40"/>ne hoc simplex es, hoc non est simpiciter verum, set plus dat de bono fortunae, &amp; miori bono, &amp; plus sibi capit de 
+      <lb ed="#P" n="41"/>glia &amp; bono honesto. Sedo hoc diluit ex diffinitione faciendi iiuriam. Nam iste distributor nihil praeter suam 
+      vo<lb ed="#P" n="42" break="no"/>luntatem patitur proinde non fit ei iniuria, st, laeditur tantum si sibi minus capit.
+    </p>
+            <p xml:id="JMAet9-d23174-d1e331">
+               <pc type="pilcrow">¶</pc> Alia conclo quamquam ita est quod alii plus dando 
+      <lb ed="#P" n="43"/>alicui fit iniuria is qui voluntarie distribuit citius iniuriam facit non autem is qui plus capit. Hanc conclonem trifariam 
+      <lb ed="#P" n="44"/>probat. Ille plus peccat in quo est pricipium actionis &amp; volens facit iiustum quam recipiens sicut est de distribuente: igitur. 
+      <lb ed="#P" n="45"/>signanter quando recipiens non multum ad illam iniustam distributionenscooperartur. Sedo multifariam dicitur quis iniuriam 
+      fa<lb ed="#P" n="46" break="no"/>cere. Vno mon sicut causa pricipalis, alio mo sicut instrumenta faciunt, quo mo dicimus quod exprtia aiae vt 
+      en<lb ed="#P" n="47" break="no"/>sis &amp; spiculum &amp; manus &amp; seruus occidit hero iubente. Instrumenta non iniuriam, se iniustum materiair potius 
+      <lb ed="#P" n="48"/>agunt, quia seruus facit vetitum ex lege, ergo iniustum. Consequentia est nota ex his quae dicuntur in fine septimi 
+      capi<lb ed="#P" n="49" break="no"/>tis, sed domns qui mandat potius iniuriam, facit, quia sua sponte non autem seruus, sic in proposito, non qui plus sibi 
+      distri<lb ed="#P" n="50" break="no"/>butum accipit. peccat. Tertio. Saepius contingit vt qui plus voluntarie distribuit, dum cuipiam iniuria fit, plus ha 
+      <lb ed="#P" n="51"/>quam qui accipit. Nam si quis ignorans plus alteri adiudicauit ignoratione quidem legitimi iusti non facit iniuriam 
+      <lb ed="#P" n="52"/>per se simpliciter, tamen iudicium est iniustum per accidens &amp; materiait. De iusto legitimo loquitur, in quod cadit ignoram 
+      <lb ed="#P" n="53"/>tia, quia in iustum, primum hoc est naturale, non cadit ignorantia, illud est hominis menti a deo impressum vt ane 
+      <lb ed="#P" n="54"/>retulimus. Ediuerso si cognoscens illud aut ob gratiam aut vindictam iniuste iudicauit &amp; adhuc 
+      in<lb ed="#P" n="55" break="no"/>iuria eius quod distributum est partem accipit plus habet quam ille cui distribuit, vt dum malo iudicio ad 
+      <lb ed="#P" n="56"/>iudicauit alicui fundum aut domum &amp; partem capit non quidem quod fundum capiat aut eius partem, sed  
+      <lb ed="#P" n="57"/>argentum aut aliquid huiusmodi. Igitur non mirabere si distributor plus faciat iniuriam dum cuipiam fit 
+      in<lb ed="#P" n="58" break="no"/>iuria &amp; non is qui plus accipit, hoc enim modo qui sacerdotium idoneo confert praetermisso magis ido  
+      <lb ed="#P" n="59"/>neo peccat, &amp; fortasse accipiens non peccat dum modo non cooperatur, esto quod se minus idoneum quam 
+      <lb ed="#P" n="60"/>alium nouerit, dum modo sit idones. Post haec reprobat tres falsas opiniones, quarum prima in conclusione 
+      se<lb ed="#P" n="61" break="no"/>quenti capitur. Sequitur ergo alia conclusio. Non est facile iniustum esse vt vulgus hominium arbitratur, hoc autem non sic sese 
+      <lb ed="#P" n="62"/>ha. Coire namque cum vxore proximi &amp; pulsare proximum &amp; dare argentum manu est facile &amp; collocatur in ipsis, 
+      ve<lb ed="#P" n="63" break="no"/>rum sic se habentes hoc agere, hoc est ex habitu iniustitiae propte &amp; delectabilr, neque facile est neque in ipsie 
+      <lb ed="#P" n="64"/>statim situm, etiam ad hoc longa consuetudine peruenitur. Secundam deliram opinionem confutat. 
+      <!--191.xml-->
+      <pb ed="#P" n="87-v"/>
+            </p>
+            <p xml:id="JMAet9-d23174-d1e389">
+               <lb ed="#P" n="1"/>⁋ Alia conclusio. Cognoscere iusta &amp; iniusta falso aliqui nullam sapientiam putant, quoniam de 
+      qui<lb ed="#P" n="2" break="no"/>bus rebus leges loquuntur eas res non est difficile intelligere, at haec non sunt iusta nisi per accidens, 
+      <lb ed="#P" n="3"/>sed tunc sunt iusta, dum quodam modo aguntur atque certo modo distribuuntur. Et sane illud est 
+      dif<lb ed="#P" n="4" break="no"/>ficilius quam ea quae sanitatem efficiunt cognoscere. Maior est diuersitas actuum animae quam habitudinum 
+      <lb ed="#P" n="5"/>corporis: Esse excellenter ad habitum iustitiae promptificatum est &amp; inuentu rarum, latinum loqui 
+      <lb ed="#P" n="6"/>non est difficile, latine loqui difficile, secundo Ethicorum. In medicinis enim &amp; curandae valitudinis 
+      <lb ed="#P" n="7"/>arte &amp; mel &amp; vinum &amp; elleborum &amp; adustionem ac incisionem cognoscere est facile, sed qua via ad pa 
+      <lb ed="#P" n="8"/>randam sanitatem, &amp; cui &amp; quando &amp; quomodo applicanda sunt, &amp; in quo planetarum aspectu 
+      phar<lb ed="#P" n="9" break="no"/>maca sint capienda, est perdifficile. Tanta profecto difficultas est scire quanta est medium hic tenere. 
+      <lb ed="#P" n="10"/>Ita quoque in iustis &amp; iniustis pernoscendis est. 
+    </p>
+            <p xml:id="JMAet9-d23174-d1e414">
+               <lb ed="#P" n="11"/>⁋ Alia conclusio qua carpitur tertia falsa opinio, est haec. Aliqui falso dicunt iustum non minus pos 
+      <lb ed="#P" n="12"/>se iniuriam iniuste agere quam iniustum, &amp; ob idipsum hoc putant quod non minus immo magis vir 
+      iu<lb ed="#P" n="13" break="no"/>stus vnumquodque horum vt alterius thorum temerare, alium ferire facere potest, &amp; vir fortis in acie 
+      <lb ed="#P" n="14"/>clypeum proiicere &amp; fugiendo decedere, quam si esset iniustus ac meticulosus. Haec facere non est iniuriam, 
+      <lb ed="#P" n="15"/>&amp; iniuste agere at timide agere nisi per accidens. sed tunc iniuste iniuriamque facit cum ea ex electiuo 
+      <lb ed="#P" n="16"/>habitu sicque se habens facit, quemadmodum aliquem scire mederi non est incidere aut non incidere. 
+      <lb ed="#P" n="17"/>medicinas porrigere, aut non porrigere: sed tali artificio haec facere. Vltima huius capitis conclusio 
+      <lb ed="#P" n="18"/>est. lusta in his versantur quibus assunt secundum se simpliciter bona, hoc est opes &amp; honores, nam 
+      <lb ed="#P" n="19"/>iusta iis insunt quibus bona assunt secundum magis &amp; minus, excessum &amp; defectionem habentia. Ex 
+      <lb ed="#P" n="20"/>Aristotelica officina haec distinctio emersit, Bona maxima sunt animi flosculi, bona corporis sunt 
+      me<lb ed="#P" n="21" break="no"/>diocria, bona fortune vilissima. In primis bonis non est excessus, in extremis &amp; exuperatio atque 
+      defe<lb ed="#P" n="22" break="no"/>ctio. Per hasce particulas excessum ac defectum se de extrariis bonis loqui subindicat, vt superius 
+      di<lb ed="#P" n="23" break="no"/>ximus. Opes non sunt mala simpliciter nec indifferentia bona sunt quantum est ex parte eorum 
+      qui<lb ed="#P" n="24" break="no"/>busdam externis bonis non est superexcessus vt diis hoc est heroibus qui optime opulentiam 
+      parti<lb ed="#P" n="25" break="no"/>untur, quibusdam vero nulla pars fortunarum est vtilis, vt insanabilibus qui diuitiis abutuntur, 
+      il<lb ed="#P" n="26" break="no"/>lis effluentia est toxicum, fomentum vitiorum subministrant. Omnia incurabilibus obsunt, 
+      quibus<lb ed="#P" n="27" break="no"/>dam vero ad aliquem terminum vsque tam excedendo quam deficiendo. Hoc est affluentia opum talibus 
+      <lb ed="#P" n="28"/>obest item &amp; earundem poenuria. Atque hoc nouissimum est humanum, primum vero semideorum 
+      <lb ed="#P" n="29"/>&amp; heroum, medium vero est illorum qui sunt deploratae malitiae. Non loquor de vere inopibus qui 
+      <lb ed="#P" n="30"/>omnia propter Christum reliquerunt. 
+    </p>
+            <p xml:id="JMAet9-d23174-d1e460">
+               <lb ed="#P" n="31"/>⁋ Dubitatur quid est iniustum facere per se, &amp; quid per accidens similiter pati. Secundo an quis patiatur 
+      <lb ed="#P" n="32"/>iniustum volens. Tertio an omnis iniustum faciens sit iniustus.
+    </p>
+            <p xml:id="JMAet9-d23174-d1e467">
+               <pc type="pilcrow">¶</pc> Quarto dubitatur de 
+      comparatio<lb ed="#P" n="33" break="no"/>ne medicinae &amp; iustitiae an difficilius sit esse iustum quam esse peritum medicum. Quinto an iudex 
+      corru<lb ed="#P" n="34" break="no"/>ptus sententiam ferens iniustam pro parte corrumpente grauius delinquat &amp; pars corrumpens. 
+      Se<lb ed="#P" n="35" break="no"/>xto dubitatur de ipsis diis qui &amp; quomodo ponantur ab Aristotele. Vltimo an iudici liceat contra 
+      ve<lb ed="#P" n="36" break="no"/>ritatem agnitam sequendo proposita &amp; probata iudicare.
+    </p>
+            <p xml:id="JMAet9-d23174-d1e481">
+               <pc type="pilcrow">¶</pc> Ad primam dubitationem respondetur, 
+      <lb ed="#P" n="37"/>quod ille facit iniustum per se qui vult ex electione se aut suos habere plus quam par sit de bonis, &amp; minus 
+      <lb ed="#P" n="38"/>quam ratio flagitat in malis poenae. Talis actus voluntatis semper est malus. Ille facit iniustum per 
+      acci<lb ed="#P" n="39" break="no"/>dens, qui vult se vel suos ea bona habere quae de facto habendo plus habet quam debet vel vult alterum 
+      <lb ed="#P" n="40"/>ea tantum habere quae habendo de facto habet minus quam debet, licet nolit ex electione eum habere 
+      mi<lb ed="#P" n="41" break="no"/>nus quam debet, sicut nec ex electione vult seipsum habere plus quam par sit, &amp; in tali potest esse non 
+      pecca<lb ed="#P" n="42" break="no"/>tum ob ignorationem inuincibilem. Istud iniustum per accidens a multis iniustum materialiter 
+      vo<lb ed="#P" n="43" break="no"/>catur. Proportionabiliter diffiniendum est iniustum pati per se &amp; per accidens.
+    </p>
+            <p xml:id="JMAet9-d23174-d1e502">
+               <pc type="pilcrow">¶</pc> Ad secundam dubi 
+      <lb ed="#P" n="44"/>tationem respondetur, quod interdum potest homini fieri iniustum siue iniuria ipso consentiente, 
+      pri<lb ed="#P" n="45" break="no"/>mo quando voluntas est tacita non expressa vt si Titius expetens damnum Sempronii vicini, quem 
+      <lb ed="#P" n="46"/>odio prosequitur eius equum quem ipse Sempronius tacite vult interimi, interimit, &amp; sic 
+      Sempro<lb ed="#P" n="47" break="no"/>nius iacturam incurrit, haec voluntas tacita non dedit facultatem Titio vicino vt ipse impune equum 
+      <lb ed="#P" n="48"/>occidat, si tamen ipse Sempronius praecepisset equum suum trucidare vterque peccasset, sed in foro 
+      hu<lb ed="#P" n="49" break="no"/>mano Titius non fuisset coactus equum restituere, aut eius valorem. Secundo quis patitur 
+      iniuri<lb ed="#P" n="50" break="no"/>am volens quando eius voluntas est ligata vt in pueris &amp; infirmis qui cupiunt sibi nociua. qui 
+      pue<lb ed="#P" n="51" break="no"/>rum infrenem viuere sine disciplina sinit puero iniuriam facit quam cupit ipse puer, sic grauiter 
+      in<lb ed="#P" n="52" break="no"/>firmus vt calida febre laborans continuo bibere appetit in sui perniciem. 
+    </p>
+            <p xml:id="JMAet9-d23174-d1e527">
+               <lb ed="#P" n="53"/>⁋ Contra hoc obiicitur. Ratio incontinentis ligatur tempore concupiscentiae: igitur si ab amasia damnificet volens, ipse 
+      <lb ed="#P" n="54"/>iniuriam patietur volens, cuius oppositum ponit Aristoteles. Rnsio, poterat incontinens obuiam ire impetui 
+      affe<lb ed="#P" n="55" break="no"/>ctus ne sua ratio ligaretur, ideo imputabitur ei ac si libere id voluerit tempore concupiscentiae, sed de hoc 
+      <lb ed="#P" n="56"/>in septimum lib. latius. Aliqui tertium casum addunt quando voluntas non est integra, sed partialis, hoc est quando non  
+      <lb ed="#P" n="57"/>cadit super actionem, sed passionem, sic Christus &amp; martyres volebant pati non tamen volebant alios eos ferire, quia 
+      <lb ed="#P" n="58"/>hoc esset malum. Sed illud membrum est nullum si volebant pati mortem, volebant directe vel indirecte aliquos 
+      <lb ed="#P" n="59"/>eis mortem inferre, indirecte adieci, licet enim sequatur, iste patitur ergo ab aliquo patitur, antecedens poet esse 
+      vo<lb ed="#P" n="60" break="no"/>litum non autem consequens. Secundo sancti nolebant sic categoricepati. displicebat hoc eis, displicet enim 
+      <lb ed="#P" n="61"/>viro forti sua mors, vt patet in tertio Ethicorum in materia fortitudinis, praeeligunt tamen 
+      accepta<lb ed="#P" n="62" break="no"/>re conditionem mortis quam deserere fidem &amp; iustitiam. Sub hoc membro potest includi volitum inuo 
+      <lb ed="#P" n="63"/>luntario admixtum, vt eiicere merces in mare gratia exonerandae nauis, talis plus habet de volito quam 
+      <lb ed="#P" n="64"/>de nolito tertio Ethicorum, perinde vt in dante pecuniam latroni ne occidatur. 
+    </p>
+            <p xml:id="JMAet9-d23174-d1e557">
+      <!--192.xml-->
+               <pb ed="#P" n="88-r"/>
+               <lb ed="#P" n="1"/>⁋ Pro tertia dubitatione respondetur quod omne iniustum facere est alteri nocumentum inferre, sed  
+      <lb ed="#P" n="2"/>non omne nocumentum inferre est iniustum facere, quia non omne damnum illatum est iniustum. 
+      <lb ed="#P" n="3"/>nocumentum enim fit homicidae grassatori eum perimendo, non tamen fit illi iniustum. Trifatiam 
+      <lb ed="#P" n="4"/>nocumentum contingit. patet paucis repetendo quaedam quae octauo capite dicta sunt &amp; alia 
+      adden<lb ed="#P" n="5" break="no"/>do, scilicet ex ignorantia affectione &amp; electione. Ignorantiam in inuincibilem &amp; vincibilem 
+      distinxi<lb ed="#P" n="6" break="no"/>mus, &amp; rursus vincibilem in affectatam &amp; crassam partiuimus. Nocumentum ex ignorantia affectata 
+      <lb ed="#P" n="7"/>ad nocumentum ex electione vel affectu reducitur, secundum quod ignorantia est volita ob electionem, 
+      <lb ed="#P" n="8"/>aut affectum. Proinde duplex tantum remanet nocumentum ex ignorantia contra alia duo distinctum. 
+      <lb ed="#P" n="9"/>Nocumentum ex affectu est duplex secundum quod duplex est affectus, scilicet naturalis vel humanus 
+      si<lb ed="#P" n="10" break="no"/>ue necessarius, &amp; habitualis. Diciturque affectus habitualis qui ex habitu prauo innascitur, secundum 
+      <lb ed="#P" n="11"/>quem homo mox obiecto praesente mouetur in ipsum, vti vides in assuetis iurare ex habitu ad iuran 
+      <lb ed="#P" n="12"/>dum pronos. Affectus autem naturalis ex sensibus naturalibus emergit, vt timor, spes, gaudium &amp; 
+      <lb ed="#P" n="13"/>huiusmodi. Et affectus naturalis rursus diuiditur: quidam enim retinet sibi nomen commune, qui 
+      <lb ed="#P" n="14"/>iam dictus est, &amp; dicitur naturalis. Alius dicitur humanus siue necessarius qui in hominis natura ori 
+      <lb ed="#P" n="15"/>ginem habet, vt sitis, fames, infirmitas &amp; huiusmodi. Sancti non discedunt a sententia philosophi 
+      <lb ed="#P" n="16"/>aliis verbis peccata diuidentes. Dicunt enim quod peccantes, vel ex infirmitate &amp; impotentia peccant, 
+      <lb ed="#P" n="17"/>vel ex ignorantia, vel a certa scientia. primum peccatum est in patrem, quia est contra eius appropria 
+      <lb ed="#P" n="18"/>tum scilicet potentiam. Secundum in filium, quia est contra eius appropriatum scilicet sapientiam, filius 
+      <lb ed="#P" n="19"/>enim est patris sapientia. Tertii ex electione &amp; ex industria peccantes dicuntur in spiritumsanctum pec 
+      <lb ed="#P" n="20"/>care, quia contra eius appropriatum delinquunt hoc est contra bonitatem, &amp; isti pessime peccant quorum 
+      <lb ed="#P" n="21"/>pecatum a sanctis &amp; doctoribus in fine secundi sententiarum dicitur irremissibile, ob eius malitiam. 
+      Ali<lb ed="#P" n="22" break="no"/>ter in euangeliis peccatum in spiritum sanctum exposuimus, nunc autem vt plures loquimur. His 
+      <lb ed="#P" n="23"/>enarratis respondetur conclusiue ad dubitationem, omnes iniustum facientes. Peccantes ex electione vel 
+      exi<lb ed="#P" n="24" break="no"/>guo affectu sunt iniusti. Patet, tales ex habitu iniustitiae &amp; certo proposito iniustum agunt proinde 
+      <lb ed="#P" n="25"/>sunt iniusti per aristotelem sepius in litera, &amp; secundum sanctos grauissime delinquunt, &amp; cum 
+      igno<lb ed="#P" n="26" break="no"/>rantia affectata ad hoc reducatur, perinde est de ea ac de illo ad quod reducitur. 
+    </p>
+            <p xml:id="JMAet9-d23174-d1e620">
+               <lb ed="#P" n="27"/>⁋ Secunda conclusio iniustum faciens ex graui affectu vel ex ignorantia crassa vel supina peccat, non  
+      <lb ed="#P" n="28"/>tamen est iniustus, quia iniustus est admodum prauus quemadmodum non est iste. 
+    </p>
+            <p xml:id="JMAet9-d23174-d1e627">
+               <lb ed="#P" n="29"/>⁋ Contra priorem conclusionem obiicitur sic. Secundum Dionysium de diuinis nominibus nemo 
+      <lb ed="#P" n="30"/>respicit ad malum volens ergo nemo potest velle malum cognitum tale: ergo nemo peccat ex certa 
+      <lb ed="#P" n="31"/>scientia.
+    </p>
+            <p xml:id="JMAet9-d23174-d1e636">
+               <pc type="pilcrow">¶</pc> Respondetur bifariam. Primo quod peccare ex certa scientia, ex industria vel ex malitia non 
+      <lb ed="#P" n="32"/>est aliud quam non habere impulsum sensualitatis (cui voluntas condescendit facile) inclinantem 
+      ho<lb ed="#P" n="33" break="no"/>minem ad male agendum, nec habere ignorantiam in intellectu &amp; cum hoc potest esse apparentia 
+      bo<lb ed="#P" n="34" break="no"/>ni alicuius in obiecto.
+    </p>
+            <p xml:id="JMAet9-d23174-d1e648">
+               <pc type="pilcrow">¶</pc> Alio modo dicitur quod regulariter nemo aspicit ad malum, volens: tamen vo 
+      <lb ed="#P" n="35"/>luntas aliter facere potest ex sua foecunditate &amp; plenitudine potestatis suae vti superius in quadam du 
+      <lb ed="#P" n="36"/>bitatione meminimus. 
+    </p>
+            <p xml:id="JMAet9-d23174-d1e658">
+               <lb ed="#P" n="37"/>⁋ Contra secundam conclusionem arguitur sic, omnis iniustum faciens peccat &amp; nullo alio peccato 
+      <lb ed="#P" n="38"/>quam iniustitia, sed omnis talis est iniustus. Insuper omnis faciens iniustum volens est iniustus: at omnis 
+      <lb ed="#P" n="39"/>iniustificans facit iniustum volens: igitur. Probatio maioris, quia sicut iustitia est habitus a quo 
+      ope<lb ed="#P" n="40" break="no"/>ratiui sunt iustorum &amp; iusta operantur &amp; volunt iusta, ita iniustitia est a qua operatiui sunt iniustorum 
+      <lb ed="#P" n="41"/>&amp; volunt iniusta.
+    </p>
+            <p xml:id="JMAet9-d23174-d1e672">
+               <pc type="pilcrow">¶</pc> Ad priorem rationem dicitur quod variis modis contra iustitiam peccatur absque hoc 
+      <lb ed="#P" n="42"/>quod quis sit iniustus: sufficit facere iniustum.
+    </p>
+            <p xml:id="JMAet9-d23174-d1e680">
+               <pc type="pilcrow">¶</pc> Ad secudum argumentum concedo habitum iniustitiae 
+      <lb ed="#P" n="43"/>inclinare ad iniusta, sed iniustus electione operatur iniuste vt ex dictis patet, iniustum facere ex 
+      habi<lb ed="#P" n="44" break="no"/>tu prompte &amp; delectabiliter est actus iniustitiae &amp; non qualitercunque iniustum facere. Nomina 
+      signifi<lb ed="#P" n="45" break="no"/>cant ad placitum: si Aristoteles &amp; philosophi illius tempestatis ad dies nostros in philosophia vsi 
+      <lb ed="#P" n="46"/>sunt vocabulis. 
+    </p>
+            <p xml:id="JMAet9-d23174-d1e694">
+               <lb ed="#P" n="47"/>⁋ Ad quartam dubitationem respondetur vtrunque est perdifficile nec vnam difficultatem 
+      <lb ed="#P" n="48"/>Aristoteles alteri praefert, sed quia hoc in litera tangit occasionaliter quaestionem mouet. In  
+      <lb ed="#P" n="49"/>primis iustitia non fit nisi circa exteriora, de actibus enim occultis animae non est iustitia in foro 
+      ex<lb ed="#P" n="50" break="no"/>teriori, sed solum in foro interiori, vbi euangelicus sacerdos credit homini sua occulta denudanti, &amp; 
+      <lb ed="#P" n="51"/>in eo foro dignoscere lepram a non lepra est perdifficile, quia tenebrosiora sunt vulnera mentis quam 
+      <lb ed="#P" n="52"/>corporis. Sed de hac via non loquitur Aristoteles, quoniam scelera sacerdoti denudare nec est de lege 
+      <lb ed="#P" n="53"/>naturae nec fuit de lege Mosaica. Credo tamen esse difficilius, probum esse iudicem quam esse peritum 
+      me<lb ed="#P" n="54" break="no"/>dicum. oportet enim iudicem in legibus esse peritum, &amp; scire vti aequitate quando par est &amp; cum hoc 
+      <lb ed="#P" n="55"/>in mari saeuienti existens miris fluctibus frangendae iustitiae exponitur, nunc procellarum minae iudi 
+      <lb ed="#P" n="56"/>cem territant, nunc fauor blandiens, nunc vero munera (quae oculos prudentum excaecant) 
+      offerun<lb ed="#P" n="57" break="no"/>tur. Munera crede mihi placant hominesque deosque, dicit naso. Eauor nunc vnius partis, nunc odium 
+      <lb ed="#P" n="58"/>alterius, quare iudicium rectum timore, amore, &amp; odio immutare solet. Vnde Aristoteles secundo 
+      <lb ed="#P" n="59"/>rethoricae dicit, non eadem videntur amantibus &amp; odientibus, neque iratis &amp; se mansuete habentibus. 
+      <lb ed="#P" n="60"/>Medico autem sanare plurima inuitant, occidere paucissima aut nulla, lucrum voluptas, honos, ad sa 
+      <lb ed="#P" n="61"/>nitatem instigant.
+    </p>
+            <p xml:id="JMAet9-d23174-d1e729">
+               <pc type="pilcrow">¶</pc> Pro quinta dubitatione notetur homines quadrifatiam iniustum faciunt 
+      pro<lb ed="#P" n="62" break="no"/>ut recitatur, vndecima quaestione quarta, capitulo quarto, timore cupiditate amore &amp; odio. In 
+      duo<lb ed="#P" n="63" break="no"/>bus primis iudex habet oculum ad se, &amp; dicitur per partem corrumpi in duobus vltimis ad 
+      <lb ed="#P" n="64"/>partes respicit &amp; non corrumpitur ab extrinseco, sed a se: ideo eas relinquemus in titulo dubii. 
+      <!--193.xml-->
+      <pb ed="#P" n="88-v"/>
+               <lb ed="#P" n="1"/>His praegustatis respondetur per propositiones: quarum prima est. ludex cupiditate corruptus plus 
+      <lb ed="#P" n="2"/>peccat quam timore corruptus. Probatio, peccatum tanto est grauius quanto est magis voluntarium. 
+      Mo<lb ed="#P" n="3" break="no"/>do peccatum ex cupiditate est magis voluntarium quam peccatum ex timore: nam qui ex timore 
+      opera<lb ed="#P" n="4" break="no"/>tur ille quodammodo inuitus &amp; cum displicentia operatur, signanter si est iustus timor. Hinc timor 
+      <lb ed="#P" n="5"/>cadens in constantem virum impedit matrimonium contrahendum &amp; dirimit contractum, non 
+      au<lb ed="#P" n="6" break="no"/>tem cupiditas.
+    </p>
+            <p xml:id="JMAet9-d23174-d1e759">
+               <pc type="pilcrow">¶</pc> Secunda propositio. ludex cupiditate corruptus plus peccat quam pars corrumpens, cum 
+      <lb ed="#P" n="7"/>iudex obligetur iure communi sicut &amp; pars, &amp; cum hoc iure speciali tanquam iudex, igitur plus peccat. 
+    </p>
+            <p xml:id="JMAet9-d23174-d1e767">
+               <lb ed="#P" n="8"/>⁋ Tertia propositio. ludex magno timore corruptus minus peccat quam pars corrumpens. Patet quia 
+      <lb ed="#P" n="9"/>eius peccatum est minus voluntarium. Eius enim actus est mixtus ex voluntario &amp; 
+      inuolunta<lb ed="#P" n="10" break="no"/>rio, partis autem actus pure voluntarius. Hinc Pilatus timore perdendi officii Christum inique 
+      iu<lb ed="#P" n="11" break="no"/>dicans, minus peccauit quam ludas &amp; ludaei tradentes Christum Pilato, secundum verbum Christi ad 
+      pi<lb ed="#P" n="12" break="no"/>latum loannis vndeuigesimo. Qui me tradidit maius peccatum habet.
+    </p>
+            <p xml:id="JMAet9-d23174-d1e781">
+               <pc type="pilcrow">¶</pc> Contra illud argumentor. 
+      <lb ed="#P" n="13"/>Plus peccat qui in plures peccat, at pars corrumpens in plures peccat quam iudex, quia in iudicem quem 
+      <lb ed="#P" n="14"/>ad peccatum inducit, &amp; etiam in partem aduersam, iudex autem peccat tantum in partem.
+    </p>
+            <p xml:id="JMAet9-d23174-d1e791">
+               <pc type="pilcrow">¶</pc> Secundo 
+      ma<lb ed="#P" n="15" break="no"/>gis peccat ille qui subtrahit bona animae &amp; fortunas quam auferens bona animae tantum, at pars corrumpens 
+      <lb ed="#P" n="16"/>tollit bona animae iudicis &amp; bona fortunae partis aduersae. ludex autem per iniquam sententiam sola 
+      <lb ed="#P" n="17"/>bona exteriora tollit: igitur.
+    </p>
+            <p xml:id="JMAet9-d23174-d1e803">
+               <pc type="pilcrow">¶</pc> Tertio plus peccat qui plus facit quam dimidium totius operis mali quam ille 
+      <lb ed="#P" n="18"/>qui facit residuum. At pars corrumpens iudicem est huiusmodi, facit enim principium quod videtur 
+      <lb ed="#P" n="19"/>esse plus quam dimidium totius
+    </p>
+            <p xml:id="JMAet9-d23174-d1e813">
+               <pc type="pilcrow">¶</pc> Ad primum respondetur concedendo maiorem, paritate hincinde da 
+      <lb ed="#P" n="20"/>ta iudex in vnam partem peccat quam in peccato alit, &amp; alter facit iniuriam sicut pars.
+    </p>
+            <p xml:id="JMAet9-d23174-d1e821">
+               <pc type="pilcrow">¶</pc> Ad 
+      secun<lb ed="#P" n="21" break="no"/>dum dicitur quod bona animae non possunt tolli nisi ab habente animam. Secundo iudex alendo vnam 
+      <lb ed="#P" n="22"/>partem in prauitate tollit bona animae illius sicut bona animae subtrahuntur a iudice.
+    </p>
+            <p xml:id="JMAet9-d23174-d1e831">
+               <pc type="pilcrow">¶</pc> Ad tertium 
+      <lb ed="#P" n="23"/>distinguo minorem quod pars plus facit quam dimidium totius, vel quo ad iniquitatem &amp; sic negatur, 
+      iu<lb ed="#P" n="24" break="no"/>dex enim parte inchoante est liber ad dissentire: vel quo ad difficultatem &amp; perfectionem 
+      ope<lb ed="#P" n="25" break="no"/>ris transeat, sed hoc non sufficit
+    </p>
+            <p xml:id="JMAet9-d23174-d1e844">
+               <pc type="pilcrow">¶</pc> Ad sextam haesitationem respondemus quod Prisci gentiles in thea 
+      <lb ed="#P" n="26"/>tris ac delubris statuas, simulachra &amp; similia ornamenta in illorum memoriam qui de re publica be 
+      <lb ed="#P" n="27"/>ne meriti essent posuerunt. Non alia de causa Ceres dea frugum vocabatur nisi quod hominibus 
+      glan<lb ed="#P" n="28" break="no"/>de vescentibus frumentum tradidit, ac molere, pinsere, panem facere finitimos docuit, hinc nomen deae 
+      <lb ed="#P" n="29"/>tulit. Et propter peritiam astronomicam Athlantem caelum torquere &amp; humeris sustinere finxere. 
+      <lb ed="#P" n="30"/>Et quia Aolus ventorum vtilitatem nauigantes docuit, ventorum deus fingebatur. Ita quoque 
+      Amal<lb ed="#P" n="31" break="no"/>phis seu magnes diuinos honores inter nautas meruit, quia magnetis vsum primo sulcantibus 
+      vn<lb ed="#P" n="32" break="no"/>dabundum mare monstrauit, cum antehac ad siderum obseruationem cursum dirigerent &amp; nubilo 
+      <lb ed="#P" n="33"/>caelo saepenumero errarent. Modus vulgaris hominum erat illos iam vita functos deos appellitare. 
+      <lb ed="#P" n="34"/>Recta erat generose philosophantium via vnicum deum agnoscere, sed cum vulgo hominum loque 
+      <lb ed="#P" n="35"/>bantur licet scite sapiebant. In praesenti loco per deos consideratos homines philosophus intellexit. 
+      <lb ed="#P" n="36"/>Centoculus Argus semideus dici sic meruit. Hoc inter exponendum dixerimus. 
+    </p>
+            <p xml:id="JMAet9-d23174-d1e874">
+               <lb ed="#P" n="37"/>⁋ Ad vltimam dubitationem notetur quod iudex potest habere suspitiones contra probationes testium, 
+      <lb ed="#P" n="38"/>vel certitudinem &amp; scientiam, extendendo scientiam ad euidentiam. hoc praemisso per duas 
+      conclu<lb ed="#P" n="39" break="no"/>siones respondetur, quarum prior est. ludex debet sequi testimonium testium irrefragabilium in pro 
+      <lb ed="#P" n="40"/>batione, esto quod ipse suspicetur oppositum esse verum.
+    </p>
+            <p xml:id="JMAet9-d23174-d1e885">
+               <pc type="pilcrow">¶</pc> Secunda conclusio. Probabile est quod etiam ipse 
+      <lb ed="#P" n="41"/>potest sequi depositionem testium quos refellere nequit, esto quod sciat oppositum esse verum. Prior 
+      con<lb ed="#P" n="42" break="no"/>clusio patet. Sicut enim se habent argumenta topica ad aliquam materiam in ordine ad euidentiam, 
+      <lb ed="#P" n="43"/>ita se habent suspitiones ad claras probationes, sed topicae rationes quotquot sunt euidentiae cedunt. 
+      <lb ed="#P" n="44"/>dicitur enim quod in modio rendi non est vola plena sciendi. hoc est quaecunque mensura opinionis 
+      nul<lb ed="#P" n="45" break="no"/>lum gradum scientificum attingit.
+    </p>
+            <p xml:id="JMAet9-d23174-d1e902">
+               <pc type="pilcrow">¶</pc> Secunda conclusio probatur, quia opposito dato aperietur via 
+      <lb ed="#P" n="46"/>iniquo iudici post omnem testium depositionem ad placitum iudicandi, dicendo quod ipse in occulto no 
+      <lb ed="#P" n="47"/>uit oppositum, &amp; sic semper esset tergiuersatio in iudicio, quod est inconueniens. Secundo Deuterono 
+      <lb ed="#P" n="48"/>mii. xvii. In ore duorum vel trium stat omne verbum, sed iudex qui est lex animata secundum 
+      philo<lb ed="#P" n="49" break="no"/>sophum, habet Titium innocentem ostensum testimonio irrefragabili nocentem, debet aut saltem 
+      <lb ed="#P" n="50"/>potest depositionem testium sequi &amp; patet per cap. pastoralis de officio iudicis. delegati, &amp; est sententia 
+      <lb ed="#P" n="51"/>beati Ambrosii super Beati immaculati, vt patet. iii. qui. vii. cap. iudicet. ludex tamen debet testes seorsum 
+      <lb ed="#P" n="52"/>examinare more Danielis, &amp; facere quod in se est ad liberandum innocentem semper seruando ius con 
+      <lb ed="#P" n="53"/>mune &amp; legis communis conditiones. Nec valet dicere: ad iudicem superiorem mittendus est, tum quia 
+      <lb ed="#P" n="54"/>stat istum esse iudicem supremum. Tum secundo si esset iniquum sic iudicare, vitam innocentis 
+      ex<lb ed="#P" n="55" break="no"/>poneret periculo mortis quod inconuenit, nec est necessarium relinquere officium. Nihil est dicere in  
+      <lb ed="#P" n="56"/>criminalibus &amp; in magnis ciuilibus secundum veritatem iudicabit, secus est in minutis, quoniam si 
+      pro<lb ed="#P" n="57" break="no"/>cessus sit iustus idem est in magnis atque paruis. 
+    </p>
+            <p xml:id="JMAet9-d23174-d1e934">
+               <lb ed="#P" n="58"/>⁋ Contra hanc secundam conclusionem arguitur. ludicare contra veritatem est iudicare contra ius 
+      na<lb ed="#P" n="59" break="no"/>turale, quod est ius diuinum. Exodi. xxiii Non suscipies vocem mendacii, neque in iudicio plurimorum 
+      <lb ed="#P" n="60"/>acquiesces sententiae vt a veritate deuies. Secundo nullus innocens est ad mortem plectendus quando  
+      <lb ed="#P" n="61"/>est scitus talis, Titius est huinsmodi vt nouit iudex: igitur. Tertio potius debet iudex sinere 
+      scanda<lb ed="#P" n="62" break="no"/>lum oriri in republica quam veritatem deserere agnitam. Vtilius enim scandalum nasci permittitur quam 
+      <lb ed="#P" n="63"/>veritas relinquatur de re. iu. cap. qui scandalisauerit.
+    </p>
+            <p xml:id="JMAet9-d23174-d1e950">
+               <pc type="pilcrow">¶</pc> Ad primum dicitur hoc est verum nisi probe 
+      <lb ed="#P" n="64"/>tur testibus omni exceptione maioribus oppositum.
+    </p>
+            <p xml:id="JMAet9-d23174-d1e959">
+               <pc type="pilcrow">¶</pc> Ad secundum similiter respondetur.
+    </p>
+            <p xml:id="JMAet9-d23174-d1e965">
+               <pc type="pilcrow">¶</pc> Ad 
+      <!--194.xml-->
+      <pb ed="#P" n="89-r"/>
+               <lb ed="#P" n="1"/>tertium dicitur quod iudex nullam veritatem derelinquit quam tenetur insequi. Quarto tunc Pilatus fuisset sce 
+      <lb ed="#P" n="2"/>leris expers iudicando Christum. Quinto contrauenit suae conscientiae proinde iudicando peccat. Ad quartum dicitur 
+      <lb ed="#P" n="3"/>non ignorauit Pilatus contumaces iudeos inuidia &amp; sophistico testimonio procedere: hoc nihil obscure euan i 
+      <lb ed="#P" n="4"/>gelistae edocent: ingenue praeses profitebatur, nihil morte dignum inueni, in eo in cuius argumentum manus i 
+      <lb ed="#P" n="5"/>abluit, propterea grauiter peccauit iudicando Christum ad mortem. Ad quintum dicitur quod particularem conscientiam. 
+      <lb ed="#P" n="6"/>suam excutiat est persona publica: formet hoc iudicium a me secundum processum iuris est sententiandum tametsi. 
+      <lb ed="#P" n="7"/>sit persona publica ac priuata non potest habere conscientias oppositas de eodem. Caeterum iudex imprimis 
+      <lb ed="#P" n="8"/>examinabit testes, sicut fecit Daniel seniores seu praesbyteros contra Susannam: &amp; si sciat id probare testes non sunt 
+      <lb ed="#P" n="9"/>omni exceptione maiores: si nequeat tunc augetur difficultas. Alloquatur testes clanculum cum viris etiam 
+      timo<lb ed="#P" n="10" break="no"/>ratis eos retrahendo a falso testimonio: si nequeat vlla via insontem liberare non peccat ipsum condemnam 
+      <lb ed="#P" n="11"/>do. Quia iudicis causa incidit quae sine aduocatione non committitur, quaeritur ad quid aduocatus clientuli est C 
+      <lb ed="#P" n="12"/>obnoxius. Respondetur quod peccat si scienter causam iniustam tutandam suscipiat, &amp; si eam ab exordio probabi E 
+      <lb ed="#P" n="13"/>liter iustam arbitrabatur, ac temporis progressu illam iniquam deprehendit, tenetur illam deserere &amp; 
+      iniu<lb ed="#P" n="14" break="no"/>stitiam suo clienti denunciare. Norma generalis, procedens in causa post iniustitiam agnitam peccat: &amp; dannum 
+      <lb ed="#P" n="15"/>parti laesae illatam refundere deuincitur. vnde bifariam patronus iuste aut non iniuste causam suscipit, quam 
+      <lb ed="#P" n="16"/>do causa iusta putatur, vel de illius iniustitia ambigitur: patrocinatur vt discussione veritas splendescat, 
+      li<lb ed="#P" n="17" break="no"/>cet litem ancipitem cliens deserere haud tenetur: ita nec patronus suum patrocinium minime 
+      inficiabi<lb ed="#P" n="18" break="no"/>tur. Caeterum si ex sua imperitia cliens causam iustam omittat plurimum exorbitat, merita causae ab exordio 
+      <lb ed="#P" n="19"/>a clientulo expiscetur, si clientulus mentiatur, verum loco falsi propalando, iurisconsultus est excusandus, 
+      <lb ed="#P" n="20"/>si inopis causam periclitari sinat delinquit: quemadmodum homo vrgenti inopia laboranti succurrere astrin 
+      <lb ed="#P" n="21"/>gitur, ita eius iumentum e puteo extrahere obligatur &amp; eius damnum in futuro iudicio aliis negligentibus tue 
+      <lb ed="#P" n="22"/>ri. Nec incassum laborat: dominus enim illi merceserit. Demum sublimis est virtus iustitia vt in fronte 
+      hu<lb ed="#P" n="23" break="no"/>ius quinti retulimus: quo circa eius oppositum est grande nephas &amp; plurimum exprobrabile. Aristides 
+      athe<lb ed="#P" n="24" break="no"/>niensis ab incorrupta aequitate iusti cognomen inter ciues meruit. Suetonius ait Augustum Caesarem tanta 
+      <lb ed="#P" n="25"/>fuisse aequitate vt nulli vnquam genti sine iustis &amp; necessariis causis bellum intulerit. Pertrita est integritas iu 
+      <lb ed="#P" n="26"/>stitiae ipsius Camilli phaliscos obsidentis: cui ludimagister phaliscorum liberos sub praetextu spatiandi 
+      tradi<lb ed="#P" n="27" break="no"/>dit vt hac ansa parentes vrbem obsidenti traderent. Astuti perfidiam Camillus spreuit, ludimagistrum reuin 
+      <lb ed="#P" n="28"/>ctis post terga manibus pueris flagellandum dedit, ad obsessos cum plagis illum remisit. Ob eximiam hanc 
+      iu<lb ed="#P" n="29" break="no"/>stitiam sua sponte phalisci deditionem fecere. Apud generosos animos perfidia poenas luit ac iustitia relucet. 
+      <lb ed="#P" n="30"/>Cambyses iudicem illi charissimum pecunia forensi causa corruptum euestigio comprehendi imperauit, ac pelle 
+      <lb ed="#P" n="31"/>a toto eius corpore detracta iudicum tribunal insterni fecit. Posteris documentum relinquens vt aliena insania 
+      <lb ed="#P" n="32"/>admoniti rectius iudicarent. Caeterum duas regias virtutes potissimum homerus probat scilicet fortitudi 
+      <lb ed="#P" n="33"/>nem atque iustitiam: cum sic inquit. Ille bonus pugnator erat: duxque optimus idem. Quem versum tantifecit 
+      <lb ed="#P" n="34"/>
+               <name xml:id="JMAet9-d23174-Nd1e1048">Alexander magnus</name>, vt illum anteponeret omnibus Homeri versibus.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

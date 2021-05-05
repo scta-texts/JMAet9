@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 13</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 13</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-de4162"><!-- mair-l1c13 -->
+            <head xml:id="JMAet9-de4162-Hd1e103">Caput 13</head>
+            <p xml:id="JMAet9-de4162-d1e106">
+               <lb ed="#P" n="35"/>
+               <quote xml:id="JMAet9-de4162-Qd1e110" type="lemma">CVm autem</quote>. In hoc capite Aristoteles de virtute loquitur: &amp; eam in moralem &amp; intellectualem scin 
+      <lb ed="#P" n="36"/>dit: rationi posterior, appetitui prior attribuitur. Et gratia illius de anima &amp; eius partibus 
+      non<lb ed="#P" n="37" break="no"/>⁋nihil loquitur. ltaque ait de virtute loqui incumbit. Probatio, felicitatem dicimus virtutis 
+      ope<lb ed="#P" n="38" break="no"/>rationem, ergo si virtutem nouerimus melius felicitatem cognoscemus: perinde acsi sic diceret. Si ad 
+      <lb ed="#P" n="39"/>hanc scientiam de felicitate considerare spectat, ad eam de virtute loqui conuenit: sed ad hanc 
+      scienti<lb ed="#P" n="40" break="no"/>am attinet de felicitate loqui, igitur. Maior patet. Quiam non cognoscitur diffinitum nisi cognoscatur 
+      <lb ed="#P" n="41"/>eius diffinitio. Secundo, Ciuilis maxime circa virtutem insudat, proinde ad hanc scientiam spectat 
+      <lb ed="#P" n="42"/>de virtute loqui. Consequentia tenet, quia haec scientia est ciuilis vel ad ciuilem ordinata. Saepius enim 
+      <lb ed="#P" n="43"/>moralem philosophiam ciuilem facultatem appellat. Vult enim ciuilis facultas ciues efficere probos 
+      <lb ed="#P" n="44"/>&amp; legibus obsecundantes. Nobis exemplo sunt Cretensium &amp; Lacedaemoniorum legumlatores, qui 
+      ta<lb ed="#P" n="45" break="no"/>les fuere. Cretensibus Minos, &amp; Lacedaemoniis Lycurgus leges dedit. Fuit &amp; Solon salaminius 
+      Athe<lb ed="#P" n="46" break="no"/>niensibus legislator. Sub rudi minerua hoc etiam venabimur perinde vt ab initio proposuimus. 
+    </p>
+            <p xml:id="JMAet9-de4162-d1e138">
+               <lb ed="#P" n="47"/>⁋ Sequitur in litera. De virtute autem humana. Vult dicere in hac arte solum determinandum esse de 
+      <lb ed="#P" n="48"/>virtute humana, quia hic solum quaerimus bonum humanum &amp; humanam felicitatem, deorum enim 
+      <lb ed="#P" n="49"/>felicitatem non exploramus. Praeterea in hac arte determinandum est de virtute humana quae est 
+      ani<lb ed="#P" n="50" break="no"/>mae, non autem corporis. Plerique sunt neruoso corpore &amp; deiecti animi, &amp; plerique debiles corpore 
+      ani<lb ed="#P" n="51" break="no"/>mo fortissimi. vt martyres in suprema senecta pro fide interempti. Quia vero in bonis animae consi 
+      <lb ed="#P" n="52"/>stit felicitas, ideo corollarie sequitur quod moralis disciplinae studiosus de anima considerare habet: namque 
+      <lb ed="#P" n="53"/>curaturus oculum, etiam integrum corpus eo modo cognoscere debet. acsi diceret, sicut se habet medicus 
+      <lb ed="#P" n="54"/>ad corpus &amp; partes eius, ita moralis ad animam: &amp; tanto magis, quanto ciuilis facultas medicina est 
+      presta<lb ed="#P" n="55" break="no"/>bilior. Elegantes etiam medici multa circa corporis agnitionem tractant. ac non aequum est. Propterea moralem 
+      <!--49.xml-->
+      <pb ed="#P" n="17-v"/>
+               <lb ed="#P" n="1"/>virum animam negligere. Ad eandem scientiam de subiecto &amp; eius accidente spectat considerare. Propterea 
+      medi<lb ed="#P" n="2" break="no"/>cus qui scientiam corporis humani curat, corpus humanum cognoscere laborat: verum hactenus animam co 
+      <lb ed="#P" n="3"/>gnoscere sufficit, quatenus satis fuerit ad ea quae hic quaerimus: Nam fusius &amp; exactius hoc considerare 
+      inpraesentia<lb ed="#P" n="4" break="no"/>rum onerosius esset qui hoc institutum exigat. In externis sermonibus, hoc est in libris de aia, locupletis super 
+      <lb ed="#P" n="5"/>hoc loquuti sumus, qui libri sunt externi ad hanc artem, forte modum ita loquendi ab Aristotele mutuati sunt 
+      <lb ed="#P" n="6"/>canonistae antiqui, cum enim ex legibus aut extra canones quicquam allegant, dicere solent extra. Partium animae quaedam 
+      <lb ed="#P" n="7"/>prosus est irrationalis, quae scilicet poenitus ratione vacat alia rationem habet. Et hic non est discutiendum an partes illae 
+      <lb ed="#P" n="8"/>re ipsa distinctae sint, quemadmodum corporis, &amp; cuiuslibet diuisibilis partis, an sint sola ratione duae, 
+      quemad<lb ed="#P" n="9" break="no"/>modum circumferentia ratione duo est, convexum &amp; concauum. Hoc ob Platonem ponit, siquidem ipse Plato potentias animae 
+      <lb ed="#P" n="10"/>subiecto distinguit, iram in corde, concupiscibile in hepate ponens, vt Tullius in Tusculanis prodit. Elegantius 
+      <lb ed="#P" n="11"/>loquitur philosophus. Nam re ipsa potentiae animae cum anima conspirant, vt ascensus &amp; descensus in scala, vel sicut 
+      conue<lb ed="#P" n="12" break="no"/>xum &amp; concauum in circulo, imaginare lineam latitudinis &amp; crassitudinis expertem. Sequitur.
+    </p>
+            <p xml:id="JMAet9-de4162-d1e190">
+               <pc type="pilcrow">¶</pc> Partis autem animae 
+      ra<lb ed="#P" n="13" break="no"/>tione vacantis alia quidem potentia communis est, vt vegetatiua: convenit enim plantis, embrioni &amp; huiusmodi. Voco eam ve 
+      <lb ed="#P" n="14"/>getatiuam quae est causa nutritionis &amp; augmentationis, cum animalia crescant. Nihil enim perfectionum in animalibus perfectis 
+      <lb ed="#P" n="15"/>est negandum, earum qua in impfectis ponuntur. Est etiam magis consonum rationi hanc eandem vegetatiuam quam aliquam aliam 
+      <lb ed="#P" n="16"/>ponere. Vbicumque enim anima rationalis ponitur, illic sensitiua &amp; vegetatiua ponitur: &amp; animalia perfecta signanter crescere 
+      <lb ed="#P" n="17"/>videmus, ergo citius hanc animam quam quancumque aliam in omnibus ponemus. Sequitur. Huius igitur virtus communis. hoc est 
+      <lb ed="#P" n="18"/>virtus huius scilicet vegetatiuae est communis &amp; non humana, hoc est non est homini propria. Hoc probat, quia talis virtus 
+      <lb ed="#P" n="19"/>animae reperitur in embrionibus &amp; in animalibus impefectis, &amp; in omnibus quae nutriuntur, ergo illa assimilatur virtuti communi 
+      <lb ed="#P" n="20"/>&amp; plantatiuae. Secunda ratio est. Haec pars irrationalis maxime in somnis operatur: experimur enim digestiuam bene 
+      <lb ed="#P" n="21"/>suam operationem in somno exercuisse, proinde eodem modo exercet nutritiua: sed bonus &amp; malus per somnum non 
+      <lb ed="#P" n="22"/>cognoscuntur, igitur. Quapropter inquiunt felices a miseris nihil in dimidio vitae distare, hoc est tempore somni, 
+      <lb ed="#P" n="23"/>quo aliqui in media vita vituntur. Secundo sic. Dormiens aliquos actus vitae exercet, vt dictum est, &amp; etiam per 
+      phan<lb ed="#P" n="24" break="no"/>tasiam tunc operatur, non enim habet actus liberos, nec actus sensuum exteriorum, ergo tempus somni est tempus 
+      <lb ed="#P" n="25"/>dimidiatae vitae, quia somnus est quies sensuum interiorum &amp; intellectus. Nec id irrationabiliter ponitur, nam 
+      <lb ed="#P" n="26"/>somnus est quaedam ociositas animae tam studiosae quam vitiosae, nisi parumper motiuum praeueniant aliquando, sed 
+      modesto<lb ed="#P" n="27" break="no"/>rum visa praestantiora sunt quam reliquorum. Probus enim de virtute &amp; probitate somniat, flagitia in somno 
+      inciden<lb ed="#P" n="28" break="no"/>tia a bono habitu mox repellit, sed aliquibus vitiis inquinatus in illorum materia somniat: secundum illud  
+      <lb ed="#P" n="29"/>Catonis. Somnia ne cures &amp;c. Et saepe a corporis habitu eueniunt. Nam ad phlegmata lapsus, se 
+      sub<lb ed="#P" n="30" break="no"/>mersum aut aquarum marginibus haerentem somniat, cholericus de bello, atra bili percitus de laruis 
+      <lb ed="#P" n="31"/>&amp; atris visa habere solet. Etiam tempus anni, &amp; influentiae caelestes, non parum momenti ad somnia 
+      <lb ed="#P" n="32"/>habere consueuerunt, aliquo enim tempore anni nocturni somnii in crastino sumus immemores, 
+      ali<lb ed="#P" n="33" break="no"/>quo autem somniorum sumus memoratiui, sed de his hactenus. Et nutriendi potentia cum humanae 
+      <lb ed="#P" n="34"/>virtutis sit immunis, omittenda est. Sequitur in litera. Videtur autem &amp; alia quaedam esse natura 
+      ani<lb ed="#P" n="35" break="no"/>mae vacans ratione, aliqua tamen ex parte particeps rationis. Illa autem est sensitiua. Et tam in 
+      con<lb ed="#P" n="36" break="no"/>tinente quam in incontinente rationem &amp; animae partem rationalem laudamus, nec ab re quidem. Nam 
+      <lb ed="#P" n="37"/>ratio ad optima semper hortatur &amp; prouocat, tam autem continens quam incontinens habet rationem 
+      <lb ed="#P" n="38"/>stimulantem eum ad rectum, &amp; retrahentem a malo: verum illi rationi, appetitus reluctatur. 
+      Conti<lb ed="#P" n="39" break="no"/>nens autem illicitum motum surgentem cohibet, &amp; non vincitur, incontinens vero succumbit. Et in  
+      <lb ed="#P" n="40"/>ipsis eisdem est aliud quiddam quod rationi aduersatur &amp; reluctatur. Perinde enim &amp; sicut cum 
+      para<lb ed="#P" n="41" break="no"/>lyticas resolutasque seu luxas corporis partes in dextram mouere optamus, reluctantur &amp; feruntur in  
+      <lb ed="#P" n="42"/>laeuam: sic plane est in anima incontinentis, appetitiones enim eius in aduersa rapiuntur. Verum hoc 
+      <lb ed="#P" n="43"/>interest quod in corporibus quae ad partem oppositam mouentur, motus cernimus, in animo abstrusos 
+      <lb ed="#P" n="44"/>motus cernere non quimus. Fortasse autem non minus &amp; in anima existimandum est, esse aliud prae 
+      <lb ed="#P" n="45"/>ter rationem, quod huic reluctatur, vt appetitus sensitiuus, aut intellectiuus. Comparatio est idonea 
+      <lb ed="#P" n="46"/>de incontinente &amp; paralytico. Nempe sicut in corpore paralytico partes corporis non subduntur 
+      vir<lb ed="#P" n="47" break="no"/>tuti motiuae, quia dum quis vult eas ad vnam partem mouere, ex vehementia &amp; motu morbi mouen 
+      <lb ed="#P" n="48"/>tur in aliam contra impetum motus &amp; appetitus: sic quod inibi est quoddam duellum inter appetitum 
+      <lb ed="#P" n="49"/>intendentem mouere ad vnam partem, &amp; impetum morbi mouentem ad contrariam. Sed dicere quo 
+      <lb ed="#P" n="50"/>pacto sit diuersum, praesentis curae &amp; contemplationis non est. Videtur autem &amp; hoc rationis particeps esse vt patet in 
+      con<lb ed="#P" n="51" break="no"/>tinente qui rationi paret, &amp; temperante atque forti magis qui rationi obtemperat. Nam omnia in illis sunt rationi 
+      consenta<lb ed="#P" n="52" break="no"/>nea. Pars igitur animae altera quae irrationalis est, hoc est quae vacat ratione duplex est, quaedam est vegetatiua, nullo 
+      mo<lb ed="#P" n="53" break="no"/>do rationis particeps, vt dictum est: alia est vis cupiendi &amp; omnino appetendi non hominis rationem in se inquantum est huiusmodi. 
+      <lb ed="#P" n="54"/>verumtamem est quodam modo rationis capax &amp; rationi obedit, quemadmodum &amp; patris &amp; amicorum rationem habere 
+      dici<lb ed="#P" n="55" break="no"/>mur, quando patri &amp; amicis morem gerimus, &amp; non vt mathematicarum rerum dicimur habere rationem. Illae enim habent 
+      ro<lb ed="#P" n="56" break="no"/>nem speculatiuam de agibilibs non dictantem, sed nos rationem habemus patris imperantis, &amp; amicorum suadentium, &amp; 
+      dictan<lb ed="#P" n="57" break="no"/>tium, quid sit agendum. Hanc enim partem rartione vacantem rationi obtempare admonitiones ac increpationes &amp; 
+      cohortatio<lb ed="#P" n="58" break="no"/>nes indicant. Admonitiones sunt amicorum suasiones, maiorum sunt increpationes, cohortationes sunt inferiorum. 
+      <lb ed="#P" n="59"/>Si hanc appetendi partem dixerimus habere rationem, duplex erit animae pars quae rationem habet, vna proprie &amp; in seipsia scilicet 
+      in<lb ed="#P" n="60" break="no"/>tellectus, altera vero in se non gratia sui, vt quae obtemperat proinde atque filius patri, vt appetitus. Post haec quia partem 
+      i<lb ed="#P" n="61" break="no"/>tellectiuam animae &amp; appetitiuam posuit, incidentaliter de eorum virtutibus loquitur. Virtutum autem quaedam est intellectualis: 
+      <lb ed="#P" n="62"/>vt sapientia, prudentia, sagacitas: quae si intellectus ab appetitu distingueret, ei &amp; non appetitui inhaererent. Aliae sunt 
+      <lb ed="#P" n="63"/>morales quae sunt in parte rationem audiente. Habitus itellectus sunt laudabiles &amp; pulchri, proinde sunt virtutes. 
+      Loquen<lb ed="#P" n="64" break="no"/>tes de moribus non vocamus sapientes aut intelligentes, sed mites aut liberales. 
+      <!--50.xml-->
+      <pb ed="#P" n="18-r"/>
+            </p>
+            <p xml:id="JMAet9-de4162-d1e313">
+               <lb ed="#P" n="1"/>⁋ Dubitatur primo quare virtutes appetitus dicantur morales &amp; non intellectuales. Secundo an virtus sit 
+      <lb ed="#P" n="2"/>in anima vegetatiua, &amp; argumentor quod sic. In hac anima intellectiua est virtus humana, &amp; haec 
+      ani<lb ed="#P" n="3" break="no"/>ma intellectiua est vegetatiua. ltaque in anima vegetatiua est virtus humana 
+    </p>
+            <p xml:id="JMAet9-de4162-d1e323">
+               <lb ed="#P" n="4"/>⁋ Tertio an appetitus sensitiuus rationi aduersetur &amp; obedit eidem, sicut dicit philosophus. Et 
+      <lb ed="#P" n="5"/>probo quod non. Homo est minor mundus octauo physicorum: quamobrem assimilatur maiori 
+      mun<lb ed="#P" n="6" break="no"/>do, sed in maiore mundo inferiora superioribus obtemperant. qua de re &amp; in inferiori mundo. 
+    </p>
+            <p xml:id="JMAet9-de4162-d1e332">
+               <lb ed="#P" n="7"/>⁋ Quarto dubitatur an virtutes sint ponendae in appetitu sensitiuo, &amp; quomodo generentur in ipso 
+      <lb ed="#P" n="8"/>virtutes.
+    </p>
+            <p xml:id="JMAet9-de4162-d1e339">
+               <pc type="pilcrow">¶</pc> Quinto, an moralis philosophia medicinae praestat.
+    </p>
+            <p xml:id="JMAet9-de4162-d1e345">
+               <pc type="pilcrow">¶</pc> Sexto quare felicitas speculatiua in  
+      <lb ed="#P" n="9"/>fine decimi Athicorum post virtutum materiam ponitur, &amp; felicitas politica in principio. 
+    </p>
+            <p xml:id="JMAet9-de4162-d1e353">
+               <lb ed="#P" n="10"/>⁋ Septimo. An conuexum &amp; concauum in perisphaeria solum ratione distinguantur sicut philosophus 
+      <lb ed="#P" n="11"/>velle videtur. In oppositum enim argumentor sic. Superficies conuexa caeli lunae a superficie concaua lo 
+      <lb ed="#P" n="12"/>co &amp; situ distinguitur, igitur &amp;c.
+    </p>
+            <p xml:id="JMAet9-de4162-d1e362">
+               <pc type="pilcrow">¶</pc> Octauo an anima intellectiua sit in embrione. 
+    </p>
+            <p xml:id="JMAet9-de4162-d1e369">
+               <lb ed="#P" n="13"/>⁋ Ad primam dubitationem respondetur quod ratione earum homines dicuntur simpliciter boni, ratione 
+      <lb ed="#P" n="14"/>autem intellectualium dicuntur solum boni cum addito, vt bonus logicus, bonus grammaticus, 
+      assue<lb ed="#P" n="15" break="no"/>tudine ambae acquiruntur, proinde morales a consuetudine non praecise dicuntur. 
+    </p>
+            <p xml:id="JMAet9-de4162-d1e378">
+               <lb ed="#P" n="16"/>⁋ Ad secundum dicitur ponendo vnam animam in homine, quod in aia vegetatiua est virtus humana, 
+      pro<lb ed="#P" n="17" break="no"/>pterea illam de virtute sermonis concedo. Aristoteles autem loquitur perinde ac si illae aiae re ipsa distinguantur. 
+      <lb ed="#P" n="18"/>Vel dic quod virtutes non sunt in aia vegetatiua, ea ratione qua vegetatiua est: quia tunc cuilibet 
+      vege<lb ed="#P" n="19" break="no"/>tatiuae inhaereret, quod est falsum (licet enim sit in facultate viri cibum potentiae vegetatiuae 
+      applica<lb ed="#P" n="20" break="no"/>re aut non applicare, tamen cum semel applicatur siue velit siue nolit dormiens aut vigilans illa anima 
+      <lb ed="#P" n="21"/>suas operationes exercebit) sed ea ratione qua est rationalis per essentiam, aut rationalis 
+      participatio<lb ed="#P" n="22" break="no"/>ne est libera.
+    </p>
+            <p xml:id="JMAet9-de4162-d1e396">
+               <pc type="pilcrow">¶</pc> Ad tertium dicitur quod saepius continens &amp; incontinens in se inuenit rebellionem. 
+      intelle<lb ed="#P" n="23" break="no"/>ctus enim syllogisat abstinendum esse ab hoc nobili scorto &amp; formoso: sed facultate habita appetitus 
+      <lb ed="#P" n="24"/>aduersatur &amp; quaerit coniungi obiecto delectabili: quamobrem rationi interdum temere reluctatur. primo 
+      <lb ed="#P" n="25"/>politicae, voluntas &amp; ratio principatu politico sensualitati dominatur, &amp; se habet respectu appetitus sensi 
+      <lb ed="#P" n="26"/>tiui sicut herus respectu subditi, quem tenere diligit, &amp; cuius incommodis compatitur, &amp; cuius 
+      delectatio<lb ed="#P" n="27" break="no"/>nibus gratulatur. In homine est rebellio &amp; contraluctamen, vt in mercatore preciosas merces tempore 
+      <lb ed="#P" n="28"/>naufragii in mare eiiciente, merces familiae vtiles diligit, &amp; inclinatur eas conseruare per se: 
+      acciden<lb ed="#P" n="29" break="no"/>tarie tamen ob circunstantiam periculi, illas fortunae applicare &amp; eiicere inclinatur. ltaque cum tristitia, 
+      <lb ed="#P" n="30"/>&amp; taedio nauium exonerat. ldem vides in cane fame confecto ante quem carnes proiicis, mota enim 
+      cau<lb ed="#P" n="31" break="no"/>da ad illarum assecutionem tendit, verum te in manu tenente baculum super eius caput, quo solitus es 
+      <lb ed="#P" n="32"/>eum ferire, renititur, &amp; sic quasi distrahitur, &amp; a fortiore motiuo vincitur. Ita sensus per se delectabile ipsi aspi 
+      <lb ed="#P" n="33"/>cit, &amp; ad fugam gratia imperii superioris potentiae inclinatur. Certe si domina voluntas oppositum efficaci 
+      <lb ed="#P" n="34"/>ter velit appetitum sensitiuum parere necessum est, &amp; si appetitus non sit virtutibus fultus cum taedio 
+      <lb ed="#P" n="35"/>&amp; difficultate a per se delectabili abstinet. Si enim solida virtute ornetur cum voluptate rationi obsecum 
+      <lb ed="#P" n="36"/>dat. Tantae efficaciae aut maioris est virtus trahendo ad bonum, quantae conatus appetitus ad malum 
+      <lb ed="#P" n="37"/>impellens, dixi aut maioris, quia ipsa virtus potest esse pusilla, mediocris ingensve subiectum ad 
+      pro<lb ed="#P" n="38" break="no"/>bitatem promptificans. Ab adami praeuaricatione hoc ciuile bellum in nobis insitum est, si enim ipse 
+      opifi<lb ed="#P" n="39" break="no"/>ci deo suo &amp; creatori obediuisset, originalis iustitia illum regulasset, ita quod caro siue lex membrorum, spiritui 
+      <lb ed="#P" n="40"/>non insultasset. Nempe appetitus noster suapte natura obstinate atque irreuocabiliter (quantum est ex parte eius 
+      <lb ed="#P" n="41"/>triste fugit &amp; voluptates quaerit, nunquam seipsum a delectatione reuocat, quemadmodum bos famescens in 
+      plau<lb ed="#P" n="42" break="no"/>stro caput in laetum gramen intorquet, verum a bubulci stimulo punctus a graminis esu reuocatur. Et 
+      <lb ed="#P" n="43"/>quemadmodum nouem sphaere inferiores a decima (quae est primum mobile) ab ortu ad occasum 
+      quoti<lb ed="#P" n="44" break="no"/>die rapiuntur: sit lex membrorum per rationem a malo reuocatur, licet in principio a recto refugiat, assue 
+      <lb ed="#P" n="45"/>factione ad bonum promptificatur, cum ex continenti fit temperatus in gradu. 
+    </p>
+            <p xml:id="JMAet9-de4162-d1e452">
+               <lb ed="#P" n="46"/>⁋ Contra hoc argumentor primo sic. Parere, &amp; aduersari rationi sunt contraria, igitur non conveniunt 
+      <lb ed="#P" n="47"/>eidem. Secundo sic. Appetitus non est capax rationis: proinde non obtemperat rationi. antecedens patet, quia ope 
+      <lb ed="#P" n="48"/>posito dato appetitus syllogisaret &amp; ratiocinaretur: quod non est dicendum. Tertio sic. Sensus exterior non 
+      <lb ed="#P" n="49"/>paret rationi, quia non est in potestate nostra magis clare vel minus clare videre quantumcunque id ratio 
+      <lb ed="#P" n="50"/>praecipiat: qua de re eodem mo, nec appetitus sensitiuus rationi obsecundabit, conuenienti similitudine 
+    </p>
+            <p xml:id="JMAet9-de4162-d1e465">
+               <lb ed="#P" n="51"/>⁋ Ad primum dicitur quod non conueniunt eidem, eodem tempore.
+    </p>
+            <p xml:id="JMAet9-de4162-d1e470">
+               <pc type="pilcrow">¶</pc> Ad secundum dicitur quod licet 
+      appe<lb ed="#P" n="52" break="no"/>titus sensitiuus non est capax rationis intrinsice, poest tamen rationem audire, &amp; sic est capax rationis. 
+    </p>
+            <p xml:id="JMAet9-de4162-d1e479">
+               <lb ed="#P" n="53"/>⁋ Ad tertium dicitur quod sensus exterior obedit rationi quantum ad exercitium actus, dictante enim 
+      <lb ed="#P" n="54"/>ratione possum videre aut non videre, non tamen quantum ad determinationem actus, quia ita 
+      inten<lb ed="#P" n="55" break="no"/>se &amp; clare videt sicut potest, stante praesentia obiecti &amp; medio disposito. 
+    </p>
+            <p xml:id="JMAet9-de4162-d1e488">
+               <lb ed="#P" n="56"/>⁋ Quarto argumentor sic. Si appetitus est capax rationis, quia rationi obedit, sequeretur quod corpus  
+      <lb ed="#P" n="57"/>ipsum esset rationis capax &amp; participatiue liberum, quod morales non concedunt. 
+    </p>
+            <p xml:id="JMAet9-de4162-d1e495">
+               <lb ed="#P" n="58"/>⁋ Quinto sic, vel hoc intelligitur de appetitu intellectiuo tantum, aut sensitiuo &amp; intellectiuo simul. Non pri 
+      <lb ed="#P" n="59"/>mum, quia tunc semper esset rebellio in temperato sicut in continenti. Si de vtroque, contra hoc dicitur 
+      <lb ed="#P" n="60"/>sic, tunc plures essent animae partes rationis participes. 
+    </p>
+            <p xml:id="JMAet9-de4162-d1e504">
+               <lb ed="#P" n="61"/>⁋ Ad quartum nego sequelam, appetitus enim sensitiuus potest rationem audire &amp; ei reluctari, non  
+      <lb ed="#P" n="62"/>autem corpus quo ad motum, si habeat musculos neruos &amp; spiritus ad motum sufficientes. Propterea 
+      <lb ed="#P" n="63"/>primo politicae dicit philosophus quod anima principatur corpori principatu despotico, &amp; sensualitati 
+      <lb ed="#P" n="64"/>principatu politico, modo in politia subiectisaepius superiori repugnant. 
+      <!--51.xml-->
+      <pb ed="#P" n="18-v"/>
+            </p>
+            <p xml:id="JMAet9-de4162-d1e520">
+               <lb ed="#P" n="1"/>⁋ Ad quintum respondetur quod intelligitur de vtroque appetitu.
+    </p>
+            <p xml:id="JMAet9-de4162-d1e525">
+               <pc type="pilcrow">¶</pc> Ad argumentum ante positum in 
+      <lb ed="#P" n="2"/>dubitatione quod est sextum. Respondetur quod potest esse defectus ex parte materiae, vel medii, quod non 
+      sem<lb ed="#P" n="3" break="no"/>per in inferiori mundo superiori obediatur, sic hic.
+    </p>
+            <p xml:id="JMAet9-de4162-d1e536">
+               <pc type="pilcrow">¶</pc> Ad quartum dubium respondetur primo quod est 
+      <lb ed="#P" n="4"/>difficultas an idem sit appetitus intellectiuus, &amp; sensitiuus: &amp; sane si poneretur aia intellectiua esse vterque 
+      ap<lb ed="#P" n="5" break="no"/>petitus, hos habitus minime multiplicarem, sed appetitum sensitiuum aggregatum ex organo &amp; aia credideri. 
+      <lb ed="#P" n="6"/>&amp; appetitum intellectiuum ipsam animam siue voluntatem. Intellectus qui est potentia cognitiua cum 
+      <lb ed="#P" n="7"/>sit alterius generis ab appetitu, habet actum alterius rationis latum in idem obiectum cum 
+      appeti<lb ed="#P" n="8" break="no"/>tu. Hoc praesupposito, dico virtutes esse tam in appetitu sensitiuo quam intellectiuo. Nam in quacunque po 
+      <lb ed="#P" n="9"/>tentia habituabili sunt actus, in eadem sunt habitus producibiles ab eis, sed in vtraque potentia sunt 
+      <lb ed="#P" n="10"/>actus. Insuper in omni potentia assuefactione ducibili circa aliquam materiam, ponendus est habitus. 
+      <lb ed="#P" n="11"/>sed sic est de vtroque appetitu igitur. Item speciatim de appetitu sensitiuo argumentor. Appetitus ille 
+      <lb ed="#P" n="12"/>saepenumero rationi renititur, nam ad voluptates inconcessas inclinationem habet: in iuuenta enim 
+      <lb ed="#P" n="13"/>delectationes effrenes insequuntur iuuenes, eapropter cum anxietate ratione parent: &amp; hoc tam continens 
+      <lb ed="#P" n="14"/>quam incontinens nouit. In studioso est tranquillitas, omnia enim rationi consonant: proinde aliquid  
+      <lb ed="#P" n="15"/>ipsum promptificans bonum habet, quo vitiosus ipse vacat, &amp; hoc non est nisi magnus habitus in 
+      ap<lb ed="#P" n="16" break="no"/>petitu sensitiuo inhaerens, ipsum rationem versus trahens. Eodem modo de voluntate deducere 
+      pos<lb ed="#P" n="17" break="no"/>sum. Ipsa enim est nata sensualitati condescendere, nisi virtutum flosculis ornetur ad rationem con 
+      <lb ed="#P" n="18"/>sentaneis. Itaque par est tam in hoc quam in illo habitum studiosum collocare. Verum est tamen quod 
+      appeti<lb ed="#P" n="19" break="no"/>tus intellectiuus potest habere suum actum, latum in aliquod obiectum, in quod non potest appetitus 
+      <lb ed="#P" n="20"/>sensitiuus habere: quia enim appetitus sensitiuus est extensus, non potest habere suum actum latum 
+      <lb ed="#P" n="21"/>in obiectum spirituale, sed solum in sensatum. Sed de aliquo actu &amp; habitu, appetitus sensitiui nulla 
+      <lb ed="#P" n="22"/>est difficultas, circa cibum, potum, &amp; illa quae sunt appetitui sensitiuo conuenientia aut 
+      disconuenien<lb ed="#P" n="23" break="no"/>tia, quia potest habere actum potest habere habitum inclinantem eum conformiter ad inclinationem 
+      <lb ed="#P" n="24"/>suam naturalem. Sed maior est difficultas quomodo ex imperio voluntatis, appetitus sensitiuus potest 
+      <lb ed="#P" n="25"/>habere habitum contrarium suae inclinationi: quia naturaliter prosequitur obiectum sensatum 
+      con<lb ed="#P" n="26" break="no"/>ueniens, sicut bellua. Respondetur tamen quod suscipit habitum conformiter ad appetitum 
+      intellecti<lb ed="#P" n="27" break="no"/>uum, qui potest impellere appetitum sensitiuum &amp; elicere actum conformem appetitui intellectiuo &amp; 
+      <lb ed="#P" n="28"/>rationi. Ipsumque mouet sicut sphaera superior inferiorem. Tertio de anima. Et illud exemplo patet. 
+      <lb ed="#P" n="29"/>Imprimitur enim quaedam qualitas in membris quae hominem non animaduertentem mouet: 
+      si<lb ed="#P" n="30" break="no"/>milique modo secundm Aristotelem intelligentia orbis motrix mediante voluntatis imperio &amp; suo 
+      vi<lb ed="#P" n="31" break="no"/>gore motum producit in orbem, quo mobile perpetua vertigine mouetur, tenendo motum localem 
+      <lb ed="#P" n="32"/>a mobili distingui. Certe non ambigitur quin voluntas potest virtute intranea habituari: quae 
+      qui<lb ed="#P" n="33" break="no"/>dem virtus cooperatur cum voluntate ad impetum appetitus refrenandum. Vnde solum extrinsece. 
+      <lb ed="#P" n="34"/>hoc modo appetitus sensitiuus regularetur &amp; non intrinsece per aliquid ei inhaerens quod ipsum ad 
+      <lb ed="#P" n="35"/>oppositum impellit, cuius nos nec oppositum dicimus, &amp; ad illud manutenendum insudamus. Et istud est voluntatem 
+      <lb ed="#P" n="36"/>caeteras potentias mouere. Nec ambigitur, quin potentias inferiores mouere potest, eis illarum obiecta praesen 
+      <lb ed="#P" n="37"/>tando, a quibus per se mouentur. Hac autem via omnia in temperato erunt tranquilla, qui in morem 
+      <lb ed="#P" n="38"/>continentis non agonisat, habitus magis appetitum sensitiuum aut aequaliter conformiter ad ratio 
+      <lb ed="#P" n="39"/>nem prouocabit, quam erit impulsus sensualitatis in oppositum, &amp; sic sine rebellione &amp; murmure rationi 
+      <lb ed="#P" n="40"/>&amp; voluntati obsecundabit. Et verificabitur illud Geneseos. iiii. Sub te erit appetitus tuus, &amp; tu 
+      domi<lb ed="#P" n="41" break="no"/>naberis illius. Nec in continente id solum cum nausea, quia ad culpam nunqui necessitatur homo: sed  
+      <lb ed="#P" n="42"/>in temperato illud fit cum harmonia: immo pecus ipsum timore verberum &amp; mortis habituatur ne 
+      <lb ed="#P" n="43"/>prodeat in obiectum secundum inclinationem naturalem. Testimonium affert, canis in popina 
+      ali<lb ed="#P" n="44" break="no"/>tus qui lepore viso ad lebetem perniciter cucurrit. Et ex illo patet solutio ad quartum. 
+    </p>
+            <p xml:id="JMAet9-de4162-d1e631">
+               <lb ed="#P" n="45"/>⁋ Ad quintum dicitur quod sic. Et patet aliter. Nam qualis est proportio animae ad corpus, talis est 
+      pro<lb ed="#P" n="46" break="no"/>portio moralis philosophiae ad medicinam, quia per obiecta, nobilitatem scientiae nanciscuntur. 
+      Pri<lb ed="#P" n="47" break="no"/>mo de anima. Verum moralis minus lucri &amp; appreciationis apud vulgus quam medicus acquirit, quia 
+      vul<lb ed="#P" n="48" break="no"/>gus corporis morbos &amp; eius defectus, non autem animae nouit, &amp; magis circa corporis caduca aestuat 
+      <lb ed="#P" n="49"/>quam circa animae potissima bona ipsi incognita, sicut de theosophia &amp; legibus contingit. 
+    </p>
+            <p xml:id="JMAet9-de4162-d1e644">
+               <lb ed="#P" n="50"/>⁋ Ad sextam dubitationem respondetur quod felicitas speculatiua est vera felicitas, quae sine virtutibus 
+      <lb ed="#P" n="51"/>non acquiritur: propterea de ea post virtutum determinationem loquutus est. De felicitate tamen 
+      po<lb ed="#P" n="52" break="no"/>litica quae non est vera felicitas, sed eius appellationem habens in principio vt homines ad virtutum 
+      <lb ed="#P" n="53"/>culmina incenderet mentionem fecit. 
+    </p>
+            <p xml:id="JMAet9-de4162-d1e655">
+               <lb ed="#P" n="54"/>⁋ Ad septimam dicitur, ponendo perisphaeriam latitudinis &amp; profunditatis expertem, linea enim non 
+      <lb ed="#P" n="55"/>habet vnam illarum superficierum, sed eas imaginari oportet: &amp; hoc pacto non distinguntur nisi 
+      ra<lb ed="#P" n="56" break="no"/>tione. Item exemplorum non requiritur veritas. Superficies conuexa &amp; concaua cuiuscunque realiter 
+      <lb ed="#P" n="57"/>distinguntur. 
+    </p>
+            <p xml:id="JMAet9-de4162-d1e666">
+               <lb ed="#P" n="58"/>⁋ Ad octauam dicit quidam quod si non esset anima intellectiua in embrione, sed solum vegetatiua, &amp; postea 
+      <lb ed="#P" n="59"/>sensitiua, &amp; demum intellectiua, tunc indiuiduum de specie in speciem migraret, quod est falsum. Sed  
+      <lb ed="#P" n="60"/>prorsus hoc nihil valet, sed est inconsiderate dictum. Esset quidem aliud &amp; aliud indiuiduum specie 
+      <lb ed="#P" n="61"/>distinctum. Tamen quadragesimo die vt physici perhibent in foetu est anima intellectiua, quae in  
+      <lb ed="#P" n="62"/>principio, operationes animae intellectiuae non exercet, sed vegetatiuae, pro quanto in materno vtero 
+      <lb ed="#P" n="63"/>embrio coalescit. 
+    </p>
+            <p xml:id="JMAet9-de4162-d1e682">
+               <lb ed="#P" n="64"/>⁋ Hactenus de his quae tractantur in Ethicorum libro primo.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 9</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 9</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d30616"><!-- mair-l7c9 -->
+            <head xml:id="JMAet9-d30616-Hd1e103">Caput 9</head>
+            <p xml:id="JMAet9-d30616-d1e106">
+               <lb ed="#P" n="37"/>
+               <quote xml:id="JMAet9-d30616-Qd1e110" type="lemma">Qvaerendum est autem</quote> &amp;c. In hoc nono capite quartam dubitationem in fronte libri motam explicat. 
+      <lb ed="#P" n="38"/>vbi addubitatum fuit an incontinens omni opinationi sit immansiuus, an tantum vere &amp; 
+      incon<lb ed="#P" n="39" break="no"/>tinens ab omni opinione egressiuus an tantum a falsa &amp; praua. Et quomodo continens habeat 
+      <lb ed="#P" n="40"/>rationem medii. Et de similitudine continentiae &amp; temperantiae. Accedo ad literam. Quaerendum esse 
+      vi<lb ed="#P" n="41" break="no"/>detur vtrum is continens sit qui in quauis ratione aut electione manet, an is citius qui in vera tantum 
+      <lb ed="#P" n="42"/>manet. Et ex opposito vtrum is sit incontinens, qui non in quauis ratione ac electione, an potius qui 
+      ma<lb ed="#P" n="43" break="no"/>net in falsa electione &amp; non recta quemadmodum superius dubitauimus. Huic dubitationi hanc 
+      conclu<lb ed="#P" n="44" break="no"/>sionem hypotheticam responsalem ponit. Continens in qualibet opinione siue vera, siue falsa per 
+      acci<lb ed="#P" n="45" break="no"/>dens perstat, at per se &amp; simpliciter solum perstat in vera. At incontinens per accidens a quauis opina. 
+      <lb ed="#P" n="46"/>tione discedit, ac simpliciter egreditur a vera. Haec conclusio sic probatur. Sicut illud quod quaeritur 
+      <lb ed="#P" n="47"/>propter se primo per se quaeritur, &amp; illud quod quaeritur per accidens propter alterum quaeritur, vt si quis 
+      <lb ed="#P" n="48"/>diligit vinum ob dulcedinem, is primo &amp; per se diligit dulce: &amp; per accidens diligit vinum: simile est, 
+      Soera<lb ed="#P" n="49" break="no"/>tes diligens inimicum propter deum primo &amp; per se diligit deum: &amp; inimicum per accidens diligit. &amp; si quispiam 
+      <lb ed="#P" n="50"/>fel loco mellis ob coloris similitudinem eligat, existimans fel esse mel, palam est quod primo quaerit hoc 
+      <lb ed="#P" n="51"/>propter quod eligit alterum. Vnde per se is quaerit &amp; eligit mel per accidens autem quaerit &amp; eligit fel. Per 
+      <lb ed="#P" n="52"/>se est praecise &amp; pricipaliter intentum: per accidens praeter intentionem valet: quod interdum latenter cum per se intento 
+      <lb ed="#P" n="53"/>conglutinatur. Nec oportet modos perseitatis primo posteriorum tactos hic rimari. Pone malum 
+      sacer<lb ed="#P" n="54" break="no"/>dotem ex proposito deliberato quam ostentat ostiam non consecrasse, tunc obiectum per orationis meae in 
+      Euchari<lb ed="#P" n="55" break="no"/>stia est corpus Christi, obiectum per accidens panis ille erectus. Itidem si quispiam falsam rationem, veram arbitral 
+      <!--254.xml-->
+      <pb ed="#P" n="117-r"/>
+               <lb ed="#P" n="1"/>opinioni falsae immanet existimans eam esse veram. Exempli causa si enim quis crediderit bonum 
+      es<lb ed="#P" n="2" break="no"/>se fornicari, &amp; in hac opinatione perstat ob hoc quod illam opinatur veram, per se verae rationi 
+      imma<lb ed="#P" n="3" break="no"/>net, per accidens autem falsae. Sicque est de continente, qui aliquo modo in quauis opinione, absolute 
+      au<lb ed="#P" n="4" break="no"/>tem in vera persistit, alter vero vt incontinens non persistit. 
+    </p>
+            <p xml:id="JMAet9-d30616-d1e166">
+               <lb ed="#P" n="5"/>⁋ Secunda conclusio. Pertinax &amp; continens inter se aliquo modo conueniunt, verum longo 
+      intersti<lb ed="#P" n="6" break="no"/>tio inter sese distant. Pertinaces cum difficultate a sua sententia dimoueri possunt, de aliquibus durae 
+      <lb ed="#P" n="7"/>ceruicis dicere soleo, Iste est intractabilis, qui nulla ratione persuasibili est in nostram sententiam 
+      tra<lb ed="#P" n="8" break="no"/>hibilis, siue sit in theorica siue in agibilibus. In materia amicos contingente de aliis dicere 
+      consueui<lb ed="#P" n="9" break="no"/>Hunc rationibus in meam sententiam alliciam. Generosa pectora rationum vi trahuntur, ceruicosi 
+      <lb ed="#P" n="10"/>homines rationum sunt incapaces, ratiocinationum aculei illorum duritiam haud quaquam 
+      pene<lb ed="#P" n="11" break="no"/>trant. Vulgo ceruicosi sunt aliis rudiores, multos attamen transiliunt, sibique placentes arbitrantur 
+      <lb ed="#P" n="12"/>se Oedipos &amp; prae se alios contemnunt. Verum pertinaces simile quid cum continente habent vt 
+      pro<lb ed="#P" n="13" break="no"/>digus cum liberali, &amp; audax cum forti. Hic expectat ille autem erogat. Verum non vt oportet. Conti 
+      <lb ed="#P" n="14"/>nens vbi par est se facilem praebet recta monenti, non autem pertinaces qui nulla ratione 
+      persuaden<lb ed="#P" n="15" break="no"/>tur. Cupiditates capiunt a quibus plerique eorum ducuntur. Tales sunt pertinaces in his quae suae sentem 
+      <lb ed="#P" n="16"/>tiae sunt permanent, hoc est in his quae ipsi dicunt, &amp; sunt indisciplinati. Rustici, &amp; intractabiles 
+      aeger<lb ed="#P" n="17" break="no"/>rime cum aliis conueniunt, dicuntur suae sententiae homines, &amp; vulgo capitosi, opinatiuique. Ob volu 
+      <lb ed="#P" n="18"/>ptatem &amp; dolorem sic manent pertinaces, gaudent plurimum cum vicerint, si non e sua sententia dis 
+      <lb ed="#P" n="19"/>suasione aliqua dimoueantur, magna de se putantes. dolent vero si suae assertiones sint irritae, quas vt 
+      <lb ed="#P" n="20"/>publica decreta tueri contendunt. Vnde fit quod pertinax est incontinenti similior quam continenti, quia 
+      <lb ed="#P" n="21"/>tales voluptatem vincendo &amp; in delirio persistendo more incontinentis nimis auide quaerunt, &amp; 
+      do<lb ed="#P" n="22" break="no"/>lorem plus aequo aufugiunt. lsti superciliosi (vt summatim loquar) nolunt sibi contradici. Posthaec 
+      <lb ed="#P" n="23"/>narrat philosophus, quonam pacto laudabile est a sinistra opinione discedere, per casum Pyrrhi filii 
+      <lb ed="#P" n="24"/>Achillis in libro Sophoclis poetae, quem Philotectem nuncupant, &amp; quem superius partim tetigimus, 
+      <lb ed="#P" n="25"/>Non ob voluptatem a sua sententia mouebatur Pyrrhus, sed ob honestatem. Erat potius illi triste 
+      <lb ed="#P" n="26"/>quodammodo promissum non seruare: noluit tamen mentiri &amp; stare in mendacio quod Vlyssi 
+      insti<lb ed="#P" n="27" break="no"/>ganti primo policitus est. Censebat illud ingenuo adulescente indignum. Ob bonam &amp; honestam vo 
+      <lb ed="#P" n="28"/>luptatem non mentiri mouebatur. Cui volupe erat dicere verum, ac propterea non fuit incontinens, 
+      <lb ed="#P" n="29"/>intemperans aut prauus cum id non egit ob turpem voluptatem, sed ob honestam. Deinde ostendit 
+      <lb ed="#P" n="30"/>quomodo continentia habet rationem medii, sicut temperantia, &amp; confert temperantiam &amp; continem 
+      <lb ed="#P" n="31"/>tiam, &amp; incontinentiam &amp; intemperantiam adinuicem. In primis dicit continentem tenere medium, 
+      <lb ed="#P" n="32"/>hoc in valore sic roborat. Vbicunque reperiuntur excessus defectusque vituperabiles, illic est medietas 
+      in<lb ed="#P" n="33" break="no"/>ter haec extrema laudabilis. (Patet, haec maxima secundo Ethicorum. At circa corporalium 
+      volupta<lb ed="#P" n="34" break="no"/>tum cupiditates inueniuntur exuperationes defectionesque vituperabiles: igitur. Consequentia cum 
+      ma<lb ed="#P" n="35" break="no"/>iore liquet. Minorem sic ponit. Aliquis plus aequo in corporalibus voluptatibus gaudet, &amp; non manet 
+      <lb ed="#P" n="36"/>in ratione &amp; talis est incontinens, alius non gaudet hisce voluptatibus vbi par est, &amp; is est rarus, quem 
+      <lb ed="#P" n="37"/>insensibilem dicunt. In casu homo tenetur indulgere genio se pascendo ad quod tenetur, sequitur vo 
+      <lb ed="#P" n="38"/>luptas naturaliter approximationis talis obiecti cum sensu. Incontinens autem plus quam oportet 
+      vo<lb ed="#P" n="39" break="no"/>luptuosis delectatur hic, hoc est insensibilis non persistit in ratione, sicut incontinens, minusque quam opor 
+      <lb ed="#P" n="40"/>tet in voluptatibus gaudet. Continens autem in ratione manet, nec ob excessum defectumque a 
+      trami<lb ed="#P" n="41" break="no"/>te recto dimouetur.
+    </p>
+            <p xml:id="JMAet9-d30616-d1e249">
+               <pc type="pilcrow">¶</pc> Alia conclusio. Cum continentia sit studiosa oportet hos habitus extremos 
+      es<lb ed="#P" n="42" break="no"/>se improbos, &amp; tales sane ab omnibus videntur. At quia perpaucis altera, scilicet insensibilitas 
+      in<lb ed="#P" n="43" break="no"/>est, &amp; in raro est vsu, sic vt intemperantia temperantiae soli videatur aduersa, sic &amp; continentia soli 
+      in<lb ed="#P" n="44" break="no"/>continentiae contrariari videtur. Deinde comparat continentiam, &amp; temperantiam, incontinentiamque 
+      <lb ed="#P" n="45"/>&amp; intemperantiam adinuicem, &amp; discrimina inter eas ponit. dicit ergo primo, Continens absolute 
+      <lb ed="#P" n="46"/>temperans non est, ac cum multa ob metaphoram dicantur factum quoque est vt continens 
+      translati<lb ed="#P" n="47" break="no"/>tie dicatur temperans, quia continens nihil admittit praeter rationem ob corporis delectationem, 
+      qua<lb ed="#P" n="48" break="no"/>lis est ipse temperans, ac lata dissociantur intercapedine. Continens prauas habet cupiditates quas 
+      ten<lb ed="#P" n="49" break="no"/>perans non habet, &amp; insuper temperans talis est vt non delectetur praeter rationem. Continens vero 
+      <lb ed="#P" n="50"/>delectatur ac ab affectu minime ducitur. Et simili proportione inter se incontinens &amp; intemperans 
+      <lb ed="#P" n="51"/>respondent. Illi tamen differunt. Vterque corporalis sectatur voluptates, at intemperans prosequi opor 
+      <lb ed="#P" n="52"/>teret existimat, incontinens autem prosequitur quidem, verum prosequendas esse minime arbitratur. 
+    </p>
+            <p xml:id="JMAet9-d30616-d1e279">
+               <lb ed="#P" n="53"/>⁋ Dubitatur an pertinacia sit grande scelus. Affirmatiue respondetur. Est enim inanis gloriae filia 
+      <lb ed="#P" n="54"/>secudm <ref xml:id="JMAet9-d30616-Rd1e285">Gregorium. xxxi. Moralium</ref>, interdumque est mater haeresum atque dissidii in republica Christia 
+      <lb ed="#P" n="55"/>na, vt pertinacia <name xml:id="JMAet9-d30616-Nd1e290">Lutheri</name> atque eius discipulorum, quorum indurata capita nulli rationum mallei 
+      eo<lb ed="#P" n="56" break="no"/>rum stulta opinione contundunt. Recte dixit &amp; sapienter Aristoteles capite sexto in fine. Iniustus ho 
+      <lb ed="#P" n="57"/>mo est iniustitia, &amp; mille belluis deterior, &amp; hoc signanter quando est popularis laudis auidus. Itaque ta 
+      <lb ed="#P" n="58"/>lis pertinacia est letifera atque execrabilis. Potest esse pertinacia in rebus minutis, fidem &amp; mores bonos 
+      <lb ed="#P" n="59"/>non violantibus, &amp; talis pertinacia vulgo est venialis. Conferat homo suam opinionem cum doctis, 
+      <lb ed="#P" n="60"/>&amp; rationes eum erronee mouentes in medium afferat, &amp; si eas illi diluant &amp; praestantiores fideique 
+      ma<lb ed="#P" n="61" break="no"/>gis consonantes afferant, iam cedat. Summatim conclusero, duobus aut tribus dictis quorum 
+      quili<lb ed="#P" n="62" break="no"/>bet existimatur illi par in scientia credat: alioqui inaniter gloriatur.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

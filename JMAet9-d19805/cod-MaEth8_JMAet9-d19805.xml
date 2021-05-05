@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d19805"><!-- mair-l5c1 -->
+            <head xml:id="JMAet9-d19805-Hd1e103">Caput 1</head>
+            <!--alias="mair-l5c1p1"-->
+            <p xml:id="JMAet9-d19805-d1e108"> 
+               <lb ed="#P" n="38"/>
+               <quote xml:id="JMAet9-d19805-Qd1e112" type="lemma">DE iustitia</quote> &amp;c. Philosophorum princeps miro ingenio exacte docuit de omnibus 
+      <lb ed="#P" n="39"/>virtutibus moralibus quas secundo libro explicandas nominauit: nunc autem de 
+      <lb ed="#P" n="40"/>iustitia virtutum praeclarissima ac cognitu difficillima loquitur. Ipsa autem, vt 
+      <lb ed="#P" n="41"/>ait, virtutes omnes in se complectitur: quare convenienter alias ante eam scripsit, &amp; 
+      <lb ed="#P" n="42"/>integrum librum huic vni virtuti accommodauit: quem in tres partes principales 
+      <lb ed="#P" n="43"/>distrahit. In quarum prima de iustitia proprie dicta commentatur: in secunda de 
+      <lb ed="#P" n="44"/>aequo &amp; bono. In tertia de iustitia translatiua. Prima pars duobus tractatibus 
+      <lb ed="#P" n="45"/>nodatur: duae posteriores totidem expediuntur. Rursus in quinque capita prima pars seiugatur. In 
+      pri<lb ed="#P" n="46" break="no"/>mo de iustitia in communi edocet, describendo &amp; diuidendo ipsam in iustitiam legalem siue legitimam, 
+      <lb ed="#P" n="47"/>&amp; in iustitiam particularem. In secundo capite materiam iustitiae particularis explanat, ipsamque in 
+      iusti<lb ed="#P" n="48" break="no"/>tiam commutatiuam ac distributiuam scindit. Tertium caput monstrat quo modo medium in iustitia 
+      distri<lb ed="#P" n="49" break="no"/>butiua est sumendum. Quartum medium inustitiae commutatiuae ostendit. In quinto errorem Pythagoricorum 
+      <lb ed="#P" n="50"/>conuellit. Primo hic a quodam confuso &amp; generali auspicatur, postea particulatim procedit. Talis est 
+      <lb ed="#P" n="51"/>motus Aristoteli peculiaris. Accedo citra verborum prodigalitatem ad literam. Prima conclusio. Nunc 
+      <lb ed="#P" n="52"/>de iustitia &amp; iniustitia est considerandum, circa quales actus existant, &amp; qualis sit inter eas mediocritas: &amp; 
+      <!--161.xml-->
+      <pb ed="#P" n="72-v"/>
+               <lb ed="#P" n="1"/>inter quae iustum sit medium, eundem seruantes modum, scilicet figura &amp; rudi Minerua procedentes, sicut 
+      <lb ed="#P" n="2"/>in praecedentibus libris fecimus. Postea ponit diffinitionem iustitiae inquiens. Videmus vtique omnes illum 
+      <lb ed="#P" n="3"/>habitum dicere iustitiam velle, quo homines prompti sunt ad res iustas agendas, &amp; qui iusta agunt &amp; 
+      <lb ed="#P" n="4"/>volunt efficaciter iusta. Primo habitum iustitiae genus, detegit, iusta agunt propteractum imperatum: res 
+      <lb ed="#P" n="5"/>iusta est obiectum iustitiae, &amp; iusta volunt ob actum elicitum. Haec ergo est bona diffinitio iustitiae cum ponatur 
+      <lb ed="#P" n="6"/>quidditatiuum eius genus, obiectum actus eius elicitus &amp; imperatus. Parum discrepant ab hac diffinitione. 
+      <lb ed="#P" n="7"/>sed minus philosophice lurisconsulti loquuntur, vt. itu. de iustitia &amp; iure. liustitia, dicitur. lustitia est 
+      con<lb ed="#P" n="8" break="no"/>stans &amp; perpetua animi voluntas ius suum cuique tribuens. Quia habitus est difficulter mobilis 
+      perpetui<lb ed="#P" n="9" break="no"/>tas cum genere quidditatiuo ponitur. Iniustitia est habitus quo iniuriam agunt homines, resque volunt 
+      <lb ed="#P" n="10"/>iniustas. Et omnes ita esse consentiunt, Iniustitia capitur hic contrarie &amp; non contradictorie. Puer nec est 
+      <lb ed="#P" n="11"/>iustus nec iniustus isto modo: bene autem contradictorie. Diffinitionem quid nominis siue termini 
+      acce<lb ed="#P" n="12" break="no"/>ptionem per communem vsum probat. Quapropter dicit. Et nos hic figura quadam &amp; non aliter probata ita 
+      <lb ed="#P" n="13"/>esse (vt par est) supponamus.
+    </p>
+            <p xml:id="JMAet9-d19805-d1e179">
+               <pc type="pilcrow">¶</pc> Secunda conclusio. lustitia &amp; iniustitia non emergunt ab eodem habitu. Nam 
+      <lb ed="#P" n="14"/>in scientiis potentiis &amp; habitibus dissimile est Nam eiusdem scientiae totalis est sanitatis &amp; aegritudinis 
+      <lb ed="#P" n="15"/>traditio: similiter eiusdem potentiae vt visus, est videre albedinem &amp; nigredinem. Loquitur hic de 
+      poten<lb ed="#P" n="16" break="no"/>tiis quae sunt corporis partes. Calor qui est potentia calefaciendi est respectu vnius, sed actus contrarii 
+      <lb ed="#P" n="17"/>ab eodem habitu non proficiscuntur. Et ponit probationem exemplariter in habitu corporis, quia ille est 
+      <lb ed="#P" n="18"/>clarior animae habitu, &amp; in corpore sano sanitatem imaginare, sicut in anima est habitus sic erit 
+      habi<lb ed="#P" n="19" break="no"/>tus currendi in corpore ac prompte ambulandi, dicit a sanitate non emanant illa quae sunt sanitati 
+      con<lb ed="#P" n="20" break="no"/>traria, sed solum ea quae sanitati conueniunt. A sanitate enim est, quod aliquis bene ambulet. Sane enim 
+      <lb ed="#P" n="21"/>ambulat aliquis quando perinde ambulat sicut ille qui est sanus. Igitur iusta &amp; iniusta non ab eodem 
+      habi<lb ed="#P" n="22" break="no"/>tu proficiscuntur. Et cum scientia sit habitus de habitu speculatiuo non loquitur nec practico, sed de 
+      ha<lb ed="#P" n="23" break="no"/>bitu appetitiuo. Hae res in praesentia, Primo propter ea quod temperantia est circa voluptates &amp; dolores: 
+      <lb ed="#P" n="24"/>fortitudo, circa timores &amp; audacias, quae sunt contraria: itaque habitus est contrariorum. Secundo, scientia est 
+      <lb ed="#P" n="25"/>contrariorum, at scientia est habitus, igitur.
+    </p>
+            <p xml:id="JMAet9-d19805-d1e211">
+               <pc type="pilcrow">¶</pc> Respondetur, quod fortitudo &amp; temperantia est contrariorum 
+      <lb ed="#P" n="26"/>obiectiue, quia versantur circa timores &amp; fidutias quae sunt contraria: non tamen actiue &amp; operatiue, quia 
+      <lb ed="#P" n="27"/>operationes quas fortitudo producit semper sunt fortes &amp; non contrariae: nunc fortes, nunc metus &amp; non 
+      <lb ed="#P" n="28"/>fortes.
+    </p>
+            <p xml:id="JMAet9-d19805-d1e224">
+               <pc type="pilcrow">¶</pc> Ad secundum dicitur, quod scientia est habitus speculatiuus qui est contrariorum. Aristoteles autem de 
+      <lb ed="#P" n="29"/>habitu elicitiuo ac productiuo loquitur. Potentia visiua albedinem, nigredinem, atque colores medios 
+      <lb ed="#P" n="30"/>videt. Potentia auditiua sonum grauem atque acutum audit.
+    </p>
+            <p xml:id="JMAet9-d19805-d1e234">
+               <pc type="pilcrow">¶</pc> Tertia conclusio. Ex iustitia potest deprehendi 
+      <lb ed="#P" n="31"/>iniustitia, &amp; iustitia ex subiectis, hoc est obiectis deprehenditur. Qu subiectum valeat obiectum patet per 
+      <lb ed="#P" n="32"/>carmina. obiectum verna positum sub cui quod inhaeret. 
+      <lb ed="#P" n="33"/>Quod prius est copula proprie logicaliter infra 
+      <lb ed="#P" n="34"/>Quod simul ars &amp; habet bis sunt subiecta quaterna. 
+      <lb ed="#P" n="35"/>Potest litera etiam exponi pro subiecto non capiendo ipsum pro obiecto, vt si bona corporis habitudo 
+      <lb ed="#P" n="36"/>sit nota, protinus &amp; ipsa corporis indispositio innotescit. At bona corporis habitudo ex iis quae ipsam 
+      <lb ed="#P" n="37"/>efficiunt cognita est: &amp; non tm illud est verum, sed contra ex bona corporis habitudine cognoscuntur illa quae 
+      <lb ed="#P" n="38"/>ipsam efficiunt: si enim bonam corporis habitudinem appellaueris spissitudinem &amp; canis desitatem, notum 
+      <lb ed="#P" n="39"/>erit euestigio malam habitudinem esse carnis raritatem. et si cognita sint quae bonam efficiunt habitudinem 
+      <lb ed="#P" n="40"/>&amp; ipsa carnis spissitas nota erit. Licet carne molles sint apti mente, secundo de anima, tamen ob pororum 
+      <lb ed="#P" n="41"/>raritatem tales sunt passibiles: &amp; suscipiunt facile morbos. ergo habere carnes spissas magis ad 
+      cor<lb ed="#P" n="42" break="no"/>poris incolumitatem conducit. Licet autem exemplorum non requiratur veritas, tamen in exemplis est haec 
+      <lb ed="#P" n="43"/>apparentia quam dedimus. Nihil prohibet ita in iustitia esse &amp; in iniustitia vt alterum ex altero &amp; ex 
+      re<lb ed="#P" n="44" break="no"/>bus subiectis cognoscatur.
+    </p>
+            <p xml:id="JMAet9-d19805-d1e270">
+               <pc type="pilcrow">¶</pc> Alia conclusio. Iniustitia &amp; iniustum non vno modo dicuntur. Nam vt plurimum 
+      <lb ed="#P" n="45"/>sequi videmus si vnum oppositorum multipliciter dicitur, alterum etiam multipliciter dicitur, vt si iustum 
+      <lb ed="#P" n="46"/>multipliciter dicatur &amp; iniustum, &amp; contra, sed alterum istorum dicitur multipliciter. Sed multiplicitas 
+      la<lb ed="#P" n="47" break="no"/>tet quia eorum significata habent propinquitatem, propterea eorum multiplicitas non est manifesta, sicut 
+      <lb ed="#P" n="48"/>in his quae multum distant: qualia sunt illa quae secundum speciem &amp; similitudinem differunt. Vt clauis 
+      aequi<lb ed="#P" n="49" break="no"/>uoce significat illud quod est sub collo animalium quod aliqui dicunt anginam hominem strangulantem 
+      <lb ed="#P" n="50"/>quam Galenus Synanchen appellat, vulgus Squinantiam vocitat. alii tradunt, quod est instrumentum carneum 
+      <lb ed="#P" n="51"/>quo arteria vocalis tempore sumptionis cibi clauditur ne aliud subintret &amp; in vocis formatione 
+      ape<lb ed="#P" n="52" break="no"/>ritur non magnopere refert. Alio modo significat instrumentum ferreum quo ostia clauduntur 
+      aperiun<lb ed="#P" n="53" break="no"/>turque, sed haecaequiuocatio est valde manifesta, cum sit rerum differentium specie. Sumatur igitur quot 
+      <lb ed="#P" n="54"/>iniustus dicatur modis &amp;c. lam probat quod iniustus multipliciter dicatur. Est enim primo aliquis 
+      iniu<lb ed="#P" n="55" break="no"/>stus qui a legibus exorbitat &amp; contra eas committit. Secundo. qui plus quam par sit accipit, &amp; hic appellatur 
+      <lb ed="#P" n="56"/>auarus, &amp; iniquus qui inaequaliter diuidit partienda, vnde fit vt iustus bifariam proportionabiliter 
+      di<lb ed="#P" n="57" break="no"/>eatur. Primo modo qui legitime facit ac secundum leges degit. Secundo, qui aequus est nihil amplius quam 
+      <lb ed="#P" n="58"/>par sit accipiens: illud est legitimum hoc vero aequum: &amp; iniustorum similiter illd contra leges atque hoc iniquum. 
+    </p>
+            <p xml:id="JMAet9-d19805-d1e306">
+               <lb ed="#P" n="59"/>⁋ Alia conclusio. Cum iniustus plus nimio sit auidus, hoc illi non circa omnia bona contingit. Nam illa 
+      <lb ed="#P" n="60"/>habendi sitis est solum circa illa in quibus prospera atque aduersa fortuna consistit, hoc est externa bona, 
+      <lb ed="#P" n="61"/>quae simpliciter sunt bona, non sunt autem simpliciter mala, nec indifferentia quantum est ex parte illorum. 
+      Pro<lb ed="#P" n="62" break="no"/>bis sunt bonum instrumentum, malis vero praecipitium ex illorum stultitia. Virtutes sunt simpliciter bona &amp; 
+      <lb ed="#P" n="63"/>sibiipsis improbis. Virtutibus nemo male vtitur. Quocirca non dicimus opes mala absolute, sed mala 
+      <lb ed="#P" n="64"/>abutenti. Multi ob opes vt dictum est primo huius perierunt, secus est de virtutibus quibus non contingit 
+      <!--162.xml-->
+      <pb ed="#P" n="73-r"/>
+               <lb ed="#P" n="1"/>male vti ideo semper &amp; omnibus sunt bonae. Homines autem illa sibi optant scilicet bona fortunae atque 
+      per<lb ed="#P" n="2" break="no"/>sequuntur, at non oportet: sed oportet optare ea quae sunt simpliciter bona, &amp; etiam quae sibi sunt bona. Ac 
+      <lb ed="#P" n="3"/>si dicere vellet a deo debemus categorice &amp; sine conditione petere ea quae sunt simpliciter bona &amp; bona 
+      no<lb ed="#P" n="4" break="no"/>bis hoc est virtutes: non autem alia nisi conditionaliter puta si nobis sunt bona. Et eodem modo de 
+      cor<lb ed="#P" n="5" break="no"/>poris incolumitate aut fratris. Alia conclusio. Iniustus non semper plus sed interdum minus expetit, vt 
+      <lb ed="#P" n="6"/>in simpliciter malis, in expensis &amp; laboribus minus appetit. Est dubitatio incidens quod iniustus non semper 
+      <lb ed="#P" n="7"/>petit plus: Respondet philosophus minus de malo comparatum maiori malo videtur bonum: sic 
+      dici<lb ed="#P" n="8" break="no"/>mus melius est perdere digitum quam brachium: &amp; quanto minus de malo appetit, tanto plus appetit de 
+      bo<lb ed="#P" n="9" break="no"/>no: &amp; sic est iniustus quia semper pluris auidus. Dubitatur circa dicta primo. Iniustum dicitur tripliciter, &amp; iu 
+      <lb ed="#P" n="10"/>stum solum dupliciter: ergo pluribus modis dicitur vnum oppositorum quam reliquum. Secundo quo modo  
+      <lb ed="#P" n="11"/>se habeant illa tria, illegale auarum &amp; iniquum. Ad priorem haesitationem respondetur quod illa regula 
+      pri<lb ed="#P" n="12" break="no"/>mi topicorum intelligitur quando vnum oppositorum alteri extremo in omni acceptione 
+      aduersa<lb ed="#P" n="13" break="no"/>tur. Secundo dicitur quod iustum, cum suo contrario etiam bifariam dicitur. Vno modo iustus est animus 
+      <lb ed="#P" n="14"/>aut homo qui legibus paret. Secundo modo qui est aequus tam in accipiendo quam in diuidendo. Itidem iniu 
+      <lb ed="#P" n="15"/>stus bifariam deducitur scilicet in iniustum illegalem ac in iniustum inaequalem. Iniustus illegalis est 
+      <lb ed="#P" n="16"/>sanctionis spretor. Illegalis vlterius distrahitur in habendo plus de bonis minus de malis. lustus est aequi 
+      <lb ed="#P" n="17"/>obseruantissimus, aequalitatem tam in bonis quam in malis quaerit. Quoties ergo dicitur vnum oppositorum, 
+      <lb ed="#P" n="18"/>toties reliquum dicitur: loquendo de oppositione primaria ac immediata. Subdiuisione neglecta. Etiam di 
+      <lb ed="#P" n="19"/>citur iniustum non trifatiam, sed solum bifariam capitur. Illud quod tertium membrum videtur, 
+      secun<lb ed="#P" n="20" break="no"/>dum membrum speciatim solum enucleat. Ad secundam dubitationem respondetur quod omnis auarus est 
+      <lb ed="#P" n="21"/>inaequalis &amp; non contra. Auarus semper appetit plus debito in bonis, &amp; minus in malis, vtpote 
+      labori<lb ed="#P" n="22" break="no"/>bus &amp; impensis quas mala reputat: sed iudex innocentem condemnans sui odio aut alterius partis 
+      amo<lb ed="#P" n="23" break="no"/>re, non est auarus: est tamen iniquus.
+    </p>
+            <!--alias="mair-l5c1p2"-->
+            <p xml:id="JMAet9-d19805-d1e378">
+               <lb ed="#P" n="50"/>Alia conclusio. <quote xml:id="JMAet9-d19805-Qd1e382" type="lemma">Cum autem legis transgressor sit iniustus, qui legitime facit est iustus: omnia legitima 
+        <lb ed="#P" n="51"/>sunt quodam modo iusta</quote>. Dicit quodammodo quia omnis lex positiua datur in ordine ad aliquam 
+      poli<lb ed="#P" n="52" break="no"/>tiam: sed quod est iustum in politia aristocratica non est iustum in timocratica. In priore est respectus ad 
+      <lb ed="#P" n="53"/>optimates &amp; patricios: in posteriore vero ad omnes. Patet tertio politicorum. Ea quae fiunt a facultate, &amp; 
+      <lb ed="#P" n="54"/>authoritate ferendarum legum sunt definita &amp; decreta, legitima sunt: &amp; vnumquodque horum dicimus 
+      <lb ed="#P" n="55"/>iustum. Ipsae enim leges de omnibus decernunt coniectantes ad omnium vtilitatem aut optimorum in poli 
+      <lb ed="#P" n="56"/>tia aristocratica, aut principum in monarchia, vel tyrannorum: vel virtute. hoc est respicit vtilitatem stu¬ 
+      <!--163.xml-->
+      <pb ed="#P" n="73-v"/>
+               <lb ed="#P" n="1"/>diosorum vt in Taprobana vbi praestantissimum senem non habentem liberos in regem eligere solent: cui etiam 
+      <lb ed="#P" n="2"/>connubium erat vetitum vel aliquo tali modo nobilium aut opulentorum, sed purissima est ea lex quae omniu 
+      <lb ed="#P" n="3"/>commodum metitur. lustitia imperat actus aliarum virtutum, sed homo aliis virtutibus vacuus illud 
+      im<lb ed="#P" n="4" break="no"/>perium non facile exequitur, quare non sunt inanes: quapropter vno modo dicimus ea iusta quae efficiunt 
+      <lb ed="#P" n="5"/>&amp; conseruant felicitatem felicitatisque partes in ciuili societate. Exemplificat quo modo lex praecipit in mul 
+      <lb ed="#P" n="6"/>tis virtutibus primo in fortitudine non deserere locum in acie, non fugere, non abiicere timore 
+      arma<lb ed="#P" n="7" break="no"/>non committere adulterium &amp; non diffluere ad libidinem scortando: non pulsare proximum aut in eum iurgia 
+      di<lb ed="#P" n="8" break="no"/>cere: &amp; similiter in caeteris virtutibus &amp; vitiis: aliqua in affirmatiuis praecipiens aliqua in negatiuis vetans. 
+      <lb ed="#P" n="9"/>Et recte quidem si lex recte posita est quae omnium vtilitatem respicit: deterius autem praecipit &amp; vetat si inconsiderate 
+      <lb ed="#P" n="10"/>exarata &amp; posita est. lam Solon Atheniensibus &amp; Lycurgus Lacedaemoniis sanctiones tradidere. Item Socrates, 
+      <lb ed="#P" n="11"/>Plato, ac alii scita tulere. Legemn positiuam ad bonam &amp; quodammodo malam extendit, quia tales homines nonnumquam 
+      cu<lb ed="#P" n="12" break="no"/>dunt leges.
+    </p>
+            <p xml:id="JMAet9-d19805-d1e430">
+               <pc type="pilcrow">¶</pc> Dubitatur quot requirantur ad iustam legem. Respondetur primo eam esse iustam oportet: si enim est iniusta non 
+      <lb ed="#P" n="13"/>habet vim legis, &amp; in foro animae non obligaret: quare nullum statutum contra ius naturae aut diuinum est lex. Secum 
+      <lb ed="#P" n="14"/>do requiritur eius publicatio. Tertio vt sit ab inferioribus suscepta. Multitudo enim potest tollere legem 
+      huma<lb ed="#P" n="15" break="no"/>nam currentem, si in lege non scribatur non obstante consuetudine: ac illius particulae oppositio totum 
+      hu<lb ed="#P" n="16" break="no"/>mana a sanctione haud quaquam adimit. Ergo a fortiore multitudo potest reluctari ne superioris lex 
+      impona<lb ed="#P" n="17" break="no"/>tur. Quarto requiritur quod sit ob bonum commune, licet hoc in prima conditione intelligi possit: &amp; si ob 
+      bo<lb ed="#P" n="18" break="no"/>num commune institutum sit &amp; non nunc militat, non videtur quod obligat. vt soluere pedagia ad securitatem 
+      <lb ed="#P" n="19"/>&amp; commoditatem itinerum: &amp; viae non custodiuntur integrae &amp; pontes non reficiuntur: nec fures arcentur. Ex 
+      <lb ed="#P" n="20"/>quo fit quod capere merces ex naufragio est iniquum. cum sit contra rectam rationem capere bona non derelicta fra 
+      <lb ed="#P" n="21"/>tris: secus est quando merces aut thesaurus habetur proderelicto. Et fortasse lex ea est iniqua qua vicecomes capit 
+      <lb ed="#P" n="22"/>equum quando iuuenis excussus interimitur. Stat dominum equi ponendo iuuenem super equum non peccasse. 
+      <lb ed="#P" n="23"/>Nec video quonam pacto id ad cautelam imposterum valeat. Hoc addo quia quis sine sua culpa sed non 
+      si<lb ed="#P" n="24" break="no"/>ne causa puniri potest.
+    </p>
+            <p xml:id="JMAet9-d19805-d1e462">
+               <pc type="pilcrow">¶</pc> Alia conclusio. lustitia est perfecta virtus: at non absolute, sed ad alteru &amp; relatiue. 
+      <lb ed="#P" n="25"/>Absolutum hic contra relatiuum &amp; non contra connotatiuum distinguitur: &amp; vt Euripides inquit, neque 
+      hespe<lb ed="#P" n="26" break="no"/>rus neque lucifer, vsque adeo admirabilis est. Post haec authoritatem theognidis poetae in adagium conuersam 
+      <lb ed="#P" n="27"/>affert inquiens, vt prouerbio dicitur, lustitia in sese virtutes continet omnes, dicit quod iustitia perfectissima 
+      <lb ed="#P" n="28"/>virtutum est. Persaepe dabiles sunt actus exiguae laudis iusti, &amp; heroicae in aliis, verum frequentius oppositum 
+      <lb ed="#P" n="29"/>euenit. Venus vltra duos gradus a sole non elongatur: sub noctem post solem apparens dicitur hesperus: 
+      secun<lb ed="#P" n="30" break="no"/>dum illud maronianum. Ite domum saturae venit hesperus, ite capellae. Et idem sidus solem praeueniens mane 
+      <lb ed="#P" n="31"/>lucifer appellatur. Agesilaus interrogatus, Vtrum fortitudo praestaret an iustitia: scite respondit fortitudine 
+      <lb ed="#P" n="32"/>nihil opus esse si iuste viueremus omnes. Istius sententia est ponderanda: fuit bellica virtute suo tempore 
+      in<lb ed="#P" n="33" break="no"/>ter graecos omnium longe princeps, &amp; fortis atque iustus. Sanctam iustitiam sequenti modo Chrysippus 
+      discri<lb ed="#P" n="34" break="no"/>psit vt. xiiii. libro Gellius commemorat: Imaginem integrae iustitiae fingebat forma virginali, aspectu vehemen 
+      <lb ed="#P" n="35"/>ti, luminibus oculorum acrioribus. Ex imaginis autem significatione intelligi voluit iudicem qui iustitiae 
+      anti<lb ed="#P" n="36" break="no"/>stes est esse oportere grauem, sanctum, seuerum, incorruptum, inadulabilem, contraque improbos nocentesque immi 
+      <lb ed="#P" n="37"/>sericordem atque inexorabilem. Virgo est incorrupta: sicque virginitas contracta fronte, aspero vultu depingitur. 
+      <lb ed="#P" n="38"/>Caeterum Nigidius cognomento figulus astronomiae inter Romanos peritissimus scribit virginem in 
+      zo<lb ed="#P" n="39" break="no"/>diaco esse iustitiam: &amp; non ab re inter leonem atque libram in signifero collocatam. Haec quondam mortales 
+      reli<lb ed="#P" n="40" break="no"/>quit &amp; ad superos remeauit. Quarto de ciuitate dei inquit Aug. Tolle iustitiam, regna quid sunt nisi latroci 
+      <lb ed="#P" n="41"/>nia? lustitia Caesari quae Caesaris sunt tradit, atque deo quae dei sunt. In alios est beneficus, cuius munus est ar 
+      <lb ed="#P" n="42"/>duum. liberalis de suis vicino succurrens est laudandus: nihil tamen collatione iusti. Insuper cuius virtutis 
+      <lb ed="#P" n="43"/>perfectissimus vsus est, ipsa quoque perfectissima virtus est: iustitiae autem vsus est perfectissimus igitur. Ma 
+      <lb ed="#P" n="44"/>ior patet quia est circa difficile: sunt enim complures qui in propriis virtute vti possunt vt temperantia, man 
+      <lb ed="#P" n="45"/>suetudine: sed in his quae sunt ad alios vti nequeunt. Ea propter id Biantis venuste dictum videtur verum. Ma 
+      <lb ed="#P" n="46"/>gistratus virum ostendit: quia celebris magistratus ad alium est, &amp; in boni communis administratione 
+      geri<lb ed="#P" n="47" break="no"/>tur. Vnde fit vt sola virtutum iustitia bonum alienum esse videatur: ob idipsum quod ad alterum ea virtus est. Agit 
+      <lb ed="#P" n="48"/>enim ea quae alii conducunt, tu principi vel reipublicae.
+    </p>
+            <p xml:id="JMAet9-d19805-d1e520">
+               <pc type="pilcrow">¶</pc> Alia conclusio sine probatiua conclusionis 
+      prae<lb ed="#P" n="49" break="no"/>cedentis est. Pessimus est qui ad seipsum &amp; ad amicos sibi subditos prauitate vtitur. Nam optimus &amp; 
+      per<lb ed="#P" n="50" break="no"/>fectissimam virtutem habens (vt dictum est) ille est qui non solum ad seipsum sed etiam ad alium 
+      virtu<lb ed="#P" n="51" break="no"/>te vtitur: quia tale opus est difficile factu. Ergo oppositum est pessimum: optimo autem pessimum &amp; contra 
+      <lb ed="#P" n="52"/>opponitur. Alia conclusio. lustitia non est pars virtutis, sed tota in ordine ad alium &amp; imperatiue. &amp; 
+      iniusti<lb ed="#P" n="53" break="no"/>tia illi aduersa non vitii pars sed vniuersum complectitur vitium. Nam iustitia legitima siue legalis de omni 
+      <lb ed="#P" n="54"/>bus dictat, vt diximus: &amp; virtutes in se ambit omnes, non est propterea virtus particularis sed tota &amp; vni 
+      <lb ed="#P" n="55"/>uersa: &amp; ex opposito iniustitia legitima vniuersum vitium amplexatur. Si roges quid ergo interest inter 
+      to<lb ed="#P" n="56" break="no"/>tam virtutem &amp; legitimam iustitiam: Ex praedictis facilis est vtcumque responsio. Nullum inter illa reipsa est 
+      discri<lb ed="#P" n="57" break="no"/>men, bene autem ratione. Nam tota virtus &amp; iustitia legitima reipsa idem sunt, esse autem siue celsa 
+      denomi<lb ed="#P" n="58" break="no"/>natio non est idem: sed quo quidem est ad alium, est iustitia, quo vero ipsa talis est habitus, habentem perficiens, 
+      <lb ed="#P" n="59"/>simpliciter virtus dicitur.
+    </p>
+            <p xml:id="JMAet9-d19805-d1e550">
+               <pc type="pilcrow">¶</pc> Dubitatur quo modo finis huius capitis est intelligendus. Licet enim 
+      philoso<lb ed="#P" n="60" break="no"/>phus dicat, ex praedictis solutio patet, ob varia tamen eius dicta manet tenebrosa aqua in nubibus aeris. 
+      Ali<lb ed="#P" n="61" break="no"/>qui enim dicunt iustitia legalis est aliarum omnium virtutum aggeries: sed sic non esset virtus sed multae 
+      virtu<lb ed="#P" n="62" break="no"/>tes collectae: sine multiloquio illum modum relinquo. dico ergo aliter quod iustitia est virtus in ordine ad alium &amp; 
+      <lb ed="#P" n="63"/>specialis virtus &amp; generalis. Specialis, quia habet propriam materiam scilicet bonum commune quod vult ser 
+      <lb ed="#P" n="64"/>uare.. lustus legalis rectitudinem ad alium ob bonum commune custodit: non tamen est vniuersalis per 
+      <!--164.xml-->
+      <pb ed="#P" n="74-r"/>
+               <lb ed="#P" n="1"/>praedicationem &amp; est generalis quia actus aliarum virtutum dirigit in bonum. ldem propterea dicitur generalis er 
+      <lb ed="#P" n="2"/>go per causalitatem, sicut sol est causa vniuersalis multorum effectuum ab eo producibilium: sicut secundum 
+      theo<lb ed="#P" n="3" break="no"/>logos dicitur charitas est virtus generalis, pro quanto actus aliarum virtutum ordinat ad suum finem scilicet bonum 
+      <lb ed="#P" n="4"/>diuinum. Tunc restat exponere vltima verba literae quae transcurrenter detegimus incipiendo vbi est 
+      difficul<lb ed="#P" n="5" break="no"/>tas. haec ioitur iustitia non est pars virtutis. Hanc distinguo, aut quod non sit pars subiectiua virtutis &amp; sic nego, 
+      <lb ed="#P" n="6"/>immo est: aut quod non est via de virtutibus praecedentibus, &amp; hoc est verum. Nec est earum vna aut omnes simul sumptae? 
+      <lb ed="#P" n="7"/>sed est omnes per quandam aequiualentiam. Alius sensus sed est tota virtus imperatiue cum lex actus omnium 
+      <lb ed="#P" n="8"/>virtutum praecipiat, vt dicitur in litera. &amp; facinora vitiorum vetat: proinde comparatiue est quoddam totum, sicut 
+      cha<lb ed="#P" n="9" break="no"/>ritas sed elicitiue est vna virtus. Et quia fortitudini imperat vt fortiter agat ob commune bonum, fortitudo 
+      <lb ed="#P" n="10"/>dici potest: ac pari iure temperantia sicut actus aliarum virtutum, &amp; aliae virtutes charitati propter eius imperium 
+      <lb ed="#P" n="11"/>applicantur. Dicente Apostolo primae Corinth. xiii. Charitas patiens est, benigna est. &amp;c. Et vocatur bonum alie 
+      <lb ed="#P" n="12"/>num iustitia in recto quia eius finitio est maximopere circa alienum bonum desudare: &amp; in hoc iustitia 
+      operan<lb ed="#P" n="13" break="no"/>tis splendescit. Similiter &amp; iniustitia huic contraria non vitii est pars sed cum omnium vitiorum actus imperet 
+      <lb ed="#P" n="14"/>totum vitium est Sequitur in litera: Quid autem interest inter hanc iustitiam quae omnibus aliis imperat &amp; virtu 
+      <lb ed="#P" n="15"/>tem absolute, quae non est ad alterum, ex dictis innotescit. Quia aliarum virtutum actus imperat &amp; eorum est 
+      cau<lb ed="#P" n="16" break="no"/>sa: sunt enim idem hoc est idem actus est elicitus a virtute absoluta. hoc est temperantia aut fortitudine, &amp; 
+      impe<lb ed="#P" n="17" break="no"/>ratus a iustitia. Vel sic &amp; melius iustitia &amp; virtus sunt idem: esse autem non est idem. haec est distinguenda, aut quod esse 
+      <lb ed="#P" n="18"/>essentiae puta ipsa res existens non sit eadem, &amp; hoc repugnat nuperrime dicto, &amp; per consequens sensus ille est 
+      <lb ed="#P" n="19"/>negandus. Alius sensus est, esse non est idem, alia ratione habet hoc esse scilicet virtutis &amp; denominationem alia 
+      <lb ed="#P" n="20"/>ratione scilicet iustitiae: &amp; hoc patet per verba sequentia, quae hunc sensum exponunt. Esse quo est ad alium est 
+      iu<lb ed="#P" n="21" break="no"/>stitia: hoc est pro quanto a iustitia imperantur tales actus dicuntur iustitia, &amp; iustitiae actus imperati, quo vero 
+      <lb ed="#P" n="22"/>est talis habitus simpliciter est virtus: &amp; hoc vno modo exponendo simpliciter. i. absolute non in ordine ad  
+      <lb ed="#P" n="23"/>alium: sicut cum iustitia praecipit sobrie viuere ob bonum commune, &amp; vetat moechari ob disturbium in republica. 
+      <lb ed="#P" n="24"/>Pro quanto hi actus imperantur a iustitia legali denominationem iustitiae merito sibi vendicant: pro quanto a 
+      <lb ed="#P" n="25"/>temperantia eliciuntur sunt temperantiae actus. Alio modo: ea ratione qua talis est habitus, est virtus, quia 
+      haben<lb ed="#P" n="26" break="no"/>tem perficit &amp; eius opus bonum reddit: ex diffinitione virtutis, secundo ethicorum. Et ille actus inquantum 
+      lega<lb ed="#P" n="27" break="no"/>lis iustitiae est actus, perfectionem habet super temperantiam inquantum huiusmodi. Alio modo sic intellige. 
+      lusti<lb ed="#P" n="28" break="no"/>tia legalis siue legitima bifariam consideratur. Vno modo pro quanto actus aliarum virtutum imperat: &amp; sic non est 
+      <lb ed="#P" n="29"/>vna virtus sed tota: alio modo consideratur in se &amp; sic est vna specialis virtus: &amp; realiter virtus, ratione tamen 
+      <lb ed="#P" n="30"/>differens. Virtus dicit habitudinem ad subiectum &amp; ipsius opus perficit: sed iustitia est ad alium. Nec est magnum 
+      <lb ed="#P" n="31"/>discrimen inter hasce expositiones. Ista iustitia legalis tamen virtus cardinalis non iudicatur. Ob eius raritatem 
+      <lb ed="#P" n="32"/>perpauci suas actiones ad bonum commune referunt. Contra non est idem virtus boni viri &amp; boni ciuis 
+      ter<lb ed="#P" n="33" break="no"/>tio politicorum: ergo idem actus non est ob bonum publicum &amp; bonum priuatum. Respondetur concedendo ante 
+      <lb ed="#P" n="34"/>cedens: plerique enim heremicolae bene solitarie viuere sciebant qui non erant assueti cum aliis viuere, sed consequem 
+      <lb ed="#P" n="35"/>tia est nulla. Dubitatur quo modo iustitia praeclarissima est virtus: difficilius enim est persistere in acie vbi 
+      <lb ed="#P" n="36"/>venitur in apertum discrimen vitae quam exercere actum iustitiae: ergo est nobilior virtus. Respondetur quod tempor 
+      <lb ed="#P" n="37"/>pacis &amp; tempore belli necessaria est iustitia: talem sicarii inter se &amp; latrones vtcumque seruant. Tolle iustitiam quid 
+      <lb ed="#P" n="38"/>sunt regna nisi latrocinia: dicit Aug. iiii. de ciuitate dei. Nobilitatem ex obiecto iustitia legitima quae &amp; lega 
+      <lb ed="#P" n="39"/>lis est, sibi vendicat. Rationem in oppositum non mouet. Capio optimum indiuiduum iustitiae vt nolle deserere actum 
+      <lb ed="#P" n="40"/>iustitiae in vitae aperto discrimine. Haeres de sublimitate iustitiae. Respondetur quod de actiua virtute &amp; non specu 
+      <lb ed="#P" n="41"/>latiua loquitur. Nam foelicitas est ea praestantior, decimo ethicorum.
+    </p>
+            <p xml:id="JMAet9-d19805-d1e660">
+               <pc type="pilcrow">¶</pc> Dubitatur quo modo intelligitur illud. 
+      <lb ed="#P" n="42"/>Magistratus virum ostendit. Responsio, Plerique in vita monastica &amp; oeconomica sese bene regunt, quia illa vita I 
+      <lb ed="#P" n="43"/>paucioribus indiget quam vita politica &amp; regitiua: &amp; cum magistratus constituuntur deficiunt, eorumque vires frequem pe 
+      <lb ed="#P" n="44"/>ter ad hanc prouinciam haud sufficiunt. Secundo cum quis est positus in specula &amp; vitia &amp; virtutes illius 
+      depre<lb ed="#P" n="45" break="no"/>henduntur: non autem in inferiori subsellio. Regum, antistitum &amp; aliorum authoritatem habentium, &amp; virtutes si 
+      quae<lb ed="#P" n="46" break="no"/>sunt splendent &amp; vitia sordidiora quam sint censentur. nam in omnium ore sunt. Simia summo loco collocata 
+      in<lb ed="#P" n="47" break="no"/>caudata ab hominibus cernitur: in afea a paucis conspicitur. Tertio sic. Dantur duo sub modio aequaliter pru I 
+      <lb ed="#P" n="48"/>dentes vnus ad dignitatem vtpote cancellariam aut praesulatum euehitur, alter sine sacerdotio delitescit: prior au¬ I 
+      <lb ed="#P" n="49"/>thoritatis gratia vbi sua prudentia &amp; virtus emicat omnium horarum vir reputatur: alter autem in humili lo 
+      <lb ed="#P" n="50"/>co degens non effertur &amp; ob opum poenuriam tanquam stultus floccipenditur, &amp; sic per hunc maxime modum 
+      <lb ed="#P" n="51"/>magistratus virum ostendit.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

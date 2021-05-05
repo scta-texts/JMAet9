@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 9</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 9</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-de7310"><!-- mair-l2c9 -->
+            <head xml:id="JMAet9-de7310-Hd1e103">Caput 9</head>
+            <p xml:id="JMAet9-de7310-d1e106">
+               <lb ed="#P" n="34"/>
+               <quote xml:id="JMAet9-de7310-Qd1e110" type="lemma">VIrtutem igitur</quote>. Repetit quaedam dicta, inquiens dictum est virtutem moralem duorum vitio 
+      <lb ed="#P" n="35"/>rum esse medium, vnius per excessum, alterius per defectum: idcirco virtutem esse coniectricem 
+      <lb ed="#P" n="36"/>medii, sed tam in affectibus quam in actibus. iam super hoc diximus. Inde duas conclusiones cum 
+      <lb ed="#P" n="37"/>quatuor documentis ponit. Prior conclusio est. Difficile est hominem esse studiosum. Probatio: quia qui 
+      <lb ed="#P" n="38"/>libet studiosus habet tenere medium tam in actibus quam in affectibus, sed hoc tenere est difficile: igitur. 
+      <lb ed="#P" n="39"/>Minorem similitudine probat, vt circuli medium capere non cuiustibet est, sed scientis tantum, hoc est geo 
+      <lb ed="#P" n="40"/>metrae. Similiter irasci, pecuniam erogare, &amp; sumptus facere cuiustibet est &amp; facile est factu, sed cui, 
+      quan<lb ed="#P" n="41" break="no"/>tum, quando, quomodo, &amp; gratia cuius, non amplius est cuiustibet, neque id est facile factu. Quod enim 
+      <lb ed="#P" n="42"/>rectum est, hoc rarenter in vsu est, sed est laudabile &amp; praeclarum. Rari quippe boni, numero vix sunt 
+      <lb ed="#P" n="43"/>totidem quot Thebarum portae vel diuitis ostia nili. 
+    </p>
+            <p xml:id="JMAet9-de7310-d1e133">
+               <lb ed="#P" n="44"/>⁋ Sequuntur tria documenta attingendi medii. Primum documentum. Volenti medium assequi 
+      sum<lb ed="#P" n="45" break="no"/>me elaborandum est magis euitare vitium quod ipsi medio magis opponitur. Perinde atque Circe vt 
+      <lb ed="#P" n="46"/>in litera dicitur monebat inquiens Vlyssi. Extra vndam &amp; fumum longe compelle carinam. Versus est 
+      <lb ed="#P" n="47"/>Homericus, quo poeta perbelle comminiscitur Circen admonentem vlyssem post Troiae excidium 
+      va<lb ed="#P" n="48" break="no"/>riis nauigationibus nantem vt extra fiuctum &amp; fumum carinam adigat. Hoc est extra Syllam &amp; 
+      Cha<lb ed="#P" n="49" break="no"/>rybdim, tradens indicia quibus ea discrimina notentur, scilicet quod ex fumo atque reciprocis fluctibus in  
+      <lb ed="#P" n="50"/>nonnullis locis periculosis mare vndabundum vento agitatur &amp; vicinum aera fumosum reddit, 
+      si<lb ed="#P" n="51" break="no"/>cut nosipsi in Britannico oceano notauimus. Et cum vno contrariorum magis quam altero peccetur, vt 
+      <lb ed="#P" n="52"/>in timore magis quam audacia, &amp; cum medium consequi sit interdum summe difficile, in secunda 
+      naui<lb ed="#P" n="53" break="no"/>gatione minima mala vt inquiunt sunt capienda. De duobus enim malis minus est eligendum: 
+      <lb ed="#P" n="54"/>in malis quidem poenae non culpae, &amp; a maiore malo est magis fugiendum. Hoc autem maxime erit per 
+      <lb ed="#P" n="55"/>modum quem retulimus.
+    </p>
+            <p xml:id="JMAet9-de7310-d1e162">
+               <pc type="pilcrow">¶</pc> Secundum documentum. Considerare oportet vitia ad quae natura 
+      pro<lb ed="#P" n="56" break="no"/>cliuiores sumus: siquidem alii ad alia natura feruntur, &amp; nos ad opposita retrahere, &amp; demum remote 
+      <lb ed="#P" n="57"/>ab his in quibus transgredi solebamus declinantes, medium inueniemus, more eorum qui flexa &amp; obliqua 
+      <!--73.xml-->
+      <pb ed="#P" n="29-v"/>
+               <lb ed="#P" n="1"/>ligna retorquent &amp; rectificant. Vitia autem ad quae procliues sumus voluptate &amp; dolore percipiemus. 
+      <lb ed="#P" n="2"/>Nam plerumque in quibus est aliis voluptas aliis dolor adest.
+    </p>
+            <p xml:id="JMAet9-de7310-d1e181">
+               <pc type="pilcrow">¶</pc> Tertium documentum. In vniuersis summo 
+      <lb ed="#P" n="3"/>pere est a voluptate cauendum. Non enim incorrupti &amp; incontaminati de illa iudicamus. Hoc est nos 
+      <lb ed="#P" n="4"/>nondum de voluptate tentati rectam sententiam ferimus. Non enim putamus eam esse tantae 
+      diffi<lb ed="#P" n="5" break="no"/>cultatis quantae est &amp; apparet in obiecti praesentia: sicut senes Troianorum erga Helenam sese 
+      habue<lb ed="#P" n="6" break="no"/>runt, sic ad voluptatem nos esse affectos oportet, in omnibus illorum imitabimur vocem. Nolebant enim 
+      <lb ed="#P" n="7"/>Helenam (quae omnes suo aspectu ad libidinem trahebat) videre. Dicere solemus de mediocriter for 
+      <lb ed="#P" n="8"/>mosa muliere, haec non rapit videntes in sui amorem: acsi per locum a contrario sensu diceremus, ali 
+      <lb ed="#P" n="9"/>quae sunt quarum aspectus signanter cum tempore fiunt periculose, in amorem sui trahunt. Sic autem 
+      <lb ed="#P" n="10"/>a nobisipsis voluptatem repellentes minus peccabimus, &amp; has praeceptiones obseruantes, medium vel 
+      <lb ed="#P" n="11"/>maxime consequemur. Sequitur tertia pars principalis huius capitis. Id autem ipsum difficile fortas 
+      <lb ed="#P" n="12"/>se &amp;c. Hic ponitur secunda conclusio dicens pro omnibus his documentis est difficile attingere medi 
+      <lb ed="#P" n="13"/>um in particulari. Probatur, Non enim est facile determinare quomodo, &amp; quibus &amp; pro quibus &amp; quam 
+      <lb ed="#P" n="14"/>to tempore irascendum sit. Nam nonnunquam eos qui deficiunt laudamus, &amp; mites dicimus esse. Interdum 
+      <lb ed="#P" n="15"/>ipsos infensos &amp; excandescentes viriles dicimus. Sed animaduersione dignum est quod qui parum a 
+      re<lb ed="#P" n="16" break="no"/>cto exorbitat in alterutram partem, non carpitur: qui vero plurimum deuiat vituperatur, talis enim 
+      <lb ed="#P" n="17"/>egressus non latet, attamen non est facile sermone consequi quousque &amp; quantum a recto egressus vitu 
+      <lb ed="#P" n="18"/>perandus est, nec aliud quicquam sensibilium prompte determinari potest. Nam talia in singularibus 
+      col<lb ed="#P" n="19" break="no"/>locata sunt, quorum iudicium est in sensu. Nihil igitur mirum videatur, si difficile est esse studiosum. 
+      <lb ed="#P" n="20"/>Illud duntaxat clarum est, quod medius habitus in cunctis laudatur, &amp; quod declinare oportet nunc ad ex 
+      <lb ed="#P" n="21"/>cessum nunc ad defectionem. Sic enim facillime medium adipiscemur. 
+    </p>
+            <p xml:id="JMAet9-de7310-d1e229">
+               <lb ed="#P" n="22"/>⁋ Circa literam dubitatur. Primo an est bonum documentum, irretitum in vno vitio aliud intrare. 
+      <lb ed="#P" n="23"/>vt demum in medium redeat. Videtur Aristoteles hoc velle per flexum lignum vel ensem, qui in opr 
+      <lb ed="#P" n="24"/>positam partem flectitur vt tandem in medium redeat.
+    </p>
+            <p xml:id="JMAet9-de7310-d1e238">
+               <pc type="pilcrow">¶</pc> Secundo an quilibet quamtumcunque paruus 
+      <lb ed="#P" n="25"/>ingressus in extrema sit vitium. videtur Aristoteles dicere quod non, inquiens, qui parum a recto 
+      deui<lb ed="#P" n="26" break="no"/>at non carpitur. In oppositum argumentor. Is est extra rationem medii: ergo in extremis, &amp; per con 
+      <lb ed="#P" n="27"/>sequens in vitio.
+    </p>
+            <p xml:id="JMAet9-de7310-d1e250">
+               <pc type="pilcrow">¶</pc> Tertio an possum aperire viam minoris peccati viro quem video in maius 
+      pecca<lb ed="#P" n="28" break="no"/>tum lapsurum quatenus eum a maiori peccato retraham. Respondetur ad primum negatiue. 
+      Aristo<lb ed="#P" n="29" break="no"/>teles enim intelligit vt vno genere vitii coinquinatus, in extremum medii aliud extremum versus 
+      <lb ed="#P" n="30"/>pergat, &amp; sic sensim ad medium venire potest. Vt prodigus ad partem liberalitatis illiberalitati 
+      vici<lb ed="#P" n="31" break="no"/>nam primo pergat, postea circa totam latitudinem liberalitatis insudabit. Liberalitas enim sicut &amp; quae 
+      <lb ed="#P" n="32"/>libet alia virtus non consistit in impertibili, sed quandam latitudinem sibi vendicat. Maior autem vni 
+      <lb ed="#P" n="33"/>quam alteri latitudo medii temperantiae est. Minor siquidem debili quam robusto: &amp; minor infirmo quam sano. 
+      <lb ed="#P" n="34"/>Qui ab altero extremorum etiam peiori in minus malum prosilit inconsulto agit cum medium in 
+      <lb ed="#P" n="35"/>manu habeat secundum illud Flacci in arte. In vitium ducit culpae fuga, si caret arte. Et in sermo. Non 
+      <lb ed="#P" n="36"/>ego auarum Cum veto te fieri vappam iubeo ac nebulonem. Dum vitant stulti vitia in contraria cur 
+      <lb ed="#P" n="37"/>runt.
+    </p>
+            <p xml:id="JMAet9-de7310-d1e277">
+               <pc type="pilcrow">¶</pc> Ad secundum dicitur quod quilibet egressus extra latitudinem medii est peccatum &amp; actus 
+      ma<lb ed="#P" n="38" break="no"/>lus, sane opposito dato non esset latitudinis medii egressus. Cui quadrat Flaccus inquiens in 
+      sermoni<lb ed="#P" n="39" break="no"/>bus. Est modus in rebus, sunt certi denique fines. Quos vltra citraque nequit consistere rectum. Sed qui 
+      <lb ed="#P" n="40"/>parum medii cancellos transgreditur is non carpitur, quia error est permodicus &amp; non a quouis 
+      per<lb ed="#P" n="41" break="no"/>cipitur: Quando vero excessus est magnus, tunc non latet, sed vbi est praecisus limes non est facile 
+      co<lb ed="#P" n="42" break="no"/>gnitu, quemadmodum in aliqua intercapedine panem triticeum sacerdos consecrare potest &amp; in aliqua 
+      <lb ed="#P" n="43"/>ob grande interuallum nequit. Sed vbi sit adaequatum confinium, fortasse plerosque etiam sapientes 
+      <lb ed="#P" n="44"/>fugit. Caeterum si tota latitudo medii quae deo est nota nonnihil extremorum ex ignoratione 
+      inuin<lb ed="#P" n="45" break="no"/>cibili includat, iam illud totum est operanti medium. Ego enim si ex praeteritis me posse tantum 
+      man<lb ed="#P" n="46" break="no"/>ducare &amp; bibere probabiliter reor, &amp; tamen ex tali comestione in morbum labor non feci intemperam 
+      <lb ed="#P" n="47"/>tiae actum, sed temperantiae cum hac circunstantia notitiae qua comestionis tempore fungebar, vbi 
+      ali<lb ed="#P" n="48" break="no"/>us mihi omnino parilis, hoc dempto quod praecise limitem inter excessum &amp; defectum nouit, ille intem 
+      <lb ed="#P" n="49"/>peranter mecum tantundem manducabit potabitque non autem ego.
+    </p>
+            <p xml:id="JMAet9-de7310-d1e309">
+               <pc type="pilcrow">¶</pc> Ad tertiam dubitationem ne 
+      <lb ed="#P" n="50"/>gatiue respondetur. Nam consulere alicui perperam agere, malum est: veteri enim prouerbio dicitur, 
+      <lb ed="#P" n="51"/>Malum consilium consultori pessimum est. Attamen possum sine peccato dare ei pecuniam in bursa 
+      <lb ed="#P" n="52"/>aut in capsa inclusam vt me incolumem abire sinat, hoc enim est mihi licitum: ei tamen illicitum 
+      re<lb ed="#P" n="53" break="no"/>cipere, &amp; haec extorta datio illi non praestat rei datae completum dominium, quare acceptum refundere 
+      <lb ed="#P" n="54"/>astringitur.
+    </p>
+            <p xml:id="JMAet9-de7310-d1e326">
+               <pc type="pilcrow">¶</pc> Pro affirmatiua responsione discepto sic. Possum consulere Socrati meam pecuniam quam 
+      <lb ed="#P" n="55"/>habeo in antro conseruatam capere quatenus meum iugulum non abscindat quod scindere iam euidenter 
+      delibe<lb ed="#P" n="56" break="no"/>rat, obice non praestito: &amp; tamen ipse peccat meam pecuniam sic capiendo cum eam non mea pura sponte erogen. 
+      <lb ed="#P" n="57"/>Itidem do pecuniam Socrati ne Platonem occidat, aut vt Ciceronem simoniace ad dignitatem eligat: igitur horum 
+      <lb ed="#P" n="58"/>telorum solutiones in fine primi sententiarum quaere.
+    </p>
+            <p xml:id="JMAet9-de7310-d1e341">
+               <pc type="pilcrow">¶</pc> Dubitatur quarto vn est quod aliqui sunt propensiores ad vnum 
+      <lb ed="#P" n="59"/>vitium quam ad aliud. Respondetur quod aut mores ac influentiae celestes ad hominium habitudines non parum momenti 
+      <lb ed="#P" n="60"/>habent: natus enim in tali horoscopo est audax, ac in alio natus more leporis timidus propriam vmbram 
+      me<lb ed="#P" n="61" break="no"/>tuens, &amp; nocturnas laruas in tenebris excogitans. Nonne vides ad oculum quod in tali vel tali aere nasci ad hunc 
+      <lb ed="#P" n="62"/>affectum vel illum inclinat? A via solis remoti sunt aiosi &amp; bellipotentes plerumque: apricis in locis editi astuti. 
+      <lb ed="#P" n="63"/>Poeni erant astuti atque versipelles. Concauis oculis nati inuidi feruntur. Verumtamem vir circumspectus 
+      inclina<lb ed="#P" n="64" break="no"/>tionem corporis malam minime insequitur, rationem enim audit atque illi innititur. Nam sapiens dumabitur astris, inquit 
+      <!--74.xml-->
+      <pb ed="#P" n="30-r"/>
+               <lb ed="#P" n="1"/>Ptolemaeus Alexandrinus gentilicio errore imbutus. Hoc experientia hausit. ldem innuit 
+      philoso<lb ed="#P" n="2" break="no"/>phus in Ethicis &amp; vbique, &amp; diuina eloquia. Sub te erit appetitus tuus &amp; tu dominaberis illius. 
+      Stulti<lb ed="#P" n="3" break="no"/>or inclinationem citra reluctamen insequitur vel ex malis actibus se ad malum promptificat, quia 
+      <lb ed="#P" n="4"/>ex malis actibus ingratissimae filiae oriuntur, scilicet habitus. Exempli gratia Adrianus Imperator 
+      <lb ed="#P" n="5"/>Traiani Caesaris laudem adeo aegrae tulit, vt Armeniam, Assyriam, Mesopotamiam, ab illo acquisitas 
+      <lb ed="#P" n="6"/>Alcmeon. 
+      <lb ed="#P" n="7"/>Parthis concesserit. Pontem supra Danubium ab illo extructum diruerit. Asinius Pollio adeo 
+      infen<lb ed="#P" n="8" break="no"/>sus fuit Ciceroni vt eius laudes audire nequiret. Cum enim Sextilius poeta inciperet canere in 
+      men<lb ed="#P" n="9" break="no"/>sa. Deflendus Cicero patriaeque silentia linguae: cunctis spectantibus adeo est commotus, vt silentium 
+      <lb ed="#P" n="10"/>vati imperaret. Aliqui sunt in choleram pronissimi. Aliqui constantes atque patientes in 
+      diffor<lb ed="#P" n="11" break="no"/>tuniis vt lob, Socrates, Licurgus, Aristides. Et Stephanus aliique martyres ecclesiae. Breui in omnibus 
+      <lb ed="#P" n="12"/>his, ratio &amp; voluntas imperium tenent: quacunque calamitate opprimaris cladem in bonam partem 
+      ac<lb ed="#P" n="13" break="no"/>cipe, patientiam per voluntatis imperium conserua: &amp; omnia leuentur. Propterea de inclinatione 
+      si<lb ed="#P" n="14" break="no"/>derum parum est curandum.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

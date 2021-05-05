@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 9</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 9</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d38292"><!-- mair-l9c9 -->
+            <head xml:id="JMAet9-d38292-Hd1e103">Caput 9</head>
+            <p xml:id="JMAet9-d38292-d1e106">
+               <lb ed="#P" n="46"/>
+               <quote xml:id="JMAet9-d38292-Qd1e110" type="lemma">ESt autem controuersia</quote> &amp;c. Disceptant nonnulli an felix amicis indigeat. Constructoriam partem 
+      <lb ed="#P" n="47"/>philosophus in litera sustinet. Qamrationibus tam naturalibus quam moralibus stipat. Nihilo tamen 
+      <lb ed="#P" n="48"/>minus de more partem inficiatoriam colorare videtur cauillos aliorum assumendo. Theodorus enim 
+      <lb ed="#P" n="49"/>gtheos dictus amictiam e medio tollere laborauit. Nam sapientibus asseruit amicitiam inanem. Siquidem 
+      <lb ed="#P" n="50"/>sapientes sunt macti virtute &amp; sibi ipsis sufficiunt: proinde illis superuacanei sunt amici. Insipientibus autem 
+      <lb ed="#P" n="51"/>inutiles amicos dixit. eo quod amicis (vt vero simile est) vti nesciant.
+    </p>
+            <p xml:id="JMAet9-d38292-d1e125">
+               <pc type="pilcrow">¶</pc> Sequitur litera, in qua dubitationem 
+      <lb ed="#P" n="52"/>sub hoc verborum tenore proponit. Est controuersia inter varios an felix amicis indigeat, necne. Ad 
+      <lb ed="#P" n="53"/>inficiatoriam partem aliqui argumentantur. Primo sic. Beatus est per se sufficiens, proinde amicorum praesidio 
+      <lb ed="#P" n="54"/>non indiget. Secundo sic. Amicus est alter ipse, &amp; ea affert amico quae amicus per seipsum consequi non 
+      <lb ed="#P" n="55"/>valet. Vnde hanc sentaentiam in diuerbio habent. Cum fortuna est bona dei munere. Cur opus est amicis? 
+      <!--317.xml-->
+      <pb ed="#P" n="148-v"/>
+               <lb ed="#P" n="1"/>Perinde ac si dicerent beneficio dei homo iste claris natalibus &amp; naturalibus pollet, cui abunde omnia 
+      <lb ed="#P" n="2"/>bona conveniunt. Inane igitur est eum amicorum praesidio roborari, deinde ad partem affirmatiuam hoc pacto 
+      <lb ed="#P" n="3"/>argumentatur. Absurdum est omnia bona beato dare, &amp; amicos illi non tribuere. Procul dubio inter 
+      ex<lb ed="#P" n="4" break="no"/>terna bona amicitia est maximum. Secundo sic. Magis consentaneum est felici bene facere quam bene pati. 
+      Per<lb ed="#P" n="5" break="no"/>fecto virtute proprium est benefacere, at felicitas in operatione virtutis consistit, vt in primo libro 
+      retu<lb ed="#P" n="6" break="no"/>limus, atque magis pertinet ad felicem beneficia impendere quam accipere, &amp; honestius est amicis quam 
+      extra<lb ed="#P" n="7" break="no"/>neis beneficia conferre: itaque eget eis qui sunt beneficiorum capaces Quas ob res amicis indiget beatus. 
+      <lb ed="#P" n="8"/>Quapropter quaestionem mouere consueuerunt. Vtrum in rebus secundis, an in aduersis potius indigeamus 
+      <lb ed="#P" n="9"/>amicis: quia in omni fortuna amici sunt necessarii, vt in praecedente libro diximus. Infortunati enim 
+      <lb ed="#P" n="10"/>indigent amicis qui ipsorum defortunium releuent. In prospera autem fortuna constituti indigent amicis. 
+      <lb ed="#P" n="11"/>quibus benefaciant. Tertio sic. Absurdum est &amp; rationi dissentaneum beatum solitarium atque soliuagum 
+      fa<lb ed="#P" n="12" break="no"/>cere. Profecto nemo expeteret solitarie vniuersa possidere bona: quandoquidem homo est animal ciuile. 
+      <lb ed="#P" n="13"/>&amp; cum aliis aptum natum viuere, vt primo Politicorum traditur. ltaque felici congruit cum aliis vitam agere. 
+      <lb ed="#P" n="14"/>Possidet enim omnia quae suapte natura sunt bona, &amp; perspicuum est melius esse ipsi beato cum amicis 
+      <lb ed="#P" n="15"/>vitae candore bonis conuersari quam cum incognitis &amp; quibusuis hominibus. Propterea concludendum 
+      <lb ed="#P" n="16"/>est, felici opus esse amicis. reliquum est videre quantum veritatis rationes aduersariorum habeant. Ignobile 
+      vul<lb ed="#P" n="17" break="no"/>gus eos amicos putat qui commodum afferunt, verum vtilitatis beatus non est indigus. Ipse enim est 
+      sufficien<lb ed="#P" n="18" break="no"/>ter locuples. Neque indiget amicis qui ob voluptatem amantur, aut perparum illis indiget &amp; additur 
+      ra<lb ed="#P" n="19" break="no"/>tio: quia ipsius vita est iucunda, proinde aduentitia non indiget voluptate. Quas ob res aduersarii 
+      con<lb ed="#P" n="20" break="no"/>cludunt beatum non indigere amicis. At hoc non est vsquequaque verum. Siquidem in primo libro dictum est, 
+      <lb ed="#P" n="21"/>felicitatem esse quandam operationem: perspicuum autem est ipsam operationem fieri &amp; dependere continuo ab 
+      <lb ed="#P" n="22"/>ipso operante. Et non assimilatur rei quae possidetur. Aurei enim nummi in arca: &amp; holoserica vestis a 
+      <lb ed="#P" n="23"/>domino non agente possidentur. Nempe felix viuendo aut operando consistit. Boni quoque operatio est 
+      stu<lb ed="#P" n="24" break="no"/>diosa atque iucunda per seipsam. Hoc in primo libro probauimus. Siquidem studiosa operatione inter 
+      de<lb ed="#P" n="25" break="no"/>lectabilia potissimum delectari, propria res est. Quod quia ita est alios nobiscum conversantes cum eorum actibus 
+      <lb ed="#P" n="26"/>serenius citra fucum contemplamur quam nos &amp; nostros. Insitum est nobis a natura nos ipsos diligere, &amp; 
+      ple<lb ed="#P" n="27" break="no"/>rique mortalium in hoc plurimum exorbitant, sua magnipendentes, de culice gigantem efficiunt. Propter hunc 
+      <lb ed="#P" n="28"/>ergo affectum nobis a primisc unabulis congenitum dexterius de aliis quam de nobis ipsis iudicamus. 
+      Inge<lb ed="#P" n="29" break="no"/>nue tamen fatebor abditos nostrae mentis recessus certius cognoscimus quam caeterorum. Complusculi sunt 
+      <lb ed="#P" n="30"/>qui sub velamento sanctitatis hypocriseos labem contegunt. Nihilo tamen minus dum amicitia diutino 
+      <lb ed="#P" n="31"/>tempore est parta, amicum intus &amp; in cute noscimus, vt prouerbialiter traditur. Quam ob rem absolute 
+      <lb ed="#P" n="32"/>aliorum opera splendidius quam nostra rimamur. Studiosorumque hominum actus si sint amici, iucundi sunt 
+      <lb ed="#P" n="33"/>ipsis bonis: quia omnia bona bonis sunt delectabilia, atque iucunda. Profecto habent ambo ea quae suapte 
+      <lb ed="#P" n="34"/>natura iucunda sunt, vtpote virtutes cum earum operibus. ltaque beatus talibus eget amicis, si proprios actus 
+      <lb ed="#P" n="35"/>contemplari expetat, quia amicorum actus erunt ei analogia atque scala intelligendi proprios. Alios per lineam 
+      <lb ed="#P" n="36"/>rectam, nos ipsos vero per lineam reflexam intelligimus. Sed aliorum vultus recte cernimus, nostros vero 
+      <lb ed="#P" n="37"/>reflexe in speculo. Et aliorum erratula in mantica anteriori gestamus: nostra vero commissa atergo. 
+      No<lb ed="#P" n="38" break="no"/>stra praeconia si quae sunt directe ante oculos ferimus. Sane non est quaerendus amicus in hac lachrymarum 
+      <lb ed="#P" n="39"/>valle qui sit omnium noxarum expers, diuina eloquia &amp; experientia rerum magistra veritatem in hoc nos 
+      do<lb ed="#P" n="40" break="no"/>cent, Philosophantium turba ad occultos pectoris recessus oculum mentis non dirigebat: sed ad exteriora 
+      <lb ed="#P" n="41"/>quae in lucem prodeunt. Ita erat apud plerosque Mosaica lege imbutos, Lex enim cohibet manum non 
+      ani<lb ed="#P" n="42" break="no"/>mum ait diuiniloquus Paulus.
+    </p>
+            <p xml:id="JMAet9-d38292-d1e235">
+               <pc type="pilcrow">¶</pc> Sequitur litera. Arbitratur autem homines felicem iucunde viuere 
+      opor<lb ed="#P" n="43" break="no"/>tere: at solitario difficilis est vita: siquidem non est facile soliuagum continue bene operari, cum aliis vero belle 
+      <lb ed="#P" n="44"/>operari facile est. Istud roboratur quia in principio nascentis ecclesiae nullos eremicolas ad speluncas 
+      <lb ed="#P" n="45"/>deserti miserunt, nisi prius in schola morum excellenter instructos. Eremicolas modernos vix 
+      floecifa<lb ed="#P" n="46" break="no"/>cio qui in biuiis triuiisve sedent inexplebilibus vocibus stipem quaerentes. Ad loca publica conueniunt 
+      <lb ed="#P" n="47"/>turmatim quaestus gratia. Si operibus manuum incumberent hoc emaculatae vitae splendore florerent, 
+      <lb ed="#P" n="48"/>deuotae matronae necessaria vitae si quid eis deesset affatim suppeditarent. Verum maiorum vmbra suum ocium 
+      <lb ed="#P" n="49"/>suamque segnitiem tueri satagunt: cum tamen illi proprio sudore victum atque amictum parcissimi quaesiuerunt, vt 
+      <lb ed="#P" n="50"/>de Paulo primo eremita, Antonio, Hilarione, &amp; similibus caelo dignis meminimus. Nec tamen assertio 
+      <lb ed="#P" n="51"/>Aristotelica solitudini Carthusiensium derogat. Crebro enim in templum conveniunt, antelucanos hymnos 
+      si<lb ed="#P" n="52" break="no"/>mul domino canunt: antemeridiana luce precaminibus iugiter insistunt. Sole meridianum circulum 
+      superan<lb ed="#P" n="53" break="no"/>te minime torpent, nunc in angulo domunculi orantes cum deo susurrant: nunc in hortulo fodientes vrticas 
+      <lb ed="#P" n="54"/>&amp; alias noxias haerbas conculcant, salutares inserunt, nunc diuina volumina cum ardore percurrunt. Semperque 
+      <lb ed="#P" n="55"/>extra somnum occupantur, ne Sathan eos ociosos inueniant. Non ignorant ocium multa mala docuisse: 
+      pro<lb ed="#P" n="56" break="no"/>pterea ab eo tamquam ab aspide inopinato calcata aufugiunt. ltaque fecere coelicolae illi eremitae quos iampridem 
+      <lb ed="#P" n="57"/>citauimus. Ac inclytus Sachariae filius cuius vita frugalis &amp; sanctitudo est super aethera nota, ocium 
+      vir<lb ed="#P" n="58" break="no"/>tutum nouercam abominabatur. Nocturno sopore sacrum caput cauti supposuit, trihorio somno contentus, 
+      <lb ed="#P" n="59"/>eius esui atque potui ille sufficiebat. Reliquo tempore superueniente populo concionabatur, caperataque fronte 
+      <lb ed="#P" n="60"/>&amp; stentoria voce, in lapsus &amp; hominum mendas tonitruabat, placido vero gestu virtutum rosas atque  
+      <lb ed="#P" n="61"/>candida lilia ad coelum tollebat, ita vt deuotus &amp; foemininus sexus eum audiens diceret. Quis mihi 
+      <lb ed="#P" n="62"/>dabit pennas vt columbae &amp; volabo &amp; requiescam? Insimularet ne Aristoteles hosce deicolas? Absit. 
+      <lb ed="#P" n="63"/>Diceret enim. Nonne primo Politicorum asserui istos heroas ac homine maiores? Sed de hominum 
+      <lb ed="#P" n="64"/>multitudine hic loquor. Bella eius responsio, cui subscribimus. 
+      <!--318.xml-->
+      <pb ed="#P" n="149-r"/>
+            </p>
+            <p xml:id="JMAet9-d38292-d1e293">
+               <lb ed="#P" n="1"/>⁋ Accedo ad literam. Studiosus enim hoc ipso quo studiosus est, oppido gaudet in his actibus quae a 
+      <lb ed="#P" n="2"/>virtute emanant, siue ab ipso siue ab alio proficiscantur. Ex opposito moleste fert eos qui a sordibus vitii 
+      <lb ed="#P" n="3"/>emergunt, opera spurca atque foeda obhorret &amp; execratur, quoniam est alter Cato Censorinus. 
+      Manudu<lb ed="#P" n="4" break="no"/>ctionem dat de musico qui harmonia vocum eleganti cantione delectatur perstrepente autem cantu 
+      <lb ed="#P" n="5"/>offenditur, nec mirum, emodulata enim melodia est assuetus. Ex conuictu &amp; amicorum assuetudine 
+      <lb ed="#P" n="6"/>proborum, virtutis est exercitatio vt Theognidi placet. Vt ferrum ferro acuitur, &amp; ex variis 
+      ignicu<lb ed="#P" n="7" break="no"/>lis ingens rogus coalescit, sic ex conuictu proborum probitas incrementum suscipit, atque late 
+      diffun<lb ed="#P" n="8" break="no"/>ditur. Et non dissimiliter ex prauorum conuictu &amp; conuersatione peruersitas enascitur. Si 
+      naturali<lb ed="#P" n="9" break="no"/>us considerauerimus probus amicus natura studioso expetibilis est. Nam quod est bonum suapte 
+      na<lb ed="#P" n="10" break="no"/>tura &amp; per se iucundum tale est studioso, ita dum omnibus dexterrime censet, sicut sanus de saporibus. 
+      <lb ed="#P" n="11"/>Definiunt autem philosophi ipsum viuere animalium potentiam sensus habere, viuere autem 
+      ho<lb ed="#P" n="12" break="no"/>minis vltra potentiam sensus intellectionem habet. Homo inquantum animal sentit, sed 
+      ra<lb ed="#P" n="13" break="no"/>tione qua homo est suopte ingenio intelligit. Potentia ad operandum est ordinata, ad operationem 
+      <lb ed="#P" n="14"/>quoque reducitur &amp; reficitur si non esset operatio, sensus esset inutilis.
+    </p>
+            <p xml:id="JMAet9-d38292-d1e327">
+               <pc type="pilcrow">¶</pc> Ad quid enim potentia visiua 
+      <lb ed="#P" n="15"/>ordinatur nisi ad visionem: Pari modo de auditu &amp; aliis tribus sensoriis dicatur. Perfectiori nanque 
+      mo<lb ed="#P" n="16" break="no"/>do sensus se habent dum sentiunt, quam cum sensatione vacant, &amp; haud secus de intellectu intelligatur. 
+      <lb ed="#P" n="17"/>Dormiens enim non sentit, nec perfecte intelligit, quocirca non perfecte viuit. Propterea dictum est. 
+      <lb ed="#P" n="18"/>In primo libro quod habet tantum dimidium vitae, somno enim grauatus non proprie viuit. Quo praeliba 
+      <lb ed="#P" n="19"/>to, superadditur. Viuere est naturaliter bonum atque delectabile. Porro viuere est quoddam definitum 
+      <lb ed="#P" n="20"/>atque determinatum. Definitur enim viuere ad naturam viuentis &amp; illud quod est definitum suapte 
+      na<lb ed="#P" n="21" break="no"/>tura est bonum, sicut indefinitum suapte natura est malum. Vt sanitas est quoddam definitum, debi 
+      <lb ed="#P" n="22"/>tam proportionem humor efflagitans. Agritudo autem est indefinita. Modicus enim egressus a 
+      la<lb ed="#P" n="23" break="no"/>titudine sanitatis hominem infirmum reddit, &amp; maior egressus a debita habitudine corporis reddit 
+      <lb ed="#P" n="24"/>hominem infirmiorem, &amp; vita in abyssum. Haud secus in virtute &amp; vitio. Virtus enim est definita. 
+      <lb ed="#P" n="25"/>debitam materiam cum circunstantiis conuenientibus requirens. Multis autem modis in vitia itur 
+      <lb ed="#P" n="26"/>nam facilis descensus auerni in sexto neidos. ltaque vitium limitibus non clauditur, proinde est 
+      in<lb ed="#P" n="27" break="no"/>determinatum.
+    </p>
+            <p xml:id="JMAet9-d38292-d1e361">
+               <pc type="pilcrow">¶</pc> Subditur in litera. Non oportet autem vitam sumere prauam atque corruptam. Nunc 
+      <lb ed="#P" n="28"/>incidens remouet. Quia enim nuperrime dictum est quod viuere est naturaliter bonum &amp; eligibile. Posset 
+      <lb ed="#P" n="29"/>merito quispiam insultare. Perperam viuere, &amp; in angoribus non est suapte natura bonum. Hunc 
+      ca<lb ed="#P" n="30" break="no"/>uillum euacuans ait. Non est sermo de vita praua, corrupta atque dolorosa. Indefinita enim est talis 
+      vi<lb ed="#P" n="31" break="no"/>ta, quemadmodum sunt illa quae talem vitam denominant. De vitiis iam id ostendimus. Et dolor aegri 
+      <lb ed="#P" n="32"/>tudini parificatur hoc clarebit decimo libro cum materia doloris agitabitur. Si ipsum viuere bonum 
+      <lb ed="#P" n="33"/>est (si pro quia) &amp; viuere est etiam iucundum. Quod ex hoc deprehenditur, quia omnes appetunt vi 
+      <lb ed="#P" n="34"/>tam agere, &amp; signanter boni atque felices. His enim viuere maxime est expetibile, &amp; ipsorum vita 
+      beatis<lb ed="#P" n="35" break="no"/>sima. Quicquid homines loquantur dum afflictiuo morbo ringuntur, ad medicos &amp; pharmacopolas 
+      <lb ed="#P" n="36"/>ocyssime mittunt, vota largiter emittunt, vt valetudinem reciperent. Proinde viuere est pergratum 
+      <lb ed="#P" n="37"/>atque iucundum.
+    </p>
+            <p xml:id="JMAet9-d38292-d1e388">
+               <pc type="pilcrow">¶</pc> Subditur. Qui autem videt se videre sentit, &amp; audiens se audire sentit. Pari modo  
+      <lb ed="#P" n="38"/>qui ambulat se ambulare sentit, &amp; ita in reliquis est aliquid quo homo sentit se operari. In istis 
+      refle<lb ed="#P" n="39" break="no"/>ctimus nos super actus directos: sensus enim particularis extrarium obiectum sentit, vt visus colorem 
+      <lb ed="#P" n="40"/>auditus sonum. Veruntamen actum suum proprium non sentit. Visus enim visionem. In se 
+      inhaeren<lb ed="#P" n="41" break="no"/>tem minime videt. Veruntamen sensus communis sensationes particulares sentit. Hoc autem 
+      senti<lb ed="#P" n="42" break="no"/>re est nos esse, esse namque nobis sentire aut intelligere est. At sentire seipsum esse atque vitam agere, ex his 
+      <lb ed="#P" n="43"/>bonis sunt quae per se sunt delectabila. Vita enim suapte natura bonum est, &amp; natura bonum est senti 
+      <lb ed="#P" n="44"/>re ex illud inesse, necnon iucundum &amp; praecipue ipsis studiosis. Propterea voluptate afficiuntur. 
+    </p>
+            <p xml:id="JMAet9-d38292-d1e409">
+               <lb ed="#P" n="45"/>⁋ Sequitur. At studiosus vt ad seipsum ita quoque ad fidum amicum se habebit, vt vetere prouerbio 
+      <lb ed="#P" n="46"/>dicitur, amicus est alter ipse. Proinde vt seipsum esse cuilibet est expetibile, ita &amp; amicum esse vult 
+      si<lb ed="#P" n="47" break="no"/>militer. Hoc est propemodum, amicum vt seipsum diligit. Nonnulli amicorum vitam suae praeferunt. 
+      <lb ed="#P" n="48"/>Parentes enim quidam eligunt supremum agere diem ante probos liberos vt de priamo respectu 
+      hecto<lb ed="#P" n="49" break="no"/>ris &amp; de matre Neronis meminimus. Veruntamen vulgo hominis vita est sibi expetibilior quam amici 
+      <lb ed="#P" n="50"/>ltaque beato potissimum expetibile est esse, bonumque esse iudicat, talis quoque sensus per seipsum 
+      perio<lb ed="#P" n="51" break="no"/>cundus est. Quamobrem vt amicum sentiat esse operaeprecium est, &amp; hoc aliter fieri nequit, quam cum 
+      <lb ed="#P" n="52"/>ipso conuiuendo hoc erit, verborum dulcore arcana mentis mutuiter communicando. Probatus 
+      ami<lb ed="#P" n="53" break="no"/>cus est secretissimarum rerum idoneum receptaculum, cum virtute clareat, abdita ab amico reuelata 
+      <lb ed="#P" n="54"/>citra rationem haud patefaciet. Porro non satis est in eadem mensa continuo sedere, sed praenarrata 
+      <lb ed="#P" n="55"/>ad amicitiam requiruntur. Belluae enim in eodem prato pascuntur omnis amicitiae moralis expertes. 
+      <lb ed="#P" n="56"/>Ques enim haerbas turmatim, id est in turmam collectae simul carpunt, sic de bobus videre est &amp; de 
+      <lb ed="#P" n="57"/>aliis pecorum generibus, quamobrem felici opus est probis amicis, quod est praecipuum in hoc capite 
+      <lb ed="#P" n="58"/>probandum. Si igitur ipsum esse suapte natura fausto est expetibile, cum esse natura bonum necnon 
+      <lb ed="#P" n="59"/>iucundum sit, pari modo sentire amicum esse est ipsi felici natura bonum atque delectabile. Ex relatis 
+      <lb ed="#P" n="60"/>perspicuum est quod amicus est ex illis bonis quae beato sunt expetibilia, &amp; profecto quod est expetibile 
+      <lb ed="#P" n="61"/>beato vt aduersarii pleno ore fatentur, hoc felici non deerit. Opposito enim dato hac magna parte 
+      <lb ed="#P" n="62"/>egens atque amicus erit. Beatus ceete multum expetibilibus non erit orbatus, quocirca concludit 
+      prin<lb ed="#P" n="63" break="no"/>cipale intentum, videlicet, opus est igitur ei qui felix futurus sit, studiosis amicis 
+    </p>
+            <p xml:id="JMAet9-d38292-d1e453">
+               <lb ed="#P" n="64"/>⁋ Restant aliqua ambigua pro literae explanatione tractanda. Primo haeraes forsitan cur dicat philo¬ 
+      <!--319.xml-->
+      <pb ed="#P" n="149-v"/>
+               <lb ed="#P" n="1"/>sophus quod musicus modulata cantione delectatur, perstrepente autem offenditur.
+    </p>
+            <p xml:id="JMAet9-d38292-d1e464">
+               <pc type="pilcrow">¶</pc> Respondctur quod 
+      <lb ed="#P" n="2"/>eleganti melodia assuetus est propterea absona offenditur. Delicatae enim sunt iam ei aures consuetu 
+      <lb ed="#P" n="3"/>dine factae. Propterea si vnus a cantus orbita deuiet reliqui canere desinunt. Memoriae proditum est quod 
+      <lb ed="#P" n="4"/>cum cantoris Parisiensis domus esset incensa, plus illi displicuit obstrepentum vocum dissonantia quai 
+      <lb ed="#P" n="5"/>incendium, quod ex eo probatum est quod relicto rogo &amp; aedibus, ad vociferantes egressus perrexit vt 
+      <lb ed="#P" n="6"/>vocum diaphoniam ad euphoniam reducerent. Musica etiam deuotionem excitat propterea Dauid 
+      <lb ed="#P" n="7"/>regum religiosissimus percutiebat organa &amp; saltabat, totis viribus ante dominum, vt patet ex secundo Regumn, 
+      <lb ed="#P" n="8"/>&amp; Heliseus propheta prophetiae donum non habens ad manus, misit pro psalte vt pietatem in eo dul 
+      <lb ed="#P" n="9"/>ci fidium pulsatione erigeret, vt quarti Regum tertio capite videre est. Sic Dauid citharae suaui sono 
+      <lb ed="#P" n="10"/>angorem Saul regis mitigauit. citharizante enim Dauide refocillabatur Saul spiritu maligno vexa 
+      <lb ed="#P" n="11"/>tus. Primus liber Regum id explanat. Propterea antiquitus musica sacrificiis atque funeribus 
+      adhibe<lb ed="#P" n="12" break="no"/>batur, vt fietum citaret. Quaedam enim modulatio curas abigit atque moerores &amp; hilares hilariores red  
+      <lb ed="#P" n="13"/>dit. Tradunt quod Xenocrates organicis modulis limphaticos liberauit, &amp; quod Asclepiades tubarum can 
+      <lb ed="#P" n="14"/>tu surdis medebatur. Timotheus scriptorum calamo celebratus Alexandrum magnum ad bellum 
+      <lb ed="#P" n="15"/>inflammatum leniuit. Nec solum hominum affectus melodia demulcet. Cerui enim cantu fistularum 
+      <lb ed="#P" n="16"/>vt ferunt illaqueantur, &amp; delphines capiuntur. Alites fistulae modulatione falluntur. Quaedam instru 
+      <lb ed="#P" n="17"/>menta musicalia, ad arma prouocant vt tibiae litui, tubae, cornua, ita aliqua prouocant ad planctum atque 
+      <lb ed="#P" n="18"/>deuotionem &amp; ad alias hominum affectiones, quare Aristoteles octauo Politicorum scribit oportere 
+      <lb ed="#P" n="19"/>iuuenes in musica &amp; gymnustica instituere, quare organa &amp; cantus fractus non sunt ab ecclesia tollen 
+      <lb ed="#P" n="20"/>da vt neoterici haeretici somniant, vetusti patrum ritus multitudini proficientes ob aliquorum 
+      men<lb ed="#P" n="21" break="no"/>das minime sunt antiquandi. Alioqui panem &amp; vinum obliterare necessum, sit &amp; ob lapsum gulonum 
+      <lb ed="#P" n="22"/>&amp; ebriorum in eis quo nihil absurdius. 
+    </p>
+            <p xml:id="JMAet9-d38292-d1e516">
+               <lb ed="#P" n="23"/>⁋ Secundo dubi es forsan, Cur dicit operationem quae est felicitas in fieri consistere &amp; non esse quan 
+      <lb ed="#P" n="24"/>dam rem.
+    </p>
+            <p xml:id="JMAet9-d38292-d1e523">
+               <pc type="pilcrow">¶</pc> Tertio, quare dicit esse hominis ex parte sentire, cum esse hominis sit homo existens, &amp; 
+      <lb ed="#P" n="25"/>sensatio sit accidens longo interuallo substantia inferius. 
+    </p>
+            <p xml:id="JMAet9-d38292-d1e531">
+               <lb ed="#P" n="26"/>⁋ Quarto an videns continuo sentit se videre. Et an aliqui felicitatem a natura habeant. 
+    </p>
+            <p xml:id="JMAet9-d38292-d1e536">
+               <lb ed="#P" n="27"/>⁋ Ad secundam dubitatiunculam responsatur. Res in geminos ramos distrahitur. Nempe aliqua est 
+      <lb ed="#P" n="28"/>res pure successiua, vt dies &amp; agon, haec enim sunt quando fiunt, quando vero facta sunt esse desierunt, 
+      <lb ed="#P" n="29"/>alia successiue fiunt, quando vero facta sunt persistunt. Ista a physicis suecessiua quo ad productionem 
+      <lb ed="#P" n="30"/>permanentia quo ad esse nominitantur. Rursus aliqua res a sua causa particulari haud quaquam dependet, 
+      <lb ed="#P" n="31"/>vt calor, Bucephalus, quando de causa particulari loquutus fuerim non est obscurum. Siquidem 
+      ni<lb ed="#P" n="32" break="no"/>hil est vspiam creatum quod a deo non manuteneatur. Aliquid autem a causa secunda &amp; particulari 
+      <lb ed="#P" n="33"/>nusquam non dependet, vt lux, lumen, operatio. Isto modo philosophum impraesentiarum intelliges. 
+    </p>
+            <p xml:id="JMAet9-d38292-d1e554">
+               <lb ed="#P" n="34"/>⁋ Tertia ambiguitas non est difficilis enodatu. Substantia non est propter accidens tanquam scopum, 
+      <lb ed="#P" n="35"/>verum homo in potentia sentiendi atque intelligendi est propter seipsum sentientem atque 
+      intelligen<lb ed="#P" n="36" break="no"/>tem. Homo intelligens perfectiori modo sese habet quam dormiens, veterno marcessens, asinus bipes, bene 
+      <lb ed="#P" n="37"/>intelligens rationalis &amp; homo
+    </p>
+            <p xml:id="JMAet9-d38292-d1e565">
+               <pc type="pilcrow">¶</pc> Ad quartum respondetur quod non est necessarium actu directo 
+      prae<lb ed="#P" n="38" break="no"/>ditum in actum exire reflexum, potest enim facile super huiusmodi actus fe reflectere, &amp; hoc est illi 
+      ma<lb ed="#P" n="39" break="no"/>ximopere iucundum si omnia dextre ei contingunt, proinde citra caudam &amp; additum, esse atque 
+      viue<lb ed="#P" n="40" break="no"/>re est delectabile, praecipue quando cernit alios ipsi syncronos atque minores ipso defunctos. Nihilotamen 
+      <lb ed="#P" n="41"/>minus viuere in magna poenuria atque moerore non est homini vulgo iucundum. Sane quaedam sunt 
+      <lb ed="#P" n="42"/>irrestricte capta vera, quae cum addito desinunt esse talia. Sic sensatio vitae studioso est pergrata, vt sit 
+      <lb ed="#P" n="43"/>in potentia propinqua bene operandi, sed habere vitam cum morbo neopolitano perpetuo non est 
+      <lb ed="#P" n="44"/>delectabile, immo hominem pungit atque ringit, signanter quando ex tetra libidine habetur. Tunc 
+      <lb ed="#P" n="45"/>enim homo duplici poena affligitur, infamia non delebili opinione vulgi, &amp; atrocitate morbi ossa cum 
+      <lb ed="#P" n="46"/>carne rodentis. Haec praecordia lancinant &amp; erit officina moeroris. Dixi opinione vulgi. Potest enim 
+      <lb ed="#P" n="47"/>ipse prudens poenam suapte prudentia leuare, culpam in deum commissam detestando, &amp; punitionem 
+      <lb ed="#P" n="48"/>annexam gratanter sumendo, cum dicat aliis, mea scelerata vita hanc acerbitatem atque maiorum 
+      me<lb ed="#P" n="49" break="no"/>ruit &amp; tunc non parum merebitur, poenam naturaliter inflictam voluntarie tolerando. Isti actus 
+      ha<lb ed="#P" n="50" break="no"/>bitum ipsum ad bonum promptificantem in eo generabit. &amp; sic de necessitate virtutem effieit. 
+    </p>
+            <p xml:id="JMAet9-d38292-d1e600">
+               <lb ed="#P" n="51"/>⁋ Quaerebatur etiam an aliqui felicitatem a natura habeant. Vetus transsator ait, cum daemon bona det quid opus 
+      <lb ed="#P" n="52"/>est amicis? Leonardus hoc ipsum interpretatur rectius hoc pacto. Cum deus abunde sibi dederit, Argyropilus 
+      <lb ed="#P" n="53"/>claram sententiam cepit, vt inter exponendum enucieauimus. Dicamus quod ab horoscopo &amp; caeli influentia 
+      ali<lb ed="#P" n="54" break="no"/>qui sunt aliis ad probitatem propensiores. Parentum etiam mores in liberos deriuantur, deus tamen nonnullis singularem 
+      <lb ed="#P" n="55"/>gratiam in tenella aetate elargitur, vt Nicolao glorioso confessori qui quarta vel sexta feria, semel sugebat vbe 
+      <lb ed="#P" n="56"/>ra: post quam refectionem os a maternis vberibus auertebat: nullisque blanditiis pia mater poterat tenellum 
+      fili<lb ed="#P" n="57" break="no"/>um brachiis pendentem allicere vt iterato mamillas sugeret. Examen apum bti Ambrosii adhuc in cunis 
+      <lb ed="#P" n="58"/>lacentis os ingrediens declarauit quisnam futurus esset puer. Sic de Bernardo, in quo matris somnium de cane 
+      <lb ed="#P" n="59"/>latrante est verificatum. lsti &amp; siles diuino iuuamine foelicitatis praesagium in teneris annis acceperunt. Cmnis 
+      <lb ed="#P" n="60"/>via huius est in schola virtutum feruenter educari. Dum virtutis seminaria sunt concinne iacta, &amp; fulcra 
+      diu<lb ed="#P" n="61" break="no"/>tino tempore accepeint, non parum momenti habent vt virum beatum efficiant.
+    </p>
+            <p xml:id="JMAet9-d38292-d1e626">
+               <pc type="pilcrow">¶</pc> Fortasse optas seudae conclusionis 
+      de<lb ed="#P" n="62" break="no"/>ductionem clarius notari.
+    </p>
+            <p xml:id="JMAet9-d38292-d1e634">
+               <pc type="pilcrow">¶</pc> Respondetur quod illic sunt duo pusilli fyllogismi, quorum prior est iste. Sicut homo 
+      stu<lb ed="#P" n="63" break="no"/>diosus se habet ad seipsum, ita quoque sese ad animum habet, sed sic est quod ad seipsum quod est ei eligibile esse &amp; 
+      <lb ed="#P" n="64"/>viuere propter sentire &amp; percipere seipsum esse bonum, quia talis sensus est ei oppido delectabilis, proinde haud¬  
+      <!--320.xml-->
+      <pb ed="#P" n="150-r"/>
+               <lb ed="#P" n="1"/>dissimiliter eligit amicum esse &amp; viuere vt ipsum sentiat &amp; percipiat bene esse, itaque illum optat 
+      per<lb ed="#P" n="2" break="no"/>cipere atque sentire. Secundus syllogismus est. Omnis studiosus eligit &amp; expetit sentire amicum bene 
+      <lb ed="#P" n="3"/>esse &amp; valere, ac huiusmodi sentire in conuictu atque cantatione mutua fit: igitur. Epilogantes dicimus 
+      <lb ed="#P" n="4"/>quod solus studiosus habet amicos sibi similes: prudentia alterius vitam examinat, quia plurimi foris sunt 
+      <lb ed="#P" n="5"/>Catones, intus Sardanapali. est proteus, nunc more leonis frendit, nunc more anguis sibilat. 
+      Ca<lb ed="#P" n="6" break="no"/>toniana lingua tales proximorum errata incessunt, intercutibus vitiis ipsi occulte madent. Ab illorum 
+      <lb ed="#P" n="7"/>societate beatus summopere cauet, &amp; cum nullo nisi septuplum purgato amicitiae nexum contrahit. 
+      <lb ed="#P" n="8"/>Cum omnibus tamen in foro atque cubiculo loquitur. Vnde haec breuis colloquutio cum societate 
+      ami<lb ed="#P" n="9" break="no"/>ci nihil commercii habet.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

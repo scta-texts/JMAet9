@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 7</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 7</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d34251"><!-- mair-l8c7 -->
+            <head xml:id="JMAet9-d34251-Hd1e103">Caput 7</head>
+            <p xml:id="JMAet9-d34251-d1e106">
+               <lb ed="#P" n="17"/>
+               <quote xml:id="JMAet9-d34251-Qd1e110" type="lemma">ESt autem &amp; alia species amicitiae</quote>. Ecce secundum tractatum huius octaui libri. Superius contemplabatur in sex 
+      <lb ed="#P" n="18"/>capitibus amicitiam inter pares, nunc autem amicitiam inter personas inaequales agitat, sexque capitibus 
+      <lb ed="#P" n="19"/>hic tractatus secds absoluitur vt in literae processu liquaescet. Hoc caput trifariam distrahit. Primo eius 
+      in<lb ed="#P" n="20" break="no"/>tentionem aperit, monstrans alias esse amicitias praeter enumeratas in praecedenti parte huius totius voluminis, in secudna 
+      <lb ed="#P" n="21"/>pte denudat quanam via istae amicitiae nunc pertractandae conseruari &amp; manuteneri quaeant, demum quandam 
+      dubita<lb ed="#P" n="22" break="no"/>tionem citat quam non multis eluit. An omnia igitur hoc pacto ait. Est &amp; alia amicitiae species quae in excellentia consi 
+      <lb ed="#P" n="23"/>stit, non quod vtrumque extremum sit excellens, set alter terminus collatione alterius est excellens, vt genitoris ad natum 
+      <lb ed="#P" n="24"/>viri ad vxorem, principis ad ei subditos, siue sit priceps, rex, dux, siue alia dignitate eximius haud magno 
+      <lb ed="#P" n="25"/>pere interest.
+    </p>
+            <p xml:id="JMAet9-d34251-d1e131">
+               <pc type="pilcrow">¶</pc> Et sequitur in littea. Atque hae inter sese etiam differunt. Hoc probat, non enim est eadem amicitia parentibus 
+      <lb ed="#P" n="26"/>ad liberos &amp; pricipibus ad subditos, illae enim amicitiae specie differunt, cum alia officia habeant quaecommuniter per obiecti 
+      <lb ed="#P" n="27"/>respiciunt. insuper nec est eadem amicitia speciae pris ad liberos &amp; liberorum ad patrem, &amp; ita de aliis an enume 
+      <lb ed="#P" n="28"/>ratis, cuius probationem prio in itetra ponit inquiens. Diuersa enim est vniusque horum virtus ac opus. Patris est libe 
+      <lb ed="#P" n="29"/>ros in moribus &amp; vita educari, filiorum parentes reuereri. Ergo diuersa habent officia. Sic est de officiis dmorum 
+      <lb ed="#P" n="30"/>quae sunt diuersa a famulis, vult dicere, quorum virtutes &amp; opera specie secermintur, illorum amicitiae speciae 
+      <lb ed="#P" n="31"/>dispescuntur, at illorum qui sunt superiores excellentia &amp; illorum qui sunt inferiores, opera &amp; officia specie 
+      <lb ed="#P" n="32"/>distinguntur, proinde &amp; amicitiae. Secundo, diuersa etiam sunt &amp; ea propter quae amant, diuersae 
+      igi<lb ed="#P" n="33" break="no"/>tur amationes &amp; amicitiae. Tertio quia nec eadem vtrique ab altero fiunt, nec fieri quaerenda sunt. 
+      Inde<lb ed="#P" n="34" break="no"/>cens enim esset si talem reuerentiam dominus famulo exhiberet qualem hero seruus exhibet. Vult 
+      <lb ed="#P" n="35"/>ergo dicere quod extrema excedentia in ordine ad sua correlatiua specie differunt, &amp; sic de excessis ad 
+      ex<lb ed="#P" n="36" break="no"/>cedentia, &amp; de excessis inter se.
+    </p>
+            <p xml:id="JMAet9-d34251-d1e161">
+               <pc type="pilcrow">¶</pc> Sequitur. Sed cum liberi quidem ea parentibus quae parentibus 
+      tri<lb ed="#P" n="37" break="no"/>buenda sunt tribuunt, parentes autem filiis quae filiis tribui debent, stabilis talium &amp; bona est amicitia. 
+      <lb ed="#P" n="38"/>Hic ostendit quomodo amicitia inter excedentem &amp; excessum seruanda est. Et dicit quod in hoc 
+      serua<lb ed="#P" n="39" break="no"/>tur quod amicorum vterque exhibet alteri quod est ei debitum secudm proportionem dignitatis.
+    </p>
+            <p xml:id="JMAet9-d34251-d1e173">
+               <pc type="pilcrow">¶</pc> Sequitur. Oportet 
+      <lb ed="#P" n="40"/>autem &amp; amationem, hoc est in omnibus amicitiis quae in excellentia consistunt amatio comparatione rationum fieri debet. 
+      <lb ed="#P" n="41"/>Nam praestabilior, magis diligi debet quam ipse diligere, sic vtiliorem magis amari quam amari, &amp; ita de quo 
+      <lb ed="#P" n="42"/>libet excedente ad excessum. Hoc in affectu sic probatur. Omnis enim amicitia per aequalitatem 
+      con<lb ed="#P" n="43" break="no"/>seruatur, per hoc scilicet quod vnusquisque aequaliter amatur ab altero, &amp; hoc secundum quantitatem 
+      <lb ed="#P" n="44"/>vel proportionem, aequalitas enim videtur maxime amicitiae amatiua. In amicitiis personarum 
+      <lb ed="#P" n="45"/>aeque alium amicitia conseruatur per aequalitatem quantitatis. Si enim Patroclus &amp; Achilles in digni 
+      <lb ed="#P" n="46"/>tate pares sint, eorum amicitia per hoc conseruatur quod vnus bonum delectabile pro aequali bono 
+      de<lb ed="#P" n="47" break="no"/>lectabili praebet, sed in amicitiis personarum inaequalium conseruatur amicitia per hoc quod vterque amat 
+      <lb ed="#P" n="48"/>reliquum secundum dignitatem, vt si Agamem non sit in duplo excellentior vlysse, tunc seruatur 
+      <lb ed="#P" n="49"/>aequalitas proportionis si vlysses in duplo plus amet Agamennonem, vt qualis est proportio amati 
+      <lb ed="#P" n="50"/>ad amatum, talis sit proportio amicitiae ad amicitiam. Verum ob modicum defectum aequalitatis 
+      si<lb ed="#P" n="51" break="no"/>ue secundum quantitatem siue secundum proportionem, non oportet amicitiam dissolui. 
+    </p>
+            <p xml:id="JMAet9-d34251-d1e206">
+               <lb ed="#P" n="52"/>⁋ Sequitur quarta conclusio. Aquale autem in iustis &amp; in amicitia non similiter sese habere videtur, 
+      <lb ed="#P" n="53"/>est enim iustis aequale primo quod est pro dignitate, secundo quod est in quantitate. 
+    </p>
+            <p xml:id="JMAet9-d34251-d1e213">
+               <lb ed="#P" n="54"/>⁋ Contra autem in amicitia, hoc est in iustitia, primo consideranda est aequalitas dignitatum 
+      perso<lb ed="#P" n="55" break="no"/>narum, in quibus debet fieri iustitia. Et secundum hoc partienda sunt praemia. Verbi causa si 
+      Achil<lb ed="#P" n="56" break="no"/>les plus vtilitatis ac honoris in duplo Graecorum phalangi quam vlysses attulerit, oportet de bonis 
+      con<lb ed="#P" n="57" break="no"/>munibus duplicem portionem habeat. Vnde in iustitia distributiua de qua loquitur philosophus pri 
+      <lb ed="#P" n="58"/>mo debent considerari opera seu proportio operum corum quibus fieri debet distributio, &amp; sedo debet eis fieri 
+      distri<lb ed="#P" n="59" break="no"/>butio rerum secudm aequalitatem &amp; proportionem operum. Verum in amicitia prio consideranda est proportio inter personas 
+      <lb ed="#P" n="60"/>sese amantes, &amp; secundo debent exhiberi opera amicitiae secundum proportionem dignitatis personarum. 
+      <!--283.xml-->
+      <pb ed="#P" n="131-v"/>
+               <lb ed="#P" n="1"/>Or in amicitia primum quantitas consideranda venit, liquidum est. Nam si in virtute, vitio, vel diui 
+      <lb ed="#P" n="2"/>tiis aut aliis rebus permagna fiat distantia non amplius fiunt amici, nec dignum quidem id existimant. 
+      <lb ed="#P" n="3"/>Maxime autem hoc manifestum est in ipsis diis immortalibus. Hi nanque plurimum omnibus bonis 
+      <lb ed="#P" n="4"/>antecellunt, quorum amicitiis nemo se dignum putat. Hoc idem in regibus optimis &amp; sapientissimis 
+      di<lb ed="#P" n="5" break="no"/>cit.
+    </p>
+            <p xml:id="JMAet9-d34251-d1e246">
+               <pc type="pilcrow">¶</pc> Sequitur cuiusdam quaestionis responsio. Exacta determinatio &amp; limes praefixus in his non est 
+      <lb ed="#P" n="6"/>quando primum desinunt esse amici, scio enim quod magna distantia amicitiam impedit, sed de exigua, 
+      <lb ed="#P" n="7"/>&amp; vbi est limes praecisus nescitur. quemadmodum scio quod ad talem distantiam videre nequeo vel 
+      sagit<lb ed="#P" n="8" break="no"/>tam iacere. sed vbi est praecisus limes virtutis meae ignoro, sic de consecratione eucharistiae per aliquam 
+      <lb ed="#P" n="9"/>distantiam consecrare queo, sed de termino dubitatur.
+    </p>
+            <p xml:id="JMAet9-d34251-d1e260">
+               <pc type="pilcrow">¶</pc> Sequitur dubitatio quaedam quae dicit. Vnde 
+      <lb ed="#P" n="10"/>&amp; dubitatur vtrum amici volunt amicis ea bona quae maxima sunt, vtpote an volunt amicos suos 
+      <lb ed="#P" n="11"/>esse deos immortales. Argumentatur ad partem negatiuam sic: quia tunc non essent vlterius amici. 
+      <lb ed="#P" n="12"/>&amp; sic optando bona perderent vtpote ipsos amicos. Sunt enim amici amicis bona.
+    </p>
+            <p xml:id="JMAet9-d34251-d1e272">
+               <pc type="pilcrow">¶</pc> Respondendo 
+      <lb ed="#P" n="13"/>tenebrose obiectionem soluit dicens, quod si bene sit dictum amicum bona illius gratia belle, manere opor 
+      <lb ed="#P" n="14"/>tet qualiscumque sit ille. hoc est vt maneat homo &amp; talis naturae qualis prius fuerit, &amp; etiam maneat pro 
+      <lb ed="#P" n="15"/>dignitate amicus, homini amico maxima bona volet inesse, &amp; fortasse non omnia vt esse deum immorta 
+      <lb ed="#P" n="16"/>lem, sibi enim ipsi maxime quisque vult ipsa bona. 
+    </p>
+            <p xml:id="JMAet9-d34251-d1e286">
+               <lb ed="#P" n="17"/>⁋ Circa hanc literam dubitatur primo. Dicit quod inferior debet magis diligere superiorem quam contra. 
+      <lb ed="#P" n="18"/>an hoc intelligatur de maioritate intensiua in actu elicito, an in signis reuerentiae exterioris ab amo 
+      <lb ed="#P" n="19"/>re intrinseco prouenientibus.
+    </p>
+            <p xml:id="JMAet9-d34251-d1e296">
+               <pc type="pilcrow">¶</pc> Secundo dubitatur de veritate illius propositionis. Non est amicitia 
+      <lb ed="#P" n="20"/>dei ad hominem.
+    </p>
+            <p xml:id="JMAet9-d34251-d1e304">
+               <pc type="pilcrow">¶</pc> Ad partem affirmatiuam argumentor. Abraham erat Dei amicus vt diuus 
+      laco<lb ed="#P" n="21" break="no"/>bus in sua canonica capite secundo dicit. Similiter apostoli fuerunt amici Christi.
+    </p>
+            <p xml:id="JMAet9-d34251-d1e312">
+               <pc type="pilcrow">¶</pc> Tertio, an ego 
+      ra<lb ed="#P" n="22" break="no"/>tionabiliter debeam velle amico maxima bona.
+    </p>
+            <p xml:id="JMAet9-d34251-d1e320">
+               <pc type="pilcrow">¶</pc> Quarto quomodo vocat philosophus deos 
+      immor<lb ed="#P" n="23" break="no"/>tales cum duodecimo Metaphysicae vnum primum motorem ponat quem deum intellexit. 
+    </p>
+            <p xml:id="JMAet9-d34251-d1e328">
+               <lb ed="#P" n="24"/>⁋ Ad primum dicitur quod potissimum intelligitur in signis reuerentiae &amp; in obsequio, siquidem si 
+      se<lb ed="#P" n="25" break="no"/>cundum dignitatem inferior superiori obsequetur superior indigne feret, existimabit enim quod infer 
+      <lb ed="#P" n="26"/>rior se aequalem ei censet, &amp; per consequens cogitabit quod nimia familiaritas pariet contemptum. 
+      Er<lb ed="#P" n="27" break="no"/>go amicum inferiorem decet similem reuerentiam saepius superiori facere, qualem ipse facere consue 
+      <lb ed="#P" n="28"/>uerat ab amicitiae exordio, dignum est etiam quod plus intensiue superior ametur, cum ipse inferiorem 
+      <lb ed="#P" n="29"/>in amicitiam vocet, &amp; ex tali intensiore actu amoris inferior integrius nitidiusque amorem seruabit. 
+    </p>
+            <p xml:id="JMAet9-d34251-d1e344">
+               <lb ed="#P" n="30"/>⁋ Ad secundam dubitationem respondetur, quod Abraham &amp; apostoli proprie non erant amici dei neque 
+      <lb ed="#P" n="31"/>Christi, propter infinitam intercapedinem inter illos. Hic ea tenus est interuallum quatenus est 
+      per<lb ed="#P" n="32" break="no"/>sona superior: sicut distantia inter Socratem Philosophum &amp; Brunellum asinum penes 
+      perfectio<lb ed="#P" n="33" break="no"/>nem Socratis mensuranda venit, erant tamen amici laxato vocabulo. 
+    </p>
+            <p xml:id="JMAet9-d34251-d1e356">
+               <lb ed="#P" n="34"/>⁋ Ad tertiam dubitationem respondeo per propositiones, quarum prima est. Non debeo velle de 
+      ami<lb ed="#P" n="35" break="no"/>co meo quod ipse sit deus, hoc possum ei velle. Voluntas quoque est impossibilium tertio Ethicorum, licet 
+      <lb ed="#P" n="36"/>debeam velle ei bona ipsius gratia, volo tamen vt talis naturae qualis est, maneat. Et hanc propositio 
+      <lb ed="#P" n="37"/>nem innuit Aristoteles in litera in solutione ad vltimam dubitationem inquiens, quod si bene sit dictum, 
+      <lb ed="#P" n="38"/>cum amico bona illius gratia velle, maneret oportet qualiscunque sit ille, quia si in aliam speciem 
+      mu<lb ed="#P" n="39" break="no"/>tetur non manet eius natura.
+    </p>
+            <p xml:id="JMAet9-d34251-d1e372">
+               <pc type="pilcrow">¶</pc> Secunda propositio. Socrates debet velle amico suo maxima bona 
+      gra<lb ed="#P" n="40" break="no"/>tia ipsius amici, etiansi illa bona statum eius mutauerint, vtpote potest velle eum esse regem aut maxi 
+      <lb ed="#P" n="41"/>mum pontificem. Patet, potest ipsi velle bona &amp; citius potiora bona, alioqui non esset verus eius 
+      ami<lb ed="#P" n="42" break="no"/>cus.
+    </p>
+            <p xml:id="JMAet9-d34251-d1e384">
+               <pc type="pilcrow">¶</pc> Tertia propositio homo volet maxima bona sibi. Patet in calce huius capitis, &amp; patet etiam 
+      se<lb ed="#P" n="43" break="no"/>cundum ordinem charitatis. Dilige proximum tuum sicut teipsum, ergo homo est in se limes dilectionis 
+      <lb ed="#P" n="44"/>aliorum. Et istud etiam nono Ethicorum patebit, homo debet sibi eligere maiora bona virtutum &amp; 
+      vel<lb ed="#P" n="45" break="no"/>le citius se non peccare quam alium.
+    </p>
+            <p xml:id="JMAet9-d34251-d1e396">
+               <pc type="pilcrow">¶</pc> Contra secundam propositionem argumentor. Per hoc Socrates perdet amicum 
+      <lb ed="#P" n="46"/>&amp; sic suum bonum vt eius familiaritatem. Secundo stat quod maximus pontificatus erit ei in ruinam. Nam si non 
+      <lb ed="#P" n="47"/>fuissem de numero episcoporum fuissem de numero saluandorum dixit quidam. 
+    </p>
+            <p xml:id="JMAet9-d34251-d1e406">
+               <lb ed="#P" n="48"/>⁋ Ad primum nego sequelam. Non perdet amicum licet minus familiaritatis cum eo habeat, estque ei 
+      <lb ed="#P" n="49"/>honestius interdum cum Romano pontifice amice loqui &amp; communicare &amp; officium amicitiae 
+      an<lb ed="#P" n="50" break="no"/>tiquae pignus habere quam manere perpetuo cum eo in maiore familiaritate, &amp; in statu inferiori. 
+    </p>
+            <p xml:id="JMAet9-d34251-d1e415">
+               <lb ed="#P" n="51"/>⁋ Ad secundum dico quod in illo casu non debeo ei velle summum pontificatum, solum debeo ei bene 
+      vel<lb ed="#P" n="52" break="no"/>le &amp; illa quae eius statui sunt accommoda, cum quibus probe viuere potest. 
+    </p>
+            <p xml:id="JMAet9-d34251-d1e423">
+               <lb ed="#P" n="53"/>⁋ Ad quartam dubitationem respondetur quod Arist. loquitur de intelligentiis quaes immortales putat. Sedo enim de 
+      cae<lb ed="#P" n="54" break="no"/>lo dicit. Extra caelos sunt entia optimam vitam ducentia quam toto aeuo consumunt. sedo loquitur etiam vt plures &amp; 
+      <lb ed="#P" n="55"/>sentit vt pauci. Vt faciendum censet, sedo de caelo. Modus iste est modus eius, &amp; cuiustibet sapientis loqui cum 
+      <lb ed="#P" n="56"/>vulgo, &amp; cum exacte de illa materia loquuturus est propriam opinionem dicere. mon. xii. Metaphysicae dicit quod 
+      <lb ed="#P" n="57"/>pluralitas principum mala: mundus non vult male disponi: vnus est ergo mundi princeps. Illic expsse suam 
+      <lb ed="#P" n="58"/>mentem de primo motore primo siue de ipso deo posuit. Item in Psalmo. Ego dixi dii estis &amp; filii excelsi 
+      <lb ed="#P" n="59"/>omnes. Magnos sic viros deos appellamus sicut Aaron erat propheta Moysi, &amp; Moyses eius deus. 
+      In<lb ed="#P" n="60" break="no"/>super Christiani. Vtuntur nominibus deorum &amp; in carmine &amp; in oratione soluta. Vnde Baptista man 
+      <lb ed="#P" n="61"/>tuanus hoc sepius facit &amp; in quodam libello super hoc edito ostendit illud esse licitum. Quis enim 
+      <lb ed="#P" n="62"/>est qui nesciat louem illum fuisse virum perditissimum: nihilominus vtimur modo loquendi de lo 
+      <lb ed="#P" n="63"/>ue summo hoc est de vero deo. Ethnici enim vulgares putabant quod idem esset iupiter qui &amp; summus 
+      <lb ed="#P" n="64"/>deus, &amp; nos vnum loco alterius capimus, &amp; concinne quandoque in oratione soluta ponitur.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

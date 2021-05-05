@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 8</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 8</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d12815"><!-- mair-l3c8 -->
+            <head xml:id="JMAet9-d12815-Hd1e103">Caput 8</head>
+            <p xml:id="JMAet9-d12815-d1e106">
+               <lb ed="#P" n="18"/>
+               <quote xml:id="JMAet9-d12815-Qd1e110" type="lemma">DIcuntur autem</quote> &amp;c. In hoc octauo capite quinque modos non verae fortitudinis ponit. Primus 
+      <lb ed="#P" n="19"/>est fortitudo ciuilis, secundus est militaris, tertius furoris, quartus fortitudo propter spem, 
+      quin<lb ed="#P" n="20" break="no"/>tus ob ignorantiam. Quantum ad primam speciem literam accedo. Fortitudo politica seu ciuilis 
+      <lb ed="#P" n="21"/>est cum ciues audacter pericula subeunt, increpationis &amp; opprobriorum metu, quae ex ciuitatum legibus 
+      <lb ed="#P" n="22"/>proueniunt, &amp; honorum consequendorum spe: &amp; propterea videri quam fortissimi auent: apud quos meticulosi 
+      infa<lb ed="#P" n="23" break="no"/>mes, fortes vero in precio habentur. Quales affert Homerus Diomedem &amp; Hectorem, hunc 
+      Troia<lb ed="#P" n="24" break="no"/>ianum, illum vero Etolum: ita enim introducit Hectorem loquentem. 
+      <lb ed="#P" n="25"/>Nam me Polydamas ipse ante coarguet omnes. 
+      <lb ed="#P" n="26"/>Polydamas fuit Troiani sanguinis vir, panthei filius, socius Hectoris. Hunc eloquentia, Hectorem ar 
+      <lb ed="#P" n="27"/>mis valuisse. xviii. libro lliados Homerus dicit. Istum Tromiam prodidisse Dares phrygius asserit. Ad 
+      <lb ed="#P" n="28"/>Graecorum enim castra nocte profectus patriam prodidit. Ex aduerso Homerus vates citat Diomedem 
+      hor<lb ed="#P" n="29" break="no"/>tantem seipsum ad pugnam, ne ab Hectore iactabunde ad Troiam vituperetur sicque dicit. 
+      <lb ed="#P" n="30"/>Inter Troianos dicet fortissimus Hector 
+      <lb ed="#P" n="31"/>Titides metuens puppes confugit ad altas, fuit Diomedes rex Etholiae Tidei filius, Danaum quinque 
+      <lb ed="#P" n="32"/>fortium (authore Homero) vnus. Et haec fortitudo maxime similis est fortitudini quam ob virtutem 
+      <lb ed="#P" n="33"/>fieri diximus. Vult dicere quod inter quinque species fortitudinis similitudinarie haec prima est verae 
+      for<lb ed="#P" n="34" break="no"/>titudini propinquissima, sed ipsa non ob virtutem prouenit, sed ex dedecore euitando, &amp; honoris 
+      con<lb ed="#P" n="35" break="no"/>sequendi gratia. Vt enim viros ad fortitudinem pellicerent, statuis perennibus eos allectarunt, cuius rei 
+      <lb ed="#P" n="36"/>testes etiam sunt militares coronae. hastae, torques, armillae, pedestres equestresque statuae, trophea, ouationes, 
+      <lb ed="#P" n="37"/>triumphi, &amp; caetera genus id multa, quibus viri virtute praestantes in pugna honestabantur. Hinc 
+      <lb ed="#P" n="38"/>Milciadis Atheniensis triumphus Themistoclem insomnes ducere noctes impellebat. Et huic 
+      spe<lb ed="#P" n="39" break="no"/>ciei annumeramus fortitudinem coactam quae est eorum qui a magistratibus compelluntur, quae propterea 
+      <lb ed="#P" n="40"/>deterior est quod non pudore, sed timore fit: &amp; non ad dedecus, sed ad poenam fugiendam. Vrgentur enim 
+      <lb ed="#P" n="41"/>ab iis qui superiores sunt in bello persistere, quemadmodum Hectora Homerus inducit dicentem hoc modo.  
+      <lb ed="#P" n="42"/>Si procul a pugna quemquam trepidare videbo. 
+      <lb ed="#P" n="43"/>Ille canum fiet, fiet quoque vulturis esca. 
+    </p>
+            <p xml:id="JMAet9-d12815-d1e168">
+               <lb ed="#P" n="44"/>⁋ Vultur est carniuora auis pigre volitans. Hoc est praefecti &amp; duces bellorum verberibus militem cogunt 
+      persiste<lb ed="#P" n="45" break="no"/>re. Sic cogunt eos qui ane muros hoc est dum obsidione vrbem cingunt aggeres faciunt &amp; fossas &amp; cisternas a ter 
+      <lb ed="#P" n="46"/>go ne retrocedant, vt perdurent. Ita fecit Astyages, vt enim lustinus memorat, contra Cyrum nepotem pugnans, 
+      <lb ed="#P" n="47"/>partem exercitus posuit ac terga vertentes ferro agi in fostem imperauit, atque suis denunciauit ni vicerint non 
+      <lb ed="#P" n="48"/>minus fortes etiam post terga inuenturos quam a frontibus viros: qua cautione ingens pugnandi necessitas 
+      <lb ed="#P" n="49"/>Astyagis excercitui accessit. Sed non coactione &amp; necessitate, sed quia res est honesta fortem esse oportet. Ecce 
+      <lb ed="#P" n="50"/>tres modos primae speciei, pugnare ob honores habendos, ob vituperia fugienda: &amp; per coactionem. Seds mo 
+      <lb ed="#P" n="51"/>dus fortitudinis metaphorice est fortitudo militaris, quae est cum milites stipendiarii qui mercedem merent ob 
+      <lb ed="#P" n="52"/>peritiam rerum singularium quae in pugna eueniunt pericula aggrediuntur. Quapropter fortitudinem scientiam esse 
+      <lb ed="#P" n="53"/>Socrates credidit: vt quemadmodum in aliis sunt aliqui qui singula cognoscunt, ita &amp; in bello ipsi milites. Bel 
+      <lb ed="#P" n="54"/>lum enim multos &amp; varios habet terrores vanos, quos milites norunt: &amp; ideo fortes videntur, quia alii quaelia sunt 
+      <lb ed="#P" n="55"/>illa quae timentur, ignorant. Fortes etiam apparent, quia hostes ferire &amp; seipsos protegere exprientia docti potissimum pabent, 
+      <lb ed="#P" n="56"/>&amp; hostis conatus euitare didicerunt: &amp; illum percutere ac armis vti pabent, &amp; cum talia habeant ad percutiendum &amp; 
+      <lb ed="#P" n="57"/>non ad patiendum sunt aptissimi. Non perstant tmpere conflictus in eodem loco. itaque difficilius laeduntur. ltaque fit vt 
+      <lb ed="#P" n="58"/>ipsi tanquam armati aduersus inermes, &amp; tanquam ludi magistri &amp; athletae aduersus rudes tyrunculos decertent. 
+      <lb ed="#P" n="59"/>In arte gladiatoria Parisii, oxoniae &amp; in meridionali Anglia sunt ludi magri, tyrones edocentes sicut sunt 
+      <!--112.xml-->
+      <pb ed="#P" n="48-r"/>
+               <lb ed="#P" n="1"/>in cantu &amp; grammatica ludi magistri melodiam grammaticamque docentens. Et sane in huiusmodi 
+      <lb ed="#P" n="2"/>digladiationibus non illi bellacissimi sunt, sed quia praepotentiores habent vires &amp; corpora robustissi 
+      <lb ed="#P" n="3"/>ma. Non enim in morali philosophia fortem pro neruoso &amp; lacertoso capimus: sed pro illo qui habi 
+      <lb ed="#P" n="4"/>tum fortitudinis habet. Quintupliciter ergo exuperant tyrunculos. Primo sciunt varios strepitus 
+      <lb ed="#P" n="5"/>bellicos inanes quos inexperti multi faciunt. Secundo modum pulsandi norunt. Tertio modum 
+      re<lb ed="#P" n="6" break="no"/>pellendi ictus non ignorant. Quarto sciunt armis vti sine grauamine. Dauid inassuetus armis: 
+      arma<lb ed="#P" n="7" break="no"/>tus progredi nequibat. Demum non fugit eos quo pacto noceant aliis: &amp; tutari se sciunt ab aliorum 
+      <lb ed="#P" n="8"/>ictibus. Sed isti milites de quibus in secunda specie loquuti sumus non sunt fortes, sed fugaces: 
+      fugi<lb ed="#P" n="9" break="no"/>tant enim tanquam meticulosi, cum periculum increbrescit, &amp; inferiores sunt, &amp; sunt deiectiori animo. 
+      Vr<lb ed="#P" n="10" break="no"/>banae autem copiae se hostem praestolantur &amp; intereunt: quod apud Hermeum contigit. Hermeus est 
+      <lb ed="#P" n="11"/>nomen loci in Euboea: quae est cEgaei maris insula euboicum mare a se denominans. In ea olim fuit 
+      <lb ed="#P" n="12"/>Coronia ciuitas, quam Athenienses duce Phereo obsederunt, qui arcem proditione cepit. Charon The 
+      <lb ed="#P" n="13"/>banorum dux in obsessorum auxilium missus ea pugna occubuit: cuius caede milites consternati qui 
+      <lb ed="#P" n="14"/>antea viriliter manus conseruerant, fugam arripuere: ciues ac vrbanae copiae fortiter pugnantes 
+      om<lb ed="#P" n="15" break="no"/>nes prope interierunt. Est enim vrbanis aciebus indecorum fugere: &amp; mortem tali saluti praeferendam 
+      <lb ed="#P" n="16"/>censent. Milites vero mercenarii, a principio vt superiores sese discriminibus obiectant, Difficultate 
+      <lb ed="#P" n="17"/>vero intellecta fugam corripiunt, interitum potius quam pudorem formidantes. Talis autem vir fortis 
+      <lb ed="#P" n="18"/>non est. Tertius modus est fortitudo quae ob iram obuenit: quae est quando ira perciti infrenium 
+      bel<lb ed="#P" n="19" break="no"/>luarum more in eos feruntur qui ipsos aliqua plaga affecerunt: qui propterea fortes videntur. lrascen 
+      <lb ed="#P" n="20"/>tia enim est cos fortitudinis: quia ira saeuiores sunt. Reuera furoris concitatio ad aggredienda 
+      pericu<lb ed="#P" n="21" break="no"/>la res est impetuosissima: hinc illud apud Homerum de Hectore legimus. Et vires addit irae. 
+      <lb ed="#P" n="22"/>Ira animum mox corripuit, vis ferbuit acris 
+      <lb ed="#P" n="23"/>Naribus, &amp; sanguis iamque ebulliuit &amp;c. 
+      <lb ed="#P" n="24"/>Haec enim omnia irae concitationem significare videntur: sed isti non sunt fortes. Nam fortis propter 
+      <lb ed="#P" n="25"/>honestatem operatur, &amp; illos ira coadiuuat. Quapropter ira fortem ad fortiter agendum iuuat. At ipsa 
+      <lb ed="#P" n="26"/>est moderate post iudicium rectum induenda. Taurus enim cornuam, &amp; vnicornis suum cornu ante congres 
+      <lb ed="#P" n="27"/>sum cum elephanto praeparat: &amp; leo terram cauda ferit, &amp; villi cani, setaeque porco dimicaturo eriguntur. 
+      <lb ed="#P" n="28"/>Ferae autem ob dolorem &amp; timorem dimicant, sed frequentius ob dolorem agunt, vt quia vulneratae sunt, 
+      <lb ed="#P" n="29"/>aut vulnerari formidant, tentant an eorum inuasione possint aliis timorem incutere, &amp; se 
+      conserua<lb ed="#P" n="30" break="no"/>re, nempe si in suis latibulis in nemore essent nullum inuaderent. Igitur a simili fortes non sunt qui dolore 
+      <lb ed="#P" n="31"/>perciti &amp; ira in discrimina irruunt, nihil mali praeuidentes. Secundo, hac via asini fortes dici mereren 
+      <lb ed="#P" n="32"/>tur, qui esurientes vix a pabulo dimouentur, scripsi vix, acerba verbera plus mouent quam fames, &amp; moechi ob 
+      <lb ed="#P" n="33"/>tetram libidinem multa audent.
+    </p>
+            <p xml:id="JMAet9-d12815-d1e281">
+               <pc type="pilcrow">¶</pc> Tertio fortitudo ob iram maxime ei vicina est quae fit secundum naturam 
+      <lb ed="#P" n="34"/>electionem praueniens: sed vera fortitudo non est sine electione &amp; fine, quia est honesti gratia.
+    </p>
+            <p xml:id="JMAet9-d12815-d1e289">
+               <pc type="pilcrow">¶</pc> Quarto cum 
+      <lb ed="#P" n="35"/>homines irascuntur ob paruipensionem dolent, &amp; cum vltionem ceperint voluptate afficiuntur, &amp; propter haec 
+      <lb ed="#P" n="36"/>agunt. propterea pugnaces sunt: fortes autem non sunt, non enim agunt ob honestatem &amp; vt ratio 
+      <lb ed="#P" n="37"/>monet. fortis more probi iudicis non capit voluptatem in vidicta. Diligit hominem, odit eius culpam &amp; 
+      gau<lb ed="#P" n="38" break="no"/>det in actu iustitiae ministratae. Licet iustitia suspendio annectatur, potest quispiam de vno voluptate 
+      <lb ed="#P" n="39"/>affici &amp; moerore de alio. lsti tertii agunt ob perturbationem &amp; affectum. Non sunt ergo fortes: sed aliquomodo  
+      <lb ed="#P" n="40"/>sunt fortibus siles, nam pericula contennunt. Porro si electio praecedat &amp; debitus finis gratia cuius operaretur, quando fu 
+      <lb ed="#P" n="41"/>ror sequitur, est vera fortitudo. In fortitudine ex ira duo proueniunt scilicet dolor ob iniuriam illatam, &amp; nondum 
+      <lb ed="#P" n="42"/>vindictam &amp; delectatio cum corripuerunt eum qui in eos iniuriam commisit, tunc delectantur, quia 
+      <lb ed="#P" n="43"/>desiderium suum iam compleuerunt. Quadruplex est differentia inter hos &amp; vere fortes, primo quantum 
+      <lb ed="#P" n="44"/>ad cognitionem, quia pericula non prauident. Secundo per electionem, quia ista fortitudo ob iram est naturalissima 
+      <lb ed="#P" n="45"/>&amp; subita non expectans consilium &amp; electionem. Tertio quantum ad intentionem: cum ei finis fortitudinis dei sit. Quar 
+      <lb ed="#P" n="46"/>to per delectationem, cum isti tristentur. Tortis enim non capit oblectamentum in vindicta, sed quia belle operatur. Loqui 
+      <lb ed="#P" n="47"/>tur ira moderata &amp; assumpta. Quartus modus sophisticae fortitudinis est fortitudo per spem. lsti spe 
+      fre<lb ed="#P" n="48" break="no"/>ti, quia secunda fortuna eis alias saepius arrisit sunt fortes, &amp; in periculis fiduciam habent. Hoc 
+      contin<lb ed="#P" n="49" break="no"/>gere potest in vna integra gente aliam saepius domante: &amp; propterea in spem erigitur. Ille enim qui aliquos 
+      <lb ed="#P" n="50"/>tales vicit, caeteros se superare posse arbitratur. Sunt autem fortibus similes, quia vtrique bene sperant: 
+      <lb ed="#P" n="51"/>sed fortis alium finem sibi vendicat, vt saepius iam est significatum. lsti fiduciam habent, quia se 
+      su<lb ed="#P" n="52" break="no"/>periores esse rentur, &amp; arbitrantur nihil mali suscepturos. Simile aliquid temulenti faciunt. 
+      Pu<lb ed="#P" n="53" break="no"/>tant enim omnia prospere, sibi cessura: quae cum dextre non cedunt, fugam corripiunt. In 
+      temulen<lb ed="#P" n="54" break="no"/>tia ( vti Quidius in arte ait) pauper cornua sumit. Temeto calefacti multa sibi pollicentur. Vina 
+      <lb ed="#P" n="55"/>parant animos, redduntque caloribus aptos. Non est sermo de pure ebriis) &amp; vinum ad praelia trudit 
+      <lb ed="#P" n="56"/>inermem. At viri fortis est terribilia honestatis gratia ferre: quia illa ferre est decorum, non ferre 
+      in<lb ed="#P" n="57" break="no"/>decorum. Posthaec corollarium infert inquiens, Potius fortis esse videtur qui in repentinis 
+      terrori<lb ed="#P" n="58" break="no"/>bus interritus &amp; inconcussus sine perturbatione manet quam qui praeuisis. Quia virum stare intrepidum 
+      <lb ed="#P" n="59"/>in subitis terroribus magis ab habitu emergit quam praeueniendo. Acsi sic argumentaretur. Ille est 
+      ma<lb ed="#P" n="60" break="no"/>gis fortis qui ex habitu fortitudinis, quam ille qui non operatur ex habitu: at qui resistit in repentinis 
+      <lb ed="#P" n="61"/>periculis operatur ex habitu. qui autem pericula praeuidet, potest se armare &amp; animum figere ad 
+      su<lb ed="#P" n="62" break="no"/>am moram: si efficaciter expectare voluerit expectabit. Suam praeuisa minus ledere tela solent. 
+      <lb ed="#P" n="63"/>Alter autem qui impraemeditate est inuasus, expectans solum a fortitudinis habitu moratur: modo 
+      <lb ed="#P" n="64"/>habitus per modum naturae mouet &amp; impellit. Nec iste ramus cum secundo coincidit. Nam multi bene 
+      <!--113.xml-->
+      <pb ed="#P" n="48-v"/>
+               <lb ed="#P" n="1"/>sperant ob victoriam habitam siue rei militaris peritiam. Post haec ponit quintam speciem siue 
+      mo<lb ed="#P" n="2" break="no"/>dum fortitudinis adulterinae, &amp; est fortitudo ob ignorantiam, cum pericula ignorantes sese 
+      discrimi<lb ed="#P" n="3" break="no"/>nibus obiectant. Et isti sunt multum affines his qui propter spem &amp; fiduciam audent. Verum illis sunt 
+      <lb ed="#P" n="4"/>tanto deteriores, quanto hi minus honestatis habent. Illi enim dignationem habent, quod alios 
+      inter<lb ed="#P" n="5" break="no"/>dum vicerunt. Sane hi non existimatione, vt illi, sed sola ignoratione audent. Hinc fit vt illi 
+      aliquan<lb ed="#P" n="6" break="no"/>tisper sustineant. Sed cum hi aliud quam ipsi arbitrati sunt capiunt, fugitant. Quod argiuis contigit cum 
+      <lb ed="#P" n="7"/>in armipotentes lacedaemonios hoc est spartanos tanquam sycionios timidos incidissent. Sed qui fortes 
+      <lb ed="#P" n="8"/>sunt &amp; fortibus similes fusius iam dictum est. Argos est Achaiae oppidum, a quo argiui siue argolici 
+      <lb ed="#P" n="9"/>dicuntur. Sycionii erant imbellaces, Argiui rebantur cum meticulosis Sycioniis decertate, sed cum 
+      <lb ed="#P" n="10"/>secus intellexerint terga dedere. Sycionia est regio inter Corinthum &amp; Achaiam sita. Per vnum 
+      ex<lb ed="#P" n="11" break="no"/>emplum hanc quintam speciem vt secundam probat, &amp; ita esse docet &amp; exemplificat de nonnullis quae  
+      <lb ed="#P" n="12"/>ex Graecorum monumentis innotuere. 
+    </p>
+            <p xml:id="JMAet9-d12815-d1e391">
+               <lb ed="#P" n="13"/>⁋ Dubitatur primo an fortitudo habeat partes subiectiuas.
+    </p>
+            <p xml:id="JMAet9-d12815-d1e396">
+               <pc type="pilcrow">¶</pc> Secundo an in repentinis actibus 
+      ma<lb ed="#P" n="14" break="no"/>xime fortitudo reluceat sicut philosophus dicit.
+    </p>
+            <p xml:id="JMAet9-d12815-d1e404">
+               <pc type="pilcrow">¶</pc> Contra hoc enim argumentor. Actus 
+      fortitudi<lb ed="#P" n="15" break="no"/>nis debet esse deliberatus &amp; cum electione: illud quod ex inaduertentia euenit non imputatur ad mor 
+      <lb ed="#P" n="16"/>tale, esto quod sit de mortalium genere, vt periurium indeliberatum: ergo nec in bonis actibus ex 
+      gene<lb ed="#P" n="17" break="no"/>re, indeliberatio facit actum moraliter bonum.
+    </p>
+            <p xml:id="JMAet9-d12815-d1e416">
+               <pc type="pilcrow">¶</pc> Tertio dubitatur an quinque species sophisticae forti 
+      <lb ed="#P" n="18"/>tudinis sint peccata.
+    </p>
+            <p xml:id="JMAet9-d12815-d1e424">
+               <pc type="pilcrow">¶</pc> Ad primum dubium affirmatiue respondetur. Probatio. Non est species 
+      infi<lb ed="#P" n="19" break="no"/>ma ergo habet inferius. Secundo, istae sunt eius species &amp; inferiora: fortitudo aggressiua, expectatiua 
+      <lb ed="#P" n="20"/>fortitudo, fugitiua, cunctatiua more Fabii Maximi, de quo poeta sexto Aneidos ait. Vnus homo 
+      no<lb ed="#P" n="21" break="no"/>bis cunctando restituit rem. Poenum ducem alia via censuit non esse atterendum. 
+    </p>
+            <p xml:id="JMAet9-d12815-d1e436">
+               <lb ed="#P" n="22"/>⁋ Ad secundum dubium etiam affirmatiue respondetur. Ad rationem in oppositum concedo talem 
+      <lb ed="#P" n="23"/>fortitudinis actum esse deliberatum. Habituatus enim propere circa suam materiam deliberat. Et 
+      si<lb ed="#P" n="24" break="no"/>cut habet habitum fortitudinis, ita habet habitum prudentiae, fortitudinis regulatiuae, &amp; citius eligit. 
+      <lb ed="#P" n="25"/>Et sic obiectio non procedit. luramentum indeliberatum, quod non esse peccatum aiunt, non est actus 
+      <lb ed="#P" n="26"/>humanus, inaduertentia enim periurium excusat, tunc autem inaduertentia est periurii causa, 
+      quan<lb ed="#P" n="27" break="no"/>do si aduerteret minime peieraret.
+    </p>
+            <p xml:id="JMAet9-d12815-d1e453">
+               <pc type="pilcrow">¶</pc> Ad tertiam dubitationem respondetur quod pugnare propter ho 
+      <lb ed="#P" n="28"/>norem, praemium, aut infamiam vitandam, non est malum, vt multi falso arbitrantur. Licet enim 
+      <lb ed="#P" n="29"/>confligere pro fortunis protegendis. ltaque a fortiore ob ignominiam euitandam aut ob honorem in 
+      vi<lb ed="#P" n="30" break="no"/>ro quem certare decet. Nam quilibet talis honorem opibus praeponit: clericus autem precationibus 
+      <lb ed="#P" n="31"/>decertat cum deo &amp; non armis militaribus. Et quia hi actus sunt boni, virtutes generant: timore poe 
+      <lb ed="#P" n="32"/>nae manus conserere, vbi non patet elapsus, non estculpa: &amp; si alia mala circunstantia non inuoluatur non 
+      <lb ed="#P" n="33"/>est peccatum sed est inferioris ordinis quam duo primi gradus primi rami.
+    </p>
+            <p xml:id="JMAet9-d12815-d1e472">
+               <pc type="pilcrow">¶</pc> Secunda species ponit 
+      pro<lb ed="#P" n="34" break="no"/>cliuitatem ad fugam vbi ratio mouet esse manendum, &amp; in hoc est culpa. Tertia species potest exerce 
+      <lb ed="#P" n="35"/>ri sine crimine. De quarta sicut de secunda dicatur. Sed omnes isti rami deficiunt a vero fortitudinis 
+      <lb ed="#P" n="36"/>fine cum non ponantur finis ipsius virtutis propinquus aut remotus. Pax &amp; commune bonum est 
+      <lb ed="#P" n="37"/>finis belli remotus. Pugnammus enim vt pacem habeamus, dicit Tullius primo officiorum, &amp; Augu. 
+      <lb ed="#P" n="38"/>xix. de ciuitate dei. De fine propinquo superius non nihil retulimus. Honestum fortitudinis finem 
+      Ari<lb ed="#P" n="39" break="no"/>stoteles ponit. Nec tertius ramus primae speciei qui aliis duobus est deterior vel minus bonus est pecca 
+      <lb ed="#P" n="40"/>tum. Timore enim poenae bellare non est malum, sicut nolle peccare timore poenae gehennae non est 
+      <lb ed="#P" n="41"/>peccatum: nec timor seruilis est malum nisi culpa in ratione obiectiua implicetur. 
+    </p>
+            <p xml:id="JMAet9-d12815-d1e495">
+               <lb ed="#P" n="42"/>⁋ Quarto dubitatur quis sit ordo specierum fortitudinis. Respondetur. Fugere est fortitudinis infi 
+      <lb ed="#P" n="43"/>ma species. Ipse enim fortis nonnunquam celeritate pedum sibi succurrit: discrimini non temere sese inii 
+      <lb ed="#P" n="44"/>cit, cui coniectatione pensiculata est prorsus impar. Animo circunspecte versat hostis vires atque suam 
+      <lb ed="#P" n="45"/>imparitatem. Si in suo conflictu plus incommodi quam boni timet euenturum, minime congreditur. 
+      <lb ed="#P" n="46"/>Dum quidam Demostheni fugienti exprobraret dicens. Fugis o Demosthenes. Scite respondit. Qui 
+      <lb ed="#P" n="47"/>fugit, iterum pugnare potest. Nam saepe etiam victis redit in praecordia virtus. Semel autem confectus 
+      haud<lb ed="#P" n="48" break="no"/>quaquam contia pugnat Supra quam est cunctatio, &amp; licet in casu inuadere sit difficilius quam expectando reci 
+      <lb ed="#P" n="49"/>pere, non interest, quia aggressor mouetur, alter quietus stat. Si dicas motum ad hanc prouinciam 
+      con<lb ed="#P" n="50" break="no"/>ducere, stat tamen ob loci opportunitatem &amp; aliis adminiculis in casu aggredi esse difficilius: tamen 
+      <lb ed="#P" n="51"/>resistere communiter est difficilius. Aggressor enim se superiorem censet. Nam vix aliter hostem 
+      in<lb ed="#P" n="52" break="no"/>uaderet. In pharsalico bello Pompeiam inconsulto stetere immobiles. Caesariani mouebantur. 
+    </p>
+            <p xml:id="JMAet9-d12815-d1e521">
+               <lb ed="#P" n="53"/>⁋ Contra dicis fugere non est actus fortitudinis. Fortis enim suam vitam exponit fortunae antequam fu 
+      <lb ed="#P" n="54"/>giat. Respondetur in casu, viri fortis est pedum celeritate suam vitam protegere: plerique meticulosi 
+      tur<lb ed="#P" n="55" break="no"/>piter fugiunt: consternati succumbunt, pernicitate vti nescientes. Scire ordinate fugere cum locus ef 
+      <lb ed="#P" n="56"/>flagitat non est indecorum. in bello Rauennatico Hispani a Gallis meo tempore victi animose 
+      au<lb ed="#P" n="57" break="no"/>fugerunt. comitem Fuxium iuuenem cordatissimum Ludouici duodecimi ex sorore nepotem 
+      super<lb ed="#P" n="58" break="no"/>uenientem intrepide expectantes occiderunt, fugam turpem non laudamus.
+    </p>
+            <p xml:id="JMAet9-d12815-d1e537">
+               <pc type="pilcrow">¶</pc> Quinto dubitatur an 
+      <lb ed="#P" n="59"/>vir fortis in acie belli iusti bene agat stando: esto quod reatur se casurum si manserit.
+    </p>
+            <p xml:id="JMAet9-d12815-d1e545">
+               <pc type="pilcrow">¶</pc> Sexto vnde 
+      san<lb ed="#P" n="60" break="no"/>guis viri fortis per nares ebullit.
+    </p>
+            <p xml:id="JMAet9-d12815-d1e554">
+               <pc type="pilcrow">¶</pc> Septimo an licet vti insidiis ac occulto marte in bello. Tullius 
+      <lb ed="#P" n="61"/>enim primo Officiorum insidias vituperare videtur.
+    </p>
+            <p xml:id="JMAet9-d12815-d1e562">
+               <pc type="pilcrow">¶</pc> Ad quintum constructiue respondemus. Nam 
+      <lb ed="#P" n="62"/>etiam in lumine naturali non potest fortis pulchrius mortem obire quam manus conserendo: vbi 
+      pro<lb ed="#P" n="63" break="no"/>babiliter putatur sua expectatio salutem reipublicae allatura. Renuit molliter in culcitra animam 
+      ef<lb ed="#P" n="64" break="no"/>flare. Christianus miles pro religione in primis, pro regni salute, ac aliis honestis causis in statione per¬ 
+      <!--114.xml-->
+      <pb ed="#P" n="49-r"/>
+               <lb ed="#P" n="1"/>durat, &amp; casus occurrere potest vt vestigium retrahere nequeat. Ante conflictus feruorem conscientiae satiffacit. 
+      <lb ed="#P" n="2"/>ac commissa scelera sacerdoti denudat. Et potest casus occurrere, quod propositum confitendi si euadat, sufficit. 
+    </p>
+            <p xml:id="JMAet9-d12815-d1e583">
+               <lb ed="#P" n="3"/>⁋ Ad sextum dicimus illud a cordis calefactione &amp; interiorum commotione prouenire.
+    </p>
+            <p xml:id="JMAet9-d12815-d1e588">
+               <pc type="pilcrow">¶</pc> Pro septima dubi 
+      <lb ed="#P" n="4"/>tatione dicimus in iusto bello insidias esse licitas. Ita enim fecit losue, ludicum. viii. imperante dio. verum 
+      ten<lb ed="#P" n="5" break="no"/>pestiue occultare non est nephas. Multi praeclari duces insidiis gaudebant vt philippus macedo sua cautione 
+      <lb ed="#P" n="6"/>militem discrimini haud quaquam exposuit, propterea laudabatur. Plano etiam Marte eius filius Alexander 
+      <lb ed="#P" n="7"/>manus conseruit, nec imprudenter, fuit enim ille miles longo armorum vsu in bello assuetus, ferire 
+      <lb ed="#P" n="8"/>atque ictus euitare iam paterna militia didicerat. Tullius insidias cum verborum deceptione taxat. Sic 
+      <lb ed="#P" n="9"/>eum intelligas, alioqui cum eo non opinamur. Secundo indecorum est potenti regi stratagematibus mi 
+      <lb ed="#P" n="10"/>litaribus &amp; insidiis cum inferiori vti, tamentsi enim sine delicto id fieri queat gloriosum minime 
+      reputa<lb ed="#P" n="11" break="no"/>tur. Finaliter haeres, quanam via homo fortis euadit. Dicimus quod aliqui ab influentia siderum &amp; horos 
+      <lb ed="#P" n="12"/>copo atque parentibus sunt meticulosi, sic etiam a patria. Apricis eim oris orti minus sunt bellicosi quam 
+      <lb ed="#P" n="13"/>frigidis regionibus orti paritate data. Insuper hebetiores duriores sunt vulgo milites, vt de Achille. 
+      <lb ed="#P" n="14"/>Aiace Thelamonio &amp; caeteris contigit. Ditiori autem Minerua pollentes frequentius &amp; degeneres in opere 
+      <lb ed="#P" n="15"/>sunt nothi martis, nihilotamen secius &amp; hi &amp; illi marticolae fiunt. Ratio, voluntas, ac honesti cupiditas 
+      <lb ed="#P" n="16"/>hominem ad mauortios pulueres sustinendos impellit, quare ingenio pollentes longa militia 
+      strennuissi<lb ed="#P" n="17" break="no"/>mi duces euadunt, acumem enim intellectus circunspectionem praeuidet, imminentia mala praesagit. lam 
+      <lb ed="#P" n="18"/>habitu parto ignauiam socordiamque profligauit, quare imperio est dignissimus, vt strennuissimus An 
+      <lb ed="#P" n="19"/>nibal, impigerrimus Caesar, &amp; similes.
+    </p>
+            <p xml:id="JMAet9-d12815-d1e628">
+               <pc type="pilcrow">¶</pc> Caeterum circa quartam speciem in qua dicit feras ob dolorem 
+      inua<lb ed="#P" n="20" break="no"/>dentem reprimere. Scito quod leoni generosus est mos percussorem sui diligentissime obseruare, quem in 
+      quan<lb ed="#P" n="21" break="no"/>talibet multitudine appetit, eum autem qui telo ipsum ferire studuit at no lesit, prostratum resupinat nec 
+      vulne<lb ed="#P" n="22" break="no"/>rat, aequa trutina iniuriam compensans.
+    </p>
+            <p xml:id="JMAet9-d12815-d1e640">
+               <pc type="pilcrow">¶</pc> Simpir superius diximus actum esse finem fortitudinis, porro 
+      habi<lb ed="#P" n="23" break="no"/>tus est propter actum, propterea actus est finis naturalis virtuti accommodatus. Finis fortis est honestum, 
+      <lb ed="#P" n="24"/>hoc est pugnat fortis consonanter ad rationem, non autem aliter, si alium finem ei praestituit, iam gyrum fortitudinis 
+      <lb ed="#P" n="25"/>transilit. Demum tametsi hominibus insitum est vitam tueri secundum dictamen rectae rationis, ipsa 
+      <lb ed="#P" n="26"/>est pro gloria Dei ac vtilitate reipublicae exponenda. Homo inter duo ponitur, dedecus est ex vna 
+      par<lb ed="#P" n="27" break="no"/>te si fugam arripiat, pulcher interitus altera ex parte. Hic autem est capessendus, illud vero tanquam 
+      aconi<lb ed="#P" n="28" break="no"/>tum aut aspis fugiendum. Et si in pace, quae est finis iustus belli, aliqui lasciuiant, ac in ocio marcescant, 
+      <lb ed="#P" n="29"/>deteriora tamen damna mauortio strepitu contingunt, vt templorum direptio, religionis 
+      conculca<lb ed="#P" n="30" break="no"/>tio, stupratio virginum ac matronarum, teterrimae caedes, fortunarum direptio. haec enim sunt 
+      dete<lb ed="#P" n="31" break="no"/>stabilissima. at in pace salutaria bona accidunt ac pauca incommoda, quare alma &amp; togata pax est 
+      lu<lb ed="#P" n="32" break="no"/>ctificoso bello anteferenda.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

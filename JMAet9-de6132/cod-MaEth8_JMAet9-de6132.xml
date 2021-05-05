@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 5</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 5</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-de6132"><!-- mair-l2c5 -->
+            <head xml:id="JMAet9-de6132-Hd1e103">Caput 5</head>
+            <p xml:id="JMAet9-de6132-d1e106">
+               <lb ed="#P" n="22"/>
+               <quote xml:id="JMAet9-de6132-Qd1e110" type="lemma">POst haec autem</quote>. Hic secundum auspicatur tractatum quem in duo capita distrahit. In priore capite 
+      <lb ed="#P" n="23"/>genus virtutis venatur: in posteriore vero illius differentias, vt completa finitio virtutis 
+      habea<lb ed="#P" n="24" break="no"/>tur. Ecce eius ordinem continuum. Superius ostendit virtutem non esse nobis a natura insitam: 
+      <lb ed="#P" n="25"/>sed nos eam per operationes nancisci: deinceps ostendit quanam via percipiemus nos esse virtutibus 
+      <lb ed="#P" n="26"/>insignitos. Praeterea monstrauit virtutes esse dolores &amp; voluptates, sensibus anteactis. Nunc vero 
+      vir<lb ed="#P" n="27" break="no"/>tutis diffinitionem tradere parans ait hoc pacto. Post haec autem quae dicta sunt a nobis, quidnam 
+      <lb ed="#P" n="28"/>sit ipsa virtus contemplemur oportet. Et cum ipsa sit in anima, ex calce primi libri: &amp; tria sint in ea, 
+      <lb ed="#P" n="29"/>quod illorum trium sit virtus rimabimur. Porro haec tria sunt quae circa animam contingunt, 
+      af<lb ed="#P" n="30" break="no"/>fectus potentiae habitus, virtutem horum esse aliud necessum est. Affectus est motio appetitus 
+      sensi<lb ed="#P" n="31" break="no"/>tiui ad prosequendum aut fugiendum aliquid a nobis agendum. lsti appetitus sunt in corporeo instrumento. 
+      <lb ed="#P" n="32"/>interdum enim cor &amp; spiritus ad internas partes mouentur, vt in timore. interdum e diuerso, vt in  
+      <lb ed="#P" n="33"/>rubore. Hi appetitus vocantur cupiditas, ira, metus, fiducia, gaudium, amicitia, odium, desiderium, 
+      <lb ed="#P" n="34"/>aemulatio, aelus siue inuidia ( mulatio nonnunquam imitationem significat, vt illic, stimulos dedit 
+      <lb ed="#P" n="35"/>aemula virtus: sed imitatio liuorem non imbibit: aemulatio liuorem saepius admittit, vt Carthago 
+      <lb ed="#P" n="36"/>Romae aemula) misericordia, &amp; vniuersaliter appetitus, quos voluptas aut dolor sequitur. Potentiae 
+      <lb ed="#P" n="37"/>sunt innatae vires quibus ad praedicta suscipienda sumus proni: vt potentia qua possumus dolere, 
+      <lb ed="#P" n="38"/>irasci, misereri: &amp; non modo ad dicta suscipienda, sed consimiliter ad habitus ipsos nobis 
+      comparan<lb ed="#P" n="39" break="no"/>dos. Habitus enim sunt acquisitae qualitates quibus nos bene aut male habemus ad ipsos affectus. Vt 
+      <lb ed="#P" n="40"/>habitus quo impetuose &amp; remisse irascimur sunt vitia, hic deficiendo, ille vero excedendo. Ille vero 
+      <lb ed="#P" n="41"/>secundum quem mediocriter irascimur, &amp; vt ratio efflagitat, est virtus. Sequitur in litera. Virtutes igitur 
+      <lb ed="#P" n="42"/>vitiaque non sunt affectus. Primo, nam affectibus neque studiosi neque vitiosi dicimur. Secundo, ob 
+      affe<lb ed="#P" n="43" break="no"/>ctus nec laudamur nec vituperamur. Non enim qui formidat &amp; irascitur, laudatur aut vituperatur: 
+      <lb ed="#P" n="44"/>sed qui certo modo metuit &amp; irascitur: hoc est bene vel male. Sed ob virtutes &amp; vitia laudamur &amp; 
+      cri<lb ed="#P" n="45" break="no"/>minamur. Proinde virtutes &amp; vitia non sunt affectus. Tertio, quia irascimur &amp; timemus sine 
+      electio<lb ed="#P" n="46" break="no"/>ne. affectus enim rationem praeuenit: sed virtutes &amp; vitia non sunt sine electione: igitur. Quarto, quia 
+      secun<lb ed="#P" n="47" break="no"/>dum affectus mouemur, secundum virtutes non mouemur. Sequitur. Propter haec eadem, virtutes &amp; vitia 
+      <lb ed="#P" n="48"/>non sunt potentiae. Probatur. Nam a potentiis non dicimur boni aut mali: nec laudamur aut vituperamur. 
+      <lb ed="#P" n="49"/>quia irasci possumus. Insuper sumus natura potentes, non autem boni vel mali natura, igitur virtutes &amp; 
+      <lb ed="#P" n="50"/>vitia non sunt potentiae. ecce dicit virtutes naeque sunt affectus neque potentiae. &amp; probationes eius 
+      inni<lb ed="#P" n="51" break="no"/>tuntur huic basi. Illa non sunt eadem quibus non competunt eadem: at affectibus, potentiis &amp; 
+      virtu<lb ed="#P" n="52" break="no"/>tibus non conueniunt eadem: igitur. Post haec illationem infert a sufficienti diuisione scilicet virtutes &amp; 
+      vi<lb ed="#P" n="53" break="no"/>tia sunt habitus. Patet, sunt aliquid in anima, aut circa eam: &amp; non sunt in anima, nisi tria haec: &amp; non 
+      <lb ed="#P" n="54"/>sunt potentiae, neque affectus, per dicta: proinde sunt habitus. 
+    </p>
+            <p xml:id="JMAet9-de6132-d1e183">
+               <lb ed="#P" n="55"/>⁋ DBitatur primo, quid intelligat Aristoteles per potentias &amp; affectus. Secundo, quia actus est in i 
+      <lb ed="#P" n="56"/>anima, &amp; sub nullo istorum membrorum a philosopho enumeratorum continetur: ergo non bene 
+      diui<lb ed="#P" n="57" break="no"/>dit illa quae sunt in anima. Tertio, quid intelligat in quarta ratione per motum. Quarto, quod dicit 
+      <lb ed="#P" n="58"/>non laudamur aut vituperamur affectibus, non videtur verum. namque eo ipso auctore verecundia est 
+      <lb ed="#P" n="59"/>affectus quo laudamur, vt in quarto libro dicemus.
+    </p>
+            <p xml:id="JMAet9-de6132-d1e196">
+               <pc type="pilcrow">¶</pc> Ad primam dubitationem respondetur, potentia. 
+      <!--63.xml-->
+      <pb ed="#P" n="24-v"/>
+               <lb ed="#P" n="1"/>ipsa anima disposita ad suscipiendum. Ex eius modo loquendi tam hic quam in libris de anima, aliqui dixere 
+      <lb ed="#P" n="2"/>potentias animae ab ea distingui: quorum placito renitimur vt fusius aliubi explanauimus, &amp; praeter 
+      <lb ed="#P" n="3"/>dicta de affectibus dicimus quod affectus sunt prauitates naturales quibus sumus ad aliquid 
+      propensi<lb ed="#P" n="4" break="no"/>Aliqui sunt cholerici suapte natura, qui facile succensent. Aliqui ad inuidentiam, vt oculis cocauis, 
+      fa<lb ed="#P" n="5" break="no"/>cile mouentur. Ob talia dummodo ipsi non notabiliter passionis limites praetergrediantur, viros nec 
+      <lb ed="#P" n="6"/>deprimimus nec efferimus. Ingeniosum virum in choleram praecipitem prudentes vtcumque 
+      excu<lb ed="#P" n="7" break="no"/>sant, dummodo perturbationem insurgentem pro virili sedare laboret. 
+    </p>
+            <p xml:id="JMAet9-de6132-d1e221">
+               <lb ed="#P" n="8"/>⁋ Ad secundam dubitationem, fateor aliquid esse in anima quod sub nullo istorum trium membrorum 
+      conti<lb ed="#P" n="9" break="no"/>netur. loquitur autem philosophus solum de iis quae sunt in anima, principia operationis humanae. 
+    </p>
+            <p xml:id="JMAet9-de6132-d1e229">
+               <lb ed="#P" n="10"/>⁋ Ad tertiam dubitationem respondetur, quod per moueri potest intelligi surreptio &amp; motus quem theologi 
+      <lb ed="#P" n="11"/>motum primo primum appellant. Dicimus enim quod iracundus facile ad bilem mouetur. Vtrum affectus 
+      <lb ed="#P" n="12"/>ab actu elicito distinguatur, declarabitur quando locus commodior offeretur.
+    </p>
+            <p xml:id="JMAet9-de6132-d1e238">
+               <pc type="pilcrow">¶</pc> Ad quartam dicimus, 
+      <lb ed="#P" n="13"/>quod ob affectum naturalem nemo est efferendus aut deprimendus tamquam studiosus aut exorbitans &amp; 
+      pecca<lb ed="#P" n="14" break="no"/>tor. Bene natos aliter laudamus quam studiosum. Hunc extollimus ob acquisitam probitatem ex 
+      laudabi<lb ed="#P" n="15" break="no"/>libus actibus: illum vero cum addito, dicentes esse bona indole, &amp; habere quandam probitatem ad virtutes 
+      <lb ed="#P" n="16"/>innatam. Modo suas pronitates ad virtutes ac vitia, facile sectantur homines.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

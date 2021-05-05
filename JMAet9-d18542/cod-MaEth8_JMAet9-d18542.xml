@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 6</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 6</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d18542"><!-- mair-l4c6 -->
+            <head xml:id="JMAet9-d18542-Hd1e103">Caput 6</head>
+            <p xml:id="JMAet9-d18542-d1e106">
+               <lb ed="#P" n="29"/>
+               <quote xml:id="JMAet9-d18542-Qd1e110" type="lemma">IN congressionibus</quote> &amp;c. Hic determinat Aristoteles de virtutibus quae hominem disponunt in 
+      con<lb ed="#P" n="30" break="no"/>uictu &amp; primo quantum ad actus seriosos. Secundo quantum ad actus ludicros. Quantum ad seria duo 
+      con<lb ed="#P" n="31" break="no"/>siderant scilicet voluptas honesta, &amp; veritas. Et primo agit de virtute quae est circa delectationes &amp; tristitias. 
+      <lb ed="#P" n="32"/>Primaque conclusio capitis est. In humanis communicationibus in convictu verborum &amp; rerum vsu est quidam habitus laudabi 
+      <lb ed="#P" n="33"/>lis. Siquidem in hmodoi congressionibus nuprime recitatis quidam videntur placidi qui puero afferenda voluptate omnia efferunt 
+      <lb ed="#P" n="34"/>&amp; in nullo prorsus aduersantes, putantes oportere minime se molestos esse cuipiam, laudantesque sic male acta 
+      <lb ed="#P" n="35"/>vt benmen gesta. A quibus praeseruari cupit Psalmista inquiens. Oleum perctorum non ipinguabit caput meum. Alios isti 
+      <lb ed="#P" n="36"/>laudantes peccant &amp; cum hoc eos ad peccandum stimulant de his dicit propheta. Vaeh qui dicunt bonum malum, &amp; malum 
+      <lb ed="#P" n="37"/>bonum. Alii contra sunt ab his omnibus dissidentes, nec offendere quemquam vitantes. Et hi difficiles &amp; contentiosi sunt. 
+      <lb ed="#P" n="38"/>Atque hos habitus constat esse vitiosos, medius autem qui inter hos continetur laudandus. Hic habitus magnificabit 
+      <lb ed="#P" n="39"/>proba: at iproba vituperabit. Hinc habitui nomem non est inditum: frequentius vocatur affabilitas, humnanitas, 
+      vrba<lb ed="#P" n="40" break="no"/>nitas, comitas, curialitas. Sed quia non omnes in appellatione vna conveniunt non est ei nomen peculiare inditum. 
+    </p>
+            <p xml:id="JMAet9-d18542-d1e138">
+               <lb ed="#P" n="41"/>⁋ Sedna conclusio hmodi habitus persilis est amicitiae a quae tamen differt: nam si hunc medium habitum habens dilectionis 
+      af<lb ed="#P" n="42" break="no"/>fectum ad eos cum quibus degit assumeret, &amp; omnino talis esset, quamlem bonum amicum dicimus, attamen ab amicitia discri 
+      <lb ed="#P" n="43"/>mem haberet, quia affectu caret. Non enim eos cum quibus congreditur amore vtitur, sed quia talis est puta affabilis, 
+      singu<lb ed="#P" n="44" break="no"/>la prout oportet probat, cuius quidem rei argumentum e. Ipse enim id est erga notos &amp; ignotos, familiares &amp; non fami 
+      <lb ed="#P" n="45"/>liares &amp; indifferenter erga omnes facit: in singulis tamen facit vt convenit. Dedecet aeque curam familiarium &amp; 
+      igno<lb ed="#P" n="46" break="no"/>torum habe, nec prudens vtrosque silr dolore afficiet. Summatim igitur dictum est ipsum cum aliis conversari vt ratio effla 
+      <lb ed="#P" n="47"/>vitat, deinde eius conditiones ponit. Quarum pria ex mon colloquendi sumitur de quae dicit. Vniuersalt loqutur omnibus 
+      <lb ed="#P" n="48"/>sicut ope. Secda proprietas ex parte finis sumitur. Hanc virtutem habens intendit cum aliis delectabiliter viuere, referens ad 
+      <lb ed="#P" n="49"/>bonum honestum &amp; vtile, &amp; dolorem non afferre aut delectare si posset. Nam circa voluptates &amp; dolores insudat qui 
+      <lb ed="#P" n="50"/>in congressionibus sunt. Tertia proprietas. In quaetuor casibus non afferet voluptatem illi cum quo conuiuit, sed 
+      po<lb ed="#P" n="51" break="no"/>tius dolores duos casus ex parte affabilis adducit scilicet si inhonestum alter dicat ac indigna auditu vtpote aliis 
+      <lb ed="#P" n="52"/>detrahit, quae audire est huic audiendi perctum. Vel affert nociuum audienti, tunc secum conuiuetem &amp; talia turpia dicentem 
+      <lb ed="#P" n="53"/>arguet, &amp; ei dolorem &amp; non voluptatem afferet. Silite si conuiuens secum recitet aliquid foedum quod in ore loquentis foe 
+      <lb ed="#P" n="54"/>tidum fecit vel quod est ei nociuum, tunc tristitiam afferet saltem paruam, magnum autem dolorem puer virili euitabit.
+    </p>
+            <p xml:id="JMAet9-d18542-d1e171">
+      
+      Quar<lb ed="#P" n="55" break="no"/>ta proprietas. Secudnm exigentiam personarum conversabitur cum summis &amp; infimis. Seniorem ne arguas inquit aplus. Ac ma 
+      <lb ed="#P" n="56"/>gis &amp; minus noti varie conversabitur. Pari forma secundm alias differentias debitum cuique dabit.
+    </p>
+            <p xml:id="JMAet9-d18542-d1e178">
+               <pc type="pilcrow">¶</pc> Quita 
+      proprie<lb ed="#P" n="57" break="no"/>tas. Per comperationem voluptati ad dolorem hac affabilitate praeditus per se expedit voluptate conuiuentem afficere, &amp; 
+      <lb ed="#P" n="58"/>dolorem renuit, simpitr tamen sequitur maiora, puta si sit honestius dolorem afferre quam voluptatem, illum voluptate relicta 
+      <lb ed="#P" n="59"/>sequitur, &amp; signanter si ex paruo dolore magna sequatur voluptas. Vt percutiendo petulantem iuuenem qui verbera moleste 
+      <!--152.xml-->
+      <pb ed="#P" n="68-r"/>
+               <lb ed="#P" n="1"/>fert, sed cum bene habituatus fuerit in fine gaudebit dicetque cum nea horum olim meminisse iuuabit. 
+      <lb ed="#P" n="2"/>Et quod vulgo dicitur dulcia non meruit qui non gustauit amata. Et gaudentes ferulae supposuere manus. Ta 
+      <lb ed="#P" n="3"/>lis est igitur ipse medius, sed nomine vacat, vti superius retulimus. Post haec de vitiis affabilitati oppositis loquitur 
+      <lb ed="#P" n="4"/>dicens. Is autem qui delectat si id agat studens esse iucundus non ob alid vocatur placidus, sin emolumenti causa sui. 
+      <lb ed="#P" n="5"/>vt in re pecuniaria, adulator est. Qui omnibus se opponit, contentiosus, inhumanus &amp; discolus est, iste omnia enim 
+      <lb ed="#P" n="6"/>improbat. Deide concludendo infit. Videntur quoque extrema inter sese solum aduersari &amp; non ad ipsum medium, quia 
+      <lb ed="#P" n="7"/>ipsum appellatione vacat. At non est ita, &amp; extremum extremo &amp; medio vti in aliis opponitur. Nec est aiaduer 
+      <lb ed="#P" n="8"/>sione indignum, quod agrestis ipse loquacissimus est deterior placido, eapropter Aristoteles duplici nomine hoc de 
+      <lb ed="#P" n="9"/>testandum vitium nuncupat, cum talibus cotentiosis difficillimum est conuiuere.
+    </p>
+            <p xml:id="JMAet9-d18542-d1e215">
+               <pc type="pilcrow">¶</pc> Dubitatur an contentio sit peccatum. Respondetur. I 
+      <lb ed="#P" n="10"/>Contentio est veritatem agnitam clamore impugnare, &amp; sic notum est esse pecctum. Etiam est peccatum si falsitas cum clamo I 
+      <lb ed="#P" n="11"/>re &amp; inordinate impugnatur: saepe enim est ad aliorum scandalum. Vn Aplus secudae ad Timo. ii. ait. Noli verbis 
+      con<lb ed="#P" n="12" break="no"/>tendere, ad nihil enim vtile est, nisi ad subuersionem audientium. Pont esse contentio de illo de quo non est contendendum, 
+      <lb ed="#P" n="13"/>&amp; adhuc est peccatum vt de primatu contendere. Vn Lucae. xxii. Facta est contentio inter discipulos lesu quis eorum 
+      <lb ed="#P" n="14"/>esset maior. Et quia ex contentione saepius discordia oritur, quaeritur an discordia est peccatum.
+    </p>
+            <p xml:id="JMAet9-d18542-d1e232">
+               <pc type="pilcrow">¶</pc> Resndetur quod concordia con 
+      <lb ed="#P" n="15"/>iungit multos in vnum bonum diuinum, vel ad proximi aedificationem: discordiaque illi opposita, est malum &amp; 
+      <lb ed="#P" n="16"/>grande pecctum. Prouerbiorum. vi. Sex sunt quae odit deus, &amp; septimum detestatur aia eius scilicet ponere discordiam inter 
+      <lb ed="#P" n="17"/>fratres. Et discordia poent esse ex intentione, quando quis scienter &amp; a proposito trahit homines a bono diuino vel 
+      bo<lb ed="#P" n="18" break="no"/>no proximi, &amp; hoc &amp; grande peccatum, &amp; charitati aduersum. Nonnuumquam autem est contrarietas praeter intentionem, vt cum 
+      <lb ed="#P" n="19"/>duo intendunt honorem Dei &amp; proximi, sed aliter censent in intellectu, vnus opinatur inuincibiit vno 
+      mon<lb ed="#P" n="20" break="no"/>alius autem alio modo, &amp; talis discordia poent esse sine peccato, talisque inter sctons contingit, sicut contigit inter 
+      <lb ed="#P" n="21"/>Paulum &amp; Barnabam. Actuum. xv. Facta est dissensio inter eos ita vt disciderent ab inuicem. Barnabas enim vole 
+      <lb ed="#P" n="22"/>bat vnum tertium accipi ad ipsorum comitatum quem abnuebat Paulus. Silt hoc inter angelos etiam bonos 
+      con<lb ed="#P" n="23" break="no"/>tigit, Danielis. x. Et doctores probi saepe sine peccato dissentiunt.
+    </p>
+            <p xml:id="JMAet9-d18542-d1e257">
+               <pc type="pilcrow">¶</pc> Contra primum membrum 
+      obiici<lb ed="#P" n="24" break="no"/>tur sic. Paulus Actuum. xxiii. posuit discordiam inter Saduceos &amp; Phariseos, vt liberaretur, sed si discordia est 
+      <lb ed="#P" n="25"/>peccatum, quia non sunt facienda mala vt inde eueniant bona, Paulus male egit, quod non est dicen 
+      <lb ed="#P" n="26"/>dum. Resndetur quod sacer Paulus intendebat aliqua licita vtpote sui liberationem, &amp; vt Pharisaei ad suam opinionem 
+      <lb ed="#P" n="27"/>immo fidem de resurrectione excitarentur id fecit, existimabat tamen Saduceos sua placita defensuros, &amp; sic inter 
+      <lb ed="#P" n="28"/>hos sectatores discordiam quam non per se intendebat sparserat, sicut in insidiis, &amp; de facto lacob sepius 
+      dixi<lb ed="#P" n="29" break="no"/>mus, illud licet facere inter perctores. Matthaei. x, non veni pacem mittere, sed gladium.
+    </p>
+            <p xml:id="JMAet9-d18542-d1e276">
+               <pc type="pilcrow">¶</pc> Tertio dubitatur an 
+      <lb ed="#P" n="30"/>pax &amp; concordia coincidant.
+    </p>
+            <p xml:id="JMAet9-d18542-d1e284">
+               <pc type="pilcrow">¶</pc> Rendetur negatiue. Sicarii enim sunt concordes habentes vnum cor in malum, sed hoc 
+      <lb ed="#P" n="31"/>ad pacem non satis est. Non enim est pax cum impiis. Vltraque concordiam, pax bonam tramquillitatem connotat.
+    </p>
+            <p xml:id="JMAet9-d18542-d1e292">
+      
+      Quar<lb ed="#P" n="32" break="no"/>to dubitatur an assentator tenetur restituere illud quod adulatione acquisiuit.
+    </p>
+            <p xml:id="JMAet9-d18542-d1e298">
+               <pc type="pilcrow">¶</pc> Quinto an audiens detractorem 
+      <lb ed="#P" n="33"/>peccet.
+    </p>
+            <p xml:id="JMAet9-d18542-d1e306">
+               <pc type="pilcrow">¶</pc> Ad quartum dicitur, quod non: si a prudente aliquid dono habeat alium inani gloria pro suo emolumento 
+      <lb ed="#P" n="34"/>pauit. Sed adulator adulatione semper peccat, si enim hominem puer tuo bono honesto laudaueris aut vt eius 
+      sae<lb ed="#P" n="35" break="no"/>uitiam euites, iam est affabilitas cum sit rationi concors, &amp; non adulatio.
+    </p>
+            <p xml:id="JMAet9-d18542-d1e316">
+               <pc type="pilcrow">¶</pc> Ad quintum dicitur quod si quis audiat de 
+      <lb ed="#P" n="36"/>tractorem, &amp; eum inducat ad illote loquendum de proximo quem odit non minus peccat quam ipse detrahens, immo ma 
+      <lb ed="#P" n="37"/>gis: cum eum ad detrahendum inducat. Alio modo quando detractio ei displicet, sed non resistit quantum &amp; vt ratio 
+      <lb ed="#P" n="38"/>exigit, &amp; sic etiam peccat, praeponit enim timorem humanum charitati dei, &amp; proximi. Obiter quaeris quid est 
+      detra<lb ed="#P" n="39" break="no"/>ctio.
+    </p>
+            <p xml:id="JMAet9-d18542-d1e330">
+               <pc type="pilcrow">¶</pc> Respondetur detractio est alienae famae occulta denigratio, ponitur occulta ad discrimen contume 
+      <lb ed="#P" n="40"/>liae quae fit in praesentia.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

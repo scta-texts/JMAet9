@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 13</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 13</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d31819"><!-- mair-l7c13 -->
+            <head xml:id="JMAet9-d31819-Hd1e103">Caput 13</head>
+            <p xml:id="JMAet9-d31819-d1e106">
+               <lb ed="#P" n="27"/>
+               <quote xml:id="JMAet9-d31819-Qd1e110" type="lemma">ATqui malum &amp; ipsum dolorem esse</quote>, &amp;c. Nunc probat quod aliqua voluptas est bona, hocque sic. Omne 
+      <lb ed="#P" n="28"/>contrarium malo &amp; fugiendo est bonum: at voluptas dolori malo quem fugiendum dicunt, aduersatur: 
+      <lb ed="#P" n="29"/>igitur. In contrariis inter quae est medium non sequitur: hoc est coloratum &amp; non nigrum ergo 
+      <lb ed="#P" n="30"/>est album: dantur enim colores medii. Verum vbique in contrariis immediatis si vnum est malum alterum est 
+      <lb ed="#P" n="31"/>honum. Vbi vero inter contraria est medium vtrumque est malum. Patet de prodigalitate &amp; illiberalitate. 
+      Intel<lb ed="#P" n="32" break="no"/>ligit philosophus, quod illud quod contrariatur malo tanquam medium extremo, semper est bonum sic autem est in  
+      <lb ed="#P" n="33"/>proposito. Verum tamen aliquis dolor est simpliciter malus vt dolor de bono fratris: vt inuidi dolor, ac 
+      do<lb ed="#P" n="34" break="no"/>lor de inordinatorum venereorum absentia. Ille dolor a toto genere est malus. Alius est dolor non simplici 
+      <lb ed="#P" n="35"/>ter malus, sed ex parte solum est malus quia boni impeditiuus: nihil de nostra virtute aufert si sit cum 
+      mo<lb ed="#P" n="36" break="no"/>deramine: vt dolor qui est de amici morte: ac contrarium fugiendo, quo hoc est siue quatenus hoc est, fugien 
+      <lb ed="#P" n="37"/>dum est atque malum: Est bonum, voluptas ergo hac via dolori aduersatur, est igitur voluptas, ergo aliquod 
+      <lb ed="#P" n="38"/>bonum, neque solutio Speusippi est conueniens: dicentis voluptatem sic aduersari dolori, vt maius minori: 
+      <lb ed="#P" n="39"/>hoc est vt extremum extremo &amp; aequali hoc est medio. Erat autem Speusippus platonis discipulus &amp; ex 
+      <lb ed="#P" n="40"/>sorore nepos: praeceptori in academia succedens qui dicebat voluptatem vt contrarium maius, aduersari do  
+      <lb ed="#P" n="41"/>lori tanquam minori extremo, &amp; etiam aequali hoc est medio: dicebatque indolentiam siue carentiam doloris esse 
+      <lb ed="#P" n="42"/>medium: sicut illiberalitas magis est fugienda quam prodigalitas. Proinde non sequitur voluptatem esse bonam: 
+      <lb ed="#P" n="43"/>sed potius sequitur eam esse quoddam malum. Hanc responsionem philosophus confutat ad hominem 
+      ar<lb ed="#P" n="44" break="no"/>gumentans, qui platonicus erat, &amp; eius sententiae addictus. Ex hoc dicit quod voluptas esset quoddam per se &amp; 
+      se<lb ed="#P" n="45" break="no"/>cundum genus malum: &amp; sic quaelibet species voluptatis esse mala: quod ipsi dicere nolunt. Conclusio 
+      hypotheti<lb ed="#P" n="46" break="no"/>ca talis sequitur. Quuis aliquae voluptates sint prauae: ex hoc non concluditur quin aliqua voluptas optimum 
+      <lb ed="#P" n="47"/>sit. Patet per locum a simili: non enim inconuenit aliquam scientiam esse optimam vt metaphysicam, licet 
+      <lb ed="#P" n="48"/>aliquae essent prauis, quarum vsus ad malum ducit, vt nefaria deprauatorum volumina in quibus 
+      pestilen<lb ed="#P" n="49" break="no"/>tissima reliquerunt posteritati dogmata: vtpote de venereis quae ad illam explendam abundantius 
+      condu<lb ed="#P" n="50" break="no"/>cunt: &amp; quod pharmacum assumptum praesentanee aut stato tempore hominem enecat. Pari modo 
+      Albu<lb ed="#P" n="51" break="no"/>masar &amp; reliqui superstitiosi astronomi perniciosissimos libros cuderunt quibus diuinam potentiam ac eius 
+      <lb ed="#P" n="52"/>maiestatem corrodere studuerunt. Liberum arbitrium &amp; caeteraid genus quibus bene beateque viuitur, 
+      subtra<lb ed="#P" n="53" break="no"/>xerunt. Omnia haec monimenta indubie sunt vulcano cum <name xml:id="JMAet9-d31819-Nd1e169">Vuicleffi</name> &amp; <name xml:id="JMAet9-d31819-Nd1e173">Lutheri</name> ac oecolampadii operibus 
+      <lb ed="#P" n="54"/>tradenda. Praeterea quomodo Necromantiae &amp; similium artium vsus est malus, illas quoque perniciosas esse 
+      <lb ed="#P" n="55"/>oportet. Artis nomen ad impietatem homines late extendunt. Philosophus hic expletiue &amp; conditionali 
+      <lb ed="#P" n="56"/>ter procedit: in decimo ostensurus est felicitatem non consistere in voluptate: hic autem hypothetice 
+      loqui<lb ed="#P" n="57" break="no"/>tur: &amp; vtitur aliorum more communi. Nondum enim est veritas illius negocii discussa. Forsan necessarium 
+      <lb ed="#P" n="58"/>est aliquam voluptatem esse summe expetibilem. Probatur sic. aliqua operatio alicuius boni habitus vo¬ 
+      <!--263.xml-->
+      <pb ed="#P" n="121-v"/>
+               <lb ed="#P" n="1"/>luntaria &amp; non impedita est bonum optimum: at omnis talis operatio est voluptas, siue omnis operatio sit 
+      <lb ed="#P" n="2"/>foelicitas siue vnius cuiuspiam ipsorum sit foelicitas: quare aliqua voluptas erit summum bonum. Licet etiam 
+      <lb ed="#P" n="3"/>multae voluptatum sint prauae. Hoc solidat per vulgarem famam: Beatam enim vitam iucundam arbitram 
+      <lb ed="#P" n="4"/>tur omnes: nectuntque cum beatitudine voluptatem. Et non sine ratione: quia nulla operatio si 
+      praepedia<lb ed="#P" n="5" break="no"/>tur perfecta est: at foelicitas est operatio perfecta: &amp; si ea non assit operatio impeditur. Quocirca foelix bonis 
+      <lb ed="#P" n="6"/>indiget cum corporis tum externis, quibus fretus in sua actione minime impeditur. Stoici qui dicunt 
+      il<lb ed="#P" n="7" break="no"/>lum qui in rota, aut phalaridis tauro graui supplicio torquetur, &amp; qui ingentibus calamitatibus premitur 
+      <lb ed="#P" n="8"/>foelicem esse, modo sit bonus, siue velint siue nolint, mihi ignoscant: nihil enim dicunt: quia illud est 
+      ino<lb ed="#P" n="9" break="no"/>pinabile. Vel siue velint. i, siue scienter hoc dicunt, tunc mentiuntur: aut si inuiti &amp; sic decepti per rationes 
+      <lb ed="#P" n="10"/>quas soluere nequeunt. Generose stoicus philosophatur illic, &amp; a theosophorum vestigiis minime discedit: 
+      <lb ed="#P" n="11"/>in contemplatione supremae causae &amp; studiosa vita beatitudinem collocans lob enim calamitatibus pressus 
+      <lb ed="#P" n="12"/>erat foelicitate clarus: loquor perinde ac si calamitas probos contingere possit. Dubio procul Socrates bibenm 
+      <lb ed="#P" n="13"/>do succum cicutae frigiditate illi letiferum &amp; martyres in Mosaica lege &amp; lege gratiae a foelicitate in tormen 
+      <lb ed="#P" n="14"/>tis non cecidere. Eleganter sane stoici philosophabantur: eorumque rationes erant insolubiles. Probo viro 
+      <lb ed="#P" n="15"/>nulla calamitas aut vera miseria accidere potest. Hanc sententiam Aristoteles in decimo exosculatur, nunc 
+      <lb ed="#P" n="16"/>autem de mundana foelicitate &amp; politica, sicut in primo, loquitur. Foelicitas actiua quae est ad alios, vtpote 
+      <lb ed="#P" n="17"/>ad familiam &amp; ciuitatem fortunis indiget: verum foelicitas speculatiua. Vt in decimo inquit, perpaucis 
+      bo<lb ed="#P" n="18" break="no"/>nis aut nullis indiget: puta sic vt sint necessarii, nihilo tamen minus conducunt. Decimo libro propriam 
+      <lb ed="#P" n="19"/>opinionem sincerae foelicitatis insequitur: &amp; cum sibi non aduersetur: ita eum exponere vrgemur. Latius il 
+      <lb ed="#P" n="20"/>lam materiam deus coepta secundet in decimo examinabimus. Accedo literam quae facilis est. Foelix indi 
+      <lb ed="#P" n="21"/>get fortunis, ea propter aliquibus fortunae prosperitas &amp; foelicitas idem esse falso apparet. Sane opes si 
+      exupe<lb ed="#P" n="22" break="no"/>ranter assunt foelicitati impedimentum praestant. Opes enim sunt instrumentum foelicis sed quando sunt 
+      <lb ed="#P" n="23"/>excessiuae sunt ineptum instrumentum: &amp; tunc prosperitas non est appellanda: quia opum diffinitio &amp; 
+      ter<lb ed="#P" n="24" break="no"/>minus ad foelicitatem requiritur. Insuper &amp; belluae &amp; homines summo studio persequuntur voluptates, 
+      <lb ed="#P" n="25"/>hoc est argumentum voluptatem quoddam optimum esse. Hoc ipsum omnes vno ore praedicant. Et quod  
+      <lb ed="#P" n="26"/>communis fama tradit, omnino non deperit quod authoritate Hesiodi fulcit canentis: Quam populi celebrant 
+      <lb ed="#P" n="27"/>omnino fama perire Nulla potest. Sequitur in litera. Sed quoniam eadem natura habitusque optimus &amp;c. Quia 
+      <lb ed="#P" n="28"/>iam probauit experimento omnes homines voluptatem obuiis vlnis prosequi &amp; authoritate hesiodi non  
+      <lb ed="#P" n="29"/>esse leuis momenti quod omnes populi praedicant: diceret quispiam quod tametsi pueri &amp; belluae voluptates 
+      <lb ed="#P" n="30"/>sectantur tamen per hoc minime probatur voluptas esse summum bonum, quia pueri &amp; pecora ineptas 
+      <lb ed="#P" n="31"/>voluptates sequuntur: non enim omnium eadem est optima natura neque optimus habitus: eandemque 
+      vo<lb ed="#P" n="32" break="no"/>luptatem non omnes sequuntur sed aliam &amp; aliam. Logice loquendo omnes voluptatem sequuntur, 
+      <lb ed="#P" n="33"/>verum nullam voluptatem omnes sequuntur senum &amp; iuuenum differens est delectatio: &amp; boues &amp; equi 
+      <lb ed="#P" n="34"/>diuersis gaudent. Hoc refellit inquiens. Quinimmo &amp; voluptatem omnes sequuntur, fortasse autem &amp; perse 
+      <lb ed="#P" n="35"/>quuntur hoc est ad finem vsque &amp; ita bene sequuntur. Vbi fortasse non est aduerbium dubitandi, plusquam 
+      for<lb ed="#P" n="36" break="no"/>te vt alias latius explanauimus: &amp; si sit aduerbium ambigendi ad eam partem Aristoteles descendit inquiens. 
+      <lb ed="#P" n="37"/>Non persequuntur eam voluptatem quam suspicantur, nec illam quam interrogati dicerent: sed quandam 
+      <lb ed="#P" n="38"/>occultam voluptatem eis insitam quam explanare nequeunt. Omnia nanque diuinum quod habent 
+      na<lb ed="#P" n="39" break="no"/>tura. omnes mortales vestigium quoddam innatum habent ad deum, a quo producti sunt, &amp; suo 
+      modu<lb ed="#P" n="40" break="no"/>lo ad id tendunt, nam ad dei cognitionem possibilem omnes homines suapte natura tendunt quatenus dei 
+      <lb ed="#P" n="41"/>maiestatem ornent. Similia in decimo ethicorum omnino tangit. Nec Aristoteles primus hanc viam 
+      de<lb ed="#P" n="42" break="no"/>texit: sed philosophantum generosa cohors: quorum sententiam ipsa in exordio primi libri mutuatus 
+      co<lb ed="#P" n="43" break="no"/>rolatium subortum infert sic scribens. Quapropter bene veteres bonum ipsum id esse dixerunt, quod 
+      o<lb ed="#P" n="44" break="no"/>mnia appetunt. Vbi bonum ipsum stat determinate. Memor sis quod superius commemoraui quod in 
+      praesen<lb ed="#P" n="45" break="no"/>tia Aristoteles voluptatem ab operatione illa summa aut illius obiecto non segregat. Sequitur in litera. 
+      <lb ed="#P" n="46"/>Sed corporis voluptates grande sibi nomen vsurparunt. Et id rationis est quod saepenumero occurrunt. 
+      <lb ed="#P" n="47"/>Quotidie enim manducamus &amp; bibimus: &amp; in refocillatione naturae illae voluptates irrepunt: &amp; quia 
+      sensi<lb ed="#P" n="48" break="no"/>biles sunt vulgo sunt notiores. Quocirca eas solas esse voluptates falso abitrantur. Sequitur in litera. 
+      Pa<lb ed="#P" n="49" break="no"/>tet etiam. Vnam rationem praeter illata affert, vallaturus voluptatem esse bonum. Circa quam hoc pacto 
+      <lb ed="#P" n="50"/>in valore procedit. Si voluptas non sit bonum: foelix cum iucunditate vitam non aget. Consequens 
+      illa<lb ed="#P" n="51" break="no"/>tum est falsum: ergo &amp; antecedens. Assumptum probatur: quia felix in summa iucunditate vitam degit: 
+      <lb ed="#P" n="52"/>&amp; peculiares voluptates habet: ex decimo atque primo libro id lucet. Consequutio ostenditur: quia ipse felix 
+      <lb ed="#P" n="53"/>omnia bona consequitur: at si delectatio non sit bona, eam protinus a se exterminaret tanquam non bonum: 
+      <lb ed="#P" n="54"/>sed voluptas a felice minime extruditur: igitur. Secunda ratio ad impossibile vel ad falsum ducens est: Si 
+      <lb ed="#P" n="55"/>voluptas non sit bonum, felix cum dolore viuet: consequens est respuendum: ergo &amp; eius antecedens. 
+      As<lb ed="#P" n="56" break="no"/>sumptum liquet: quia felicis non est cum dolore vitam transigere. Consequentia autem ostenditur: quia si 
+      <lb ed="#P" n="57"/>voluptas non sit bonum non etiam erit malum: &amp; si nec erit bonum neque malum, idem erit iudicium de 
+      <lb ed="#P" n="58"/>contrario: ac id quod neque est bonum neque malum potest felici adesse quia non cum ipso pugnat: 
+      proin<lb ed="#P" n="59" break="no"/>de felix potest cum dolore vitam anxie transigere: quod rationi dissentaneum est. ltaque ponenda est 
+      non<lb ed="#P" n="60" break="no"/>nulla voluptas &amp; cum foelicitate indiuisibiliter conglutinata. Repetam literam ob rudiores. Patet etiam 
+      <lb ed="#P" n="61"/>nisi voluptas &amp; operatio sit bonum felicem cum voluptate viuere non posse, quia voluptas cum esset non 
+      <lb ed="#P" n="62"/>bona non proderit illi: &amp; eam exsufflaret. Cuius nanque gratia cum sit non bona, opus esset felici, voluptate? 
+      <lb ed="#P" n="63"/>Perinde ac si diceret voluptas, non est quid bonum, quid quaeso ipsi felici confert? Praeterea si cum dolore 
+      <lb ed="#P" n="64"/>vitam ageret, dolor neque malum esset neque bonum secundum illos: neque pari modo voluptas: si hoc concedis 
+      <!--264.xml-->
+      <pb ed="#P" n="122-r"/>
+               <lb ed="#P" n="1"/>precor cur felix ita dolorem fugit?
+    </p>
+            <p xml:id="JMAet9-d31819-d1e337">
+               <pc type="pilcrow">¶</pc> Dubitatur an tristitia sit mala. Responsio per conclusionem hypothetican 
+      <lb ed="#P" n="2"/>Dolor secundum se sine respectu circumstantiarum consideratus est malus. Si vero in ordine ad circumstantias 
+      occur<lb ed="#P" n="3" break="no"/>rentes ipsum metiamur tunc potest esse bonus. Prior pars conclusio nis patet: quia vir probus qui recte circa 
+      <lb ed="#P" n="4"/>omnia censet, nolet talem sibi inesse sed ab eo aufugit. Vir bonus non quaerit illud, sed fugit quod est ei non demeren 
+      <lb ed="#P" n="5"/>ti incommodo. Talis autem est ipse dolor. Nam spiritus tristis, autore Salamone, ossa exsiccat &amp; extenuat, cor 
+      con<lb ed="#P" n="6" break="no"/>stringit, spiritus obtenebrat &amp; inspissat: &amp; ex consequenti intellectum hebetat, memoriamque obtundit. Secunda pars 
+      <lb ed="#P" n="7"/>multifariam patet in multis hominum generibus. Primo in pueris, dolor etiam arcet eos a malo committendo, hinc 
+      <lb ed="#P" n="8"/>parentes pientissimi praeceptoresque diligentissimi eos percutiunt secundum sapientis consilium, qui parcit virgae odit puerum. 
+      <lb ed="#P" n="9"/>de malis voluptatibus iam patet (quia enim contraria cotrariis curantur, qui voluptatibus iniquis absorbentur. lustum est vt 
+      <lb ed="#P" n="10"/>puniantur: ita faciunt legislatores respectu voluptatum, quae rempublicam perturbant, homicidas, grassatores &amp; fures 
+      <lb ed="#P" n="11"/>incorrigibiles extremo supplicio afficiendo, iustitia punitiua: cui lex naturae &amp; diuina quadrat.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

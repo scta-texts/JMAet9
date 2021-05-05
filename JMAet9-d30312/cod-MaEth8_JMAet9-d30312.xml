@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 8</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 8</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d30312"><!-- mair-l7c8 -->
+            <head xml:id="JMAet9-d30312-Hd1e103">Caput 8</head>
+            <p xml:id="JMAet9-d30312-d1e106">
+               <lb ed="#P" n="6"/>
+               <quote xml:id="JMAet9-d30312-Qd1e110" type="lemma">AT vero</quote> &amp;c. Prima conclusio huius capitis est. Incontinentia est peior quam intemperantia. Haec 
+      con<lb ed="#P" n="7" break="no"/>clusio probatur. Primo sic. Insanabilis est deterior cito curabili: ac intemperans est insanabilis: 
+      <lb ed="#P" n="8"/>Ahabet enim iudicium corruptum, autumans id esse patrandum quod inique patrat: secus est de 
+      incon<lb ed="#P" n="9" break="no"/>tinente, Siquidem incontinens est sanabilis. Intemperans ex electione peccat in qua permanet, eo quod 
+      vo<lb ed="#P" n="10" break="no"/>luptates corporeas eligit tamquam finem, ac post abitionem perturbationis incontinens poenitet. Morbus 
+      incu<lb ed="#P" n="11" break="no"/>rabilis deterior est curabili. Dicit ergo, non est ita sicut dubitauimus, supple in secdo capite, vbi 
+      argumen<lb ed="#P" n="12" break="no"/>tando dictum est intemperatum esse curabilem, incontinentem vero incurabilem, immo oppositum est verum. 
+      <lb ed="#P" n="13"/>Secundo, malum continuum deterius est malo non continuo: at intemperantia est continua, cum intemperantem 
+      <lb ed="#P" n="14"/>poenitudo non subiit. Asola cupiditate incontinens ducitur, qua abeunte resipiscit. Minorem declarat per 
+      <lb ed="#P" n="15"/>morbos corporeos qui ex intemperantia nascuntur in nimia edacitate atque excessiuo potu. foedae sane 
+      <lb ed="#P" n="16"/>matres turpes, &amp; calamitosas filias perenniter relinquunt, vt qui ventrem plus quam par sit coluerit ab eius 
+      <lb ed="#P" n="17"/>ingluuie torquetur. Morbi corporales clarius quam morbi spirituales deprehenduntur. Vitium enim est 
+      <lb ed="#P" n="18"/>simile in his morbis aquae intercuti, hoc est hydropisi. &amp; tali hoc est phthisi: est enim phthisis 
+      pul<lb ed="#P" n="19" break="no"/>monis vlceratio, cum sanguinis excreatione. Phthisis est in ventre superiore. Illo morbo irretitus 
+      <lb ed="#P" n="20"/>primo sanguinem spuit, deinde saniem: postea detentio saliuae, sequiturque tandem mors. Incontinentia 
+      assimi<lb ed="#P" n="21" break="no"/>latur aegritudinibus quae non continuo insunt homini. Cuiusmodi est epileptia siue morbus cadutus, in  
+      <lb ed="#P" n="22"/>quo licet homo semimortuus cadit: rursus tamen reuiuiscit. In corporibus humidis vim habere 
+      con<lb ed="#P" n="23" break="no"/>sueuit, vnde in ipsis infantibus qui humiditate abundant suam vim excercet. In epileptia cerebrum opilatur 
+      <lb ed="#P" n="24"/>vnde epilepticus in terram decidit spumans, &amp; interea sensu orbatur. Sicque in incontinente passio expellit 
+      <lb ed="#P" n="25"/>rationem, ita vt a rectitudine iudicii cadat. Patet per plagam corporis neglectam. Tertio, malum latens 
+      de<lb ed="#P" n="26" break="no"/>terius est malo non latenti. Praeuisum enim malum melius potest euitari. Veteri enim adagio dicitur. Nam 
+      <lb ed="#P" n="27"/>preuisa minus laedere tela solent. At intemperantia est malum latens, quia intemperans falso putat id malum 
+      <lb ed="#P" n="28"/>quod facit esse bonum vel malum. At incontinens scit se perperam agere. Variis epistolis ad Lucillium Seneca id 
+      <lb ed="#P" n="29"/>retexit, inquiens, Intemperatus raro ad sanitatem redit quia nescit seipsum morbo laborare, &amp; ait. 
+      <lb ed="#P" n="30"/>Sicut somnium narrare vigilantis est, ita vitia sua confiteri, sanitatis est indicium. Item, ex debili passione 
+      <lb ed="#P" n="31"/>intemperatus in gradu mouetur, verum ex uehementi habitu ipse iam finem sibi statuit in deliciis, frater 
+      <lb ed="#P" n="32"/>Sardanapali antequam famescat &amp; sitiat, esitat &amp; potat: dicit se num quam famere neque sitire: quia tempus 
+      praeue<lb ed="#P" n="33" break="no"/>nit. Incontinens vero parum habitus adhuc habet, verum eius perturbatio est vehemens. 
+      Intempe<lb ed="#P" n="34" break="no"/>ratus, inter scorta conuersans, non tantum oblectamenti in veneriis capit, quantum continuo in caupona. 
+      <lb ed="#P" n="35"/>Incontinens autemnon est ita frequens inter lupas seu meretriculas: cuius habitus est intemperato minor. 
+      <lb ed="#P" n="36"/>sed perturbatio stringentior. lsti sunt quorum meminit Deiloquus Paulus, quorum deus venter est, &amp; 
+      <lb ed="#P" n="37"/>signanter saginatus ille intemperatus qui variis morborum generibus antequam animam exhalet ringetur: 
+      <lb ed="#P" n="38"/>indubie experietur, quod extrema gaudii luctus occupet. Quocirca scire hic inquit philosophus. 
+      Propter<lb ed="#P" n="39" break="no"/>ea est diuersum genus, hoc est modus incontinentiae &amp; vitii, hoc est intemperantiae. Deinde species 
+      incontinen<lb ed="#P" n="40" break="no"/>tiae comparat adinuicem ibi, horum autem ipsorum. Et ponit hanc conclusionem. Incontinentes temerarii minus 
+      cul<lb ed="#P" n="41" break="no"/>pandi sunt incontinentibus infirmis. Rationem enim infirmi habent in qua non persistunt, armatisque assimu 
+      <lb ed="#P" n="42"/>lantur qui hostem praeuident &amp; permittunt se captiuos abduci. Incontinentes, infirmi, inermes ad conflictum 
+      <lb ed="#P" n="43"/>prodeunt, ratione non armantur a minore vincuntur perturbatione: &amp; non sine deliberatione. Et ex hoc oci 
+      <lb ed="#P" n="44"/>culte trahitur. Tertia ratio ad conclusionem praecedentem. Aminori motiuo mouetur intemperatus quam 
+      incon<lb ed="#P" n="45" break="no"/>tinens, quia hic magnam perturbationem habet ille vero non. Per meliores minus malos intelligit, 
+      im<lb ed="#P" n="46" break="no"/>proprie, sed satis vulgariter vocabulum, vt in quintum Ethicorum diximus, capit. Incontinentes sunt his 
+      persi<lb ed="#P" n="47" break="no"/>miles qui cito sunt temulenti &amp; pauco vino &amp; pauciore quam plerique alii. lsti peius de corpore 
+      disponun<lb ed="#P" n="48" break="no"/>tur quam hi qui non sic inebriantur: sic in proposito est de anima &amp; eius dispositione: ergo incontinentes 
+      teme<lb ed="#P" n="49" break="no"/>rarii sunt meliores, hoc est minus mali quam incontinentes infirmi. At dicis ex hac probatione sequitur 
+      in<lb ed="#P" n="50" break="no"/>continentem plus peccare quam intemperatum, cum ille habeat iudicium &amp; rationem, lste vero non. De grauitate inter 
+      <lb ed="#P" n="51"/>peccata istorum in quadam dubitatione post haec a nobis fortasse tangetur. Deinde comparat incontinentiam &amp; 
+      inten<lb ed="#P" n="52" break="no"/>perantiam secundum ea in quibus conveniunt &amp; differunt, ibi. Patet igitur incontinentiam. Et hanc in valore ponit 
+      con<lb ed="#P" n="53" break="no"/>clusionem. Incontinentia non est omnino vitium, sed ex aliqua parte. Patet, quia incontinens praeter electionem a 
+      <lb ed="#P" n="54"/>perturbatione victus operatur: habet enim intellectum adhuc incorruptum, vitium vero fit cum electione. 
+      Conue<lb ed="#P" n="55" break="no"/>niunt tamen in hoc quod in actionibus est similitudo vt Demodocus in Milesios cauillabatur, inquiens. 
+      <lb ed="#P" n="56"/>Milesii namque insipientes non sunt, ea tamen faciunt quae insipientes operantur. Vt de quodam nobili 
+      <lb ed="#P" n="57"/>nostrates cachinando dicere sueuere. Dominus Malerstonensis verba imprudentium non effutit, 
+      at<lb ed="#P" n="58" break="no"/>tamen opera imprudentium insequitur. Quippe is auitas possessiones pene omnes alienauit, cuius 
+      <lb ed="#P" n="59"/>pater ob verbalem imprudentiam derisus, vendiderat nihil. Non erat prudentia componendi stilum 
+      <lb ed="#P" n="60"/>chartae terrarum venditricis. Ac incontinentes iniusti non sunt, faciunt tamen iniuriam, sed quia 
+      <lb ed="#P" n="61"/>ex electione non faciunt non sunt iniusti, &amp; quia in gustu intemperati sinistrae agunt iniuriam 
+      fa<lb ed="#P" n="62" break="no"/>ciunt. Iniust itia in vna acceptione est vitium commune, vt ex quinto patuit. 
+      <!--252.xml-->
+      <pb ed="#P" n="116-r"/>
+            </p>
+            <p xml:id="JMAet9-d30312-d1e240">
+               <lb ed="#P" n="1"/>⁋ Alia conclusio. Facile incontinenti persuaderi potest ne male agat, difficulter vero intemperato. 
+      Probatio<lb ed="#P" n="2" break="no"/>Incontinens non prosequitur superabundantes voluptates corporis: ex eo quod sit ei persuasum eas esse 
+      pro<lb ed="#P" n="3" break="no"/>sequendas, cum tales illecebras relinquendas esse censeat: intemperatus vero persuasus eas sectatur. In 
+      in<lb ed="#P" n="4" break="no"/>continente iudicium est incolume: intemperati vero principium est corruptum. Existimat enim erronee 
+      vo<lb ed="#P" n="5" break="no"/>luptates corporales esse prosequendas. Principium virtus conseruat scilicet temperantia, quod vitium eneruat. 
+      Lo<lb ed="#P" n="6" break="no"/>quitur de principio in agibilibus scilicet de fine. Virtus ergo tale principium conseruat vt temperantia siue 
+      na<lb ed="#P" n="7" break="no"/>turalis virtus, quando non ponitur vitium in ipsa potentia: sed malitia. hoc est grandis culpa facit 
+      ho<lb ed="#P" n="8" break="no"/>minem errare circa principia agibilium, &amp; postea intemperatus est incurabilis, quia errat circa principium, 
+      <lb ed="#P" n="9"/>sicut febricitans circa potum, acetum vino praefert: propterea non potest reuocari a suo errore: sicut errani 
+      <lb ed="#P" n="10"/>circa propositiones in mathematicis: &amp; circatalia principia contemplatiua non potest corrigi, quia nihil 
+      <lb ed="#P" n="11"/>est clarius illis principiis illorum probatiuum per quod potest reuocari: sic in proposito errans circa finem est 
+      <lb ed="#P" n="12"/>incorrigibilis. Menti commendes illud quod in tertio dicebatur, qualis vnusquisque est talis sibi finis 
+      vi<lb ed="#P" n="13" break="no"/>detur: adhuc lumen incontinentis in tenebras non est conversum: propterea dicit. Est alius scilicet intemperans 
+      <lb ed="#P" n="14"/>ob perturbationem a recta ratione discedens, quem perturbatio superat, vt non recte agat. sed incontinentem 
+      <lb ed="#P" n="15"/>non vincit: vt ei persuasum sit sectari foedas illecebras, quare est intemperato minus malus. Nec est 
+      sim<lb ed="#P" n="16" break="no"/>pliciter &amp; sine addito dicendus prauus, cum conscientiam habeat, &amp; sit sanabilis: sed ei partim ignoscendum 
+      <lb ed="#P" n="17"/>est. Ecce quonam pacto iuuenum infirmitati humanae philosophus condescendit. Coseruatur enim in ipso 
+      <lb ed="#P" n="18"/>quod est optimum scilicet principium in agibilibus scilicet finis. dexterae enim de fine iudicat. Alius aute scilicet 
+      con<lb ed="#P" n="19" break="no"/>tinens, est huic contrarius, qui a recti ratione non exorbitat. Ex his liquet hunc continentiae habitum esse 
+      stu<lb ed="#P" n="20" break="no"/>diosum, &amp; habitum incontinentiae esse improbum. Trepidant multi timore vbi non est timor non audentes 
+      incon<lb ed="#P" n="21" break="no"/>tinentiae habitum appellare, sed dispositionem, cum quaelibet pars habitus quantuncumque pusilla, sit habitus. Est 
+      <lb ed="#P" n="22"/>enim qualitas conflata ex partibus eiusdem rationis tam ex parte qualitatis quam habitus. 
+    </p>
+            <p xml:id="JMAet9-d30312-d1e290">
+               <lb ed="#P" n="23"/>⁋ Dubitatur circa dicta, quomodo intemperatus non habeat perturbationes ita vehementes in 
+      oblecta<lb ed="#P" n="24" break="no"/>menta sicut incontinens. Ratio est appetitus sensitiuus incontinentis virtutum expers, vehementer habentem in  
+      <lb ed="#P" n="25"/>oblectamenta trahit. Et quia per rectum iudicium saepe numero abstinet obiecta plus mouent potentiam. 
+      Inten<lb ed="#P" n="26" break="no"/>peratus in gradu appetitus sensitiui desiderium praeuenit, vt quidam conterraneorum mihi false Parisius 
+      <lb ed="#P" n="27"/>dixit. Magnus erat aestus ac insolitus in quadam aestate, quaerebar illi quare plus in illo feruore sitiebam: 
+      <lb ed="#P" n="28"/>pollicebaturque se mihi perbellam regulam me praeseruandi a siti daturum, cui plausibiliter acquieui. Tandem 
+      <lb ed="#P" n="29"/>normam exponens ait quod ipse omnem futuram sitim praesentiebat, &amp; antequam aduentaret tabernam petebat, &amp; 
+      <lb ed="#P" n="30"/>vinum meracius hausit, sicque sitis praepedita non oriebatur, iussitque ridens ita facerem. Tales (vt superius 
+      <lb ed="#P" n="31"/>in literali expositione meminimus) exiles delectationes in potu habent, recte dicitur. Nescit homo 
+      <lb ed="#P" n="32"/>quid dulcis habet dulcedinis esca. Qui numquam didicit quid fuit ipsa fames. Secundo, vnus actus 
+      incon<lb ed="#P" n="33" break="no"/>tinentis vel actus eius communiter contingentes sunt deteriores quam actus similes intemperati. Monstro 
+      <lb ed="#P" n="34"/>id, incontinens contra suam conscientiam peccat, non autem intemperatus. Seruus autem sciens 
+      vo<lb ed="#P" n="35" break="no"/>luntatem domini sui &amp; non faciens eam, plagis vapulabit multis. Lucae.  
+    </p>
+            <p xml:id="JMAet9-d30312-d1e321">
+               <lb ed="#P" n="36"/>⁋ Secundo dubitatur, an continens plus meretur quam temperatus, &amp; videtur quod sic. Virtus enim est circa 
+      <lb ed="#P" n="37"/>difficile. . Ethicorum. Difficilius autem est continentem continentiae actum seruare quam temperantiae temperato, ergo &amp;c. 
+      <lb ed="#P" n="38"/>Dicit quod difficultas ex appetitu sensitiuo aut eius cupiditate proueniens non auget meritum, sed difficultas 
+      <lb ed="#P" n="39"/>obiecti.
+    </p>
+            <p xml:id="JMAet9-d30312-d1e333">
+               <pc type="pilcrow">¶</pc> Alios in hoc alias carpsimus, nunc paucis praetereundo respondeo primo ad secundam 
+      dubita<lb ed="#P" n="40" break="no"/>tionem, quod continens plus meretur quam temperatus operando circa suam materiam: quia circa aliud obie 
+      <lb ed="#P" n="41"/>ctum alienum: impertinens est hunc plus mereri quam illum aut contra. Regulam generalem pono, 
+      quemad<lb ed="#P" n="42" break="no"/>modum difficultas proueniens ex parte obiecti auget meritum &amp; facit actum esse laudabiliorem, ita difi 
+      <lb ed="#P" n="43"/>ficultas ex parte appetitus aut qualitercumque intrinseca proueniens actus laudem promouet. Modo sine 
+      <lb ed="#P" n="44"/>culpa ipsius habentes habetur. Eadem est ratio sicut ex parte obiecti &amp; hoc semper voluit Aristoteles 
+      <lb ed="#P" n="45"/>in secundo, &amp; in hoc septimo: quare reges Scytharum &amp; male nati &amp; ab vnguiculis taliter educati non 
+      <lb ed="#P" n="46"/>sunt incontinentes, &amp; sic communiter mulieres, signanter male in iuuenta institutae. Et idem est de habitu 
+      <lb ed="#P" n="47"/>ex vitio acquisito signanter post poenitudinem malorum actuum: quia iam taliter habituatus satiffecit 
+      <lb ed="#P" n="48"/>pro virili de sui habitus fonte temperatus, tamen est continenti melior, cum in eo omnia sint pacata 
+      <lb ed="#P" n="49"/>&amp; multa merita in acceptatione diuina habeat: &amp; sit in tranquilliore statu &amp; bono portu vicinior. 
+      <lb ed="#P" n="50"/>Continens autem inter Scyllam &amp; Charybdim periculosum nauigat aequor: &amp; est simile. Male 
+      educan<lb ed="#P" n="51" break="no"/>tus Scytha plus meretur quam Anachorita eundem diem ieiunans, quem longe in meritorum cumulo 
+      <lb ed="#P" n="52"/>insequitur. Forte dicis, Temperantia gradus est melior continentia: proinde intemperantia est 
+      incon<lb ed="#P" n="53" break="no"/>tinentia deterior. Semper meliori virtuti peius vitium opponitur.
+    </p>
+            <p xml:id="JMAet9-d30312-d1e369">
+               <pc type="pilcrow">¶</pc> Dico, id non vbique verum. 
+      <lb ed="#P" n="54"/>Inimici amor est amore amici magis meritorius, &amp; purior in deum: &amp; tamen odium amici est odio 
+      <lb ed="#P" n="55"/>inimici deterius. Secundo, temperantia actus non est continentia melior, quantum ad meritum sicut 
+      <lb ed="#P" n="56"/>in dubitatione sequenti mox dicemus, quae cum ista consuitur.
+    </p>
+            <p xml:id="JMAet9-d30312-d1e381">
+               <pc type="pilcrow">¶</pc> Ad secundam dubitationem dico 
+      <lb ed="#P" n="57"/>etiam incontinentem plus peccare circa eandem materiam quam intemperatum: attamen est in 
+      dete<lb ed="#P" n="58" break="no"/>riori casu cum difficulter sit emendabilis, &amp; sic est peior incontinenti: adde quod saepius in 
+      demerito<lb ed="#P" n="59" break="no"/>rum cumulo ob defectum poenitudinis illaqueatus, &amp; sic est incontinenti deterior. Ex his 
+      Aristo<lb ed="#P" n="60" break="no"/>telem intelligere potes. Licet intemperatus ex sua culpa conscientiam violauit, cuius 
+      conscien<lb ed="#P" n="61" break="no"/>tia primo erat semilacera, postea prorsus conculcata: &amp; sic ex sua culpa agendorum 
+      ignoran<lb ed="#P" n="62" break="no"/>tiam contraxit: &amp; per consequens non est excusandus. Nihilo tamen minus incontinens 
+      crebri<lb ed="#P" n="63" break="no"/>ter grauius quam intemperatus peccat, etiam ante poenitentiam, quia omnia illa solum finite aggrauant 
+      <lb ed="#P" n="64"/>peccatum intemperati.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

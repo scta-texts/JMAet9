@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 3</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 3</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-de9607"><!-- mair-l3c3 -->
+            <head xml:id="JMAet9-de9607-Hd1e103">Caput 3</head>
+            <!-- mair-l3c3p1 -->
+            <p xml:id="JMAet9-de9607-d1e108">
+               <lb ed="#P" n="37"/>
+               <quote xml:id="JMAet9-de9607-Qd1e112" type="lemma">ESt ne de omnibus consultatio</quote> &amp;c. Est enim electio quaesi quidam finis &amp; effectus consultationis, propterea ad cogno 
+      <lb ed="#P" n="38"/>Fscendam electionem adamussim opus est medullitus capere ipsam consultationem. Quaestio est an omnia in  
+      <lb ed="#P" n="39"/>consultationem cadant &amp; an quoduis sit consultabile, an quorundam potius nulla sit consultatio. Istud 
+      ca<lb ed="#P" n="40" break="no"/>put trifariam scinditur. In pria parte explanat illud quod sub consultationem cadit. In secunda modum, effectum ac 
+      ter<lb ed="#P" n="41" break="no"/>minum eius monstrat. Tertia particula confert consultationem cum electione. Primo diuulgat ea in quibus non est 
+      <lb ed="#P" n="42"/>consultatio vt illis eiectis, ea relinquantur de quibus consultant. Sequitur pria conclusio. Non omnim est consultatio. Patet 
+      <lb ed="#P" n="43"/>primo, quia consentaneum non est illius consultationem facere de quo insipiens vel mente captus quaereret, sed tantum de 
+      <lb ed="#P" n="44"/>illo de quo rationis compos consultabit. Sequitur, de aeternis autem nemo consultat, vt de mudo vel de diametri 
+      la<lb ed="#P" n="45" break="no"/>terisque icommensurabilitate. Nulla eadem mensura adaequaete costam quamdrati &amp; eius diametrum metitur. Intendit autem proba 
+      <lb ed="#P" n="46"/>re consilium esse de operationibus humanis quaes ntra sponte facimus. Probatio. Consilium ordinatur ad operationem, ergo 
+      op<lb ed="#P" n="47" break="no"/>consilium esse de operabilibus ab aliquam causa effectiua, sed causae effectiuae sunt quaetuor scilicet necessitas, &amp; illa est neces 
+      <lb ed="#P" n="48"/>sariorum: natura, &amp; illa est causa eorum quae frequenter sunt: fortuna, &amp; ea est eorum causa quae praro fiunt. Sub 
+      for<lb ed="#P" n="49" break="no"/>tuna casum intelligit. Quarta causa est intellectus siue homo per intellectum. His constantibus arguitur sic. Consulta 
+      <lb ed="#P" n="50"/>bile est de operabilibus ab aliquam causa effectiua, &amp; non est de operabilibus a necessitate, nec de operabilibus a natura, 
+      <lb ed="#P" n="51"/>nec a fortuna, ergo est de operabilibus ab homine, &amp; non de quibuscumque operabilibus ab homine, sed solum de his quae penes 
+      <lb ed="#P" n="52"/>nos collocantur, ergo consilium est de operibus humanis quae in nostra facultate sitae sunt. Consequentia claret cum 
+      ma<lb ed="#P" n="53" break="no"/>iore. Ostenditur minor, quantum ad quamlibet eius partem, consilium enim non est de his quae sunt de necessitate. 
+      <lb ed="#P" n="54"/>quia talia sunt aeterna &amp; de aeternis consultat nemo, vt de mundo, de diametri &amp; costae quadrati incommen 
+      <lb ed="#P" n="55"/>surabilitate. Mundum enim totum necessarium in se &amp; necessarium, prime intentionalitr putabat, diameter 
+      <lb ed="#P" n="56"/>est incommensurabilis costae, est necessarium secunde intentionaliter, hoc est dictu est propositio necessaria tam¬ 
+      <!--88.xml-->
+      <pb ed="#P" n="37-r"/>
+               <lb ed="#P" n="1"/>etsi propositio in se sit res contingens, consilium enim est de his quae per consilium possunt immutari 
+      <lb ed="#P" n="2"/>ergo consilium non est de aeternis quae semper vniformiter se habent: nec etiam est de aeternis quorum 
+      sub<lb ed="#P" n="3" break="no"/>stantia motu est subiecta. Nec de his quae sempiterno motu eodem tenore iugiter manent sine 
+      necessi<lb ed="#P" n="4" break="no"/>tate, siue natura, siue propter aliquam aliam causam, haec sunt ortus atque conversiones siderum nunc citra 
+      <lb ed="#P" n="5"/>aequatorem, nunc vltra aequidialem circulum. Dixit siue necessitate, siue a natura, aut propter aliam 
+      <lb ed="#P" n="6"/>causam, ob varia philosophorum placita. Quidam enim dixerunt caelum necessitate circunuolui: alii natura, 
+      <lb ed="#P" n="7"/>vt enim ignis suapte natura ad suum locum conscendit: ita dixere caelum circulo agitari. Vnde in libris 
+      <lb ed="#P" n="8"/>de caelo ait Aristoteles si pars caeli ablata inferius poneretur illa necascendet nec descendet, sed in 
+      cir<lb ed="#P" n="9" break="no"/>culo mouebitur. Alii dixerunt caelum a sua forma circuntorqueri: propterea secundum varia philosophantum 
+      <lb ed="#P" n="10"/>placita varias causas attulit, sed quicquid sit de solstitiis &amp; ortu signorum non consultamus. Nosti duplex 
+      <lb ed="#P" n="11"/>essessolstitium. aestiuale cum sol est in primo puncto cancri: in illo enim incipit recedere a nobis, continuo 
+      <lb ed="#P" n="12"/>irrequietoque cursu ab ingressu in capricornum ad nos mouebatur &amp; cum omne quod reflectitur in puncto 
+      <lb ed="#P" n="13"/>reflexionis quiescat: videbatur illic stare. Sic de solstitio hyemali in primo gradu capricorni dicatur: 
+      <lb ed="#P" n="14"/>cum sol a nobis maxime recedit, illud est astronomicae considerationis: proinde hoc missum facio. Nec 
+      <lb ed="#P" n="15"/>est consultatio de his quae a natura proueniunt, vt de siccitate aut imbre, licet bene consultemus quonam 
+      <lb ed="#P" n="16"/>pacto nos habebimus tali tempore. Nec de fortuna, vt de inuentione thesauri consultamus. Fortuna 
+      <lb ed="#P" n="17"/>fit ab agente a proposito praeter eius intentionem, vt fodiens terram vt sereret arborem, thesaurum 
+      inspe<lb ed="#P" n="18" break="no"/>ratum offendens. Casum sub fortuna complectitur qui ab agente naturali proficiscitur. Nec consilium est 
+      <lb ed="#P" n="19"/>de omnibus operationibus humanis, nam Lacedaemonii siue Spartani non consultant quonam pacto 
+      <lb ed="#P" n="20"/>respublica Scytharum optime gubernari valeat: sunt autem Scythae Maeotidis paludis accolae ad 
+      borea<lb ed="#P" n="21" break="no"/>lem polum siti. Nihil enim horum per nos ipsos fieri potest. Consultamus autem de his rebus agendis quae 
+      <lb ed="#P" n="22"/>in nostra facultate sunt. Hae solum reliquae post negatiuam responsionem supersunt, hoc est a sufficienti 
+      di<lb ed="#P" n="23" break="no"/>uisione sequitur hoc membrum, scilicet quod consultamus de his rebus agendis. Et in hac minore variae 
+      <lb ed="#P" n="24"/>sunt conclusiones, quarum Prima, Consilium non est de aeternis. Secunda. Consilium non est de his quae fiunt 
+      <lb ed="#P" n="25"/>frequenter a natura. Tertia. Consilium non est de his quae fiunt a fortuna. Quarta. Consilium non est de 
+      <lb ed="#P" n="26"/>omnibus operationibus humanis. Quinta affirmatiua. Quia consilium est de aliquo, &amp; de nullo 
+      praedi<lb ed="#P" n="27" break="no"/>ctorum, est de operationibus humanis quae sunt in nostra potestate. Quatuor primas conclusiones per idem 
+      <lb ed="#P" n="28"/>medium probat. Sequitur in litera. Atque circa exactas quidem scientias. Hic ponitur alia conclusio quae  
+      <lb ed="#P" n="29"/>vult quod non de omnibus quae a nobis agi possunt, &amp; quae in nostra potestate collocantur, consultamus. 
+      <lb ed="#P" n="30"/>Primo, quia circa exactas &amp; sufficientes scientias non est consultatio, vt de literis. Non enim dubitamus 
+      <lb ed="#P" n="31"/>quo pacto literae sunt scribendae: ac si sic argumentaretur. Consilium non est nisi de dubiis, at illa quae 
+      de<lb ed="#P" n="32" break="no"/>terminata sunt ab aliqua certa arte non sunt dubia sed certa: igitur. Verum de his consilium capimus quae a 
+      <lb ed="#P" n="33"/>nobis sunt, sed non semper vniformiter, vt de his quae ad medicinam &amp; rem pecuniariam attinent: &amp; eo 
+      ma<lb ed="#P" n="34" break="no"/>gis circa gubernandi facultatem quam exercendi artem deliberamus, hoc est circa gymnasticam palaestram siue 
+      <lb ed="#P" n="35"/>luctationem. Subditur ratio, quia minus exacta est. Conclusio ergo erit. Non aequaliter consultamus de 
+      <lb ed="#P" n="36"/>operabilibus a nobis. Argumenti valor in hoc pendet. De inaequaliter certis inaequaliter consultamus: 
+      <lb ed="#P" n="37"/>sed non omnia quae per nos fiunt, sunt aequaliter certa: igitur. patet. Vbi est minor certitudo illic plus 
+      <lb ed="#P" n="38"/>consultandum est, vbi nulla est ambages, ibi consultatio est inanis: ergo vbi res est anceps, ibi est opus 
+      ma<lb ed="#P" n="39" break="no"/>turo consilio, &amp; in re magis ancipiti potius opus est consultatione. In medicina &amp; in arte gubernandarum 
+      <lb ed="#P" n="40"/>nauium minor est certitudo quam in palaestra. In medicina, vbi est indagare patientis aetatem, patriam, 
+      edu<lb ed="#P" n="41" break="no"/>cationem, &amp; consuetudinem viuendi, aspectum planetarum, &amp; siderum, &amp; in quo signo est luna. Potes enim 
+      <lb ed="#P" n="42"/>cauterio membrum humani corporis attingere vagante in signo aduersatio, &amp; laborantem non curabis. 
+      <lb ed="#P" n="43"/>In nautica arte obtuitum ad ventos, syrtes, charybdim, syllam, &amp; ponti discrimina dirigere maximopere 
+      <lb ed="#P" n="44"/>oportet. Paucis opus est in lucta: sufficit illic cum corporis agilitate exercitationis vsum habere. Vides 
+      <lb ed="#P" n="45"/>Aristotelem natura duce pestilens dogma <name xml:id="JMAet9-de9607-Nd1e258">Vvvitcleff</name> ac huius <name xml:id="JMAet9-de9607-Nd1e261">Lutheri</name> damnare, quod omnia de 
+      necessi<lb ed="#P" n="46" break="no"/>tate eueniunt. Sequitur alia conclusio. Atque magis circa artes quam circa scientias est consultandum. Ratio est, 
+      <lb ed="#P" n="47"/>nam circa ipsas magis formidamus. Ars est circa contingentia, sicut ipsa prudentia, sexto Ethicorum. 
+      <lb ed="#P" n="48"/>Scientia est circa necessaria ex eodem sexto. Possumus tamen consultare de modo procedendi aut studendi 
+      <lb ed="#P" n="49"/>aut scribendi in tali scientia: quia hoc est contingens nobis incertum.
+    </p>
+            <p xml:id="JMAet9-de9607-d1e274">
+               <pc type="pilcrow">¶</pc> Sequitur conclusio. Consultatio 
+      <lb ed="#P" n="50"/>autem in his versatur quae plerumque eueniunt, ambigua tamen sunt, quonam pacto euenient. Et in quibus 
+      <lb ed="#P" n="51"/>est determinatio: aliqua semper sunt, aliqua vero frequenter, aliqua vero raro secundo Physicorum. 
+      Consi<lb ed="#P" n="52" break="no"/>lium est de his quae saepius eueniunt, &amp; incertus est illorum euentus. Ratio est. Quia illa quae semper 
+      eue<lb ed="#P" n="53" break="no"/>niunt, nullam ambagem relinquunt, vt homines cupiunt honores. Circa illa quae rarenter contingunt, 
+      <lb ed="#P" n="54"/>nemo consultat, vt de parricidio patris a filio, sed famuli dominorum opes subtrahant, quia hoc pluries 
+      <lb ed="#P" n="55"/>in vsu est, consultant. Sequitur. Atque cum magnis &amp;c. Conclusio. Cum de arduis rebus deliberare 
+      vo<lb ed="#P" n="56" break="no"/>lumus nobis diffidentes alios ad consilium asciscimus: ea propter oculati reges prudentes viros asciscunt 
+      <lb ed="#P" n="57"/>ad sibi consulendum: quia de rebus arduis, quae pondus habent, vt de reipublicae salute discernere cum 
+      mul<lb ed="#P" n="58" break="no"/>tis oportet. Plura enim vident oculi quam oculus. Non aliter Argos centum luminibus praeditus a poetis 
+      <lb ed="#P" n="59"/>fingitur, vaccae lunonis custos. Ille autem non est imprudens qui consilio acquiescere nouit: qui vero sibi 
+      <lb ed="#P" n="60"/>plus quam aliorum ingenio confidit crebriter in perplexitates incidit Ludouicum vndecimum Francorum 
+      <lb ed="#P" n="61"/>regem Breseus heros in hoc cauillo carpsit asserendo paruum gradarium super quem rex equitaret 
+      im<lb ed="#P" n="62" break="no"/>manem: &amp; cum rex illius inopinabilis dicti enodationem efflagitaret, dixit equum illum totius regni 
+      consi<lb ed="#P" n="63" break="no"/>lium ferre. Diuus Bernardus, cum beatam animam efflarat fratribus coram dixit se plus alienae sententiae 
+      <lb ed="#P" n="64"/>quam suae acquieuissae.
+    </p>
+            <p xml:id="JMAet9-de9607-d1e312">
+               <pc type="pilcrow">¶</pc> Sequitur conclusio. Consultamus autem non de finibus, sed de his quae ad fines ipsos 
+      <!--89.xml-->
+      <pb ed="#P" n="37-v"/>
+               <lb ed="#P" n="1"/>conducunt. Hoc inductiue per aliqua loco vniuersalis probat, inquiens: Nec enim medicus si sanabit 
+      <lb ed="#P" n="2"/>nec orator si persuadebit, nec reipublicae gubernator si bene &amp; tramquille ciuitatem legibus instituet, neque 
+      <lb ed="#P" n="3"/>caeterorum quisquam de fine deliberat: sed omnes posito fine quemad modum: &amp; per quae fiet consultant: quo pacto an 
+      <lb ed="#P" n="4"/>vno, an pluribus mediis, &amp; quo illorum facillime ad finem deuenietur. Et si vnico ad eum deueniendum est 
+      me<lb ed="#P" n="5" break="no"/>dio. qua via id fiet, &amp; per quid hoc assequemur medium quo ad primam deueniamus causam, quae 
+      inuentio<lb ed="#P" n="6" break="no"/>ne vltima est. Qui enim consultat quaerere videtur atque resoluere, perinde atque ille qui lineas designat, 
+      <lb ed="#P" n="7"/>vel resoluere quasi diadragma: vt Leonardus &amp; antiqua translatio dicunt. Aliquando enim plura media 
+      oc<lb ed="#P" n="8" break="no"/>currunt per quorum quodlibet homo finem attingere potest: tuncque medium certius &amp; facilius eligendum est. 
+      In<lb ed="#P" n="9" break="no"/>terdum vnum medium est reperibile, &amp; ita tandiu quaeritur, donec perueniatur ad primam causam, a qua incipiendum 
+      <lb ed="#P" n="10"/>est. Quemadmodum in geometria cum volumus probare triangulum habere tres angulos aequales duobus 
+      <lb ed="#P" n="11"/>rectis, per praemissas notiores id ostendimus: &amp; illas praemissas ad dignitates indemonstrabiles &amp; ad 
+      prin<lb ed="#P" n="12" break="no"/>cipia resoluimus, in quibus standum est. Cum enim illae sint per se notae eis assentimus terminorum 
+      signifi<lb ed="#P" n="13" break="no"/>catione intellecta. Sic omnino est in operabilibus: nam finis in operabilibus est sicut principium in 
+      spe<lb ed="#P" n="14" break="no"/>culabilibus, vt dicitur secundo Physicorum. Sine supposito media indagamus, &amp; procedimus ad vltimum. 
+      <lb ed="#P" n="15"/>Quod est primum in operatione, hoc est nouissimum in resolutione. Et quod est vltimum in inuentione, est 
+      <lb ed="#P" n="16"/>primum in operatione. Patet exemplo. Supposita sanitate medicus inquirit media, &amp; inuenit enema (vt 
+      <lb ed="#P" n="17"/>communiter fit) maxime pro cura accommodum. Ad conficiendum enema haerbas diureticas explorat, vtpote 
+      <lb ed="#P" n="18"/>maluam, bismaluam, mercurialem, paritariam, &amp; caetera id genus: postea inquirit vbinam crescunt &amp; cum in his 
+      <lb ed="#P" n="19"/>campis has sitas esse cognoscit, haec arua primo adit vt haerbas legat, has haerbas esse in hoc territorio 
+      <lb ed="#P" n="20"/>est vltimum in inuentione, &amp; primum in operatione.
+    </p>
+            <p xml:id="JMAet9-de9607-d1e366">
+               <pc type="pilcrow">¶</pc> Circa literam dubitatur. lura &amp; leges non sunt in  
+      <lb ed="#P" n="21"/>nostra potestate sita, attamen de hisce consultamus cum iurisconsultis, quorum opinionem venamur postquam 
+      <lb ed="#P" n="22"/>hincinde consultauerint.
+    </p>
+            <p xml:id="JMAet9-de9607-d1e376">
+               <pc type="pilcrow">¶</pc> Secundo, an praestabilius est habere principem rudem qui peritorum consilio 
+      vti<lb ed="#P" n="23" break="no"/>tur, quam regem Minerua pollentem &amp; inflatum qui suopte ingenio nimis confidit.
+    </p>
+            <p xml:id="JMAet9-de9607-d1e384">
+               <pc type="pilcrow">¶</pc> Tertio dubitatur, quo 
+      <lb ed="#P" n="24"/>modo consulimus alios circa artem, cum ars est vniuersalium quae sunt necessaria.
+    </p>
+            <p xml:id="JMAet9-de9607-d1e392">
+               <pc type="pilcrow">¶</pc> Quarto, haec diameter 
+      <lb ed="#P" n="25"/>quadrati est incommensurabilis costae, est falsa, si nullum sit quadratum aut diameter: ergo ipsa non est 
+      necessa<lb ed="#P" n="26" break="no"/>ria.
+    </p>
+            <p xml:id="JMAet9-de9607-d1e402">
+               <pc type="pilcrow">¶</pc> Quinto, consultamus de re amici, ergo non solum de operabilibus a nobis.
+    </p>
+            <p xml:id="JMAet9-de9607-d1e408">
+               <pc type="pilcrow">¶</pc> Sexto, nauigaturus 
+      <lb ed="#P" n="27"/>consultat de vento futuro qui non est in eius potestate.
+    </p>
+            <p xml:id="JMAet9-de9607-d1e417">
+               <pc type="pilcrow">¶</pc> Ad primam dubitationem respondetur, quod ius est 
+      <lb ed="#P" n="28"/>in potestate legissatoris cuius mentem iurisconsultus interpretatur mihi explanans, an litis 
+      contestatio<lb ed="#P" n="29" break="no"/>ne reum vincam nec ne.
+    </p>
+            <p xml:id="JMAet9-de9607-d1e427">
+               <pc type="pilcrow">¶</pc> Ad secundum responsamus affirmatiue. Nam rudissimus quisque regni habenas 
+      <lb ed="#P" n="30"/>optime moderabitur modo prudentum cosilium sibi asciscat, eorumque iudicium insequatur: &amp; si sint 
+      pru<lb ed="#P" n="31" break="no"/>dentes in vnam sententiam convenient vel eorum maior pars. Salus autem vbi consilia multa. luuenile consiliumn, 
+      <lb ed="#P" n="32"/>ipsum Roboam praecipitauit. Tres hic signo in republica principes, Socratem ingenio sublimem &amp; 
+      <lb ed="#P" n="33"/>tumidum sibiipsi nimis placentem. Platonem rudem &amp; mitem, parua de sua Minerua putantem, qui alios 
+      <lb ed="#P" n="34"/>consulit &amp; eorum consultationem imitatur. Ciceronem mente praestanti tumore vacantem. Horum infimus est 
+      <lb ed="#P" n="35"/>Socrates &amp; regum pessimus, qui aulicorum assentatione afficitur tandem regum faex &amp; monstrum. Medius est 
+      <lb ed="#P" n="36"/>Plato, quam optimus Cicero prudentum consessum euocat, quos in re ardua consulit quorum deliberationes 
+      ma<lb ed="#P" n="37" break="no"/>turas audit, nemini suam mentem quidnam facturus sit explicans: sed recte sententiatum a saniore parte. 
+      <lb ed="#P" n="38"/>vel a toto conuentu exequetur. Verumenimuero animaduertendum est, vt in asciscendis consulibus sit 
+      ma<lb ed="#P" n="39" break="no"/>gna &amp; maturissima deliber atio. Ratio, quod eis habitis omnia sunt facilia circumspectorum consilio rex eos 
+      <lb ed="#P" n="40"/>seligat.
+    </p>
+            <p xml:id="JMAet9-de9607-d1e457">
+               <pc type="pilcrow">¶</pc> Ad tertiam dubitationem respondetur, quod intelligatur illud de opere artis quae plurimum 
+      diuersi<lb ed="#P" n="41" break="no"/>ficatur, vt in exemplis philosophi: circa res leuis momenti, vel vbi est vniformitas non oportet alios 
+      <lb ed="#P" n="42"/>consulere.
+    </p>
+            <p xml:id="JMAet9-de9607-d1e467">
+               <pc type="pilcrow">¶</pc> Ad quartum dicitur, quod exemplorum non requiritur veritas. Secundo, quod posita aeternitate mundi 
+      <lb ed="#P" n="43"/>(quam ipse falso ratus est, sed ad fidem Mosaicam non tenebatur) difficile est factu quin alicubi erit 
+      ali<lb ed="#P" n="44" break="no"/>quod quadratum: licet enim quodlibet quadratum contingenter est, tamen necesse est esse aliquod 
+      qua<lb ed="#P" n="45" break="no"/>dratum, &amp; diametrum sicut dicere solemus: Nullus homo necessario est animal, &amp; omnem hominem esse 
+      <lb ed="#P" n="46"/>animal est necesse. Tertio, haec negatiua est necessaria, diameter non est commensurabilis costae: etiam non sto 
+      <lb ed="#P" n="47"/>in ampliatione dictionis commensuralis.
+    </p>
+            <p xml:id="JMAet9-de9607-d1e484">
+               <pc type="pilcrow">¶</pc> Ad quintum dicitur, quod negocium amici meum iudicatur: 
+      <lb ed="#P" n="48"/>est enim amicus meus alter ego, nono Ethicorum. Hoc postea philosophus tangit: &amp; idem est de negocio 
+      <lb ed="#P" n="49"/>serui.
+    </p>
+            <p xml:id="JMAet9-de9607-d1e494">
+               <pc type="pilcrow">¶</pc> Ad sextum dicitur, quod non consultamus de euentibus futuris, sed qualiter nos tunc 
+      operabi<lb ed="#P" n="50" break="no"/>mur, an secunde tunc nauigare valeamus.
+    </p>
+            <!--alias="mair-l3c3p2"-->
+            <p xml:id="JMAet9-de9607-d1e505">
+               <lb ed="#P" n="12"/>⁋ Sequitur in litera. Non autem omnis perquisitio, consultatio videtur. Hic ponit conclusionem 
+      hy<lb ed="#P" n="13" break="no"/>poteticam. Tametsi omnis consultatio perquisitio quaedam est, non tamen omnis perquisitio 
+      con<lb ed="#P" n="14" break="no"/>tinue &amp; vbique consultatio est. Nam mathematici &amp; quadriuiales perquirunt: huiuscemodi autem 
+      per<lb ed="#P" n="15" break="no"/>quisitiones consultationes non sunt, attamen vt supra retulimus, omnis consultatio inquisitio est, 
+      <lb ed="#P" n="16"/>&amp; quod in huiuscemodi resolutione per indagationem vltimum est, hoc in conficiendo negocio 
+      <lb ed="#P" n="17"/>primum est. Superius, vt res sit apertior exemplo detegimus, &amp; si consultantes resoluendo in aliquid 
+      in<lb ed="#P" n="18" break="no"/>ciderint (vt sunt pecuniae) quod haberi nequit, consultare desistunt. Verbi causa: pacem regna 
+      vici<lb ed="#P" n="19" break="no"/>na petant, pacis autem medium accommodatissimum matrimonium inueniunt sed sufficientem pecuniae 
+      <lb ed="#P" n="20"/>summam pro dote inuenire nequeunt, illic quiescunt, &amp; non vlterius resoluentes pergunt. Si autem pecuniam 
+      <lb ed="#P" n="21"/>habere possunt ab illa opus aggrediuntur, pecuniam promittentes &amp; eam dantes. At dicis gigantes arcem 
+      <lb ed="#P" n="22"/>extruere volebant, vt louem caelo extruderent, quod impossibile censebant. Responsio. Id faciebant vt se a 
+      <lb ed="#P" n="23"/>cataclismo praeseruarent, ne simili alluuione sicut tempore Noe contigerat, perirent. &amp; id erat possibile. 
+      <lb ed="#P" n="24"/>Et dicimus nos posse, quae per nosipsos possumus. &amp; quae per amicos &amp; patrueles, consobrinos, vel alios 
+      <lb ed="#P" n="25"/>nobis necessarios possumus, per nosipsos posse reputamur: nam principium in nobis est. Et in hac 
+      con<lb ed="#P" n="26" break="no"/>sultoria perquisitione interdum instrumenta quaeruntur, &amp; an machinae bellicae equis an bobus sint 
+      vehen<lb ed="#P" n="27" break="no"/>dae. Nonnumquam instrumentum vsus, an plaustro, an alio vehiculo. Hoc persimile in aliis probat, puta in 
+      quae<lb ed="#P" n="28" break="no"/>stionibus scientiarum in quibus interdum quaeritur per quid, id est causa efficiens: interdum qualiter. i. causa 
+      <lb ed="#P" n="29"/>formalis: interdum propter quid, hoc est causa finalis: quandoque per quid sit quod intenditur, interdum quo 
+      <lb ed="#P" n="30"/>modo fit &amp; per quem modum, &amp; quo mediante fit, &amp; homo (vt supra est monstratum) est suarum operationum 
+      <lb ed="#P" n="31"/>principium: &amp; de his consultat quae sunt aliorum causa: ea propter rursum ipsius finis non est consultatio, sed  
+      <lb ed="#P" n="32"/>eorum quae nos in finem perducunt.
+    </p>
+            <p xml:id="JMAet9-de9607-d1e553">
+               <pc type="pilcrow">¶</pc> Sequitur in litera conclusio. Singularium non est consultatio. Nam 
+      <lb ed="#P" n="33"/>talium est sensus, vt nemo consultat an id sit panis, &amp; an sit bene confectum &amp; concoctum vt oportet.
+    </p>
+            <p xml:id="JMAet9-de9607-d1e561">
+               <pc type="pilcrow">¶</pc> Sequitur 
+      <lb ed="#P" n="34"/>in litera, quod si semper &amp;c. dicit haec conclusio. Consultatio est finitorum. Nam si in abyssum consultetur, id in  
+      <lb ed="#P" n="35"/>infinitum abibit: hoc autem esse nequit. Consultabile enim &amp; eligibile idem sunt. Ostendit nunc in quo 
+      consulta<lb ed="#P" n="36" break="no"/>bile &amp; eligibile ex parte obiecti conveniunt, atque differunt. Ex obiectis operationes splendescunt: item ex 
+      ope<lb ed="#P" n="37" break="no"/>rationibus potentiae, &amp; a potentiis essentiae cognoscuntur. Vt Aristoteles in de anima scribit: &amp; id 
+      ra<lb ed="#P" n="38" break="no"/>tionis est, quia obiecta actibus sunt notiora. Pari modo actus quam potentiae. Similiter potentiae essentiis 
+      <lb ed="#P" n="39"/>sunt manifestiores. Obiecta scilicet consultabile ac eligibile sunt idem in re: differunt autem sola ratione. 
+      <lb ed="#P" n="40"/>Porro consultabile inquantum consultabile eligibile antecedit. ldemiam consultatum ac determinatum est 
+      <lb ed="#P" n="41"/>eligibile quid tamen est eligibile superius dictum est. Quod enim caeteris ex conditione praetulimus, illud 
+      <lb ed="#P" n="42"/>est eligibile. Si consultatio in immensum sine termino progrederetur, nihil esset eligibile, quia nihil 
+      <lb ed="#P" n="43"/>esset caeteris praelatum, igitur finitorum est consultatio: &amp; tunc desinit vnusquisque consultare qua via aget 
+      <lb ed="#P" n="44"/>cum principium operandi in seipsum consulentem redigit: &amp; cum reducit id in antecedens, hoc est in rationem 
+      <lb ed="#P" n="45"/>actiuam suiipsius, hoc est ipsiusmet eligentis: quia ratio actiua &amp; electiua collectionem haerbarum antecedit. 
+      <lb ed="#P" n="46"/>Alio modo sic desinit consultatio cum homo principium agendi in seipsum, hoc est in suam potestatem 
+      <lb ed="#P" n="47"/>redigit, tum principium operandi penes eum ipsum est situm: &amp; rursus redigit id principium operandi scilicet colligendi 
+      <lb ed="#P" n="48"/>haerbas in suum antecedens, hoc est in suum principium decoquendi eas: &amp; sic deinceps ad medium fini 
+      pro<lb ed="#P" n="49" break="no"/>pinquissimum. Vel sic paucioribus hoc explanabimus. Desinit homo tunc consultare, cum in seipsum 
+      <lb ed="#P" n="50"/>principium redigit. hoc est in suam potestatem: &amp; in id, hoc est illud suiipsius eligentis quod 
+      antece<lb ed="#P" n="51" break="no"/>dit in operando quod est principium in processu operatiuo: legendo haerbas, eas decoquendo, ac decoctam 
+      <lb ed="#P" n="52"/>aquam aegroto ministrando. Quod patet a signo ex vetustissimis institutis quae Homerus vates 
+      in<lb ed="#P" n="53" break="no"/>sectatuns est: vbi reges inducit qui quae ipsi elegerant populo denunciabant vt ipsi etiam eligerent, &amp; sic 
+      <lb ed="#P" n="54"/>regium consilium plebis electionem praecedebat, &amp; hoc est signum consilium electionem praecedere. Vnde 
+      <lb ed="#P" n="55"/>fit quod cum eligibile rursus deprehenditur esse consultabile quoddam affectabile eorum quae in nostra 
+      po<lb ed="#P" n="56" break="no"/>testate sunt: electio erit quaedam consulta affectio eorum quae in nostra potestate sunt: per locum a 
+      con<lb ed="#P" n="57" break="no"/>iugatis. Ex consultatione enim iudicantes affectamus secundum consilium. Quid igitur est electio, figura 
+      <lb ed="#P" n="58"/>&amp; typo sit dictum: &amp; circa quae versatur &amp; eorum esse consilium quibus ad ipsos fines acceditur. 
+    </p>
+            <p xml:id="JMAet9-de9607-d1e621">
+               <lb ed="#P" n="59"/>⁋ Circa ista dubitatur, vtrum consilium sit ipsius finis: &amp; videtur quod sic, quia finis est quoddam 
+      ope<lb ed="#P" n="60" break="no"/>ratum a nobis, vt domus quae est finis aedificationis: sed de operabilibus a nobis quae in nostra 
+      pote<lb ed="#P" n="61" break="no"/>state sita sunt est consilium: igitur. Item de fine vltimo, consultamus quanam via possumus assequi 
+      <!--91.xml-->
+      <pb ed="#P" n="38-v"/>
+               <lb ed="#P" n="1"/>beatitudinem. In oppositum est Aristoteles.
+    </p>
+            <p xml:id="JMAet9-de9607-d1e637">
+               <pc type="pilcrow">¶</pc> Secundo dubitatur, vtrum omnis inquisitio consilii sit 
+      <lb ed="#P" n="2"/>resolutoria, vt philosophus dicit, &amp; argumentor probando quod non: consilium enim est inquisitio 
+      ra<lb ed="#P" n="3" break="no"/>tionis, sed ratio a prioribus incipit, &amp; ad posteriora procedit, vt a principiis ad principiata: sed ille 
+      <lb ed="#P" n="4"/>nexus est compositus &amp; non resolutorius.
+    </p>
+            <p xml:id="JMAet9-de9607-d1e649">
+               <pc type="pilcrow">¶</pc> Tertio dubitatur, quomodo se habent consultabile &amp; 
+      eli<lb ed="#P" n="5" break="no"/>gibile, &amp; quid est consilium.
+    </p>
+            <p xml:id="JMAet9-de9607-d1e658">
+               <pc type="pilcrow">¶</pc> Quarto, quid est electio.
+    </p>
+            <p xml:id="JMAet9-de9607-d1e664">
+               <pc type="pilcrow">¶</pc> Quinto vtrum inquisitio consiliatiua 
+      pro<lb ed="#P" n="6" break="no"/>cedat in infinitum. Videtur enim quod sic, quia consilium est de singularibus operabilibus a nobis quorum 
+      <lb ed="#P" n="7"/>non est numerus. Item consilium est de omni illo per quod remouetur obiex a consequutione finis: 
+      <lb ed="#P" n="8"/>sed talium est abyssus: igitur.
+    </p>
+            <p xml:id="JMAet9-de9607-d1e676">
+               <pc type="pilcrow">¶</pc> Ad primum negatiue respondetur, &amp; patet responsio vltra dicta: si 
+      quen<lb ed="#P" n="9" break="no"/>piam consulas, abs te efflagitat de quo fine, ipsum finem tamquam suppositum ponit: postea de mediis 
+      de<lb ed="#P" n="10" break="no"/>liberat: alioqui tibi consulere nequit. Sed idem potest esse finis &amp; medium, vt patet de quolibet fine non 
+      <lb ed="#P" n="11"/>vltimato: ergo finis est consilium: sed non est sub ratione finis sed medii ad finem vlteriorem ordinati. 
+      <lb ed="#P" n="12"/>Ad secundum concedo, consultamus quonam pacto assequi possumus finem vltimum: &amp; sic finis est 
+      con<lb ed="#P" n="13" break="no"/>silium tamquam eius de quo quaeritur per consilium: quia quod quaeritur est ambiguum: finis vltimus non est 
+      <lb ed="#P" n="14"/>anceps sed praesuppositus in omnibus operationibus. finis est praemium in intentione &amp; vltimum in 
+      exequu<lb ed="#P" n="15" break="no"/>tione.
+    </p>
+            <p xml:id="JMAet9-de9607-d1e697">
+               <pc type="pilcrow">¶</pc> Pro secunda dubitatione scito quod inquisitio resolutoria incipit ab effectu procedendo ad causam 
+      <lb ed="#P" n="16"/>proximam: &amp; ab illa ad causam priorem quoad deueniatur ad causam primam in esse quae est vltima 
+      <lb ed="#P" n="17"/>in inuentione. Perquisitio consiliatiua est huiusmodi via compositiua siue compositionis: econtrario 
+      <lb ed="#P" n="18"/>est quando proceditur a causa ad effectum. Insuper in inquisitione consiliatiua est duplex processus &amp; 
+      <lb ed="#P" n="19"/>duplex principium, vnus processus speculatiuus, alter autem processus operatiuus. Hic processus est 
+      con<lb ed="#P" n="20" break="no"/>positus, quia in eo a causa ad effectum &amp; a simplicibus ad compositum proceditur. Patet, in domus 
+      stru<lb ed="#P" n="21" break="no"/>ctura, in cuius aedificatione a causis domus incipitur, vt cumulando pecuniam, ligna, lapides caementum 
+      <lb ed="#P" n="22"/>&amp; caetera id genus ad domus factionem: sed in speculatione domus est principium. quia primo domum 
+      <lb ed="#P" n="23"/>intendimus erigere, deinde lapides &amp; ligna: &amp; vltimo precium argentum in domus structura. principium 
+      <lb ed="#P" n="24"/>actionis est numisma &amp; principium speculationis, proximum est aedificium. Adhuc scito quod duplex est finis: 
+      <lb ed="#P" n="25"/>vnus operationis, &amp; est illud quod vltimate per totam operationem in esse producitur. alter est finis rei 
+      <lb ed="#P" n="26"/>operatae qui potest toti operationi praeexistere. hoc est finis gratia cuius, &amp; finis quo: more 
+      commentato<lb ed="#P" n="27" break="no"/>ris secundoPhysicorum loquendo. Sed nos de fine operationis impraesentiarum loquimur. Hic autem finis ad  
+      <lb ed="#P" n="28"/>sua praecedentia bifariam conferri potest: vno modo secundum perfectionis ordinem, &amp; sic habet rationem 
+      primi<lb ed="#P" n="29" break="no"/>&amp; per consequens habet rationem causae omnium aliorum: alio modo secundum ordinem generationis, &amp; sic rationem 
+      <lb ed="#P" n="30"/>vltimi vsurpat, &amp; sic habet rationem effectus omnium aliorum quae ad ipsum antecedunt: ideo secundo 
+      Physi<lb ed="#P" n="31" break="no"/>corum dicit philosophus, quod causae sunt sibiiuicem causae, hoc est causa alicui in vno ordine est effectus illi 
+      <lb ed="#P" n="32"/>in alia consideratione, &amp; respectu: &amp; sic vterque discursus potest vocari resolutorius aut compositus diuersi 
+      <lb ed="#P" n="33"/>mode secundum operationem aut bonitatem &amp; dignitatem: propterea in hoc non seriose insudabis. Ad 
+      ratio<lb ed="#P" n="34" break="no"/>nem in oppositum dicitur, quod non vsquequaque ratio a prioribus capit primordium.
+    </p>
+            <p xml:id="JMAet9-de9607-d1e744">
+               <pc type="pilcrow">¶</pc> Ad tertium dicitur, quod 
+      <lb ed="#P" n="35"/>consultabile bifariam accipitur: vno modo pro omni illo quod in consultationem ponitur, &amp; quod in consilio 
+      in<lb ed="#P" n="36" break="no"/>quiritur: &amp; sic nonnumquam vtraque pars contradictionis est consultabilis: vnus enim capit hanc partem pro medio: 
+      <lb ed="#P" n="37"/>alius oppositam, &amp; stat hoc &amp; illud esse elegibile. Nonnumquam vtraque pars contradictionis capitur, sed vnus solum 
+      <lb ed="#P" n="38"/>partem suam capit vtiliter, alter inutiliter: &amp; sic non omne consultabile est re ipsa eligibile. Alio modo capitur 
+      <lb ed="#P" n="39"/>consultabile proprie, &amp; sic vtile ad finem consequendum. de quo inquiritur per consilium est consultabile, &amp; eius 
+      oppo<lb ed="#P" n="40" break="no"/>situm inutile. Omne consultabile taliter acceptum est eligibile: quia consilium est alicuius quod est vtile ad finem 
+      <lb ed="#P" n="41"/>bonum consequendum: sed omne tale est eligibile: igitur. Sed non omne eligibile est consultabile: ratio est quia 
+      ele<lb ed="#P" n="42" break="no"/>ctio est de omnibus quae a nobis nostra sponte aguntur ad finis consequutionem: sed non de omnibus talibus 
+      <lb ed="#P" n="43"/>est consilium: quia consilium est inquisitio de rebus ambiguis &amp; non de manifestis.
+    </p>
+            <p xml:id="JMAet9-de9607-d1e769">
+               <pc type="pilcrow">¶</pc> Ad aliam dubitationis partem 
+      <lb ed="#P" n="44"/>respondetur quod consilium bifariam accipitur, vno modo pro iudicio capto ex tota ratiocinatione consultantium: &amp; 
+      <lb ed="#P" n="45"/>sic dicimus habeo ex consilio maiorum taliter esse operandum, hoc est quando iudicabant omnes regem daturum 
+      <lb ed="#P" n="46"/>filiam hosti cum dote vt habeat pacem. Tale iudicium regis consilium dicitur esse. Interdum capitur pro tota 
+      ratioci<lb ed="#P" n="47" break="no"/>natione &amp; discursu ad tale iudicium &amp; consilium, hoc modo assumptum ordinato, &amp; sic dicimus adhuc sunt 
+      <lb ed="#P" n="48"/>Senatores in consilio &amp; de ambiguo consultant &amp; ratiocinantur.
+    </p>
+            <p xml:id="JMAet9-de9607-d1e787">
+               <pc type="pilcrow">¶</pc> Circa quartam dubitationem aliqui fusius 
+      <lb ed="#P" n="49"/>quam par sit, insudant vtrum electio actum intellectus an voluntatis importet. Respondetur consequenter ad dicta 
+      <lb ed="#P" n="50"/>in praecedentis capitis calce in recto pro actu voluntatis supponit &amp; intellectus actum vel actus in 
+      conno<lb ed="#P" n="51" break="no"/>tato importat. electio est acceptio vnius boni alio illi incompossibili relicto. hoc vis vocabuli denotat. 
+      <lb ed="#P" n="52"/>inter incompossibilia syllogisamus vtrum est nobis conducibilius, &amp; id nobis assumimus per voluntatis 
+      <lb ed="#P" n="53"/>actum: talis actus est electio. vt familiariter dicam vocabulum electio est connotatiuum, in recto pro voluntatis 
+      <lb ed="#P" n="54"/>actu supponens connotando intellectus discursum praeuium inter bona incompossibilia dictantis vnum esse 
+      prae<lb ed="#P" n="55" break="no"/>stabilius altero &amp; acceptandum: &amp; sic electio est desiderium, vt Aristoteles dicit. Et voluntarium latius se habet 
+      <lb ed="#P" n="56"/>quam electio: est eius genus. Moraliter loquendo, hoc est loquendo vt sufficit morali, &amp; extra artes laboranti: 
+      <lb ed="#P" n="57"/>cum volitio has connotationes non vendicet, &amp; electio inuolutam multifariam connotationem sortitur, non est 
+      <lb ed="#P" n="58"/>volitio quidditatiuum superius ad electionem: &amp; ex consequente non est eius genus, sed est denominatiue 
+      supe<lb ed="#P" n="59" break="no"/>rius sicut homo ad homo albus, nec stes in in praedicatione indirecta huius, homo albus est homo. 
+      <lb ed="#P" n="60"/>vltra dicta dicitur quod eligibile est bonum possibile, expetibile alteri bono incompossibili collatum: si vtrumque 
+      <lb ed="#P" n="61"/>bonum habere potes iam non esset electio. Nonnumquam qui a certo proposito scienter delinquit, electione 
+      pec<lb ed="#P" n="62" break="no"/>care dicitur.
+    </p>
+            <p xml:id="JMAet9-de9607-d1e823">
+               <pc type="pilcrow">¶</pc> Pro quinta dubitatione respondetur, quod singularia non sunt infinita actu licet bene 
+      <lb ed="#P" n="63"/>potentia vel infinita syncategorematice. impedimenta finis perficiendi occurrere possunt: sed posteri 
+      <lb ed="#P" n="64"/>secundum quod tempus efflagitat consultabunt.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

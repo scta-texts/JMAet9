@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 11</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 11</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d24397"><!-- mair-l5c11 -->
+            <head xml:id="JMAet9-d24397-Hd1e103">Caput 11</head>
+            <p xml:id="JMAet9-d24397-d1e106">
+               <lb ed="#P" n="28"/>
+               <quote xml:id="JMAet9-d24397-Qd1e110" type="lem">PAtet autem</quote> &amp;c. In principio huius capitis soluit quaestionem. Secundum vnum intellectum. Aliqua possunt 
+      <lb ed="#P" n="29"/>dici bifariam iniusta vel quia sunt contra vniuersalem iustitiam, quae dicitur omnis virtus in primordio 
+      <lb ed="#P" n="30"/>huius quinti: aliqua vero dicuntur specialiter iniusta, quia sunt contra iustitiam particularem. Primo soluit 
+      <lb ed="#P" n="31"/>quaestionem secundum vniuersalem iniustitiam: &amp; illud deducit ad illam partem literae vsque ad eam quae dicit: 
+      <lb ed="#P" n="32"/>praeterea fieri non potest vt sibiipsi quisquam iniuriam faciat. Aggrediendo literam primo diuisionem affert. Pro 
+      con<lb ed="#P" n="33" break="no"/>structiua parte bifariam ratiocinatur quempiam posse sibi iniuriam inferre. Primo sic, Qui agit scitum vetitum iniuriam 
+      <lb ed="#P" n="34"/>facit: at seipsum occidens est huiusmodi: igitur. Minorem suadet. nulli alii a se facit iniuriam cum sit agens 
+      pa<lb ed="#P" n="35" break="no"/>tiensque. Ex his videamus literam quae nihil obscure notificat illa quae proponimus. ait quod ex omni virtute 
+      <lb ed="#P" n="36"/>quaedam iusta sunt a lege ordinata modo circa vnamquamque virtutem quae lex non praecipit, vt lex non 
+      <lb ed="#P" n="37"/>iubet quempiam seipsum occidere, &amp; propterea vetat, ergo videtur vt quis possit sibi ipsi inferre iniuriam: 
+      <lb ed="#P" n="38"/>nam aliquid praeter legem. Secundo cum aliquis contra legem quenquam laedit non laesus aut lacessitus, tum 
+      <lb ed="#P" n="39"/>iste iniuriam voluntarie facit: sponte autem iniuriam is facit, qui nouit eum cui facit, &amp; modum quo 
+      fa<lb ed="#P" n="40" break="no"/>cit, &amp; caetera id genus: sed ille qui seipsum ob iram occidit voluntarie laedit non lacessitus: &amp; facit illud quod 
+      <lb ed="#P" n="41"/>lex non permittit, &amp; contra legem rectam: iniuriam ergo facit. Sed cuinam precor: an sibiipsi, an 
+      ci<lb ed="#P" n="42" break="no"/>uitati? Attamen concluditur, qui hac via in se peccat non sibiipsi, sed ciuitati facit iniuriam. Probatur haec 
+      <lb ed="#P" n="43"/>conclusio. Nullus patitur iniuriam volens. sed iste patitur volens, ergo non facit sibi iniuriam. Ciuitati autem 
+      <lb ed="#P" n="44"/>est iniurius, quia ciuitati facit iniuriam quam vno ciue iniusto priuat. Probatur primo a signo sic, Ille cuius 
+      <lb ed="#P" n="45"/>cadaueri infertur damnum a ciuitate: facit iniuriam ciuitati: at cadaueri occidentis seipsum infertur post 
+      mor<lb ed="#P" n="46" break="no"/>tem iactura a ciuitate: igitur. Minorem ponit in litera sic inquiens. Quapropter ciuitas muctat &amp; 
+      institu<lb ed="#P" n="47" break="no"/>ta est ignominia quaedam aduersus eum qui sibi mortem consciuit vt ciuitati iniuriam facienti. Siquidem 
+      <lb ed="#P" n="48"/>ad locum humilimum eius cadauer more canum vncis contemptim trahitur, &amp; manet insepultum. Per 
+      <lb ed="#P" n="49"/>ciuitatem, vicum, &amp; quamlibet congregationem cuius occisor est pars, intelligito.
+    </p>
+            <p xml:id="JMAet9-d24397-d1e159">
+               <pc type="pilcrow">¶</pc> Sequitur in litera. 
+      Prae<lb ed="#P" n="50" break="no"/>terea fieri non potest &amp;c. Hic soluit quaestionem quantum ad iustitiam particularem &amp; dicit. Quispiam est iniu 
+      <lb ed="#P" n="51"/>stus non quasi totaliter prauus secundum omnem malitiam: hoc est non oppositus totali iustitiae sed 
+      particu<lb ed="#P" n="52" break="no"/>lari, dico etiam hoc in intellectu nemo facit sibi iniuriam hoc exponendo dicit, quod hoc iniustum contra 
+      parti<lb ed="#P" n="53" break="no"/>cularem iustitiam est aliud ab illo iniusto quod est contra vniuersalem iustitiam. Ille quoque sic malus vt sibi 
+      <lb ed="#P" n="54"/>nociuus, est aliqualiter malus veluti timidus non habens totam malitiam vniuersali iustitiae oppositam sed  
+      <lb ed="#P" n="55"/>eius partem: sicut timidus habet eam malitiae portionem quae fortitudini aduersatur. Probat quod dixit 
+      <lb ed="#P" n="56"/>sic. Ille qui facit iniuriam contra iustitiam particularem habet plus quam par sit: &amp; ille qui patitur, minus: 
+      se<lb ed="#P" n="57" break="no"/>quitur quod si aliquis sibi iniuriam faciat &amp; minus &amp; magis quam par sit habebit. Accedendo ad 
+      lite<lb ed="#P" n="58" break="no"/>ram. Secundo qui non est omnino vitiosus, &amp; solum iniuriam facit non sibiipsi iniuriam facit qua¬ 
+      <!--200.xml-->
+      <pb ed="#P" n="91-r"/>
+               <lb ed="#P" n="1"/>tenus est iniustus, atque iniustus non est omnino vitiosus. Discrepat enim inuisus a prorsus vitioso. 
+      Iniu<lb ed="#P" n="2" break="no"/>stus quodammodo dicitur prauus contra iustitiam particularem: quemadmodum meticulosus 
+      aliquo<lb ed="#P" n="3" break="no"/>modo dicitur prauus non vt totam malitiam habens: igitur non sibiipsi quispiam facit iniuriam 
+      qua<lb ed="#P" n="4" break="no"/>tenus est iniustus. quia nec hac particulari iniustitia sibi iniuriam facit: haberet enim maius quatenus 
+      <lb ed="#P" n="5"/>iniuriam operans, &amp; minus quatenus iniuriam passus, &amp; idem simul subtractum ab aliquo, &amp; eidem 
+      <lb ed="#P" n="6"/>additum esset, puta pecunia alicui iniuriam facienti subtraheretur, &amp; eadem illi restitueretur: quod 
+      fie<lb ed="#P" n="7" break="no"/>ri non potest. Proinde nemo vnquam sibiipsi facit iniuriam, sed semper inter plures inustum &amp; iniustum 
+      <lb ed="#P" n="8"/>sunt. Pari forma &amp; iniuriam facere &amp; iniuriam pati. Tertio argumentando probatur sic qui iniuriam 
+      <lb ed="#P" n="9"/>facit, voluntarie &amp; electione prior malum intendit, qui prior laesus est &amp; vicissim laedit non facit 
+      iniuri<lb ed="#P" n="10" break="no"/>am, sed citius eam propulsat: qui vero seipsum laedit ipse simul eadem patitur &amp; sibi facit, &amp; licet idem 
+      <lb ed="#P" n="11"/>in se agere potest non tamen hac actione quantum ad iniuriam. Insuper tunc aliquis volens sua 
+      spon<lb ed="#P" n="12" break="no"/>t e iniuriam pateretur: contra superius dicta. Vlterius argumentatur sic: Siue singulis iniuriis hoc est 
+      <lb ed="#P" n="13"/>particularibus iniuriis nemo facit iniuriam: ergo nullus facit sibi iniuriam opposito iusto particulari. 
+      <lb ed="#P" n="14"/>Antecedens patet in ductiue. Nemo moechiam propria cum vxore committit. Nemo parietem cum 
+      iniu<lb ed="#P" n="15" break="no"/>ria confodit suum. Nemo res suas furatur: &amp; ita vbique: igitur nemo sibiipsi facit iniuriam. Finaliter 
+      <lb ed="#P" n="16"/>argumentatur sic, omnino sibiipsi iniuriam facere soluitur diffinitione huius quod est iniuriam pati: sed  
+      <lb ed="#P" n="17"/>nemo sua sponte patitur iniuriam, igitur nemo voluntarie sibi facit iniuriam. 
+    </p>
+            <p xml:id="JMAet9-d24397-d1e225">
+               <lb ed="#P" n="18"/>⁋ Alia conclusio. Tam iniuriam facere quam iniuriam pati prauum est. Probatur, quia in moralibus omnis 
+      <lb ed="#P" n="19"/>excessus &amp; defectus est quid prauum cum discedatur a medio. Hic vocabulum prauum extenditur ad 
+      o<lb ed="#P" n="20" break="no"/>mnem recessum a medio: conclusio sequens id manifestat. Perinde se se habet ac in medicina hoc quod 
+      per<lb ed="#P" n="21" break="no"/>ducit ad sanitatem &amp; in exercitandi arte quod ad corporis soliditatem corpus perducit. Si plus tibi quam opor 
+      <lb ed="#P" n="22"/>tet detur, sanitatem impedit: pari iure si minus. Sic etiam in exercitatiua: maior quam oportet vires eneruat 
+      <lb ed="#P" n="23"/>&amp; minor vires laxat &amp; emollit. 
+    </p>
+            <p xml:id="JMAet9-d24397-d1e241">
+               <lb ed="#P" n="24"/>⁋ Alia conclusio. Iniuriam facere est deterius quam iniuriam pati: iniuriam facere non est sine vitio &amp; 
+      vitu<lb ed="#P" n="25" break="no"/>peratur: &amp; est cum prauitate vel perfecta vel in confinio. cum perfecta quando quis facit iniuriam sua 
+      spon<lb ed="#P" n="26" break="no"/>te &amp; electione: est in confinio cum prauitate vel perfecta: hoc est prope perfectam prauitatem: non enim 
+      o<lb ed="#P" n="27" break="no"/>mne quod sponte fit cum iniustitia est perfecta prauitas, vt cum quis calore iracundiae pulsat. Sed pati 
+      in<lb ed="#P" n="28" break="no"/>iuriam est sine vitio &amp; iniustitia in casu, 
+    </p>
+            <p xml:id="JMAet9-d24397-d1e255">
+               <lb ed="#P" n="29"/>⁋ Alia conclusio. Per se igitur, id est absolute ac communiter pati iniuriam minus est malum: sed per 
+      acci<lb ed="#P" n="30" break="no"/>dens &amp; in casu nihil prohibet esse maius Patet. Ex hoc quod Socrates patitur iniuriam a Platone, ipse 
+      Pla<lb ed="#P" n="31" break="no"/>to ad maiora facinora prouocatur. Insuper Socrates patiens iniuriam potest desperationem incurrere &amp; 
+      <lb ed="#P" n="32"/>sibi mortem consciscere. Sed de his quae per accidens contingunt arti non est curae: vt ars medendi dicit 
+      <lb ed="#P" n="33"/>pleuresim lateris morbum, qui cum febre &amp; sputo sanguinolento est, maiorem quam pedis offensionem: quamquam 
+      po<lb ed="#P" n="34" break="no"/>test fieri nonnunquam contra per accidens. Vt si ita contigerit vt aliquis offenso pede capiatur ab hoste 
+      ca<lb ed="#P" n="35" break="no"/>ptusque occidatur: tunc grandior pernicies in casu sequitur. Homicidium theologi dicunt esse grauius 
+      moe<lb ed="#P" n="36" break="no"/>chia: verumtamen aliquod adulterium hoc homicidio est detrimentosius vt temerare reginam quam 
+      sycho<lb ed="#P" n="37" break="no"/>phantem aut grassatorem abiectissimum trucidare.
+    </p>
+            <p xml:id="JMAet9-d24397-d1e277">
+               <pc type="pilcrow">¶</pc> Alia conclusio. Tametsi ad se &amp; sua proprie non 
+      <lb ed="#P" n="38"/>sit: iustum vel iniuria: tamen inter hominem &amp; suos potest esse translatitie &amp; metaphorice. Non est iustum 
+      <lb ed="#P" n="39"/>ciuile hominis ad se vel suos vt superius capite sexto retulimus. Nam licet non omne iustum in illis 
+      vi<lb ed="#P" n="40" break="no"/>deatur, herile tamen iustum &amp; rei familiaris vt paternum &amp; oeconomicum in illis esse videtur. Patet ex 
+      <lb ed="#P" n="41"/>capite huius libri sexto, hac ferme ratione distat pars animae quae rationem habet quemadmodum est 
+      <lb ed="#P" n="42"/>intellectus &amp; appetitus intellectiuus, a parte bruta quae rationis est expers. Partes inspicientes ad seipsum 
+      <lb ed="#P" n="43"/>iniustitiam esse visum est: ob id quod in ipsis contingit alteram ab altera pati praeter suos rationales 
+      affe<lb ed="#P" n="44" break="no"/>ctus cum appetitus sensitiuus (qui obsecundare habet) rationem vincat interdum econtrario, quando 
+      ra<lb ed="#P" n="45" break="no"/>tio appetui sensitiuo dominatur. Primum in incontinente: &amp; secundum in continente contingit. Tale 
+      <lb ed="#P" n="46"/>iustum non est hominis ad seipsum sed partis ad partem, loquendo vt plures: ac si essent partes animae 
+      dis<lb ed="#P" n="47" break="no"/>tinctae. Item appetitus sensitiuus est totum respectu partis intellectiuae. Sed reuera iustum est 
+      magistra<lb ed="#P" n="48" break="no"/>tum gerenti his quibus praeest imperare: sic par est animae partem rationis participem illi parti imperare 
+      <lb ed="#P" n="49"/>quae est rationis inops. Hoc modo de iustitia ac caeteris moralibus virtutibus affatim sita determinatum. 
+      <lb ed="#P" n="50"/>Post haec de intellectualibus virtutibus sumus loquuturi. 
+    </p>
+            <p xml:id="JMAet9-d24397-d1e311">
+               <lb ed="#P" n="51"/>⁋ Dubitatur de veritate illius maxime quam Aristoteles in huius capitis fronte supponit.
+    </p>
+            <p xml:id="JMAet9-d24397-d1e316">
+               <pc type="pilcrow">¶</pc> Secundo I 
+      <lb ed="#P" n="52"/>dubitatur quomodo aequitas ita audacter iustum legale dirigat.
+    </p>
+            <p xml:id="JMAet9-d24397-d1e324">
+               <pc type="pilcrow">¶</pc> Ad priorem dubitationem respondetur:. 
+      <lb ed="#P" n="53"/>quod si sumus in materia quae regulariter permittitur ex suo genere, tunc quod non est prohibitum est 
+      conces<lb ed="#P" n="54" break="no"/>um. Patet de tras. ex. S. inter corporalia, iuncta glossa, sic quilibet potest esse testis qui non est prohibitus, 
+      <lb ed="#P" n="55"/>&amp; quilibet potest contrahere matrimonium nisi inueniatur ei prohibitum. In talibus edictum est 
+      per<lb ed="#P" n="56" break="no"/>missorium regulariter &amp; in suo genere &amp; certorum casuum aut certarum personarum est prohibitorium. 
+      <lb ed="#P" n="57"/>Si autem sumus in materia quae regulariter in suo genere est prohibita, si est de genere prohibitorum tunc 
+      <lb ed="#P" n="58"/>omnia intelliguntur prohibita quae non reperiuntur permissa. Nam alio non occurente recurrendum est 
+      <lb ed="#P" n="59"/>ad regulam. si. de reg. iur. I. omnis diffinitio: satis est in nostra materia. In per se malis quod lex non iubet 
+      nec<lb ed="#P" n="60" break="no"/>permittit vetat. Vt sanctio non iubet filium pulsare patrem proinde illud fieri prohibet.
+    </p>
+            <p xml:id="JMAet9-d24397-d1e347">
+               <pc type="pilcrow">¶</pc> Ad secundam 
+      <lb ed="#P" n="61"/>dubitationem respondetur quod iustitia est virtus ordinata pro tramquillitate in politia habenda: reddit enim Caesari 
+      <lb ed="#P" n="62"/>quam Caesaris sunt: &amp; deo quae dei sunt: sontes mulctat vt grassatores malis facinoribus cohibeat &amp; insontes 
+      tran<lb ed="#P" n="63" break="no"/>quille degant. Nouit ingenio &amp; habitu aequitate praeditus iustitiam &amp; ad eam ordinatum. Insuper ex lege naturae sine 
+      <lb ed="#P" n="64"/>doctore extrinseco haurit, quod quicquid ordinatur ob aliquem finem cum eius ordinatio &amp; institutio illi fini aduersatur non 
+      <!--201.xml-->
+      <pb ed="#P" n="91-v"/>
+               <lb ed="#P" n="1"/>est seruandum: sicut theologi aiunt institutum pro charitate contra charitatem militare non debet. Pro 
+      <lb ed="#P" n="2"/>hono publico legissator vetat ne peregrinus vllus sub poena capitis ciuitatis moenia conscendat: quia talis 
+      con<lb ed="#P" n="3" break="no"/>scensus potest esse causa traditionis ciuitatis. hostes veniunt vrbem capturi: peregrinus portas vrbis occludit, &amp; 
+      <lb ed="#P" n="4"/>animose moenia conscendens hostibus reluctitur quoad ciues in auxilium superueniunt: post vrbem defensam tamquam 
+      <lb ed="#P" n="5"/>pruiricator statutorum vrbis quaeritur ad supplicium. Quaerentibus autem aequus contradicit inquiens non 
+      <lb ed="#P" n="6"/>esse mentem legissatoris vrbis tutorem de medio tollere, sed temerarium moenium ascensorem, ne talis 
+      ho<lb ed="#P" n="7" break="no"/>stes inuitando aut aditum prodendo, vrbem tradat. hoc ipsum perspicuum, alii videntes protinus bene 
+      me<lb ed="#P" n="8" break="no"/>rentem liberant, praemiisque donant: &amp; corticem legis euellentes ipsius nucleum cum bona aequitate capiunt. 
+    </p>
+            <p xml:id="JMAet9-d24397-d1e384">
+               <lb ed="#P" n="9"/>⁋ Tertio ambigitur cui facit iniuriam sibi laetum consciscens: &amp; an Saul cum suo pedissequo amalechita 
+      <lb ed="#P" n="10"/>peccauerit. Ad priorem quaesiti partem respondemus quod deo qui animam ex nihilo creauit iniuriam facit. 
+      <lb ed="#P" n="11"/>profecto illius est munus animam a se creatam e suo carcere congruente tempestate educere verumtamen 
+      <lb ed="#P" n="12"/>iusta conflictitione occidentis, corpus indisponitur vt anima corpus tali discrasia inepte informet. Ad 
+      se<lb ed="#P" n="13" break="no"/>cundum dicimus quod ne in manus incircuncisorum Saul deueniret, seipsum transfodere laborauit: hocque 
+      <lb ed="#P" n="14"/>eius culpam attenuat, attamen eam a toto haud eximit: &amp; cum in deum ac rempublicam deliquerit, illius 
+      <lb ed="#P" n="15"/>imperio famulus parere non habuit. hinc a Dauide paricidii vindice mulctatus est.
+    </p>
+            <p xml:id="JMAet9-d24397-d1e402">
+               <pc type="pilcrow">¶</pc> Ambigitur an 
+      iniu<lb ed="#P" n="16" break="no"/>riam pati sit vituperabile. Constructiue respondeo quando decet eam propulsare vnde Tullius primo offi 
+      <lb ed="#P" n="17"/>ciorum inquit: Iniustitiae duo sunt genera vnum eorum qui inferunt: alterum eorum qui ab his quibus 
+      <lb ed="#P" n="18"/>infertur si possint iniuriam non propulsant. Et mox paulo subdit. Qui autem non defendit nec obsistit 
+      <lb ed="#P" n="19"/>si potest iniuriae tam est in vitio quam si parentes aut amicos aut patriam deserat. Cyrus inclytus apud 
+      Xeno<lb ed="#P" n="20" break="no"/>phontem libro primo ait: Nihil iustius quam propulsare iniuriam: aut pulchrius quam amicis succurrere. 
+      Consen<lb ed="#P" n="21" break="no"/>tanee ad hoc Plato quinto de legibus inquit. Qui non est iniurius honorari debet, qui vero nec alios id fa 
+      <lb ed="#P" n="22"/>cere patitur duplici honore dignus est. Ille enim vni, hic vero multis hominibus opitulatur. Interdum est 
+      <lb ed="#P" n="23"/>decentiae ac honestatis iniuriam propulsare, nonnunquam praeceptionis ferociam saeuientis cohibere ne alium 
+      lae<lb ed="#P" n="24" break="no"/>dat: &amp; a fortiore ne in te sua rabie saeuiat. Haec scripserim in illos qui iniuriam pati solum poenam &amp; non cul 
+      <lb ed="#P" n="25"/>pam existimant: contra Aristotelis expressam literam, ac contra veritatem.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

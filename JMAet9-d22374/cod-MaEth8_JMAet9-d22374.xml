@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 6</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 6</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d22374"><!-- mair-l5c6 -->
+            <head xml:id="JMAet9-d22374-Hd1e103">Caput 6</head>
+            <p xml:id="JMAet9-d22374-d1e106">
+               <lb ed="#P" n="47"/>
+               <quote xml:id="JMAet9-d22374-Qd1e110" type="lemma">CVm autem fieri possit</quote>. Hic de subiecto iniustitiae loquitur docens quis sit iniustus: &amp; proponit 
+      quae<lb ed="#P" n="48" break="no"/>stionem cum causa dubitandi. Quaestio est haec. Quoniam fieri potest vt iniuriam quis faciat &amp; nondum sit 
+      <lb ed="#P" n="49"/>iniustus: ob quas igitur iniurias quis est iniustus? Et hoc quaeritur vniuersaliter circa vnamquamque 
+      <lb ed="#P" n="50"/>iniustitiam: puta quando faciens quis furtum est fur: stat enim capere alienum in necessitate, &amp; tamen talis non est 
+      <lb ed="#P" n="51"/>fur: &amp; quale latrocinium quis faciens dicetur latro. Potest etiam communiugatam cognoscere ex ignorantia 
+      inuin<lb ed="#P" n="52" break="no"/>cibili, aut vincibili cum parua culpa: &amp; tunc non erit adulter: licet adulterium committat. An id quidem nihil 
+      <lb ed="#P" n="53"/>refert qualitercumque sit factum ipsum denominabit iniustum, furem, latronem, &amp; adulterum.
+    </p>
+            <p xml:id="JMAet9-d22374-d1e127">
+               <pc type="pilcrow">¶</pc> Prima conclusio. 
+      <lb ed="#P" n="54"/>Quas iniurias quis faciat vt iniustus dicatur aut non dicatur interest. Nam fieri potest vt quis cum muliere 
+      <lb ed="#P" n="55"/>dormiat sciens cum qua venerem exercet &amp; non ex electione, sed ex affectu ac perturbatione faciat: quare 
+      <!--182.xml-->
+      <pb ed="#P" n="83-r"/>
+               <lb ed="#P" n="1"/>talis inustus non est: sed iniuriam agit. Pari forma nec fur est continuo quilibet qui altero inuito clanculum 
+      <lb ed="#P" n="2"/>rem surripuit. Neque omnis est adulter qui alterius thoro se implicat, sed solum ille qui istas iniurias ex. 
+      <lb ed="#P" n="3"/>habitu &amp; electione committit, is iniustus est. ergo interest quas quis admittit iniurias vt iniustus aut  
+      <lb ed="#P" n="4"/>non, dicatur.
+    </p>
+            <p xml:id="JMAet9-d22374-d1e150">
+               <pc type="pilcrow">¶</pc> Secunda quaestio quam absoluere cum eis convenit scilicet qualiter contra passum se habeat ad iustum 
+      <lb ed="#P" n="5"/>superius diluta est. At nunc de iusto simpliciter quid ipsum sit quaeratur. Diffinit ipsum dicens 
+      simpli<lb ed="#P" n="6" break="no"/>citer iustum siue absque addito est iustum ciuile &amp; politicum: &amp; est iustum quod inter socios vitae atque coaequales 
+      <lb ed="#P" n="7"/>versatur, vt bonorum sit copia inter eos qui liberam viuunt vitam &amp; in vita sunt aequales, quia dominorum ad  
+      <lb ed="#P" n="8"/>seruos non est politicum iustum, sed dominatiuum, vt paulo mox dicet: nec est personarum inaequalium quarum 
+      <lb ed="#P" n="9"/>vna naturali ordine vel ciuiliter alteri est subiugata, sicut filius patri. Tale enim non est politicum iustum, sed  
+      <lb ed="#P" n="10"/>paternum. lustum politicum nunc in geometrica rationum comparatione quantum ad iustum distributiuum, aut in 
+      nu<lb ed="#P" n="11" break="no"/>mero, hoc est vbi est aequalis numeri excessus, hoc est arithmetica proportionalitate, vt in iusto 
+      commu<lb ed="#P" n="12" break="no"/>tatiuo: quocirca in quibus non inuenitur libertas &amp; aequalitas, inter eos non est iustum ciuile: licet in illis. 
+      <lb ed="#P" n="13"/>inueniatur iustum per similitudinem, vt dominatiuum vel paternum.
+    </p>
+            <p xml:id="JMAet9-d22374-d1e175">
+               <pc type="pilcrow">¶</pc> Alia conclusio. lustum ciuile inter eos est in  
+      <lb ed="#P" n="14"/>quos lex &amp; iustitia cadit: nam iis iustum ciuile ordinatur quibus ponitur lex. Lex autem ponitur iis in quos 
+      iusti<lb ed="#P" n="15" break="no"/>tia cadit. Est enim iudicium quod a lege prouenit diiudicatio sine vindicta iusti &amp; iniusti: sed vbicumque 
+      iniu<lb ed="#P" n="16" break="no"/>stitia est illic est iniuriam facere: licet non contra vniuersaliter. Est enim iniuriam facere plus ex simpliciter 
+      <lb ed="#P" n="17"/>bonis, minus vero ex simpliciter malis sibi tribuere: &amp; pari forma alii ad alterum. Hoc est clare dicere. 
+      <lb ed="#P" n="18"/>lex solum datur inter eos inter quos contingit esse iniustitiam: quia vindicta legis est legale iudicium iusti &amp; 
+      <lb ed="#P" n="19"/>iniusti, quare vindicta legis praesupponit litem inter eos ad quos fertur super iusto &amp; iniusto sub iure &amp; 
+      in<lb ed="#P" n="20" break="no"/>iuria: &amp; inter eos qui nec liberi nec aequales sunt non est talis iniustitia, nec contentio de iusto &amp; iniusto¬ 
+    </p>
+            <p xml:id="JMAet9-d22374-d1e197">
+               <lb ed="#P" n="21"/>⁋ Corollatium. Quapropter non sinimus hominem dominari in ciuitate bene recta sed ratione. Nam si 
+      <lb ed="#P" n="22"/>hominem secundum suas affectiones dominari &amp; principatum gerere permitteremus, plus sibi de simpliciter 
+      <lb ed="#P" n="23"/>bonis, hoc est de honoribus &amp; fortunis, &amp; minus de simpliciter malis daret, &amp; in illo dominatu foret 
+      <lb ed="#P" n="24"/>tyrannus. Magistratus autem vt Praetor, Consul, qui sic dominatur, custos est iusti &amp; ex consequenti aequi. 
+    </p>
+            <p xml:id="JMAet9-d22374-d1e208">
+               <lb ed="#P" n="25"/>⁋ Alia conclusio. Magistratus aliis non sibi laborat, cui honor &amp; gloria in sua functione pro mercede 
+      <lb ed="#P" n="26"/>sufficiunt. Probatur. Nihil enim plus sibi dandum censet quam compartione rationum suae sorti obtigerit: ergo prorsus 
+      <lb ed="#P" n="27"/>aliis quam sibi insudat. Et hic non ab re iustitiam alienum bonum appellat sicut primo capite huius libri retulimus. 
+    </p>
+            <p xml:id="JMAet9-d22374-d1e217">
+               <lb ed="#P" n="28"/>⁋ Alia conclusio. Herile iustum hoc est dominicum atque paternum non coincidunt cum iusto politico, sed 
+      simili<lb ed="#P" n="29" break="no"/>tudinem cum eo habent. Probatur. Ad sua non est absolute iniustitia: seruus qui abs te possidetur est tuus: sermo 
+      <lb ed="#P" n="30"/>est de seruo qui totaliter est in potestate domini qualem nullum Britannia, nec quod sciam, Francia nunc 
+      ha<lb ed="#P" n="31" break="no"/>bet. At in continente plerique sunt tales pro quibus multi tituli in legibus ponuntur. Seruus ergo &amp; filius 
+      <lb ed="#P" n="32"/>quandiu sit paruulus &amp; non separatus a patre est aliquid ipsius patris. Se nemo vult laedere nec sibi nocere.¬ 
+      <lb ed="#P" n="33"/>Si enim quispiam partem inficientem totum abscindat in morbo, non intendit sese laedere sed sibi sospitatem quam potest. 
+      <lb ed="#P" n="34"/>vult tribuere: quapropter non est ad seipsum iniustitia, &amp; si esse potest iniustitia non est iustum aut iniustum 
+      <lb ed="#P" n="35"/>ciuile. Probatur. lustum ciuile est secundum legemn vbi nata est esse lex. Tales sunt scita quibus aequalitas 
+      compe<lb ed="#P" n="36" break="no"/>tit, quantum ad subiici &amp; imperare. Loquitur semper de aequalitate libertatis &amp; authoritatis saltem vicissim, 
+      <lb ed="#P" n="37"/>nec sensim est talis subiectio, sicut heri ad seruum, aut patris ad filium. Non autem de aequalitate generis aut  
+      <lb ed="#P" n="38"/>opum. Propterea dicit litera. Neque ergo iustum nec iniustum est ciuile: est enim lege atque in iis in quibus lex esse 
+      <lb ed="#P" n="39"/>potest, qui quidem ii sunt quibus aequalitas imperandi atque parendi inest. 
+    </p>
+            <p xml:id="JMAet9-d22374-d1e246">
+               <lb ed="#P" n="40"/>⁋ Alia conclusio. Viri ad communiugemn magis videtur iustum ciuile quam ad liberos. Probatur. Vbi est minor subiectio 
+      <lb ed="#P" n="41"/>vnius sub alio, ibi est maior aequalitas, &amp; per consequens magis iustum: sed vxor est minus subiecta suo viro 
+      <lb ed="#P" n="42"/>quam filius patri aut seruus domino. Hinc ait in Postpraedicamentis, quod virum possidere vxorem est alienissimus 
+      <lb ed="#P" n="43"/>modus habendi quum ab ea iterum habeatur: at viri ad vxorem est iustum oeconomicum, quia vir in sua 
+      fami<lb ed="#P" n="44" break="no"/>lia sicut princeps in ciuitate praeest. Illud autem iustum si oeconomicum est aliud a iusto politico. 
+    </p>
+            <p xml:id="JMAet9-d22374-d1e259">
+               <lb ed="#P" n="45"/>⁋ Dubitatur, quid interest inter iustum ciuile, herile, &amp; paternum. Respondetur, quod in multis differunt. 
+      Primo<lb ed="#P" n="46" break="no"/>quantum ad materiam &amp; obiectum: nam iustum ciuile est inter partes ciuitatis &amp; inter ciues, hinc ciuile &amp; politicum 
+      <lb ed="#P" n="47"/>dicitur. Alia dominia sunt inter partes domus primo politicae dicit Aristoteles, primae &amp; minimae partes do 
+      <lb ed="#P" n="48"/>mus sunt dominus &amp; seruus, vir &amp; vxor, pater &amp; filius: modo ciuitas &amp; domus non parum discrepant. 
+      Se<lb ed="#P" n="49" break="no"/>cundo iustum ciuile est inter diuisos in proprietate &amp; fortunarum vsu, &amp; inter personas aequales: opposito modo  
+      <lb ed="#P" n="50"/>est de aliis vti ipse in promptu siue relatione vlteriore vides. Legissator princeps non solet regulariter 
+      <lb ed="#P" n="51"/>punire facta inter patrem &amp; natos, virum &amp; vxorem, inter dominum &amp; seruum: propterea lex non ponitur inter eos.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

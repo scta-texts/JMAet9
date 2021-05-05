@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 10</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 10</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d13711"><!-- mair-l3c10 -->
+            <head xml:id="JMAet9-d13711-Hd1e103">Caput 10</head>
+            <!--alias="mair-l3c10p1"-->
+            <p xml:id="JMAet9-d13711-d1e108"> 
+               <lb ed="#P" n="13"/>
+               <quote xml:id="JMAet9-d13711-Qd1e112" type="lemma">POst hanc autem de temperantia dicamus</quote> &amp;c. Prima conclusio, Postquam de fortitudine exactum est superest de temperan 
+      <lb ed="#P" n="14"/>tia loqui: hae namque virtutes partium irrationalium esse videtur. <ref xml:id="JMAet9-d13711-Rd1e117">
+                  <name xml:id="JMAet9-d13711-Nd1e119">Diuus Thomas</name> prima sedae</ref> verbis Aristo. 
+      mo<lb ed="#P" n="15" break="no"/>tus dicit hastae virtutes esse solum in appetitu sensitiuo cum quo non opinor, verum sic illud intelligo 
+      quan<lb ed="#P" n="16" break="no"/>tum ad temperantiam. In sensu gustus &amp; tactuscommunicamus cum belluis, in venereis: pabulo, &amp; potu, cum pecudibus 
+      partici<lb ed="#P" n="17" break="no"/>pamus. Siie in fortitudine circa metus, audacias &amp; mortem pecora nobiscum conveniunt, vt in tertia specie fortitu 
+      <lb ed="#P" n="18"/>dinis silitudinarie fusius per bruta disseruimus. Cum pecoribus in prudentia, iustitia &amp; aliis virtutibus minime 
+      communi<lb ed="#P" n="19" break="no"/>camus. Non aliter has virtutes in appetitu sensitiuo quam iustitiam pono, nec iter vi concupiscibilem &amp; irascibilem 
+      il<lb ed="#P" n="20" break="no"/>lud discrimen quorundam approbo. Est enim eadem aia quae diuersis respectibus has denominationes sibi vendicat, vt prius 
+      <lb ed="#P" n="21"/>in secudm dictum est, vel sic &amp; parum interest. De tempantia phlus in itra explanat quomodo intempantia est brutale vitium 
+      <lb ed="#P" n="22"/>ob sensum tactum, set de fortitudine res est magis implexa. Declaratur: nam circa tactum sunt flagella &amp; vibices. proinde 
+      <lb ed="#P" n="23"/>circa illum sensum fortitudo relucet: eam ob rem partium itrotionabilium hae virtutes dicuntur esse. Tempeantiam circa volupta 
+      <lb ed="#P" n="24"/>tes mediocritatem esse atque tristitias dicimus, l minus circa tristitias insudet. Non est sermo de dolore plagarum 
+      <lb ed="#P" n="25"/>quia ille ad fortitudinem attinet, se loquitur de tristitia quae fit ex absentia delectabilium. Et quia delectabile efficacius 
+      <lb ed="#P" n="26"/>agit praeses quam abses, hic magiisudat circa voluptatem quam tristitiam.
+    </p>
+            <p xml:id="JMAet9-d13711-d1e150">
+               <pc type="pilcrow">¶</pc> Circa eadem etiam intemperantia versatur. Contraria 
+      <lb ed="#P" n="27"/>em sunt circa idem, sed diuersimode, &amp; circa quaes est voluptas determinemus ops.
+    </p>
+            <p xml:id="JMAet9-d13711-d1e158">
+               <pc type="pilcrow">¶</pc> Sequitur seda conclo. Non omnim 
+      <lb ed="#P" n="28"/>voluptatum siue dolorum tempantia es. Nam voluptatum quaedam sunt aiae, quaedam sunt corperis. Tempantia non est circa mentis 
+      <lb ed="#P" n="29"/>voluptates, set circa corpris aliquas. Voluptatum partitionem ponit. Voluptates enim aiae quae aiales apd antiquos &amp; an 
+      <lb ed="#P" n="30"/>tiquam translationem vocantur, sunt delectationes quae consequuntur operationes virtutum interiorum nihil patiente corpere, 
+      cuius<lb ed="#P" n="31" break="no"/>modi est delectatio quae emergit ex honoris aut disciplinae amore. Voluptates corperales dicuntur delectationes 
+      <lb ed="#P" n="32"/>quam consequuntur delectationes aiae &amp; corperis aliquid patiente corpere cum corperis mutatione: vt sunt delectationes gustus &amp; 
+      <lb ed="#P" n="33"/>tactus quae fiunt cum immutatione &amp; alteratione corperis, &amp; tursus delectationes aiales trifariam seiugantur. Quaedam enim 
+      <lb ed="#P" n="34"/>sunt menti delectabiles ex honestate, vt honos, virtus, disciplina, scientia, &amp; circa tales delectationes non est 
+      ten<lb ed="#P" n="35" break="no"/>perantia. Quaedam sunt menti iucundae ex nouitate, vt rumores, fabellae, in quibus aliqui tmpus inutilt terunt, tales 
+      <lb ed="#P" n="36"/>nec sunt tempeati nec intemperati, sed gartuli, &amp; verbosi: cum plus aequo talibus indulgeant. Ingeniosi &amp; Irati 
+      vi<lb ed="#P" n="37" break="no"/>ri solent signanter tempere pastus noua explorare, quia talium est noua &amp; miranda, &amp; de omnibus quae fiunt velle audire. 
+      Di<lb ed="#P" n="38" break="no"/>cit beatus Lucas in actibus. Erant Athenienses attenti semper audire aliquid noui. Et propter admirari, incepunt 
+      <lb ed="#P" n="39"/>philosophari: prio Metaphysicae. Historias aedificatiuas aut delectabiles dicere tempere longi pastus vel gra tae 
+      <lb ed="#P" n="40"/>dii euitandi. Nam aut prodesse volunt, aut delectare poetae. Hi &amp; prosunt &amp; voluptatem afferunt. His voluptatem 
+      ca<lb ed="#P" n="41" break="no"/>pientes non sunt verbosi. Quaedam sunt menti iucundae ex vtilitate vt pecuniae &amp; amici. Si quidem tam ambitio 
+      <lb ed="#P" n="42"/>sus quam disciplinae auidus eo gaudet cuius est auidus, vbique id habet verum. Trahit sua quemque voluptas. Et 
+      <lb ed="#P" n="43"/>corpus in talibus non patitur, sed ipsa mens. Et circa haec adhuc non est temperantia &amp; intemperantia. Haec autem vni 
+      <lb ed="#P" n="44"/>uersa ex communi loquendi mon probat.
+    </p>
+            <p xml:id="JMAet9-d13711-d1e202">
+               <pc type="pilcrow">¶</pc> Sequitur tertia conclo. Temperantia circa corperis voluptates, &amp; non omnes, versatur. 
+      <lb ed="#P" n="45"/>Prior conclusionis pers probatur. Nam temperantia est circa aliquans delectationes, &amp; no circa oblectamenta aiae, ex dictis 
+      <lb ed="#P" n="46"/>ergo circa oblectamenta corperis. Secudna pers probatur, quia non est circa sensum visus, auditus &amp; olfactus. Qui namque his 
+      re<lb ed="#P" n="47" break="no"/>bus gaudent quae visu percipiuntur, vt coloribus, forma, picturis, tales non dicuntur tempantes aut intemperantes, quia isti 
+      <lb ed="#P" n="48"/>sunt boni aut mali &amp; exprobrabiles, non autem illi. Igitur nec si quis oblectetur in his quae ab auditu hauriuntur, vt in  
+      <lb ed="#P" n="49"/>modulatione, aut histrionis cantatione etiam suaui, talis non dicitur temperatus aut intemperatus. Nec etiam ii qui circa odorum 
+      <lb ed="#P" n="50"/>suffitionem gaudent. In aestu &amp; calore vehementi aquam rosacea aut olfactu gaudent rosis. nos suffimus, aegri 
+      suf<lb ed="#P" n="51" break="no"/>fitu interdum leuantur hoc est in olfactu, se, non nisi per accidens: vt qui dulciter fragrantium malorum, vaporum, siue suf 
+      <lb ed="#P" n="52"/>fituum. em enim vapor exhalatio calida, tales non dicuntur intemperati, se illi potius qui vnguentorum &amp; epularum nidoribus de 
+      <lb ed="#P" n="53"/>lectantur. Vnguentum non est illd medicamentum tenax quae chirurgicus vtitur ad curadas plagas, set diuersorum odorum con 
+      <lb ed="#P" n="54"/>flatio, addito oleo aut balsamo ad corpera vngenda, delitiarum aut luxuriae gra. luxta illd in Canticis canticorum. 
+      <lb ed="#P" n="55"/>Odor vnguentorum tuorum super omnia aromata. Per accidens &amp; relatiue ad aliud in his sesibus gaudent, &amp; in his sesibus 
+      <lb ed="#P" n="56"/>per accidens est tempeantia vel intemperantia, puer quamto odores ordinem ad sapores habent. Quia per hos tres sesus earum rerum quans 
+      <lb ed="#P" n="57"/>intemperantes cupiunt occurrit recordatio, videre l aliquaes cum esuriunt, epularum odore gaudere, signanter cum 
+      esu<lb ed="#P" n="58" break="no"/>riunt. Nam cum saturati fuerint non gaudent tali odore. His autem gaudere epulis intemperantis est, quippe cum 
+      <lb ed="#P" n="59"/>eius intemperati haec obiiciuntur cupiditati, &amp; hoc si plus aequo his gaudeant. Postea phius ponit aliam 
+      <lb ed="#P" n="60"/>conclusionem incidentaliter dicens. Alia aialia ab homine non delectantur in visu, auditu &amp; olfactu. Probat 
+      <lb ed="#P" n="61"/>hoc in quolibet istorum trium sensuum, ldem in opere de sensu &amp; sensato, &amp; in problematis dicit. Vt canis 
+      <!--118.xml-->
+      <pb ed="#P" n="51-r"/>
+               <lb ed="#P" n="1"/>odore leporum non gaudet per se, hoc est propter ipsum odorem, sed propter cibum, odor autem sensum ferit: 
+      <lb ed="#P" n="2"/>Probat hoc in auditu de leone, inquiens. Neque mugitu bouis leo, sed ipsius bouis laniatu &amp; pastu 
+      gau<lb ed="#P" n="3" break="no"/>det, nisi quantum suo mugitu bos proditur vicinus. ldem de visu ostendit inquiens. Pari modo neque si 
+      <lb ed="#P" n="4"/>videt aut inuenit ceruum aut capream seu agrestem capram, hoc ipso gaudet, sed quia cibum 
+      habe<lb ed="#P" n="5" break="no"/>bit. Dicamus itaque sic. Temperantia &amp; intemperantia versantur circa voluptates corperis, at non circa voluptates, quae 
+      <lb ed="#P" n="6"/>percipiuntur visu, auditu &amp; olfactu: relinquitur igitur quod versentur circa eas quae in gustu &amp; tactu consistunt. Inter quinque 
+      <lb ed="#P" n="7"/>sensus hominis externos, tactus est omnim comunissimus. Nam nullum est aial gustu ac tactu orbatum confuso aut 
+      di<lb ed="#P" n="8" break="no"/>stincto, multa autem aialia aliis sensibus carent. Visus est sensus perfectissimus, prio Metaphysicae. In quocumque 
+      aia<lb ed="#P" n="9" break="no"/>li est visus, in illo sunt reliqui sensus. Momento tmperis operartur &amp; valde spuair. Gustus est tactus quidam quem homo 
+      per<lb ed="#P" n="10" break="no"/>fectissime habet, in reliquis vero sensibus ab aliis aialibus superartur, Bonitas tactus ingenii acumemlarguit. Molles 
+      <lb ed="#P" n="11"/>carne sunt apti mente. Per acutiem visus ingenium non probatur, sed per carnis teneritudinem. Ostensis manuum vo 
+      <lb ed="#P" n="12"/>lis iuuenes ingeniosos a rudi minerua torpentibus protinus discernas.
+    </p>
+            <p xml:id="JMAet9-d13711-d1e275">
+               <pc type="pilcrow">¶</pc> Dubitatur circa praedicta. 
+      Pri<lb ed="#P" n="13" break="no"/>mo in harmoniae auditione &amp; in pulchrorum colorum visu, quibus visus pascitur, &amp; similiter in olfactione 
+      con<lb ed="#P" n="14" break="no"/>tingit excedere &amp; deficere: ergo illic dabitur medium, &amp; non spectatid medium ad aliam virtutem quam ad temperantiam: 
+      <lb ed="#P" n="15"/>igitur. Forte dicis quod ista extrema non sunt multum apud vulgus exprobrabilia. impugno, quia cupidita 
+      <lb ed="#P" n="16"/>te sciendi aliqui inflantur qua intumescens Eua Deo parificari voluit, &amp; hoc scelus est grande: igitur. 
+    </p>
+            <p xml:id="JMAet9-d13711-d1e289">
+               <lb ed="#P" n="17"/>⁋ Secundo dubitatur quare hominibus datum est quinque sensibus exterioribus gaudere, non autem 
+      bru<lb ed="#P" n="18" break="no"/>tis.
+    </p>
+            <p xml:id="JMAet9-d13711-d1e296">
+               <pc type="pilcrow">¶</pc> Tertio de veritate illius solutionis philosophi in litera, videtur enim ipsa esse falsa: nam pauo 
+      <lb ed="#P" n="19"/>in erectione caudae contra solem delectatur, &amp; dolet in pedum foedorum aspectu, &amp; depositis pennis per 
+      <lb ed="#P" n="20"/>anni vices cauda amissa pudibundus quaerit latebram, quae cum renascuntur, hilaris in publicum pro 
+      <lb ed="#P" n="21"/>greditur.
+    </p>
+            <p xml:id="JMAet9-d13711-d1e308">
+               <pc type="pilcrow">¶</pc> Item de auditu: auctore Plinio delphin in cantu capit voluptatem. Et vulgo dicitur illud 
+      <lb ed="#P" n="22"/>Catonis: Fistula dulce canit volucrem dum decipit auceps.
+    </p>
+            <p xml:id="JMAet9-d13711-d1e316">
+               <pc type="pilcrow">¶</pc> Tertio canes odore non relatiue ad cibum 
+      <lb ed="#P" n="23"/>gaudent, patet quia cum sibi occurrunt mutuo odorant &amp; seipsos olfaciunt.
+    </p>
+            <p xml:id="JMAet9-d13711-d1e325">
+               <pc type="pilcrow">¶</pc> Quarto holor moriturus 
+      <lb ed="#P" n="24"/>suauiter canit.
+    </p>
+            <p xml:id="JMAet9-d13711-d1e333">
+               <pc type="pilcrow">¶</pc> Quinto canes delectantur in olfactu magistrorum aduenientium.
+    </p>
+            <p xml:id="JMAet9-d13711-d1e339">
+               <pc type="pilcrow">¶</pc> Sexto gallus cantat &amp; 
+      <lb ed="#P" n="25"/>in hoc delectatur. Silr gallina postquam ouum posuit cantat.
+    </p>
+            <p xml:id="JMAet9-d13711-d1e347">
+               <pc type="pilcrow">¶</pc> Ad primam dubitationem, aliorum modo loquendi 
+      <lb ed="#P" n="26"/>non impugnato, sed per aliam solutionem, dico quod assumptum est verum. Illic eum poest excessus &amp; defectus &amp; 
+      me<lb ed="#P" n="27" break="no"/>dium inueniri, sed illud rarenter in vsu est: nec est multum laudabile medium, nec extremum multum 
+      exprobra<lb ed="#P" n="28" break="no"/>bile: cuius oppositum in temperantia &amp; in intemperantia contingit. Sicut autem lex datur de his quae vulgo eueniunt: 
+      <lb ed="#P" n="29"/>sic virtutum nomina, talis autem virtus ad temperantiae gyrum reducitur. Nec expedit cuilibet virtuti speciatim 
+      no<lb ed="#P" n="30" break="no"/>mem indere: satis est nominata a philosophis ac theologis euentilare.
+    </p>
+            <p xml:id="JMAet9-d13711-d1e364">
+               <pc type="pilcrow">¶</pc> Ad sedam dubitationem respondetur 
+      <lb ed="#P" n="31"/>quod hominibus quinque sensus dantur obsensibilium cognitionem, &amp; adipsum roborandum, suauis citharae lusus &amp; 
+      <lb ed="#P" n="32"/>symphonia auditum coffortat, haerbarum odores cerebrum coadiuuant. Minor fuit cura deo in belluis, 
+      qua<lb ed="#P" n="33" break="no"/>rum appetitus a solo instinctu naturae mouetur, ideo non delectantur nisi in his sensibus quam ad sustentationem 
+      na<lb ed="#P" n="34" break="no"/>turae ordinantur.
+    </p>
+            <p xml:id="JMAet9-d13711-d1e378">
+               <pc type="pilcrow">¶</pc> Ad tertiam dubitationem respondetur quod Aristoteles expientia ad sic loquendum 
+      <lb ed="#P" n="35"/>mouebatur. Nam a foetore bruta non aufugiunt, &amp; si appones pulcherrimos colores equo, asino, boui aut 
+      ca<lb ed="#P" n="36" break="no"/>ni tuo, non mouebitur, sic nec de cantu &amp; odore. Ab alui item foeda proluuie aut excrementis pecora non 
+      <lb ed="#P" n="37"/>aufugiunt.
+    </p>
+            <p xml:id="JMAet9-d13711-d1e391">
+               <pc type="pilcrow">¶</pc> Ad primam obiectionem in oppositum, nego pauonem gaudere in visu plumarum, quia eo 
+      <lb ed="#P" n="38"/>ipso in pennis alterius pauonis gauderet, quod non percipimus, delectatur autem quia habet illas pen 
+      <lb ed="#P" n="39"/>nas. Sicut referunt foeminam non gaudere in visione pulchrae foeminae, sed viri, sed si seipsam pulchram 
+      <lb ed="#P" n="40"/>in speculo contemplatur, quia pulchritudinem habet gaudet. Licet homines in obiecto visus etiam non 
+      <lb ed="#P" n="41"/>relatiue delectentur, valeat analogia partim ad manuductionem.
+    </p>
+            <p xml:id="JMAet9-d13711-d1e405">
+               <pc type="pilcrow">¶</pc> Ad secundam rationem dicitur 
+      <lb ed="#P" n="42"/>quod odoratio canum videtur referri ad tactum, olfactio ad venerea explenda.
+    </p>
+            <p xml:id="JMAet9-d13711-d1e413">
+               <pc type="pilcrow">¶</pc> Ad secundum dicitur 
+      <lb ed="#P" n="43"/>&amp; hoc sufficit pro omnibus quod raro illud euenit vt bruta in hisce tribus sensibus non referendo ad 
+      ali<lb ed="#P" n="44" break="no"/>os sensus delectentur.
+    </p>
+            <p xml:id="JMAet9-d13711-d1e423">
+               <pc type="pilcrow">¶</pc> Ad tertium etiam dicitur quod auis est disciplinabilis &amp; ab instinctu naturae canit, &amp; non 
+      <lb ed="#P" n="45"/>quia voluptatem in suo cantu capit, sic sturnus, psittatus, coruus &amp; aues disciplinabiles canunt &amp; loquum 
+      <lb ed="#P" n="46"/>tur.
+    </p>
+            <p xml:id="JMAet9-d13711-d1e433">
+               <pc type="pilcrow">¶</pc> Ad quartum concedo holorem moriturum suauissime canere: iuxta illud Nasonis. Sic vbi 
+      fa<lb ed="#P" n="47" break="no"/>ta vocant vdis abiectus in vndis. Ad vada Maeandri concinit albus holor. 
+    </p>
+            <!--alias="mair-l3c10p2"-->
+            <p xml:id="JMAet9-d13711-d1e444">
+               <lb ed="#P" n="1"/>⁋ Sequitur in litera, <quote xml:id="JMAet9-d13711-Qd1e448" type="lemma">Circa voluptates igitur temperantia &amp; intemperantia versantur, quae caeteris 
+        ani<lb ed="#P" n="2" break="no"/>mantibus sunt communes</quote>, hoc est temperantia &amp; intemperantia sunt circa voluptates gustus &amp; tactus. Pro 
+      <lb ed="#P" n="3"/>batur haec conclusio sic. Temperantia &amp; intemperantia sunt circa aliquas voluptates, ex praedictis, &amp; non sunt circa 
+      <lb ed="#P" n="4"/>delectationes homini praecise addictas, vt aiales &amp; trium aliorum sensuum: igitur temperantia &amp; intemperantia 
+      <lb ed="#P" n="5"/>sunt circa delectationes, in quibus reliqua animalia communicant, quae sunt gustus &amp; tactus. Et 
+      pro<lb ed="#P" n="6" break="no"/>pterea corollatium lepidum &amp; notatu dignissimum infert dicens. Quocirca intemperantiae 
+      volupta<lb ed="#P" n="7" break="no"/>tes seruiles sunt &amp; brutae, quia illud cum quo in pecoribus communicamus est nobis seruile &amp; vita pecu 
+      <lb ed="#P" n="8"/>dum. Deinde ponit aliam conclusionem dicens, Gustus ad intemperantiam perpaucus aut nullus est 
+      <lb ed="#P" n="9"/>vsus, tactus autem plurimus. Nempe gustus officium est sapores discernere, vt faciunt pitisando vinum 
+      <lb ed="#P" n="10"/>probantes, &amp; qui epulas condiunt vt sunt archimagyri in popina, sed in his rebus in sapore solum non  
+      <lb ed="#P" n="11"/>plurimum intemperantes delectantur, sed ea voluptate quae in esculenti &amp; potus contactu habetur &amp; 
+      <lb ed="#P" n="12"/>in rebus venereis. quapropter voluptatibus defluens Philoxenus ericius deos precatus traditur vt 
+      <lb ed="#P" n="13"/>longius sibi guttur quam grui fieret, ob idipsum quod tactu delectabatur, linguam latiorem bouilla non 
+      pe<lb ed="#P" n="14" break="no"/>tiit, quia voluptas gustus est exigua nisi pro quanto ad tactum ordinatur. Erix est mons Siciliae &amp; 
+      ci<lb ed="#P" n="15" break="no"/>uis etiam eiusdem. Iste vappa erat siculus genere, hunc inter cupediuoros gulae proceres antiquitas 
+      po<lb ed="#P" n="16" break="no"/>suit: ergo conclusio vera, quae dicit quod gustus perparum ad intemperantiam conducit, hoc est signum 
+      <lb ed="#P" n="17"/>quod iste pultiuorax magis delectabatur in suorum pultium tactu quam gustu. Temperantia &amp; 
+      intemperan<lb ed="#P" n="18" break="no"/>tia sunt in gustu secundario &amp; minus principaliter, quia in lingua est discretio cibi aut potus si sit 
+      <lb ed="#P" n="19"/>delectabilis tactui, &amp; tunc homo tali alimento &amp; potu vtitur. Postea ponit conclusionem finalem hu 
+      <lb ed="#P" n="20"/>ius capitis, quae est haec. Intemperantia est vitium maxime ferale, vile &amp; exprobrabile, &amp; ab hominis 
+      <lb ed="#P" n="21"/>natura extraneum. Probatio. Illud vitium quod spectat ad sensum communissimum, in quo cum 
+      <lb ed="#P" n="22"/>belluis communicamus, est latissimum, sed sic est de intemperantia, quia est circa sensum tactus qui 
+      in<lb ed="#P" n="23" break="no"/>inter omnes sensus est communissimus, tum quia omni animali convenit, gustus solum linguam 
+      ha<lb ed="#P" n="24" break="no"/>bentibus conuenit, tum quia cuilibet corporis parti inest. Non ergo ab re est vitium reprehensibile 
+      <lb ed="#P" n="25"/>&amp; ab hominis natura (qua homo est) alienum. Non convenit hominibus eo quod homines sunt, hoc est 
+      <lb ed="#P" n="26"/>per aliquid praecise hominibus addictum, vt est rationale &amp; risibile quo a pecudibus seiungitur, sed quia 
+      <lb ed="#P" n="27"/>sunt animalia competit. Talibus ergo virum inuolutum esse est brutum &amp; ferale.
+    </p>
+            <p xml:id="JMAet9-d13711-d1e508">
+               <pc type="pilcrow">¶</pc> Remouet deinde 
+      <lb ed="#P" n="28"/>dubitatiunculam qua ambigi potest an temperantia &amp; intemperantia sint circa omnem 
+      delectatio<lb ed="#P" n="29" break="no"/>nem quae in sensu tactus euenit. Et negatiue respondet inquiens. Liberalissimas corporum 
+      volupta<lb ed="#P" n="30" break="no"/>tes quae per tactum eueniunt, semper excipimus, vt quae in ludis &amp; certaminibus quae per fricationem, 
+      <lb ed="#P" n="31"/>&amp; quae per calefactionem fiunt. Dicit has delectationes liberalissimas hoc est comparatiue ingenuas, 
+      <lb ed="#P" n="32"/>licet brutis conueniant. Aliae voluptates circa quas sunt temperantia &amp; intemperantia sunt seruiles &amp; 
+      <lb ed="#P" n="33"/>viles. Vel hic ponitur conclusio in qua reddit causam cuiusdam dict scilicet Gaudere sensu tactus est ferale. 
+      Po<lb ed="#P" n="34" break="no"/>nit conclusionem quomodo id intelligi debeat. Hae partes corporis determinatas vendicant, illae vero per totum 
+      <lb ed="#P" n="35"/>corpus expanduritur. Has enim partes os &amp; membra pudibunda consulto non nominauit, quia foeda sunt &amp; inhonesta &amp; 
+      <lb ed="#P" n="36"/>ideo cum circumloquutione depromenda. verborum obscoenitatem etiam in sugilladis vitiis consulto deuitamus, 
+      <lb ed="#P" n="37"/>eapropter puerorum praeceptor Alexander pedo verbum non nominauit, sed circumloquendo dixit, quod turpe sonat fit 
+      <lb ed="#P" n="38"/>in edi. Si alibi dixerit Mando cum pedo rudo caruere supinis, nihil ad nos. Quia ruditer ad vulgus hac 
+      <lb ed="#P" n="39"/>manuductione vtimur. Nec nobis qui has partes nominamus erit indecorum cum scripto &amp; explicationis gratia 
+      <lb ed="#P" n="40"/>(quia lucidi esse laboramus) id depromamus.
+    </p>
+            <p xml:id="JMAet9-d13711-d1e542">
+               <pc type="pilcrow">¶</pc> Circa literam dubitatur primo, quare voluptas innata sen 
+      <lb ed="#P" n="41"/>sui tactui &amp; gustui sit maior quam aliis sensibus.
+    </p>
+            <p xml:id="JMAet9-d13711-d1e550">
+               <pc type="pilcrow">¶</pc> Secundo an intemperantia sit vitium maxime exprobrabile 
+      <lb ed="#P" n="42"/>sicut philosophus dicit.
+    </p>
+            <p xml:id="JMAet9-d13711-d1e558">
+               <pc type="pilcrow">¶</pc> Ad priorem dubitationem resmoendetur quod hoc est ad continuationem indiuidui &amp; speciei. 
+      <lb ed="#P" n="43"/>Nam ob veneris foeditatem nulli prolis propagationi operam darent, teste Auicenna, nisi voluptas concomitaretur 
+      <lb ed="#P" n="44"/>actum, sicque est in cibo &amp; potu.
+    </p>
+            <p xml:id="JMAet9-d13711-d1e568">
+               <pc type="pilcrow">¶</pc> Ad secundam dubitationem resmondetur affirmatiue patet auctoritate phli in ita. Si 
+      <lb ed="#P" n="45"/>in brutales voluptates homo descendat belluis confertur, secundum illud Psalmistae, homo cum in honore esset, non 
+      in<lb ed="#P" n="46" break="no"/>tellexit, comparatus est iumentis insipientibus, &amp; similis factus est illis. Viri decus &amp; rationis acumen 
+      obfu<lb ed="#P" n="47" break="no"/>scat tollitque. Vocaturque vitium puerile vt in vltimo capite huius tertii videbitur.
+    </p>
+            <p xml:id="JMAet9-d13711-d1e581">
+               <pc type="pilcrow">¶</pc> Contra illud 
+      ar<lb ed="#P" n="48" break="no"/>gumentor. Peccata magis vulgaria minus sunt exprobrabilia, hinc latro inter latrones infamiae no 
+      <lb ed="#P" n="49"/>tam non incurrit, sed intemperantia est commune peccatum: igitur. Secundo, blasphemia, homicidium, &amp; 
+      inui<lb ed="#P" n="50" break="no"/>dia sunt grauioris culpae quam intemperantia: ergo sunt vitia magis exprobrabilia.
+    </p>
+            <p xml:id="JMAet9-d13711-d1e593">
+               <pc type="pilcrow">¶</pc> Ad priorem obiectio 
+      <lb ed="#P" n="51"/>nem respondetur quod consuetudo peccati diminuit infamiam apud improbos, non tamen apud sapientes &amp; illo vitio 
+      <lb ed="#P" n="52"/>non irretitos, nec secundum naturam vitiorum.
+    </p>
+            <p xml:id="JMAet9-d13711-d1e603">
+               <pc type="pilcrow">¶</pc> Ad secundam dicitur quod vitia carnalia quae sub 
+      in<lb ed="#P" n="53" break="no"/>temperantia continentur licet sint minoris culpae (vt dicit Grego. in moralibus) sunt tamen 
+      maio<lb ed="#P" n="54" break="no"/>ris infamiae.
+    </p>
+            <p xml:id="JMAet9-d13711-d1e613">
+               <pc type="pilcrow">¶</pc> Circa materiam ieiunii quaeritur an quoties homo in die ieiunabili comedit vltra vnam 
+      re<lb ed="#P" n="55" break="no"/>fectionem toties peccat. Secundo circa illam materiam quis poent in ieiunii fractione dispensare, in causa 
+      an<lb ed="#P" n="56" break="no"/>cipiti. Tertio an vitam abbreuians volens corpus mortificare peccet.
+    </p>
+            <p xml:id="JMAet9-d13711-d1e623">
+               <pc type="pilcrow">¶</pc> Ad primum rsndetur negatiue, quia 
+      <lb ed="#P" n="57"/>cum ieiunium est fractum iam nemo poet id ieiunium seruare, quaere postea comedens non peccat, nisi comedat 
+      ci<lb ed="#P" n="58" break="no"/>bos toto illo die vetitos, vtpote carnem aut oua in quamdragesima quae praecepto negatiuo vetantur.
+    </p>
+            <p xml:id="JMAet9-d13711-d1e633">
+               <pc type="pilcrow">¶</pc> Ad secundum 
+      <lb ed="#P" n="59"/>respondetur quod licet haec lex sit supremi pontificis, non tamen est homo obnoxius eum puer dispensatione semper adire, quia 
+      ten<lb ed="#P" n="60" break="no"/>pus ita faciendi aduersatur, &amp; consuetudo est inducta ad hoc. Et licet lex ieiunii sit vniuersalt lata, tamen multae 
+      <lb ed="#P" n="61"/>psonae euidenter excipiuntur, de quibus minime ambigitur. In casu dubio sufficit adire superiorem, vt episcopum, cu 
+      <lb ed="#P" n="62"/>ratum, vel alium circumspectum in arte eis deficiente. Nec ille eos ad eorum conscientias remittet, dando eis 
+      scrupu<lb ed="#P" n="63" break="no"/>lum. Permutet ieiunium in septem Psalmos legendos aut in eleemosynam dandam, si opulentus sit. Eodem modo  
+      <lb ed="#P" n="64"/>episcopus in qualitate ciborum dispensat admittendo butyrum in quadragesima, quando est olei poenuria. 
+      <!--120.xml-->
+      <pb ed="#P" n="52-r"/>
+            </p>
+            <p xml:id="JMAet9-d13711-d1e657">
+               <lb ed="#P" n="1"/>⁋ Ad tertiam dicitur quod si fiat ex ignorantia inuincibili corpus volens castigare, non est peccatum vllum: sin 
+      aiad<lb ed="#P" n="2" break="no"/>uertat se excedere in vitae abbreuiatione notabiliter, licet credat se benen agere, peccat saltem venialit, a 
+      mor<lb ed="#P" n="3" break="no"/>tali autem pia intentio &amp; aliquamlis ignorantia eum excusant. In aliquibus vita repente exponitur morti, vt in bello 
+      iu<lb ed="#P" n="4" break="no"/>sto: actus enim ille moram non patitur, aliud autem est in his actibus. Adde etiam quod cum plures gula quam gladio peant, 
+      <lb ed="#P" n="5"/>paucos sic deficere vident, &amp; ita est eis bona ignoratio. Hilation in frugalium schola celebris se macilentum 
+      <lb ed="#P" n="6"/>ieiunio fecit, sed cum impetiginem &amp; corporis squalorem ob abstinentiam incurrisset, illi pastui nonnihil adiecit 
+      <lb ed="#P" n="7"/>vt a labe percti caueret. A posteriori morbo superuenienti edoctus erat se non posse ita durare: &amp; si vlterius 
+      <lb ed="#P" n="8"/>in hac arctitudine vitae processisset, peccasset.
+    </p>
+            <p xml:id="JMAet9-d13711-d1e677">
+               <pc type="pilcrow">¶</pc> Dubitatur an circa latitudinem alicuius virtutis poent dari 
+      ex<lb ed="#P" n="9" break="no"/>tremum non vitiosum.
+    </p>
+            <p xml:id="JMAet9-d13711-d1e685">
+               <pc type="pilcrow">¶</pc> Respondetur quod sic, quando ex actibus consilii habitus emergit, tota latitudo temperantiae 
+      re<lb ed="#P" n="10" break="no"/>gularis ponatur esse a duobus ad octo, ita quod licet Socrati in die tantum comedere, ita quod si citra duos gradus 
+      <lb ed="#P" n="11"/>comederet esset insensibilitas, &amp; si plusqui. viii. esset intemperantia, tunc abstinentia capit puero sua latitudine partem 
+      <lb ed="#P" n="12"/>illius totius latitudinis, vtpote a duobus ad. v. gratia exempli, si plus comedat Socrates quam quinque transcendit 
+      <lb ed="#P" n="13"/>totam latitudinem abstinentiae, &amp; non peccat, ergo abstinentiae extremum erit conflatum ex no vitio &amp; vitio. A 
+      <lb ed="#P" n="14"/>quinque ad. viii. est virtus, quia est medium alicuius virtutis, &amp; super hoc est extremum &amp; nullo mon medium. 
+      Epi<lb ed="#P" n="15" break="no"/>logando dicimus Aristotelem perbelle in hac materia philosophari &amp; gnosum ordinem tenuisse. Primo enim 
+      <lb ed="#P" n="16"/>aiebat quod temperantia ac intemperantia circa voluptates insudant non dolores. Secdo quod circa corperea oblectamen 
+      <lb ed="#P" n="17"/>ta &amp; non circa omnia, sed solum illa quae tactu &amp; gustu proueniunt, &amp; magis circa tactum quam gustum, imo non circa gustum 
+      <lb ed="#P" n="18"/>vt gustus est, sed tactus est quidam, &amp; circa voluptatem tactus in determinatis partibus corporis, &amp; non circa 
+      <lb ed="#P" n="19"/>totale corpus, vt in prutitu scalpendo &amp; sudando. In cibo abstinentia, in potu sobrietas, in venereis castitas, 
+      <lb ed="#P" n="20"/>in oculis pudicitia dici potest.
+    </p>
+            <p xml:id="JMAet9-d13711-d1e715">
+               <pc type="pilcrow">¶</pc> Haeres de illo quod in principio capitis tangitur vbi dicitur. Fortitudo ac temperam 
+      <lb ed="#P" n="21"/>tia sunt in appetitu sensitiuo. <ref xml:id="JMAet9-d13711-Rd1e722">
+                  <name xml:id="JMAet9-d13711-Nd1e724">Diuus enim Thomas</name> prima secundae quaestione. So. &amp;. vo.</ref> ponit fortitudinem ac 
+      <lb ed="#P" n="22"/>temperantiam in parte irrationali tantem scilicet in appetitu sensitiuo. Sine eius confutatione respondetur quod tam in parte 
+      rationa<lb ed="#P" n="23" break="no"/>li quam in appetitu sensitiuo istae duae virtutes inueniuntur, nec habent affectus per obiecto plusquam iustitia aut libe 
+      <lb ed="#P" n="24"/>ralitas. Stat enim nullam perturbationem homin inesse, sed omnem esse penitus sedatam. &amp; esto quod insit, voluntas pro 
+      <lb ed="#P" n="25"/>suo arbitrio suos actus in cibum, potum, pugnam &amp; caetera id genus applicat. 
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

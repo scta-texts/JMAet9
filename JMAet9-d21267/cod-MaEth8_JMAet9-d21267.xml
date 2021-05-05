@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 4</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 4</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d21267"><!-- mair-l5c4 -->
+            <head xml:id="JMAet9-d21267-Hd1e103">Caput 4</head>
+            <p xml:id="JMAet9-d21267-d1e106">
+               <lb ed="#P" n="49"/>
+               <quote xml:id="JMAet9-d21267-Qd1e110" type="lemma">REstat autem</quote> &amp;c. Hic de iustitia commutatiua loquitur, &amp; iustum hoc quod in commerciis &amp; rebur 
+      <lb ed="#P" n="50"/>Temendis consistit ostendit esse aliud a iusto distributiuo communi, &amp; quod hoc iustum in proportio 
+      <lb ed="#P" n="51"/>⁋Analitate arithmetica &amp; non geometrica consistit, et quod mediat inter lucrum &amp; iacturam. Et 
+      aufe<lb ed="#P" n="52" break="no"/>rendum docet a plus habente id quo medium exceditur, &amp; minus habenti apponendum.
+    </p>
+            <p xml:id="JMAet9-d21267-d1e120">
+               <pc type="pilcrow">¶</pc> Prima 
+      con<lb ed="#P" n="53" break="no"/>clusio huius capitis. Superest nunc de iusto quod in emendandis commerciis tam voluntariis quam 
+      inui<lb ed="#P" n="54" break="no"/>tis constituitur loqui. Hoc autem aliam habet speciem a priore scilicet distributiua: hoc est specie ab illa 
+      <lb ed="#P" n="55"/>distinguitur: siquidem iustum quod in communium distributione versatur semper in proportionalitate 
+      <!--173.xml-->
+      <pb ed="#P" n="78-v"/>
+               <lb ed="#P" n="1"/>geometrica versatur &amp; iniustum quod huic iusto opponitur ab hac comparatione rationum exorbitat. At iustum quod in 
+      <lb ed="#P" n="2"/>commerciis est aequum est: sed non in illa comparatione. Verum in arithmetica consistit. Quaenam illa sit superius 
+      estendi<lb ed="#P" n="3" break="no"/>mus Non enim in huiuscemodi iusto dispensando merita inter se considerantur: nihil enim refert vtrum 
+      bo<lb ed="#P" n="4" break="no"/>nus a malo abstulerit an prauus a bono. Neque vtrum adulterium probus. an prauus commiserit sed ad diffe 
+      <lb ed="#P" n="5"/>rentiam dami lex respicit: tantum differentiis vt aequis vtitur. Discrimen ad aequalitatem reducere 
+      ela<lb ed="#P" n="6" break="no"/>borat. Nempe cum hic pulsatus est ille percussit, aut hic occisus est ille occidit: passio actioque iniquae sunt. &amp; vtra 
+      <lb ed="#P" n="7"/>quod diuisa non aequaliter habent quia viuis damnum in rebus aut in persona patitur: alter autem id lucri 
+      ha<lb ed="#P" n="8" break="no"/>bet: hanc inaequalitatem conatur iudex ad aequalitatem redigere subtrahendo quod plus est lucri secundum exi 
+      <lb ed="#P" n="9"/>gentiam iacturae. Et lucrum &amp; dannum simpliciter in talibus nominamus loquentes vt plures, quamuis haec 
+      <lb ed="#P" n="10"/>nomina quibusdam minus accommodata videantur. Alium inique pulsans reuera nihil lucri habet, sed dam 
+      <lb ed="#P" n="11"/>num in coscientia, ei tamen, qui laesit lucrum accommodamus, &amp; illi qui passus est dannum, verum cum passio mem 
+      <lb ed="#P" n="12"/>surata fuerit hoc damnum, illud vero lucrum in communi sermone vocatur: istud totum in proportione arithme 
+      <lb ed="#P" n="13"/>tica consistit. Patet, Sint Socrates &amp; Plato aequaliter opulenti, vt sex, Socrates emendo decipiat Platonem 
+      <lb ed="#P" n="14"/>vendentem in duobus: tunc Socrates erit diues vt. viii. et Plato diues vt. iiii. tollet iudex duo a Socrate quae dabit 
+      <lb ed="#P" n="15"/>Platoni, &amp; tunc vterque erit diues vt sex. Sic tantundem aufertur lucri ab vno et alteri applicatur, &amp; 
+      aequali<lb ed="#P" n="16" break="no"/>tas excessus capitur: &amp; sic seruatur proportio arithmetica: &amp; sex est medium arithmetice inter. iiii. &amp;. viii. &amp; 
+      <lb ed="#P" n="17"/>inter. iiii. &amp;. vi. quia per binarium senarius ab. viii. superatur: &amp; per eundem excessum quaternarium superat. sed 
+      <lb ed="#P" n="18"/>non manet eadem proportio geometrica. Sex quoque ad. iiii. est proportio sesquialtera: et. viii. ad. vi. est 
+      pro<lb ed="#P" n="19" break="no"/>portio sesquitertia.
+    </p>
+            <p xml:id="JMAet9-d21267-d1e178">
+               <pc type="pilcrow">¶</pc> Secunda conclusio. quum in commutatione inter plus &amp; minus est: iustum commuta 
+      <lb ed="#P" n="20"/>tiuum est medium inter damnum &amp; lucrum contratio modo. Nam lucrum plus boni &amp; minus mali est. Econverso dam 
+      <lb ed="#P" n="21"/>num est plus mali &amp; minus boni: quorum medium est aequum quod dicimus esse iustum. Quocirca iustum 
+      emen<lb ed="#P" n="22" break="no"/>datiuum est medium inter damnum &amp; lucrum. Secundo, quia iustum est quoddam medium. Qui enim controuersiam habent 
+      <lb ed="#P" n="23"/>ad iudicem confugiunt: ad iudicem autem ire est ad iustum ipsum contendere. Est enim iudex vt suapte 
+      natu<lb ed="#P" n="24" break="no"/>ra iustum animatum: ipse enim recta intelligentia leges in pelle mortua scriptas quando ratio efflagitat interpre 
+      <lb ed="#P" n="25"/>tabitur: &amp; casum immergentem de quo fortasse non est lex scripta, secundum bonam aequitatem ad medium 
+      diri<lb ed="#P" n="26" break="no"/>get. Et quaerunt litigantes iudicem medium: quem quidem mediatorem non ab re vocant, quasi iustum assequuturi si 
+      <lb ed="#P" n="27"/>medium assequantur. lustum igitur commutationum castigatiuum inter plus &amp; minus medium est.
+    </p>
+            <p xml:id="JMAet9-d21267-d1e201">
+      
+      Hae<lb ed="#P" n="28" break="no"/>res an iudici sit licitum secundum suspitiones inudicare. Hic nota quod ludicium est discussio iudicis sua cum 
+      <lb ed="#P" n="29"/>sententia definitiua. ludex ius dicens. Suspitionem tripertiuntur: vnamque violentam appellant, vt si nudus 
+      <lb ed="#P" n="30"/>suspectus cum nuda in lecto reperiatur, haec suspicio probationem inducit sufficientem: gratia cuius iudex ad 
+      <lb ed="#P" n="31"/>sententiam definitoriam procedit. Alia est suspicio probabilis, quando est infamia alicuius etiam inter viros 
+      <lb ed="#P" n="32"/>probos: quae tametsi, sufficientem probationem non efficit, purgationem tamen inducit quam praelatus 
+      exige<lb ed="#P" n="33" break="no"/>re potest, vndecima. qu. iiii. presbiter. Temerarium iudicium ex leuium personarum loquacitate suboritur, lingua 
+      <lb ed="#P" n="34"/>cium suspicio est restringenda: nam probos sua prodigalitate verborum taxant. Quo supposito responsio trimen 
+      <lb ed="#P" n="35"/>bris de se clarescit. Sine forensi strepitu multi fortunis suis orbarentur: proinde iudicium sua cum 
+      su<lb ed="#P" n="36" break="no"/>spicione respondente est licitum. Non me fugit quin post litis contestationem multae sint tricae, 
+      dilatio<lb ed="#P" n="37" break="no"/>nes atque libellorum prolationes plus iusto verum pro istis paucis malis grande bonum reipublicae 
+      conserua<lb ed="#P" n="38" break="no"/>tiuum minime est negligendum. Quare insulse hi nouelli haeretici omnem forensem strepitum euellere contem 
+      <lb ed="#P" n="39"/>dunt &amp; legisperitorum volumina exurunt. Aristoteles naturali lumine duce de iudice &amp; iudicio loquitur: &amp; 
+      <lb ed="#P" n="40"/>deuteronomii. xvi. iudices &amp; magistratus constitues in omnibus portis tuis.
+    </p>
+            <p xml:id="JMAet9-d21267-d1e233">
+               <pc type="pilcrow">¶</pc> Insultas, Matthei. vii. Noli 
+      <lb ed="#P" n="41"/>te iudicare &amp; non iudicabimini. respondeo quod illic prohibetur iudicium temerarium fratris: eius enim opera 
+      <lb ed="#P" n="42"/>ancipicia in meliorem partem interpretabimur. Tertia conclusio, lustum commutatiuum medium inter 
+      ma<lb ed="#P" n="43" break="no"/>ius &amp; minus in arithmetica ratione consistit. Patet primum. nam fit iustum commutatiuum perinde atque si linea 
+      <lb ed="#P" n="44"/>in binas partes iniquas partita, illud quo pars grandior totius lineae dimidium euertit minori parti 
+      adiece<lb ed="#P" n="45" break="no"/>rimus illud totum quod commutatur, in geminas partes inaequales partitum sit, tum suum quilibet habebit, cum eo 
+      rece<lb ed="#P" n="46" break="no"/>pto quo maior pars totius medietatem transcendit, &amp; adiecto parti minori vterque vnam medietatem accipiet. 
+      <lb ed="#P" n="47"/>patet ad oculum: vt si tripedale in duas partes diuidatur quarum vna est bipedalis secunda pedalis. oportet semi 
+      <lb ed="#P" n="48"/>pedale subtrahere &amp; alteri parti addere, tunc relinquetur aequalitas. At tale medium inter huiusmodi 
+      ma<lb ed="#P" n="49" break="no"/>ius &amp; minus in arithmetica medietate consistit, vult dicere, quod iustum commutatiuum tantum vincitur ab eo 
+      <lb ed="#P" n="50"/>qui plus habet, quantum excedit illum qui minus habet, hoc est medium ipsum aequaliter excedit minus, et 
+      vin<lb ed="#P" n="51" break="no"/>citur a maiore. ideo inuentio huiusce medii est auferre ab eo qui plus habet quantum medium transcendit 
+      <lb ed="#P" n="52"/>&amp; illud subtractum apponere minus habenti: &amp; sic peruenietur ad medium iustitiae commutatiuae. Secundo, si sint 
+      <lb ed="#P" n="53"/>duo aequalia de quorum altero partem quancumque subtraxeris subtractamque adieceris alteri aequalium, totum ex 
+      <lb ed="#P" n="54"/>adiecta parte &amp; altero aequalium effectum transcendit quod reliquum est in duabus partibus, parti scilicet subtractae. 
+      <lb ed="#P" n="55"/>aequalibus. Patet ad oculum. Sint. A. E. &amp;. C. tria quadrupedalia: tolle ab. A. pedale &amp; adde. Ciam. C. est quin 
+      <lb ed="#P" n="56"/>que pedale, extendens. b. in vno pede sicut, b.ipsum. a. in vno duntaxat pede transcendit: hac enim via 
+      co<lb ed="#P" n="57" break="no"/>gnoscemus quidnam auferendum est ab eo qui plus habet: &amp; quid addendum est ei qui minus habet. Illud enim 
+      <lb ed="#P" n="58"/>quo excedens medium transcendit addendum est illi qui minus habet. Et patet in numeris: cape tres 
+      binario<lb ed="#P" n="59" break="no"/>a bc, tolle vnitatem ab a &amp; adde, binuariato: iam c excedit a per duas vnitates per subtractum ab a &amp; additum 
+      <lb ed="#P" n="60"/>ipsi C. &amp; bin ea proportione arithmetica transcendit a, qua a C superatur. Ista exempla sunt philosophi 
+      <lb ed="#P" n="61"/>exemplis lucidiora, in quibus a maiore parte denominationem haud vario. voco C post pedale additum 
+      <lb ed="#P" n="62"/>adhuc C a maiore parte sit a licet subtrahatur eius nonnihil, proinde est sicut in lineis in commutatione 
+      <lb ed="#P" n="63"/>iniusta, alium decipiens significatur per C &amp; falsus per a: quia sui aliquid amisit, quod C acquisiuit. Itenet me 
+      <lb ed="#P" n="64"/>dium qui nec fefellit nec falsus est: iste tenet medium sicut stateram per quam exorbitationes pluris &amp; mi¬ 
+      <!--174.xml-->
+      <pb ed="#P" n="79-r"/>
+               <lb ed="#P" n="1"/>noris castigandae veniunt. oportet adimere, a C pedale in quo excedit b medium &amp; addere ipsi a quod b exu 
+      <lb ed="#P" n="2"/>perat in pedali: &amp; tunc est rectificatio. Quod haec rectificatio est arithmetica patet, quoniam in eadem differen 
+      <lb ed="#P" n="3"/>tia qua C transcendit b. ipsum b superat a, quoad suum abstractum reciperet. Alia conclusio. hoc iustum 
+      ser<lb ed="#P" n="4" break="no"/>uandum est in omnibus artibus: quippe si non custodiretur artes demum corruerent. Nisi enim quantum 
+      <lb ed="#P" n="5"/>&amp; quale artifex ipse agens ageret tantundem &amp; tale in commutatione reciperet minus ipsa tandem e 
+      me<lb ed="#P" n="6" break="no"/>dio tolleretur dicit quantum &amp; quale Polycleti: ac Apellis statuae ac lineamenta quantitatem calceorum non aequant, 
+      <lb ed="#P" n="7"/>sed inaequali multis calceis aequantur. Alia conclusio: lucrum ac danum circa commutationes locum habent. 
+      <lb ed="#P" n="8"/>Porro hae appellationes lucrum ac dispendium ex his contractibus emanarent, quos homines sua sponte 
+      ce<lb ed="#P" n="9" break="no"/>lebrant, vt in venditione, emptione ac reliquis commerciis lege concessis. At illi qui in fine contractus 
+      <lb ed="#P" n="10"/>sunt locupletiores quam ab exordio, lucrari dicuntur: qui contractu celebrato sunt pauperiores dispendium 
+      <lb ed="#P" n="11"/>passi. At qui naeque plus neque minus habent commercio celebrato quorum mercimonia sunt per seipsa hoc 
+      <lb ed="#P" n="12"/>est aequalia facta, illi nec se perdere neque lucrari dicunt: qua de re illud est interstes inter lucrum damnumque  
+      <lb ed="#P" n="13"/>At damnum quod inuitis hominibus enascitur, vt in furto restituendo arbitrio iudicis in fine tantum 
+      <lb ed="#P" n="14"/>quantum est subductum aequale enascitur. 
+      <lb ed="#P" n="15"/>Dubitatur an percussio cuius meminit litera sit peccatum. Respondetur quod circa non 
+      subie<lb ed="#P" n="16" break="no"/>ctum est letale crimen, nisi verberis modicitas excuset. In subditos etiam excessiua verberatio est 
+      vi<lb ed="#P" n="17" break="no"/>tuperabilis, nonnunquam letifera, nonnunquam propter exiguum excessum venialis. Erat mihi praeceptor 
+      <lb ed="#P" n="18"/>Georgius tinctor hadingtonus vir alioqui circumspectus, in caedendis iuuenibus acrior iusto: 
+      timo<lb ed="#P" n="19" break="no"/>re perculsus scholasticum ocium prope modum obhorrui: &amp; nisi pientissima mater reluctata esset 
+      litera<lb ed="#P" n="20" break="no"/>rium ludum penitus deseruissem ad laicum statum me conuertendo: &amp; licet illi obsequerer, tamen verbe 
+      <lb ed="#P" n="21"/>rum formidine deterritus, sophisticos discessus comminiscebar. Haec scripserim, vt praeceptores sint in 
+      be<lb ed="#P" n="22" break="no"/>neuolos Ieniores. Hi enim verborum dulcore potius quam virga reguntur. non ignoro seditiosos atque effrenes 
+      <lb ed="#P" n="23"/>acerbo verbere reprimendos. verum imprudentis est equum sua sponte currentem calcaribus stimulare. Ambigi 
+      <lb ed="#P" n="24"/>tur secundo vtrum in ipsa iustitia capiendum est medium rei an rationis. Respondetur quod in aliquibus 
+      <lb ed="#P" n="25"/>in quibus notus est rei valor, mendium rei et rationis coincidunt. Socrates abstulit mihi viginti scutatos 
+      <lb ed="#P" n="26"/>quorum valorem omnes norunt: tenetur ipse restituere omnino paria &amp; ita vbicumque rei valor 
+      innote<lb ed="#P" n="27" break="no"/>scit. At in valore ancipiti sufficit tenere medium in bona latitudine secundum iudicium prudentium. 
+      <lb ed="#P" n="28"/>Exemplis hoc ipsum retexo. Mercator vlnam panni quadraginta quinque vni. xlvi. alii &amp; fortasse tertio. 
+      <lb ed="#P" n="29"/>xlvii. vendit: &amp; circumspecti mercatores asseuerabunt eum in latitudine iusti precii manere. Vnum precium 
+      <lb ed="#P" n="30"/>scilicet nouissimum iustum sed rigorosum appellabunt, addentes emptorem, omnia fila illius panni emisse. 
+      <lb ed="#P" n="31"/>primum precium est gratiosum &amp; secundum mediocre &amp; competens. At vbi res plus valet vt agri aut aedes 
+      <lb ed="#P" n="32"/>magnificae, latitudo iusti illic est maior: sic in iustitia punitiua &amp; premiatiua in poenitentia iniungenda in foro in 
+      <lb ed="#P" n="33"/>teriori, vni maior &amp; alteri minor poenitudo pro simili flagitio imponitur, &amp; vero simile est deum illas poe 
+      <lb ed="#P" n="34"/>nas cum sint in latitudine iusti medii punitiui acceptare, ad peccaminum deletionem. &amp; siue deus 
+      acce<lb ed="#P" n="35" break="no"/>ptet siue non, qui praecisam paenam peccatis respondentem nouit infligendam sacerdoti sat est multam poe 
+      <lb ed="#P" n="36"/>nitenti imponenti. Poenitudo vnius verosimiliter sacerdoti apparet maior quam alterius. Itidem vnus sua 
+      <lb ed="#P" n="37"/>sponte austerius ieiunium subit quam alius: &amp; hoc est sacerdoti notum: sat est illi medium rationabile tenere: 
+      <lb ed="#P" n="38"/>quia medium rationis siue secundum nos (vt retulimus) est illud quod non est plus debito naeque minus quam 
+      <lb ed="#P" n="39"/>par sit: &amp; istud in medietate geometrica consistit, qualis est proportio digestiua inter varios, talis erit cibi 
+      <lb ed="#P" n="40"/>potusque proportio. Si ipse triduo tantum deuorarem quantum neruosus athleta mortem indubitato in 
+      <lb ed="#P" n="41"/>currerem: attamen ea cibatio illi haud quaquam officit, qualis enim est proportio mea consumptiua ad 
+      Milo<lb ed="#P" n="42" break="no"/>nem Crotoniensem, talis erit etiam nutritiua. Et sicut medium hic plurifariam diuersificatur, ita quoque 
+      <lb ed="#P" n="43"/>extrema diuersificabuntur. Sic multa exteriorem poenitentiam diuersificant: contritio intensa remissaque,  
+      <lb ed="#P" n="44"/>libenti animo austeritatem subire aut cum murmure, &amp; ita de caeteris id genus. 
+    </p>
+            <p xml:id="JMAet9-d21267-d1e390">
+               <lb ed="#P" n="45"/>⁋ Dubitatur. iii. an restitutio quae est pars iustitiae commutatiuae, sit facienda integre, vbi rei valor est 
+      <lb ed="#P" n="46"/>notus, sicut pars dubii praecedentis innuere videbatur Responsio. dubium vnum supponit &amp; aliud 
+      que<lb ed="#P" n="47" break="no"/>rit: supponit enim restitutionem esse partem iustitiae commutatiuae, quod esse verum ostenditur: 
+      Subtra<lb ed="#P" n="48" break="no"/>here enim alienum est actus iniustitiae circa rerum commutationes siue rapina: siue furto aut fraude: ergo 
+      <lb ed="#P" n="49"/>restitutio ei opposita est actus iustitiae, illam iniquam commutationem rectificantis. Ad dubitationem 
+      <lb ed="#P" n="50"/>respondetur affirmatiue. Quisquis enim habet alienum inuito domino, id restituere tenetur: et nedum id 
+      <lb ed="#P" n="51"/>si res inuito habeatur domino, verum etiam si eo consentiente ad commutationem si non fuerit 
+      dona<lb ed="#P" n="52" break="no"/>tio requiritur restitutio, vt in deposito &amp; mutuo. Nam licet mutuum honestum initium vendicet, &amp; fur 
+      <lb ed="#P" n="53"/>tum iniquum, tamen quantum detentionem inuito domino sicut ipsum inuentum, parificantur in 
+      cul<lb ed="#P" n="54" break="no"/>pa. Et in hoc plurimi delinquunt, vnum optime sacerdoti notificantes &amp; confitentes, de reliquo conscien 
+      <lb ed="#P" n="55"/>tiam saepius nullam facientes. 
+    </p>
+            <p xml:id="JMAet9-d21267-d1e416">
+               <lb ed="#P" n="56"/>⁋ Contra illud obiicitur. Si Socrates abstulit nonnihil Platoni puta aliquod esculentum si simul 
+      <lb ed="#P" n="57"/>ambo ad extremam inopiam deueniant, Socrates non tenetur restituere alienum, quia iure natura 
+      <lb ed="#P" n="58"/>li &amp; gentium in extrema necessitate omnia sunt communia: ergo dominium ciuile Platonis adueniente 
+      <lb ed="#P" n="59"/>hac necessitate est sopitum: &amp; legis naturae dominium superuenit: sed in tali casu potior est conditio possiden 
+      <lb ed="#P" n="60"/>tis. Secundo restituere alienum est praeceptum affirmatiuum, sed illud non obligat pro semper. At dicis est 
+      <lb ed="#P" n="61"/>vnum negatiuum scilicet non detinere alienum. Contra Titius non potest satisfacere Sempronio sine 
+      <lb ed="#P" n="62"/>grandi iactura bonorum suorum licite possessorum, vendendo dominium pro non competenti precio: stat 
+      <lb ed="#P" n="63"/>hoc in casu: ergo in illo casu restituere non tenetur. Tertio. A. furatur. C. equum. B. quem emo in foro: tunc 
+      <!--175.xml-->
+      <pb ed="#P" n="79-v"/>
+               <lb ed="#P" n="1"/>sic. ergo non teneor restituere equum C, cum dedi pecuniam pro eo &amp; tamen est res aliena igitur. Quarto 
+      <lb ed="#P" n="2"/>episcopus &amp; pingue sacerdotium habens prodige exponens non tenetur restituere profuse delapidatum, 
+      <lb ed="#P" n="3"/>&amp; tamen iniuste rem alienam scilicet bonum commune pauperibus debitum exponit: igitur. Ad primum 
+      <lb ed="#P" n="4"/>respondetur probabile esse quod Socrates non tenetur illud ablatum refundere quia in extrema 
+      necessita<lb ed="#P" n="5" break="no"/>te omnia sunt communia et per possessionem Socratis antiquus titulus dominii huius rei est sopitus, &amp; 
+      pe<lb ed="#P" n="6" break="no"/>nitus extinctus. At si Plato non simul incidisset in necessitatem Socrates nulla via teneretur refunde 
+      <lb ed="#P" n="7"/>re iam consumptum, esto quod ad pinguiorem fortunam deuenerit. Ad secundum dicitur quod Titius in ex 
+      <lb ed="#P" n="8"/>trema necessitate soluere non tenetur, vt patet ex praecedenti: sed an teneatur citra extremam necessitatem, 
+      <lb ed="#P" n="9"/>dato quod mendicet alteri nolenti expectate dilationem, nimis durum est affirmatiue respondere. Dico autem quod 
+      <lb ed="#P" n="10"/>sufficit illic petere dilationem ad tempus: quando Titius in rebus propriis grandem iacturam incurreret 
+      <lb ed="#P" n="11"/>soluendo nunc, &amp; Sempronius est locuplex, sat est quod Sempronius dominus rei debet velle differre 
+      solutio<lb ed="#P" n="12" break="no"/>nem, &amp; debet nolle quod tunc solueret. Probatur illud per ca, si quis propter de fur. secus esset si Sempronius 
+      <lb ed="#P" n="13"/>simile incommodum ex rei suae neglecta solutione incurreret: quia tunc Sempronius dominus rei suae 
+      po<lb ed="#P" n="14" break="no"/>test rationabilissime velle habere suum. Contra illud obiicitur. Creditor non debet esse deterioris 
+      con<lb ed="#P" n="15" break="no"/>conditionis quam si rem suam puta debitum in manu propria haberet, puta mille aureos nummos: sed in illo 
+      <lb ed="#P" n="16"/>casu potest sinere illum quin debito accepit pecuniam agros suos vendere minoris quam sit. Potest velle vti 
+      <lb ed="#P" n="17"/>re sua non curando de damno alterius. Respondeo primo quod deberet in tali casu dare fratri mutuo. 
+      Se<lb ed="#P" n="18" break="no"/>cundo quod cum dedit illi mutuo creditor habet differre solutionem. Pluribus verbis iterum tangatur casus 
+      <lb ed="#P" n="19"/>quia saepius occurrit, si creditor est locuples &amp; debitor si soluat in die statuto cogetur agros 
+      valen<lb ed="#P" n="20" break="no"/>tes bis mille, vendere mille octingintis aut mille quingentis, creditor etiam impeditur a consequtione 
+      <lb ed="#P" n="21"/>partialis lucri, quia ei non soluitur: nihilo tamen secius manet pecuniosus, iam illud membrum esset apud 
+      <lb ed="#P" n="22"/>varios ambiguum: &amp; in hoc membro ego reor solutionem differendam, aut quod creditor ei mutuo dare 
+      te<lb ed="#P" n="23" break="no"/>netur, in hoc casu de nouo habita securitate de solutione: aut quod post mutuum datum eum expectare convenit 
+      <lb ed="#P" n="24"/>et alter ad tempus soluere non est obnoxius. A fortiori si soluendo iam statim in extremam inopiam aut  
+      <lb ed="#P" n="25"/>mendicitatem incideret, vel impotens esset soluere, iam non est deuinctus persoluere. Non ausim tamen 
+      <lb ed="#P" n="26"/>excusare debitorem vbi modicam iacturam ex solutione incurreret. ld saepius contingit etiam ni debet seruare 
+      <lb ed="#P" n="27"/>creditorem a iactura immunem: alioqui debitor est in mora et peccat, a fortiori plures peccant alentes 
+      sub<lb ed="#P" n="28" break="no"/>limem statum cum iactura aliena. Ad tertium dicitur quod siue emo equum quem credo furis vendentis bo 
+      <lb ed="#P" n="29"/>na fide siue mala fide, semper equus est veri domini capiet equum suum vbicumque inuentum probatum 
+      <lb ed="#P" n="30"/>suum: &amp; actionem in furem habebo, quod si euaserit: imposterum discam cautius negociari. plus valet empta 
+      <lb ed="#P" n="31"/>satis sapientia quam data gratis vt referunt. At si bona fide aliquid emi equum aut aliud, credens a vero domino 
+      <lb ed="#P" n="32"/>emere cum veritatem agnouero equum vero domino restituere sum obnoxius, nec possum a domino 
+      pre<lb ed="#P" n="33" break="no"/>cium equi petere C. de fur. L. inciuilem. durante bona fide tamen tenendo alienum non pecco, ex ignoran 
+      <lb ed="#P" n="34"/>tia inuincibili: credo enim esse meum, &amp; sic moriens cum alieno non pecco, nec teneor fructus consumptos. 
+      <lb ed="#P" n="35"/>bona fide restituere. ii. de acqui. re. do. E. bonae fidei: sed fructus extantes vel quanto factus sum locupletior 
+      <lb ed="#P" n="36"/>restituere sum obligatus. At si res mea in manum pereat, non restituam quia propter bonam fidem non eram 
+      <lb ed="#P" n="37"/>in mora et si rem alienam non reddam neque pretium: quia pretium rei furtiuae non est furtum. fide fur. I. 
+      <lb ed="#P" n="38"/>qui vas. Insuper possum retinere expensas factas ad conseruationem rei vel eius meliorationem. A fortio 
+      <lb ed="#P" n="39"/>ri si rem furtiuam mala fide emi quam sciebam vel opinabar esse furtiuam, tenebor illam vero domino pe¬¬ 
+      <lb ed="#P" n="40"/>tenti conferre, vel eo non petente ei dare, cum eum esse dominum sciuero. Et illud est verum de primo, 
+      secundo<lb ed="#P" n="41" break="no"/>tertio emptore et quamtuncumque remoto: dato quod in foro communissimo equus sit emptus. Et si res empta a me 
+      <lb ed="#P" n="42"/>violentia aut furto auferatur, tenebor rem ipsam restituere secundum optimum statum in quo erat. de resti, spoli. 
+      <lb ed="#P" n="43"/>ca. grauis. Fur semper est in mora. iti. de condi. fur, nisi vero dmo rei rem furtiuam obtulerim quam ipse 
+      <lb ed="#P" n="44"/>recusauit recipere: tunc eum purgaui moram &amp; tunc si equus siue mea culpa pereat eum restituere non tenebor, nec 
+      <lb ed="#P" n="45"/>precium loco eius: non enim pecco in mora. Insuper omnes fructus perceptos et qui percipi possunt restituam. Pa 
+      <lb ed="#P" n="46"/>tet per. ca. grauis nominatim nec precium vllum a dmo rei petere possunt. Ad quartum dico quod bona 
+      ecclesiae<lb ed="#P" n="47" break="no"/>partim ministris seruientibus dantur pro eorum alimonia, partim dantur eis tanquam fidelibus dispensatoribus, 
+      <lb ed="#P" n="48"/>vt res ecclesiae in pios vsus exponant, vt in aedis deo dicatae reparationem structuram, aut in eleemosinam 
+      <lb ed="#P" n="49"/>inopibus, quorum patres esse debent, sicut a principio erant cum dotes ecclesiae creuerunt: tunc dico quod licet pec 
+      <lb ed="#P" n="50"/>cent in parte bonorum quae sufficit ministro pro sua &amp; suorum sustentatione competenti, tamen profuse 
+      ex<lb ed="#P" n="51" break="no"/>positum restituere vt reor non est obnoxius. In reliqua parte quae est vltra sufficientem vsum non solum pec 
+      <lb ed="#P" n="52"/>cat prodige exponendo, sed profuse expositum restituere deuincitur. hoc. a. xt. annis elapsis in sententiarum 
+      <lb ed="#P" n="53"/>quartum ostendi seriosius, quare nunc raptim pertranseo, vnde fit vt aliquando quispiam ad restituendum prodige 
+      <lb ed="#P" n="54"/>expositum non sit obligatus: patet cum sacerdotium eius non sufficit plus quam ipsum etiam competenter alere. vero si 
+      <lb ed="#P" n="55"/>mile enim est tale sacerdotium mediocre esse collatum pro famulatu &amp; sustentatione talis viri.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

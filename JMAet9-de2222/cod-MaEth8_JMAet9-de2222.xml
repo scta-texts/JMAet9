@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 7</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 7</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-de2222"><!-- mair-l1c7 -->
+            <head xml:id="JMAet9-de2222-Hd1e103">Caput 7</head>
+            <p xml:id="JMAet9-de2222-d1e106">
+               <lb ed="#P" n="36"/>
+               <quote xml:id="JMAet9-de2222-Qd1e110" type="lemma">NVnc rursus</quote>. In hoc capite continuat Aristoteles dicta dicendis, quia per Platonis opinionem ab 
+      insti<lb ed="#P" n="37" break="no"/>tuto parum digressus est, dicit: redeamus iterato ad quaesitum bonum, scilicet ad felicitatem: &amp; 
+      videa<lb ed="#P" n="38" break="no"/>Lmus quidnam secundum veritatem sit. Hoc caput trifatiam tractat. In prima parte felicitatem 
+      depin<lb ed="#P" n="39" break="no"/>git per quasdam proprietates competentes ei, non exacte quaerendo eius propriam diffinitionem, verum 
+      <lb ed="#P" n="40"/>monstrando eam esse summum bonum humanum. Secundo illud esse perfectissimum bonum ostendit 
+      <lb ed="#P" n="41"/>&amp; tandem quod est sufficiensissimum: quibus infertur quod felicitas est supremum bonum humanum omnium 
+      <lb ed="#P" n="42"/>perfectissimum &amp; sufficientissimum. Quantum ad primum sic argumentatur: finis omnium rerum 
+      agen<lb ed="#P" n="43" break="no"/>darum est supremum bonum humanum: at felicitas est scopus &amp; finis rerum agendarum: igitur. Porro 
+      ple<lb ed="#P" n="44" break="no"/>rique sunt fines atque diuersi in variis operationibus atque artibus, &amp; vnus est propter alium quousque ad 
+      su<lb ed="#P" n="45" break="no"/>premum peruentum est qui non est ob alium, sed alii fines sunt propter ipsum: &amp; ille erit excellentissimum 
+      <lb ed="#P" n="46"/>bonum humanum, quod potissimum expetitur: sin vero sunt multi fines huiusmodi, pleraque erunt summa 
+      <lb ed="#P" n="47"/>bona. Quia nondum explicuit an sit vnum summum bonum, &amp; vnus nouissimus finis &amp; scopus an 
+      plu<lb ed="#P" n="48" break="no"/>res, ideo sub disiunctione praecedens in effectu ratiocinatur. In vnaquaque arte supremum bonum gratia cu 
+      <lb ed="#P" n="49"/>ius alia fiunt est finis vltimus omnium quae sunt in ea: hoc exemplariter ostendit in medicina, et in re 
+      mili<lb ed="#P" n="50" break="no"/>tari: Ita in operationibus humanis illa operatio gratia cuius alia fiunt est finis: &amp; si sint plures subordinatae 
+      <lb ed="#P" n="51"/>optima, cuiusmodi est felicitas, erit finis. Porro aliquid propter se tantum expetitur, vt felicitas: aliquid pro 
+      <lb ed="#P" n="52"/>pter se, &amp; aliud tertium propter aliud tantum: vt potio absynthii aut amarae pilulae sumptio, post primum 
+      <lb ed="#P" n="53"/>noctis soporem. Exemplum secundi. vt virtutes quas propter ipsas expetimus: licet nihil aliud ex eis 
+      se<lb ed="#P" n="54" break="no"/>queretur, virtutum enim possessio est honesta, vt magister in prima distinctione primi sententiarum ex 
+      san<lb ed="#P" n="55" break="no"/>ctis colligit: qui aristotelicam philosophiam imbiberant. &amp; tamen ad alia bona conducunt, vt ad felicitatem. 
+      <lb ed="#P" n="56"/>Insultas, felicitas propter nos expetitur: vt felicitate felices euadamus, sicut albedine albi. Respondetur, 
+      feli<lb ed="#P" n="57" break="no"/>citas est nouissimus finis quem exquirimus. nam illo fine habito alium vlteriorem minime venamur: verun¬ 
+      <!--33.xml-->
+      <pb ed="#P" n="9-v"/>
+               <lb ed="#P" n="1"/>tamen indefesse insudamus illum finem nobis acquirere: vt frigens hyberno tempore calorem quaerit qua 
+      <lb ed="#P" n="2"/>tinus calefiat. Beatitudo est finis qui acquiritur, &amp; homo cui acquiritur. Sequitur in litera. ldem &amp; ex 
+      sufli<lb ed="#P" n="3" break="no"/>cientia. Postquam enucleauit felicitatem esse summum bonum atque perfectissimum, nunc explicat illius 
+      suffi<lb ed="#P" n="4" break="no"/>cientiam: &amp; sic in valore ratiocinatur. Quicquid est perfectissimum est ex se sufficiens: at felicitas est 
+      hu<lb ed="#P" n="5" break="no"/>iusmodi, igitur. Vel si mauis hoc pacto discurre. Omne bonum per se sufficiens est simpliciter perfectum: 
+      <lb ed="#P" n="6"/>sed felicitas est bonum per se sufficiens: igitur. Minorem probat per proprietates boni sufficientis, quae 
+      fe<lb ed="#P" n="7" break="no"/>licitati conueniunt: quarum prima est quod ipsa sufficit homini etiam ciuiliter non tantum solitarie viuenti. Et 
+      <lb ed="#P" n="8"/>ostendit modum quo debet sufficere viuenti ciuiliter, quod sufficiat patentibus vxori &amp; similibus si tales ha 
+      <lb ed="#P" n="9"/>beat: sed est ponendus limes: alioqui suas vires transcendit nec erit felix. Cui quadrat illud quod Marcus 
+      <lb ed="#P" n="10"/>Tullius primo officiorum recitat. Non solum nobis nati sumus, sed ortus nostri partem patria sibi 
+      ven<lb ed="#P" n="11" break="no"/>dicat, partem amici. Quandoquidem homo est animal ciuile primo politicae. Secunda est quia id sufficiens 
+      <lb ed="#P" n="12"/>esse ponimus, quod solum a caeteris segregatum vitam expetibilem reddit. id autem est felicitas: igitur. 
+      <lb ed="#P" n="13"/>Opes ad partem similiter &amp; honorem aut voluptatem capias, &amp; felicitatem ipsam separatim: qualibet 
+      ea<lb ed="#P" n="14" break="no"/>rum immo omnibus illis ipsa est expetibilior. Imperfectiora autem ob perfectiora fiunt. primo 
+      politico<lb ed="#P" n="15" break="no"/>rum. ob bruta enim haerbae, &amp; ob homines bruta, creantur: &amp; homines ob felicitatem. dicit tamen, si 
+      felici<lb ed="#P" n="16" break="no"/>tas alteri bono vt diuitiis sanitati aut etiam minimo aut paruo iungatur, totum est expetibilius. In 
+      mi<lb ed="#P" n="17" break="no"/>nimo naturali, &amp; in talibus cauillis non insudabis. tales quisquilias in hac arte negligas quas obuiis 
+      ma<lb ed="#P" n="18" break="no"/>nibus in naturali philosophia leges. Insuper dicit quod excessus bonorum fit secundum id quod adiungitur. 
+      <lb ed="#P" n="19"/>hoc est crementum tantum erit quantum additur, si paruum bonum felicitati iungas vt denarium vnum 
+      <lb ed="#P" n="20"/>aggregatum est paulo maius felicitate: secus est si magnum bonum vt centum ducatos illi indigenti 
+      ad<lb ed="#P" n="21" break="no"/>dideris. Loquitur Aristoteles in hoc libro, &amp; in septimo libro, &amp; fere vbique ante decimum de felicitate 
+      po<lb ed="#P" n="22" break="no"/>litica, in decimo autem de felicitate contemplatiua perbelle philosophatur. Ex hisque concludit quod felicitas 
+      <lb ed="#P" n="23"/>est quid perfectum per se sufficiens &amp; finis operatorum: tum sit rerum agendarum omnium finis. 
+      Sequi<lb ed="#P" n="24" break="no"/>tur in litera. Sed felicitatem. Dicit ab vniuersis conceditur hoc quod diximus de felicitate, quod est summum bo 
+      <lb ed="#P" n="25"/>num &amp; perfectissimum, &amp; reliqua praetacta ei tribuendo: attamen per illa non explanatur essentia 
+      felicita<lb ed="#P" n="26" break="no"/>tis. proinde eminentius a nobis, exquirendum est de ea: quod fiet si accipiamus operationem propriam homi 
+      <lb ed="#P" n="27"/>nis qua homo est. In valore sic ait. felicitas est hominis operatio qua homo est: probatio quia cuiustibet 
+      cu<lb ed="#P" n="28" break="no"/>ius est aliquod opus summum bonum in opere consistit: at hominis est aliquod opus: ergo hominis 
+      sum<lb ed="#P" n="29" break="no"/>mum bonum, quod est felicitas, in opere consistit. Maiorem probat inductiue sic: ille dicitur optimus 
+      tibi<lb ed="#P" n="30" break="no"/>cen qui optime in tibia canit: &amp; ille optimus statuarius qui statuam optime facit: similiter optimus 
+      calci<lb ed="#P" n="31" break="no"/>fex qui optime calceos facit: &amp; sic de reliquis. Minorem probat: quia fabri &amp; sutoris, qui sunt solum ab arte. 
+      <lb ed="#P" n="32"/>est aliquod opus: proinde hominis quia natura est metrum animalium est aliquod opus. tenet consequentia: 
+      <lb ed="#P" n="33"/>alioqui enim erit ociosus &amp; inanis. Secundo oculi, &amp; pedes &amp; partium aliarum hominis est aliquod opus: 
+      <lb ed="#P" n="34"/>vt videre, &amp; ingredi: &amp; hoc patet ad sensum. ltaque totius hominis praeter haec erit aliquod opus. tenet 
+      con<lb ed="#P" n="35" break="no"/>sequentia: inconueniens est hoc parti &amp; non toti assignare. Hic argumentatur a notioribus, alioqui 
+      pete<lb ed="#P" n="36" break="no"/>ret principium. Manifestius enim est partium opus, qui totius opus. Sequitur in litera. Quid igitur id 
+      fue<lb ed="#P" n="37" break="no"/>rit tandem. Nunc monstrat quod sit illud opus, &amp; dicit: est opus animae secundum rationem. Hoc ipsum 
+      <lb ed="#P" n="38"/>sufficienti diuisione roborat sic. Viuere non est propria operatio hominis: patet quia viuere non est 
+      homi<lb ed="#P" n="39" break="no"/>ni peculiare: sed: caeteris animantibus commune. bruta enim pecora vitam nobiscum transigunt: modo  
+      <lb ed="#P" n="40"/>hominis proprium opus indagatur, saltem proprium secundo modo, quia illud etiam angelis conuenit. 
+      <lb ed="#P" n="41"/>Deo autem sua felicitas ad partem segregetur: ergo in vita nutritiua indiuiduum conseruare in esse, &amp; 
+      au<lb ed="#P" n="42" break="no"/>gmentatiua ipsum quoad coalescat manutenente non est hominis propria operatio. huiusmodi etiam ope 
+      <lb ed="#P" n="43"/>ratio non consistit in vita sensitiua quae vegetatiuam sequitur: sicut inferius suum superius, aut nobilius 
+      <lb ed="#P" n="44"/>ignobilius: quia illa est omnibus animalibus communis. Illis membris diuisionis sufficientis repudiatis: su 
+      <lb ed="#P" n="45"/>erest hominis felicitatem in vita rationali atque intellectiua locare. Nam neque in vegetatiua, nec in sensiti 
+      <lb ed="#P" n="46"/>ua, ex praetactis rationibus consistit: &amp; non est in alia quam in rationali, cum nulla alia sit vita. igitur. Et haec 
+      <lb ed="#P" n="47"/>vita est homini peculiariter addicta, sic autem literam cape: Restat igitur actiua ferme operatiua quaedam 
+      <lb ed="#P" n="48"/>vita, habentis rationem, hoc est animae rationalis: verum huius pars vna est rationi obsecundans: vt 
+      ap<lb ed="#P" n="49" break="no"/>petitus: altera pars est rationem in se habens, vt intellectus: voluntas cum intellectu reipsa coincidit. sed  
+      <lb ed="#P" n="50"/>non habet rationem primo, aut ea ratione qua voluntas est: sed ratione qua intellectus est, non refert: 
+      lo<lb ed="#P" n="51" break="no"/>quimur semper de his perinde ac si essent potentiae inter se distinctae: licet haec consequentia sit bona: hic 
+      <lb ed="#P" n="52"/>intellectus intelligit, &amp; hic intellectus est voluntas: ergo voluntas intelligit: vt antecedens sit verum: &amp; ex 
+      <lb ed="#P" n="53"/>consequenti ipsum consequens: tamen non solemus in communi modo loquendi admittere consequens. 
+      <lb ed="#P" n="54"/>loquendum autem est vt loquuntur plures, sentiendum vt pauci secundo de caelo. Sed cum etiam haec, 
+      scili<lb ed="#P" n="55" break="no"/>cet vita rationalis bifariam dicatur vno modo vt potentia, cum prorsus nihil agit: altero modo ponitur 
+      <lb ed="#P" n="56"/>cum actu: potius eius actus dicitur vita rationalis: &amp; haec est vita hominis, &amp; felicitas: est igitur totius 
+      ho<lb ed="#P" n="57" break="no"/>minis opus actus animae rationalis: quia illa est hominis potissima pars, &amp; hoc innuit dicens. Est igitur 
+      <lb ed="#P" n="58"/>opus hominis operatio animae per rationem, aut non sine ratione. Ecce tres potentiae homini 
+      tribuun<lb ed="#P" n="59" break="no"/>tur, scilicet potentia vegetandi, sentiendi, &amp; ratiocinandi. Cum brutis pecoribus in duabus prioribus 
+      con<lb ed="#P" n="60" break="no"/>municamus: in tertia ab illis dispescimur. Et iterum pars rationalis scinditur, nam quaedam est 
+      rationa<lb ed="#P" n="61" break="no"/>lis per essentiam vt intellectus. illa primo ratione sui intelligit: altera pars, scilicet appetitus tam 
+      sensiti<lb ed="#P" n="62" break="no"/>uus quam intellectiuus rationi paret. ltaque vita hominum propria est cum ratione intelligendo vel non sine 
+      <lb ed="#P" n="63"/>ratione volendo atque nolendo. Per hoc ostendit vitam per rationem secundum essentiam, &amp; vitam ipsius 
+      <lb ed="#P" n="64"/>rationis participatiue hoc est non sine ratione. Sequitur litera philosophi. At vero opus huius ad studio¬ 
+      <!--34.xml-->
+      <pb ed="#P" n="10-r"/>
+               <lb ed="#P" n="1"/>si huius idem esse genere dicimus. hoc est specie. Nam saepenumero extra dialecticam per genus speciem 
+      <lb ed="#P" n="2"/>etiam specialissimam intelligunt. Vult dicere quod opus hominis &amp; studiosi hominis specie non 
+      discre<lb ed="#P" n="3" break="no"/>pant, sunt enim in eadem potentia, &amp; habent idem obiectum interdum &amp; eodem modo in ipsum 
+      ten<lb ed="#P" n="4" break="no"/>dunt. ldem est de opere citharoe di &amp; periti citharoedi. Innuit autem felicitatem esse operationem 
+      ho<lb ed="#P" n="5" break="no"/>minis secundum virtutem: sicut opus citharistae est citharisare, &amp; boni citharoedi bene citharisare, &amp; 
+      <lb ed="#P" n="6"/>peritissimi citharoedi sublimem harmoniam in chordis efficere, ita est in proposito. Operatio 
+      huius<lb ed="#P" n="7" break="no"/>modi peculiaris est operatio secundum rationem: &amp; operatio optimi hominis est excellenter 
+      ope<lb ed="#P" n="8" break="no"/>rari secundum rationem. at homo felix est praestantissimus: &amp; optima operatio secundum rationem est 
+      <lb ed="#P" n="9"/>operatio virtutis. ltaque operatio hominis felicis, est operatio secundum virtutem: opus huius &amp; 
+      studio<lb ed="#P" n="10" break="no"/>si huius, est idem in genere: nam solum difserunt secundum virtutem appositam, vel virtutis 
+      excel<lb ed="#P" n="11" break="no"/>lentiam. immo est idem actus in specie specialissima. Et si homo possit eundem actum diu continuare. 
+      <lb ed="#P" n="12"/>idem actus a virtute emergit, qui primo sine virtute eliciebatur. sed pro quanto a virtute elicitur est 
+      fe<lb ed="#P" n="13" break="no"/>licitas, quia actus studiosi hominis: quapropter felicitas est opus animae virtutis, &amp; hominis, sicut actus 
+      <lb ed="#P" n="14"/>bonus a virtute emergens. ltaque studiosi hominis consummatum opus erit bene atque recte secundum 
+      ra<lb ed="#P" n="15" break="no"/>tionem operari. Hoc autem ab habitu &amp; virtute est. Porro singula secundum propriam virtutem 
+      perfi<lb ed="#P" n="16" break="no"/>duntur. Est ergo felicitas vitae rationalis actus qui virtute operatur. Ex his colligitur diffinitio 
+      felici<lb ed="#P" n="17" break="no"/>tatis quae est. Humana felicitas est hominis secundum virtutem operatio, &amp; in vita perfecta. Et si 
+      plu<lb ed="#P" n="18" break="no"/>es sint virtutes, ponimus felicitatem esse operationem secundum optimam &amp; perfectissimam virtutem. 
+      <lb ed="#P" n="19"/>Et additur in vita perfecta: quod vno modo sic intelligitur, quod homo sit immaculatae vitae: eo pacto quo 
+      <lb ed="#P" n="20"/>homo vitam secundum comminem cursum naturae bene agere quit. Alio modo per vitam 
+      perfe<lb ed="#P" n="21" break="no"/>ctam, longaeuitatem bene operandi accipe, quia nemo repente fit summus, nam prouerbialiter dicitur: vna 
+      <lb ed="#P" n="22"/>hirundo non facit ver: nec vnus calidus &amp; pulcher dies aestatem. licet autem hirundo verno tempore ad frigi 
+      <lb ed="#P" n="23"/>das regiones non aduolet: graeciam tamen regionem magis calidam in vere dum calet visitat: sub 
+      frigo<lb ed="#P" n="24" break="no"/>re in locis calidioribus victitat. ldentidem tempus exiguum non facit felicem, a vulgo felicitas in 
+      bre<lb ed="#P" n="25" break="no"/>i mora haud percipitur: verum cum quispiam diutino tempore virtute redimitus vitam agit, illius 
+      fe<lb ed="#P" n="26" break="no"/>licitatem ambigit nemo. semper de felicitate politica in hoc primo loquitur. Propterea theologi dicere 
+      <lb ed="#P" n="27"/>solent, quod tametsi Paulus &amp; Moyses raptim deum in vita viderint, non tamen erant beati. temporaria 
+      <lb ed="#P" n="28"/>enim erat ea visio. Verum illa beatitudo, felicitatem philosophicam longissimo interuallo praecedit. 
+    </p>
+            <p xml:id="JMAet9-de2222-d1e367">
+               <lb ed="#P" n="29"/>⁋ Contra dicta instatur primo. Felicitas est accidens: homo est substantia: accidens autem est substantia im 
+      <lb ed="#P" n="30"/>perfectius: qua de re felicitas non est finis hominis.
+    </p>
+            <p xml:id="JMAet9-de2222-d1e374">
+               <pc type="pilcrow">¶</pc> Secundo, videre &amp; ingredi est hominis opus. Si 
+      di<lb ed="#P" n="31" break="no"/>cas est opus partis primo. Contra intelligere est actus animae intellectiuae, quamobrem hominis. 
+    </p>
+            <p xml:id="JMAet9-de2222-d1e382">
+               <lb ed="#P" n="32"/>⁋ Tertio, eadem est in nomine anima intellectiua, sensitiua, &amp; vegetatiua: ltaque si felicitas est in anima 
+      <lb ed="#P" n="33"/>rationali, est etiam in sensitiua &amp; vegetatiua.
+    </p>
+            <p xml:id="JMAet9-de2222-d1e390">
+               <pc type="pilcrow">¶</pc> Quarto instatur de hoc quod dicit: paruum bonum 
+      felicita<lb ed="#P" n="34" break="no"/>ti annumeratum, reddit totum melius: quia bonum additum bono facit totum melius. Contra opes 
+      <lb ed="#P" n="35"/>opibus additae non reddunt, summam viro magis expetibilemicum sapiens petat mediocriter bona 
+      for<lb ed="#P" n="36" break="no"/>tunae, &amp; non eorum excessum nec defectum.
+    </p>
+            <p xml:id="JMAet9-de2222-d1e402">
+               <pc type="pilcrow">¶</pc> Quinto hoc modo, expeti propter aliud, non est malum 
+      <lb ed="#P" n="37"/>nec actus indifferens, ergo est bonum: ergo quando additur alicui quod est expetibile propter se, totum 
+      <lb ed="#P" n="38"/>est melius: &amp; sic quod propter se expetitur non est optimum.
+    </p>
+            <p xml:id="JMAet9-de2222-d1e412">
+               <pc type="pilcrow">¶</pc> Ad primam instantiam respondetur quod 
+      <lb ed="#P" n="39"/>non inconuenit finem etiam gratia cuius, esse minus praestantem entitatiue ipso cuius est finis, si tamen 
+      <lb ed="#P" n="40"/>est habenti melior: sicut panis est melior esurienti mure, primo caeli. Cuius est aliquod opus, ipsum est 
+      <lb ed="#P" n="41"/>gratia illius operis. Si non esset equi vectura atque equitium, superuacaneus esset equus. Secundum regulam 
+      <lb ed="#P" n="42"/>topicam: cuius vsus bonus, ipsum quoque bonum. Et per oppositum: cuius vsus malus ipsum quoque 
+      ma<lb ed="#P" n="43" break="no"/>lum. Quamobrem venenum est exitiale, necromantia &amp; caeterae malae &amp; superstitiosae artes sunt 
+      pernicio<lb ed="#P" n="44" break="no"/>sae. Noli venari nobilitatem rei, sed honestam vtilitatem. Pulex est substantia: beatitudo formalis est 
+      ac<lb ed="#P" n="45" break="no"/>cidens. Secundo dicitur quod homo felicitabilis est finis hominis.
+    </p>
+            <p xml:id="JMAet9-de2222-d1e433">
+               <pc type="pilcrow">¶</pc> Ad secundam dicitur quod actus animae 
+      <lb ed="#P" n="46"/>est actus supremae partis n homine proinde est actus hominis totalis eum studiosum denominans. Nam 
+      <lb ed="#P" n="47"/>si bonam voluntatem habeat quispiam, is absolute est bonus. pariter si bonam sortitus est animam, 
+      dici<lb ed="#P" n="48" break="no"/>nus illum bonum non tamen si videat vt Linceus, &amp; currat vt Asael: aut vt Aiax Oilei, propterea est 
+      <lb ed="#P" n="49"/>probus. Et videre est primo actus oculorum &amp; consequenter actus hominis, nec eum bonum 
+      pro<lb ed="#P" n="50" break="no"/>pterea denominans.
+    </p>
+            <p xml:id="JMAet9-de2222-d1e450">
+               <pc type="pilcrow">¶</pc> Ad tertiam dicitur quod assumitur dubium multis: sed illud concedo tanquam rationi 
+      <lb ed="#P" n="51"/>magis consentaneum: sufficit philosopho quod est actus intellectiuae inquantum huiusmodi: vel ipsam a 
+      ratio<lb ed="#P" n="52" break="no"/>ne sensitiua separando: per intellectiuam enim &amp; eius actus a pecoribus differimus.
+    </p>
+            <p xml:id="JMAet9-de2222-d1e460">
+               <pc type="pilcrow">¶</pc> Ad quartam 
+      dici<lb ed="#P" n="53" break="no"/>tur quod si b opes additae a opibus viro noceant, quia sunt occasio propinqua male agendi: iam non est 
+      bo<lb ed="#P" n="54" break="no"/>num bono additum: illud enim quod vni est bonum, alteri est nociuum. Medicina etiam in excessu propina¬. 
+      <lb ed="#P" n="55"/>ta nocet.
+    </p>
+            <p xml:id="JMAet9-de2222-d1e473">
+               <pc type="pilcrow">¶</pc> Ad quintam respondetur, quod illud quod expetitur ob aliud bonum, bonitatem ab illo alio 
+      <lb ed="#P" n="56"/>mendicat, &amp; non habet ex se: propterea puritas mentis est temperantia melior: quia ob eam temperantia 
+      <lb ed="#P" n="57"/>ordinatur. Quod solum propter se expetitur habet bonum ex se, &amp; est purissimum bonum. Secundo 
+      di<lb ed="#P" n="58" break="no"/>co quod licet illud aliud esset melius ob varias bonitates superadditas: potissima tamen illius bonitas est quia. 
+      <lb ed="#P" n="59"/>est propter se.
+    </p>
+            <p xml:id="JMAet9-de2222-d1e487">
+               <pc type="pilcrow">¶</pc> Sexto dubitatur vtrum felicitas consistat in actu intellectus an voluntatis. Respondetur  
+      <lb ed="#P" n="60"/>quod principaliter in actu voluntatis: licet enim multos alios actus intellectus importat &amp; connotat, felicitas i 
+      <lb ed="#P" n="61"/>tamen est hominis actus optimus. sed ille est actus voluntatis qui hominem bonum absolute 
+      denomi<lb ed="#P" n="62" break="no"/>nat. Habens enim actus voluntatis requisitos &amp; sufficientes est bonus simpliciter: sed per actus intellectus 
+      <lb ed="#P" n="63"/>homo est bonus cum adiecto, vt bonus rhetor, bonus causidicus, bonus artista. qui hominem absolute bo I 
+      <lb ed="#P" n="64"/>num non denominant.
+    </p>
+            <p xml:id="JMAet9-de2222-d1e504">
+               <pc type="pilcrow">¶</pc> Epilogando circa hanc literae partem, dicimus si a finis ordinetur ad ba quo 
+      <!--35.xml-->
+      <pb ed="#P" n="10-v"/>
+               <lb ed="#P" n="1"/>bonitatem suscepit, b finis est praestantior: Nam propter vnumquodque tale &amp; illud magis. primo 
+      posterio<lb ed="#P" n="2" break="no"/>rum, &amp; v politicae: semper deterius est gratia melioris. Quare sanitas et puritas mentis est finis 
+      temperan<lb ed="#P" n="3" break="no"/>tiae: &amp; non contra. Nec manducare est finis viuendi. Et est sermo de fine secundum primariam intentionem. 
+      <lb ed="#P" n="4"/>vnde secundum commentatorem. secundo caeli commento. ix. finis primaria intentione est praestantior 
+      ordi<lb ed="#P" n="5" break="no"/>natis in finem. Ex eius bonitate alia bona feruntur. finis autem secundum intentionem secundam est res 
+      inferio<lb ed="#P" n="6" break="no"/>ris ordinis ex largitate nobilioris procedens: quo pacto deus, intelligentiae, &amp; corpora caelestia ob terrae nascen 
+      <lb ed="#P" n="7"/>tia fiunt, quod est ob talem secundarium finem, bonitatem ab illo non sortitur. Caeterum scientia moralis est bo 
+      <lb ed="#P" n="8"/>na &amp; honesta propter se &amp; propter opus: mathematicae artes pulchrae sunt a iunioribus addiscendae, demum 
+      <lb ed="#P" n="9"/>ad defaecatos mores sese totos couertant, memores sint illius hieronymiani dicti, Scientiae mathematicae 
+      veri<lb ed="#P" n="10" break="no"/>tatis sunt, pietatis non sunt. Nunc ad literae explanationem reuertamur. Posita finitione felicitatis sine 
+      descriptio<lb ed="#P" n="11" break="no"/>nem, narrat philosophus qualiter post hac est insudandum non modo in praesenti diffinitione, sed &amp; aliubi: &amp; 
+      or<lb ed="#P" n="12" break="no"/>dinem doctrinae, &amp; procedendi ponit. ltaque primo dicit. Finitio data felicitatis est sufficiens. hoc sic probat. 
+      <lb ed="#P" n="13"/>Primo quia felicitas debet primo sub rudi minerua discribi: postea oportet eam in singulas eius particulas 
+      <lb ed="#P" n="14"/>depingere: sed ita factum est assignando praedictam diffinitionem felicitatis, igitur ipsa est conuenienter 
+      assigna<lb ed="#P" n="15" break="no"/>ta. Maiorem probat: quia proprium est cuiustibet artificis suum artificium describentis de imperfecto ad 
+      perfe<lb ed="#P" n="16" break="no"/>ctum procedere, &amp; temporis interuallo descriptionis particulas explicare, quia cuiustibet artificis est apponere 
+      <lb ed="#P" n="17"/>quod deficit. Nam artium crementa cum tempore coalsecunt: tempus enim talium inuentor &amp; cooperator 
+      <lb ed="#P" n="18"/>est bonus. Non est ergo festinandum, sed mature procedendum. lege omnes ethicorum libros vni ingenioso 
+      <lb ed="#P" n="19"/>adulescenti vnahebdomada, vel duabus, &amp; retinebit nihil in anni curricubo: iusto labore operam 
+      nauan<lb ed="#P" n="20" break="no"/>do non nihil proficiet: in angustum vasis orificium multum liquoris simul infundas, &amp; parum liquoris vas 
+      <lb ed="#P" n="21"/>ipsum recipiet: quod si totum sensim iniectum fuerit, vas ipsum implebitur. Quodam modo se excusat subindicans 
+      <lb ed="#P" n="22"/>se plurimum in hac parte primo insudasse, et quod postea nonnihil superaddet: sicut facit in calce elenchorum 
+      <lb ed="#P" n="23"/>de logica. Et si socrates moralem philosophiam e caelis vt produnt euocauerit, rudius eam primo tradidit: non  
+      <lb ed="#P" n="24"/>parum enim adiumenti philosophus adiecit. Quando autem dicitur quod tempus est talium inuentor &amp; adiutor bonus: 
+      <lb ed="#P" n="25"/>non ideo dicitur non quod tempus id efficiat, quia tempus aut est caelum aut eius motus, secundum varias 
+      philo<lb ed="#P" n="26" break="no"/>sophantium positiones neutrum istorum scientiam confert, verum diuturnitate &amp; perpetuo labore artes parantur. 
+      <lb ed="#P" n="27"/>Nam vt maro dicit: labor omnia vincit improbus. Secundum documentum est: quod certitudo non in omnibus 
+      <lb ed="#P" n="28"/>est pari modo efflagitanda, sed in singulis vt ipsa materies expostulat: sed sic factum est circa felicitatis diffi 
+      <lb ed="#P" n="29"/>nitionem. Maiorem probat. Nam faber &amp; geomaetra diuerso modo angulum rectum considerant: alter enim, 
+      <lb ed="#P" n="30"/>puta faber, vt vtilis est ad aedificium: geometra vero vt suae speculationi subseruit: quis sit &amp; qualis sit 
+      inda<lb ed="#P" n="31" break="no"/>gans: contemplator enim est geometra, speculatur enim ipse quomodo omnes anguli recti sunt aequales &amp; 
+      <lb ed="#P" n="32"/>quomodo angulus rectus inter obtusum &amp; acutum est interstes, &amp; ita de similibus theorematibus. Et ita in  
+      <lb ed="#P" n="33"/>omnibus artibus seruandus est traditionis modus.
+    </p>
+            <p xml:id="JMAet9-de2222-d1e586">
+               <pc type="pilcrow">¶</pc> Tertium documentum quod demonstratio propter quid 
+      <lb ed="#P" n="34"/>non est similiter in omnibus quaerenda: nam in aliquibus sat est monstrare quoniam vera sunt: &amp; hic 
+      mo<lb ed="#P" n="35" break="no"/>dus cognoscendi primus est atque initium, vt in principiis, quorum quaedam inductione, quaedam sensu, quaedam 
+      <lb ed="#P" n="36"/>consuetudine atque experientia cognoscuntur. Exempla seriatim subnectemus. Quaecumque sunt aequalia vni 
+      ter<lb ed="#P" n="37" break="no"/>tio, inter se sunt aequalia. Per discursum breuem &amp; experientiam in particularibus hoc deducitur. 
+      Paradig<lb ed="#P" n="38" break="no"/>ma secundi. Calor est calefactiuus, &amp; quia non perceperunt albedinem albefacere, sciebant quod albor non est 
+      albefa<lb ed="#P" n="39" break="no"/>ctiuus: hoc etiam artificio medici profecerunt. Agaricum flegma purgare nouerunt experimento. Cassiam 
+      <lb ed="#P" n="40"/>aluum soluere, &amp; fabam, &amp; quod vocant rizum vulgo ipsam stringere nouerunt. Et abstinetia insultus petulantis cat 
+      <lb ed="#P" n="41"/>nis domari, assuetudo huic experientiae suppetias tulit: quare physicus iam annosus, si ratio in eo adhuc 
+      flo<lb ed="#P" n="42" break="no"/>reat, est eligendus: tempus vt philosophus prodit in hisce est adiutor: sed diffinitio felicitatis est vnum principium 
+      <lb ed="#P" n="43"/>huius scientiae: quas ob res, eius non est quaerendum propter quid: &amp; per consequens est sufficienter descripta. 
+      <lb ed="#P" n="44"/>Enitendum autem est pertractare singula vt suapte natura percipi possunt: &amp; diligentia est adhibenda vt 
+      so<lb ed="#P" n="45" break="no"/>lerter diffiniantur. Nam id ad sequentia magnum habet momentum. Principium enim (vt prouerbialiter 
+      di<lb ed="#P" n="46" break="no"/>ci solet) plusquam dimidium totius esse videtur. Consonat Flaccus, dimidium caepti qui caepit habet sapere aude. Ple 
+      <lb ed="#P" n="47"/>rique lente ad extructionem ardui operis eriguntur: sed cum ipsum aggrediuntur viriliter sese accingunt. &amp; 
+      <lb ed="#P" n="48"/>ipsum consummant, vel posteris perficiendi viam aperiunt, &amp; eorum quae quaeruntur complura per ipsos sunt per 
+      <lb ed="#P" n="49"/>spicua: vt Dauid in structura templi, qui magnam materiae molem praeparauit quam Salomon peregit. 
+    </p>
+            <p xml:id="JMAet9-de2222-d1e626">
+               <lb ed="#P" n="50"/>⁋ Dubitatur primo de veritate huius. Principium videtur plusquam dimidium totius. Et probo quod non, 
+      prin<lb ed="#P" n="51" break="no"/>cipium enim est forte vigesima pars domus aut alterius operis, quae, non est maior medietate totius 
+      ope<lb ed="#P" n="52" break="no"/>ris. In oppositum est philosophus. Secundo quid sit vita.
+    </p>
+            <p xml:id="JMAet9-de2222-d1e635">
+               <pc type="pilcrow">¶</pc> Ad priorem dubitationem respondetur quod 
+      prin<lb ed="#P" n="53" break="no"/>cipium diffinitiuum non parum momenti ad sequentia confert. In proposito per principium virtutem 
+      <lb ed="#P" n="54"/>intelligit, quae est felicitatis effectrix, aut potius diffinitionem felicitatis. Diffinitio plurimum ad sequentia con 
+      <lb ed="#P" n="55"/>ducit. Porro ait philosophus primo posteriorum: diffinitio subiecti tantum, praedicati tantum aut vtriusque. 
+      <lb ed="#P" n="56"/>est tota demonstratio, positione differens. Hanc authoritatem horatiano more ad alia extraria opera 
+      con<lb ed="#P" n="57" break="no"/>cinne accommodabimus: In quibus dicimus principium non est maius quantitatiue quam dimidium totius: sed 
+      prin<lb ed="#P" n="58" break="no"/>cipiis appositis communiter multum materiae apponitur. prudens non incipit construere aedem quoad lapides, 
+      cae<lb ed="#P" n="59" break="no"/>mentum &amp; caetera id genus habeat parata. Etiam multitarde incipiunt extruere, sed cum inchoauerint celeriter 
+      secun<lb ed="#P" n="60" break="no"/>dum exigentiam negocii perficiunt. Verentur ne a vicinis structuram imperfectam videntibus irrideantur. 
+      Pul<lb ed="#P" n="61" break="no"/>chrum enim operis imperfecti initium cernentes aiunt: imprudens erat huius structurae dominus, suas 
+      vi<lb ed="#P" n="62" break="no"/>res non considerans, nec cum opificibus gnaris conferens. hinc est hominibus fabula. In doctrinis ad propositum 
+      <lb ed="#P" n="63"/>philosophi principia in quantitate sunt parua, secundo elenchorum. magna tamen in valore: quia ex eis 
+      <lb ed="#P" n="64"/>multa facile inferuntur: &amp; sic vtroque modo verum dicit.
+    </p>
+            <p xml:id="JMAet9-de2222-d1e668">
+               <pc type="pilcrow">¶</pc> Ad secundam dubitationem respondetur 
+      <!--36.xml-->
+      <pb ed="#P" n="11-r"/>
+               <lb ed="#P" n="1"/>quod vita bifariam capitur. Vno modo pro actu primo qui corpus viuificat: &amp; illud est cum anima corpus 
+      in<lb ed="#P" n="2" break="no"/>format: &amp; dum informare est desitum, est mors. Et sic vita erit mors, licet vitam esse mortem est 
+      impossi<lb ed="#P" n="3" break="no"/>bile. Alio modo capitur pro actibus animae, &amp; pro actu secundo, &amp; sic sepius capimus dicentes Socratem esse 
+      <lb ed="#P" n="4"/>probae &amp; praeclarae vitae: Sardanapalem sordidae vitae, si coinquinamentis implicitus degat. 
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

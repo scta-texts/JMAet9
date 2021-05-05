@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d24726"><!-- mair-l6c1 -->
+            <head xml:id="JMAet9-d24726-Hd1e103">Caput 1</head>
+            <p xml:id="JMAet9-d24726-d1e106">
+      <!--202.xml-->
+               <pb ed="#P" n="92-r"/>
+               <lb ed="#P" n="1"/>
+               <quote xml:id="JMAet9-d24726-Qd1e114" type="lemma">Cvm autem antea dictum sit</quote> &amp;c. Secundo libro superius retulimus medium esse expetendum, non 
+      <lb ed="#P" n="2"/>lautem excessum, neque defectum: mediumque sese habere vt recta ratio praescribit. Non enim ex 
+      <lb ed="#P" n="3"/>natura rei sumendum est medium: verum consentaneum ad rectam rationem. Variorum enim 
+      come<lb ed="#P" n="4" break="no"/>dentium variae sunt temperantiae latitudines. hanc rectam rationem aperiamus latius. Ipsa enim 
+      <lb ed="#P" n="5"/>non vnifariam dicitur. Quot enim sunt virtutes ac habitus intellectiui tot species 
+      re<lb ed="#P" n="6" break="no"/>ctae rationis esse videntur. Cuique specierum secundo capite numerandarum sua ratio respon 
+      <lb ed="#P" n="7"/>erTOdet, vt post hac fauentibus superis locupletius enucleabimus. Sequitur. In omnibus 
+      <lb ed="#P" n="8"/>dictis habitibus nam &amp; in omnibus habitibus studiosis, quemadmodum in caeteris omnibus artibus, duo sunt 
+      <lb ed="#P" n="9"/>consideranda: scilicet quoddam perfectum &amp; signum: quod signum aspiciens veluti sagittarius habitum habens sua 
+      ope<lb ed="#P" n="10" break="no"/>ra dirigit: quae nunc intendit &amp; auget, nunc vero remittit, hoc ipsum exemplo explanauero. Nunc magis comedo 
+      <lb ed="#P" n="11"/>cutem vtcumque curando, semper tamen in latitudine medii manendo: nunc parcius vt in quadragenario ieiunio 
+      <lb ed="#P" n="12"/>comedo. Virque temperans nunc meracius bibit: ac opipare coenitat: nec oblata bellaria in raro conuiuio spernit. 
+      <lb ed="#P" n="13"/>alias autem domi frugalem transigit vitam. Praeterea est terminus ac limes mediocritatum quaes mediocritates inter exces 
+      <lb ed="#P" n="14"/>sum atque defectionem esse dicimus. Astipulatur Flaccus canens. Est modus in rebus suntur certi denique fines. Quos 
+      <lb ed="#P" n="15"/>vltra citraque nequit consistere rectum. Caeterum finis vltimus non inepte dicitur esse signum cuius Aristoteles in 
+      fron<lb ed="#P" n="16" break="no"/>tispicio primi libri meminit. Foelicitatis cognitio non parum incrementi habet in prosecutione virtutis. Est enim 
+      <lb ed="#P" n="17"/>finis propinquus cuiustibet virtutis. Temperans temperanter corpus in seruitutem redigit: alioqui non esset idoneum 
+      <lb ed="#P" n="18"/>instrumentum animae, aegrum enim corpus spiritum a bonis operibus remoratur: atque sermo talis generatiui prolatus est 
+      <lb ed="#P" n="19"/>verus, scilicet: Recta ratio signum respicit quod contemplabimur ac eadem mediocritate praescribit. Hoc tamen non satis est 
+      <lb ed="#P" n="20"/>ad percipiendam rectam rationem, vt artis exemplo probatur. Sicut recta ratio faciendi se habet ad factibilia ac ea quae ab 
+      <lb ed="#P" n="21"/>arte conficiuntur: ita recta ratio agendi circa agibilia, ad bene operandum. In quauis arte. At sufficit generatim 
+      sci<lb ed="#P" n="22" break="no"/>re secundum artes praeceptiones, proinde in agendis rebus minime sufficit scire agendum esse secundum rectam 
+      ratio<lb ed="#P" n="23" break="no"/>nem non exuperando nec deficiendo: sed determinanda atque particulizanda est haec recta ratio: quaenam sit &amp; quae 
+      <lb ed="#P" n="24"/>illius diffinitio. Qui tantum hoc in communi sciuerit non amplius curabit quam ille qui hoc pacto ait. Corpori 
+      <lb ed="#P" n="25"/>aegro ea sunt afferenda quae medicinae ars iubet aut afferenda sunt ea quae physicus iubet. Haec generalis prolatio sine 
+      <lb ed="#P" n="26"/>vlteriore discussione in singularibus parum adiumenti languenti attulerit. Sequitur in litera. Virtutes animae superio 
+      <lb ed="#P" n="27"/>ribus in locis vtputa in calce primi distraximus: &amp; alias morum alias mentis diximus esse: atque de morum, hoc est 
+      <lb ed="#P" n="28"/>affectus quidem virtutibus iam superius locupletius transegimus in secundo quarto ac quinto libris: Reliquum est de intellectus 
+      <lb ed="#P" n="29"/>virtutibus fari. ane omnia his de aia delibatis, geminas animae esse partes superius retulimus: atque bifariam distraxi 
+      <lb ed="#P" n="30"/>mus: quarum vna pars est rationis compos, altera autem rationis inops: vt vegetatiua arboribus conveniens. tursus 
+      <lb ed="#P" n="31"/>pars rationis particeps est vlterius deducenda. hoc supponatur tamquam in hac arte principium. Vna animae parte aeter 
+      <lb ed="#P" n="32"/>na contemplamur. haec principia aeterna immutabilis sunt veritatis, alia pars aiae qua contingentia rimamur, haeque 
+      <lb ed="#P" n="33"/>partes diuisae sunt gene: reipsa quia anima est impartibilis, hoc allatum affatim suo more exponit, vt quilibet inge 
+      <lb ed="#P" n="34"/>nio praeditus quidnam dicere voluerit medulitus intelliget, rudiori tantum minerua praeditus falsum puer vero 
+      somnia<lb ed="#P" n="35" break="no"/>bit, sicut plerique faciunt. Sine magna dicacitate litera explanationem aggredior: partes sunt diuersae gne quae sunt 
+      <lb ed="#P" n="36"/>aptae res differentes gne, quod est facile deprehendere, siqui dem ipsis partibus animae inest rerum cognitio similitudine 
+      <lb ed="#P" n="37"/>quadam atque accommodatione: perinde acsi diceret istarum partium obiecta reipsa gne differunt: itaque talem denominationem 
+      <lb ed="#P" n="38"/>obiectiuae partes animae sortiuntur, specien logicam alii professores genus nominitant, sed redit in idem. Est genus 
+      sub<lb ed="#P" n="39" break="no"/>alternum quod cum specie subalterna conspirat, Ex quo perspicuum est quod de reali discrimine partium aiae minime loquitur 
+      <lb ed="#P" n="40"/>nec hoc discrimen somniat. Verum pro faciliore elucidatione ania denocinationem obiectorum suscipiet: atque necessariae 
+      <lb ed="#P" n="41"/>enunciationes atque contingentes specie dispescuntur, sicut est idem oculus qui caelestes orbes atque haec caduca tertena 
+      <lb ed="#P" n="42"/>aspicit, &amp; duae sunt flammae vires scilicet calefaciendi ac illuminandi, &amp; ita flamma illuminatrix est etiam calefactrix, inest 
+      <lb ed="#P" n="43"/>eadem aia diuersis officiis, diuersis nomibus vocata. Sequitur in lita. Atque harum altera vis sciendi eaque est contemplatiua, 
+      <lb ed="#P" n="44"/>altera subducendi rationem vocabitur, &amp; ea est vis consuitatiua ac calculandi. Consultare ac rationem subducere siue ra 
+      <lb ed="#P" n="45"/>tiocinari idem sunt ac conicidunt. Ad insinuandam indentitatem in re dixit, harum altera vis ac potestas. Nemo sane de his 
+      <lb ed="#P" n="46"/>rebus consultat quae aliter se habere nequeunt. Nec ipse astronomus de planetarum coitu oppositione ac alio aspectu 
+      <lb ed="#P" n="47"/>consultat, verum aspectibus cognitis quid de terrae fructibus portendant. Ex planetarum &amp; reliquorum conspectibus siderum: 
+      <lb ed="#P" n="48"/>annonae charitatem aut vtilitatem iudicat: nonnumquam tamen luditur praesertim in his quae a libero arbitrio pendent. talis eius 
+      <lb ed="#P" n="49"/>ominatio est cifra in figurarum calce. Sequitur in lta. Sumendum est igitur quisnam vtriusque partis aniae scilicet cotemplatiuae &amp; con 
+      <lb ed="#P" n="50"/>sultatiuae sit optimus habitus. Vult dicere quod habitus istarum partium aiae est virtus ac perfectio earundem, nam his inuentis 
+      <lb ed="#P" n="51"/>illarum partium virtus habetur. ostenditur, illd a quo emanat opus perfectum proprium alicuius potentiae est illius potentiae virtus: ac 
+      <lb ed="#P" n="52"/>habitus praestantissimi sunt a quibus proficiscitur operatio praestantissima istarum potentiarum: pinde habitus optimi sunt earundem 
+      <lb ed="#P" n="53"/>virtutes. Maior est liquida, quia virtus consistit circa perfectum ac proprium opus. Circa literam hoc mon explanatam nonnulla 
+      <lb ed="#P" n="54"/>dubia occurrunt. Primo quaere aliae virtutes morales denominentur: cum consuetudine ac more ex sedo ethicorum ac L 
+      <lb ed="#P" n="55"/>quirantur pariter &amp; intellectiui. Habitus siquidem illi ex actuum reiteratione emergunt. Sedo intellectus reipsa est appetitusi 
+      <lb ed="#P" n="56"/>quomodo virtutes huius libri habitus intellectiui appellitentur. Capta enim scientia hoc pacto ratiocinabor, huic intellectu 
+      <lb ed="#P" n="57"/>scientia inhaeret: at hic itellectus est voluntas: proinde scientia voluntati ihaeret, expositorie praemissae minime sunt respuen 
+      <lb ed="#P" n="58"/>dae: igitur nec illata conclusio.
+    </p>
+            <p xml:id="JMAet9-d24726-d1e242">
+               <pc type="pilcrow">¶</pc> Tertiopotentiae distinguuntur peractus &amp; actus per obiecta, sedno de ania, sed obiecta spe 
+      <lb ed="#P" n="59"/>cie dispescuntur reipsa itaque &amp; ipsae potentiae.
+    </p>
+            <p xml:id="JMAet9-d24726-d1e250">
+               <pc type="pilcrow">¶</pc> Quarto nihil est pars suimet: potentia contemplatiua est anima reip 
+      <lb ed="#P" n="60"/>sa, proinde non est eius pars. Eodem mon de parte consultatiua ratiocinabor. De habitibus naturalibus ac infusis 
+      neu<lb ed="#P" n="61" break="no"/>tiquam. Proptitudo naturalis ad bonum nullum habitumponit, ac habitus superne infusi Aristotelem praetereunt, allata dubi 
+      <lb ed="#P" n="62"/>tabilia ea serie quam proposita sunt declarabimus, relictisque aliorum frigidis rationibus carptim dicimus. Ad primum virtu 
+      <lb ed="#P" n="63"/>tes tam mentis quam appetitus consuetudine parantur, ac illae virum bonum minie efficiunt scribente Arist. ii. ethi, scire pa 
+      <lb ed="#P" n="64"/>rum prodest at virtutes eligere autem non parum (vetusta translatione non semel vtor, signanter quando memoriter recito)  
+      <lb ed="#P" n="65"/>istae vero virum moratum atque probum efficiunt, temperantus ac iustus, est bonus, temperantia ob connotatum &amp; philoso¬ 
+      <!--203.xml-->
+      <pb ed="#P" n="92-v"/>
+               <lb ed="#P" n="1"/>phicam acceptionem probitatem includit, alioqui ipsa est bonis malisque communis, secundo moralis sola 
+      <lb ed="#P" n="2"/>actuum ratiocinatione sine extrinseco doctore paratur quicquid praeceptor dixerit nisi homo ad bonum 
+      <lb ed="#P" n="3"/>assuescat flosculos morum minime assequetur. In prauorum corda intellectiuae virtutes, vel eis quasi nolem 
+      <lb ed="#P" n="4"/>tibus instituantur, verberibus iuuenes quodammodo inuitos ad disciplinas coartamus, a consuetudine 
+      mo<lb ed="#P" n="5" break="no"/>rales nomen accipiunt. secundi ethicorum primo. Verum non totaliter, cum intellectuales etiam more pro 
+      <lb ed="#P" n="6"/>creantur, mos consuetudinem significat dicentibus haebreis, nisi circuncidimini secundum morem legis 
+      <lb ed="#P" n="7"/>moysi non potestis salui fieri, actuum decimo quinto. Ad secundum dicimus quod omnes virtutes 
+      intelle<lb ed="#P" n="8" break="no"/>ctus appetitui insunt, sed intellectiuae virtutes intellectui primo inhaerent. Si intellectus reipsa a 
+      volunta<lb ed="#P" n="9" break="no"/>te distingueretur appetitui nullo modo inhaererent. Nec tale impossibile in conditionali accipere est 
+      prae<lb ed="#P" n="10" break="no"/>ter rationem, quomodo Aristoteles quarto physicorum &amp; aliubi. Vti seriosius alias explanauimus <name xml:id="JMAet9-d24726-Nd1e294">beatus 
+        <lb ed="#P" n="11"/>Thomas</name> &amp; alii intellectum ab appetitu reipsa separant, quae accidentia animae ponunt, quibus omnifariam 
+      <lb ed="#P" n="12"/>refragamur, nec formalem distinctionem ad aliorum sensuum ponimus. Hoc enim pacto placet dicere 
+      intelle<lb ed="#P" n="13" break="no"/>ctum formaliter a voluntate distingui. Alia est ratio quare intellectus. &amp; alia quare voluntas dicatur. 
+      In<lb ed="#P" n="14" break="no"/>tellectus munus est intelligere appetitus velle aut nolle. Ad tertiam haesitationem respondemus quod non est 
+      <lb ed="#P" n="15"/>tanta potentiarum distinctio quanta actuum eius. Monstratur, in idem obiectum lati actus, intellectus ac voluntatis 
+      <lb ed="#P" n="16"/>specie distinguuntur: attamen ratione potentiae secernuntur. Intellectus intelligitiratione, sui non autem appetitus. 
+      <lb ed="#P" n="17"/>proinde in ratione potentiae distinguuntur. Ex hoc lucidum est aggregatum potentiae intellectiuae cum suo actu 
+      <lb ed="#P" n="18"/>intelligendi ab aggregato appetitus cum suo actu specie distinguntur. Ad quartum dicitur quod animae functio ad  
+      <lb ed="#P" n="19"/>intelligentiam solam haudquaquam terminatur: nec ad volendum eius facultas extenditur: verum ad haec &amp; illa 
+      <lb ed="#P" n="20"/>exspatiatur, proinde illae eius partes non ab re appellitantur.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

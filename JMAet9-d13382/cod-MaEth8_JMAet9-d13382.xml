@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 9</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 9</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d13382"><!-- mair-l3c9 -->
+            <head xml:id="JMAet9-d13382-Hd1e103">Caput 9</head>
+            <p xml:id="JMAet9-d13382-d1e106">
+               <lb ed="#P" n="55"/>
+               <quote xml:id="JMAet9-d13382-Qd1e110" type="lemma">Qvamquam autem</quote> &amp;c. Sex fortitudinis proprietates hic ponit. Prima est fortitudinis opus magis relucet 
+      <lb ed="#P" n="56"/>ferendo terribilia quam ausibilia aggrediendo. Seda. Opus fortitudinis est molestum. Tertia eius opus 
+      <lb ed="#P" n="57"/>Fest laudabile. Quarta est difficile, ac est cum voluptate attingendo eius finem. Vltima proprietas est, for¬ 
+      <!--115.xml-->
+      <pb ed="#P" n="49-v"/>
+               <lb ed="#P" n="1"/>titudo dolorosa ob grande bonum tolerat.
+    </p>
+            <p xml:id="JMAet9-d13382-d1e125">
+               <pc type="pilcrow">¶</pc> Prima conclusio huius capitis est. Quuis fortitudo circa 
+      me<lb ed="#P" n="2" break="no"/>tus &amp; fiducias versetur, magis tamen circa terribilia insudat. Probatio, fortitudo est magis circa illud circa 
+      <lb ed="#P" n="3"/>quod fortis magis laudatur, &amp; in quo eius virtus elucet. ac fortis magis extollitur in hoc quod bene se habet circa 
+      <lb ed="#P" n="4"/>res formidolosas, hoc est circa terribilia, quam in hoc quod baene se habet circa ausibilia, &amp; in his in quibus confidi 
+      <lb ed="#P" n="5"/>tur. Secundo, Fortes ex eo appellantur, quia res asperas atque tristes sustinent, idcirco graue fortitudo affert, ta 
+      <lb ed="#P" n="6"/>lia fortitudinem sequuntur, &amp; merito laudatur, id magis circa timores hoc est terribilia emicat quam circa 
+      fidu<lb ed="#P" n="7" break="no"/>ciam. Tertia, difficilius est dolores perferre quam a voluptatibus abstinere. Patet ex sedo libro, &amp; ad sensum 
+      <lb ed="#P" n="8"/>in brutis quae verberibus arcentur a voluptatum prosequutione. Et non aliter fortitudo est temperantia 
+      prae<lb ed="#P" n="9" break="no"/>stabilior &amp; virtus magis circa difficile versatur: igitur fortitudo magis circa terribilia insudat &amp; quae dolorem 
+      <lb ed="#P" n="10"/>afferunt, quam circa fiducias quae voluptatem afferunt.
+    </p>
+            <p xml:id="JMAet9-d13382-d1e150">
+               <pc type="pilcrow">¶</pc> Sequitur secunda conclusio. Enimuero finis fortitudinis 
+      <lb ed="#P" n="11"/>iucundus esse videtur, tametsi a superuenientibus doloribus abstineretur. Nam quemadmodum in gymnicis certa 
+      <lb ed="#P" n="12"/>minibus euenit vbi pugilibus finis gratia cuius certant est iucundus, coronae scilicet &amp; honores, sed illis caedi est 
+      <lb ed="#P" n="13"/>molestum cum carnei sint, nemo enim carnem suam odio habet, pari: er &amp; quicquid dolorem affert, &amp; labor omnis res 
+      <lb ed="#P" n="14"/>molesta est, &amp; cum hoc vulnera dolorem afferentia, &amp; haec multa sunt &amp; finis exiguus, voluptas obfuscatur, &amp; 
+      <lb ed="#P" n="15"/>nihil iucundi habere videtur. Consimili modo circa fortitudinem contingit. Nam interitus &amp; plagae 
+      <lb ed="#P" n="16"/>dolorosae sunt, &amp; eas simpliciter nollet, suffert tamen fortis, quia decorum est eas perferre, aut foedum 
+      <lb ed="#P" n="17"/>non sustinere.
+    </p>
+            <p xml:id="JMAet9-d13382-d1e171">
+               <pc type="pilcrow">¶</pc> Sequitur tertia conclusio huius capitis. Quanto magis vir fortis virtute pollet, &amp; 
+      quan<lb ed="#P" n="18" break="no"/>to virtute faustior est, eo ob mortem magis dolebit, quia talis maxime est vita dignus, propterea in  
+      <lb ed="#P" n="19"/>naui periclitanti cum inessent philosophus, &amp; vir nebulo: doluit philosophus, &amp; causam reddens, vti 
+      <lb ed="#P" n="20"/>litates sui in republica ostendit, nebulonemque qui se non timuisse iactitabat, illusit dicens, non mirum 
+      <lb ed="#P" n="21"/>esse cum non sit pro submersione talis viri dolendum, vt graphice scripsit Aulus Gellius. Pro aliis &amp; 
+      <lb ed="#P" n="22"/>pro se vir doctus &amp; bonus probe agit, &amp; est aliis norma viuendi, &amp; maximis in interitu priuatur 
+      bo<lb ed="#P" n="23" break="no"/>nis, &amp; hoc scit: igitur mors est illi molesta &amp; dolorem affert, Nihilotamen minus, fortis decus &amp; glori 
+      <lb ed="#P" n="24"/>am belli his anteponit, ac si sic argumentaretur.
+    </p>
+            <p xml:id="JMAet9-d13382-d1e193">
+               <pc type="pilcrow">¶</pc> Quanto aliis id sciens maiori priuatur bono quo 
+      <lb ed="#P" n="25"/>dignus est, tanto magis tristatur. Multum facit scienter, veritatem enim defendens, putans mortem 
+      <lb ed="#P" n="26"/>euenturam est martyr, non tamen mortis inscius quoniam non est opus heroicum. Futuram 
+      mor<lb ed="#P" n="27" break="no"/>tem baptista in sua reprehensione ignorasse non creditur, sed quanto quis est studiosior tanto 
+      maio<lb ed="#P" n="28" break="no"/>ri priuatur bono quo est dignus: igitur.
+    </p>
+            <p xml:id="JMAet9-d13382-d1e207">
+               <pc type="pilcrow">¶</pc> Quantum ad secundam partem vult dicere quod fortitudo 
+      ta<lb ed="#P" n="29" break="no"/>liter cum tristitia morientis non minuitur, sed potius augetur. Virtus enim non minuetur, sed 
+      po<lb ed="#P" n="30" break="no"/>tius augetur cum studiosus maius bonum propter minus eligit. Corollarium infert.
+    </p>
+            <p xml:id="JMAet9-d13382-d1e217">
+               <pc type="pilcrow">¶</pc> Quocirca non 
+      <lb ed="#P" n="31"/>in omnibus virtutibus vbique cum oblectamento operamur nisi quatenus finem attingimus, nec vir 
+      <lb ed="#P" n="32"/>tus in studioso ob inuidiam, minuitur, sed famam acquirit. Hoc, paradigmate tali ostendo. Demet 
+      ti<lb ed="#P" n="33" break="no"/>us phalereus Theophrasti discipulus rem Atheniensem sub Cassandro Macedoniae rege 
+      moderaba<lb ed="#P" n="34" break="no"/>tur strennue, propterea trecentas statuas Athenienses ei erexere. A Cassandri autem obitu in aegyptum 
+      <lb ed="#P" n="35"/>fugere coactus est, &amp; Athenienses aemuli inuidia agitati statuas deiecerunt atque eas in matulas per 
+      igno<lb ed="#P" n="36" break="no"/>miniam conflarunt. Cum haec Demetrius resciret prudenter aiebat. Virtutes ac praeclara gesta statua 
+      <lb ed="#P" n="37"/>rum causas abolere nequeunt.
+    </p>
+            <p xml:id="JMAet9-d13382-d1e238">
+               <pc type="pilcrow">¶</pc> Quarta conclusio &amp; vltima huius capitis est. Nihil prohibet eos qui 
+      <lb ed="#P" n="38"/>fortes non sunt validissimos esse milites, sed eos qui minus quidem sunt fortes moraliter loquendo  
+      <lb ed="#P" n="39"/>de virtute nullum aliud bonum habentes. lsti si milites non essent nihil essent, puta sunt inopes. Hi citius sese 
+      peri<lb ed="#P" n="40" break="no"/>culis obiectant quam alii, vitamque paruo emolumento perdunt. Pauper ego ludo (etiam pugno) dum tu diues meditaris. &amp; 
+      <lb ed="#P" n="41"/>Nos tuti loquimur dum vos timidi taceatis. Vel nullum aliud bonum virtutis ab hoc actu moriendi puero patria 
+      <lb ed="#P" n="42"/>habent. Paradigmate tibi id enodare minime grauabimur. Itamus vnus omnim qui cum Antigono rege milita 
+      <lb ed="#P" n="43"/>bant praestantissimus censebatur miles. Aduersa valetudine eademque occulta laborabat, propterea vitam contemptui 
+      ha<lb ed="#P" n="44" break="no"/>bebat. Regia impensa curatus cunctatior atque ignauior habitus, inter postremos versabatur hostilem congressum 
+      de<lb ed="#P" n="45" break="no"/>tractans. rege causam explorante eam non clam deprompsit. Opes, coniunx liberi, ac vitae cupiditas ignauos faciunt. 
+      <lb ed="#P" n="46"/>Sed de fortitudine hactenus. Et quid ipsa vocetur non est difficile ex iis quae dicta sunt typo re colligere.
+    </p>
+            <p xml:id="JMAet9-d13382-d1e263">
+               <pc type="pilcrow">¶</pc> Dubi 
+      <lb ed="#P" n="47"/>tatur primo an fortis simul tristetur &amp; doleat. Sedo an delectatio mentalis sit corpeea delectatione praestantior. 
+      <lb ed="#P" n="48"/>Tertioldubitatur de intelligentia corrolarii. Resndetur ad primum quod quis poest habe dolorem qui est in parte sensitiua, 
+      ha<lb ed="#P" n="49" break="no"/>bendo delectationem spumalem quae est in aia, sicut patiendo plagas &amp; vincendo in bello. Propterea Eleazarus secundi 
+      <lb ed="#P" n="50"/>Maccabaeorum. vii. dixit, Diros corperis sustineo dolores: secundm aiam vero propter timorem tuum libenter haec pa 
+      <lb ed="#P" n="51"/>tior. Diminuitur (vti meminimus) delectatio aiae ob corperis cruciatus in se aut in perceptione, nisi Deus aiam 
+      <lb ed="#P" n="52"/>eleuet in diuina &amp; eam coadiuuet, sicut multis martyribus fecit, vt patet de Laurentio Vincentio Tyburtio 
+      <lb ed="#P" n="53"/>&amp; talibus. Tyburtius cum super carbones ignitos incederet, dixit sibi visum esse se superrosas incedere. Deus 
+      <lb ed="#P" n="54"/>poenst impedire ignem ne in corpus agat cum ignis actiuitate non concurrendo, &amp; tunc nihil igniet aut calefaciet. 
+      <lb ed="#P" n="55"/>Sedo poest tristari de vno obiecto puta de amissione vitae &amp; gaudere de bono quod consequitur per illam vitae 
+      amis<lb ed="#P" n="56" break="no"/>sionem, delectatio &amp; tristitia de variis obiectis non aduersantur, licet vna earum aliam obfuscet. Item per varias appue 
+      <lb ed="#P" n="57"/>hensiones poest quis de eodem obiecto habe delectationem &amp; tristitiam.
+    </p>
+            <p xml:id="JMAet9-d13382-d1e293">
+               <pc type="pilcrow">¶</pc> Ad sedam dubitationem raspendetur affirmatiue. 
+      <lb ed="#P" n="58"/>Nam ob dolorem corperalem fortis non desistit ab opere virtutis, licet corperalis sit nobis sensibilior.
+    </p>
+            <p xml:id="JMAet9-d13382-d1e302">
+               <pc type="pilcrow">¶</pc> Ad tertiam 
+      <lb ed="#P" n="59"/>dubitationem vbi dicitur. Non in omnibus virtutibus laetamur: nisi quamtenus finem attingimus. Resndetur quod opus 
+      fortitu<lb ed="#P" n="60" break="no"/>dinis poest accipi vt habens finem qui est victoria vel expectare terribilia vel honestum. Primo mon fortitudo e 
+      <lb ed="#P" n="61"/>magis iucunda quam molesta, victoria enim inter huius vitae bona est iucundissima. Bone Deus quot exantlatos 
+      <lb ed="#P" n="62"/>labores homines cordati puer victoria subeunt? Sane est difficile relatu. Scriptura bibliaca proborum gaudium cum 
+      <lb ed="#P" n="63"/>deo confert exultationi quam in victoria contingit, inquiens, laetabimur coram te ficut qui laetantur in messe, sicut 
+      <lb ed="#P" n="64"/>exultant victores capta praeda quando diuidunt spolia. In suis epitaphiis ac triumphalibus arcubus claras suas victo¬ 
+      <!--116.xml-->
+      <pb ed="#P" n="50-r"/>
+               <lb ed="#P" n="1"/> 
+               <lb ed="#P" n="2"/>mita Carthagine. Qualiscumque alius finis relatus ponitur semper est laetitia in illo, &amp; in illius memoria. horum 
+      <lb ed="#P" n="3"/>meminisse iuuabit si euadat, sinautem in hominium aestimatione vt Homerus viuit vt poeta.
+    </p>
+            <p xml:id="JMAet9-d13382-d1e332">
+               <pc type="pilcrow">¶</pc> Dubitatur 
+      fina<lb ed="#P" n="4" break="no"/>liter. Martyres sponte &amp; cum gaudio passi sunt &amp; pro Christo, vt de apostolis in actis eorum scribit Lucas. 
+      <lb ed="#P" n="5"/>Ibant apostoli gaudentes &amp;c. Sic Agatha, Vincentius &amp; alii.
+    </p>
+            <p xml:id="JMAet9-d13382-d1e342">
+               <pc type="pilcrow">¶</pc> Respondetur gaudebant de Christi nomine 
+      tollen<lb ed="#P" n="6" break="no"/>do ad astra, sed nolebant has plagas fuisse sibi applicatas, ita erat de Christo vt in. xv. distinctionem tertii 
+      <lb ed="#P" n="7"/>sententiarum iam diximus. Ecce fortitudinem pleno ore ab historiographis celebratam, nec imerito: 
+      diffici<lb ed="#P" n="8" break="no"/>lem enim circa materiam insudat. Nam cum homines carnei sint aegre diras plagas tolerant, sautio corpere tediosum e 
+      <lb ed="#P" n="9"/>in conflictu manus conserendo stare, nihilotamen minus vir fortis honestatem communiugi, liberis, ac propriae 
+      vi<lb ed="#P" n="10" break="no"/>tae anteponit. Opes, vxor, nati, ac caetera quae mortalibus solent esse cordi a periculosa pugna deterrent, alte 
+      <lb ed="#P" n="11"/>ra ex parte turpis socordia, infamis ignauia ac honesti cupiditas ad prelium alliciunt. Haec fortem ad 
+      <lb ed="#P" n="12"/>certamen impellunt, illa vero nihili ducit. Non ob honorem finalr istud patrat. sed religionis ac boni con 
+      <lb ed="#P" n="13"/>munis gratia. Homo attamen honorem succedere non ignorat. Annalium enim idonei scriptores heroum for 
+      <lb ed="#P" n="14"/>tia gesta celebrant, ac vapparum ignauiam tetrice admodum taxant. Id pauci exemplis enodabimus. Portentosae mo 
+      <lb ed="#P" n="15"/>lis Colias inter allophylos armipotens ad singulare certamen israeleticam gentem prouocabat, nec in eo 
+      po<lb ed="#P" n="16" break="no"/>pulo inuentus est vnus qui cum eo gigante dimicare auderet, quoad Dauid adolescens omnim filiorum lesse natu 
+      <lb ed="#P" n="17"/>minimus monomachiam non detractaret. Is circungyrata circa caput funda excusso lapide gigantem 
+      inter<lb ed="#P" n="18" break="no"/>emit. Pariforma sudas Maccabaeus strennuissime cum prophanis belligerabat, honesta morte, fortiter 
+      ma<lb ed="#P" n="19" break="no"/>nus conserens, supremum egit diem. Nec minus laudandi sunt Maccabaei illi fratres qui citra reluctamen puer 
+      pa<lb ed="#P" n="20" break="no"/>triis sacris institutis mortem perpessi sunt. prelegerunt enim mortem quam porcillas carnes in sanctionis contemptum 
+      <lb ed="#P" n="21"/>manderent. Multo plures in euangelica Luce, heroica fortitudine praediti mortem intrepide tolerarunt. Diocle 
+      <lb ed="#P" n="22"/>tiani saeuitia sic christiani affligebantur vt septendecim milia paucis diebus trucidarentur. Christianum nomen 
+      <lb ed="#P" n="23"/>ea seuitia abolere ac prorsus eradicare studuit, at deceptus carnifex est: nam ea afflictione res ecclesiastica ma 
+      <lb ed="#P" n="24"/>gis floruit, vno enim cadente centum de nouo pietatem sumpsere: seudm parabolam Christi vno grano in terram 
+      <lb ed="#P" n="25"/>deiecto multorum est illud seminarium atque origo. Horum memoriam quotannis ecclesia celebrat, vltraque 
+      bea<lb ed="#P" n="26" break="no"/>titudinem in patria qua insigniuntur ab hominibus in terra honestantur. Ethnici in talibus scriptorum laudibus 
+      <lb ed="#P" n="27"/>commemorantur vt Cynegirus post Athenienses Medos ac Persas aiose ad rates compulissent nauim fugien 
+      <lb ed="#P" n="28"/>tium numero onustam Cynegirus dextera remorari nitebatur, qua amputata, laeua nauim tenuit eaque abscis 
+      <lb ed="#P" n="29"/>sa ea mordicus retinuit: nam dentibus ac morsu ablatis manibus pugnauit: nullaque accepta clade factus est 
+      <lb ed="#P" n="30"/>remissior, sed potius feruentior. Nec minore fortitudine. Sceuam Cesarianum commemorant, vno eim oculorum 
+      <lb ed="#P" n="31"/>excusso, femore atque humero transfixis, scutum centum ac viginti ictibus perforato non deferbuit. Ex opposito 
+      <lb ed="#P" n="32"/>Asdrubal nouissimus Carthaginensium ducum Carthagine a Romano duce capta cum magna transfugarum 
+      <lb ed="#P" n="33"/>caterua fsculapii phanum ingressus turpique formidine perculsus, suae salutis auidus solus ad Romanos 
+      <lb ed="#P" n="34"/>tranffugit: cuius infamiam virago communiunx partesa filios in terram praecipitauit ac turpe mariti effugium puerorum 
+      <lb ed="#P" n="35"/>nece mulctauit. Haud dissimilr Heliogabalus interiit qui militari, tumultuatione poene consternatus in 
+      <lb ed="#P" n="36"/>feculentae cloacae latebris diffugium quae siuit, eo in secessu multis plagis tranffodiebatur. Maculosae illius vitae ma 
+      <lb ed="#P" n="37"/>culosus exitus respondebat. Turpe vitam ante egit, quam ignominioso decessu finiuit. Debebat concitato mi 
+      <lb ed="#P" n="38"/>liti sese in tumultu obiectare, ac insurgentem motum auctoritatiue mitigare, ita enim Alexandrum 
+      Macedo<lb ed="#P" n="39" break="no"/>nem ac alios strennuos duces fecisse legimus. Duos socordes post egregios subiunxi, vt illorum exangui for 
+      <lb ed="#P" n="40"/>midine heroicorum armipotens fortitudo eluceat. Opposita enim comminus sita magis elucescunt: caelestis 
+      vir<lb ed="#P" n="41" break="no"/>tus tetrum vitium sua generositate foedat: ac spurcum vitium candidam virtutem nobilitat: semper enim 
+      <lb ed="#P" n="42"/>emicat incor rupta virtus, ac vitium obscuratur.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

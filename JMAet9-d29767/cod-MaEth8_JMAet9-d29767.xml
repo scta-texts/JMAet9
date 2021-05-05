@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 6</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 6</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d29767"><!-- mair-l7c6 -->
+            <head xml:id="JMAet9-d29767-Hd1e103">Caput 6</head>
+            <p xml:id="JMAet9-d29767-d1e106">
+               <lb ed="#P" n="15"/>
+               <quote xml:id="JMAet9-d29767-Qd1e110" type="lemma">POst haec autem</quote> &amp;c. Superius Aristoteles distinxit incontinentiam in incontinentiam simpliciter &amp; in 
+      <lb ed="#P" n="16"/>incontinentiam cum cauda adiecta, obiectumque vtriusque posuit: &amp; de immanitate loquutus est. Nunc vero 
+      <lb ed="#P" n="17"/>incontinentiam simpliciter dictam, incontinentiae secundum quid scilicet irae confert. Et bifariam hoc caput 
+      distrahi<lb ed="#P" n="18" break="no"/>tur. In priore parte illas incontinentias comparat &amp; inuestigat vtra sit altera deterior. In posteriore vitium 
+      <lb ed="#P" n="19"/>humanum immanitati comparat. Et primo hanc conclusionem ponit. Incontinentia irae est minus turpis quam 
+      <lb ed="#P" n="20"/>incontinentia cupiditatis. Hanc conclusionem quadrifatiam probat. Primo sic in valore. Illa incontinentia est 
+      <lb ed="#P" n="21"/>magis turpis quae minus rationem insequitur: at sic est de libidine respectu irae. Ira enim aliqua ex parte 
+      <lb ed="#P" n="22"/>rationem audit: perturbatio libidinis cum accenditur opportunitate data statim in obiecti prosequutionem 
+      <lb ed="#P" n="23"/>fertur, igitur. Accedo literam. Quia ira rationem aliquo modo audit, hoc est principium rationis, quauis 
+      im<lb ed="#P" n="24" break="no"/>perfecte dictat quod iniuriator pro sua paruipensione est puniendus: sed in ratione non persistit, haud secus quam 
+      <lb ed="#P" n="25"/>praecipites famuli qui priusquam totum quod illis praecipitur percipiant excurrunt, &amp; subinde in agendo delirant, 
+      <lb ed="#P" n="26"/>sicut canes qui priusquam considerant an inimicus, an amicus sit qui obstrepuerit &amp; fores percusserit, 
+      alla<lb ed="#P" n="27" break="no"/>trant. Ita quoque &amp; ira ob velocitatem &amp; naturae feruorem ratione audita ac mandato non percepto, hoc est 
+      <lb ed="#P" n="28"/>suasione rationis nondum completa, ad vindictam properat. Ratio enim aut imaginatio irae contumeliam, 
+      male<lb ed="#P" n="29" break="no"/>dictum, siue conuicium aut paruipensionem monstrat: &amp; illa statim acsi ratione concluserit huic iniurianti 
+      repu<lb ed="#P" n="30" break="no"/>gnandum esse censet, bellumque inferendum: &amp; protinus insurgit. Adiecit consulto vel imaginatio. Ex sola enim 
+      <lb ed="#P" n="31"/>imaginatiua sine rationis colore crebriter paruipensionem sibi illatam imperite capit: quocirca alios &amp; se 
+      <lb ed="#P" n="32"/>plerumque vexat. Temperet ergo cholericus sese &amp; demum mititatis &amp; lenitatis habitum ex actibus genitum 
+      <lb ed="#P" n="33"/>cholerae occurrentem aggenerabit. Cupidus cum per sensum nunciatur aliquid esse delectabile protinus sine 
+      ra<lb ed="#P" n="34" break="no"/>tione id prosequitur. Incontinens igitur irae quodammodo a ratione vincitur: nam ob calorem &amp; siccitatem celeriter 
+      <lb ed="#P" n="35"/>procedit. Incontinens cupiditatis non a ratione sed a cupiditate superatur. Ex illo capitur hoc aliud medium. 
+      <lb ed="#P" n="36"/>Turpius est a cupiditate quam a ratione vinci. lracundus quodammodo a ratione vincitur, &amp; alter a 
+      libidi<lb ed="#P" n="37" break="no"/>ne superatur, abstractus &amp; illectus, vt lacobus in sua canonica capite primo, ait. Secundo, illi magis 
+      igno<lb ed="#P" n="38" break="no"/>scendum est, qui naturales appetitiones sequatur: at ira est affectus naturalior, haereditarie procedens, 
+      diffici<lb ed="#P" n="39" break="no"/>liorque ad superandum quam cupiditates excessiuae &amp; non necessariae. Cupiditas alimenti est necessaria, alia est huius 
+      <lb ed="#P" n="40"/>esculenti, demonstram o perdices aut similia delicata, de illis enim intelligit. Ergo aliquid est naturalius 
+      <lb ed="#P" n="41"/>in genere sumptum, vt cupiditas quam ira, sed cupiditas excessiua est minus naturalis quam ira. Igitur 
+      incontinen<lb ed="#P" n="42" break="no"/>tia irae est minus turpis quam incontinentia cupiditatum. Maior patet, quia cupiditatibus quanto sunt 
+      vulga<lb ed="#P" n="43" break="no"/>tiores tanto magis ignoscimus. Illud autem non contingit nisi quod communiores sunt naturaliores. Minorem 
+      <lb ed="#P" n="44"/>duobus exemplis reserat. Prius est. Quidam patris percussor sese in hoc excusabat inquiens: Nam ipse, inquit 
+      <lb ed="#P" n="45"/>patrem suum pulsauit, &amp; ille item suum: &amp; puerum ostendens inquit, &amp; hic cum vir fuerit suum pulsabit. Sistere 
+      man<lb ed="#P" n="46" break="no"/>dauit filium se trahentem per capillos ante ianuam, nam &amp; ipse patrem suum eo vsque tractum fuisse dicebat. Tertio, 
+      <lb ed="#P" n="47"/>illa incontinentia est turpior quae magis occulte procedit &amp; insidias molitur, quam illa quae aperte inuadit. 
+      <lb ed="#P" n="48"/>Hinc grande scelus est hominem a tergo ferire, &amp; multo grauius propter opportunitatem toxicum in cibum 
+      <lb ed="#P" n="49"/>propinare. Ira palam procedit, libido clanculum, ergo magis iniuste. Quemadmodum venerem aiutem dolosam 
+      <lb ed="#P" n="50"/>idolos enim ipsa Venus nectit. Et Homerus vates baltheum veneri tribuit. Baltheus est aona bullis 
+      <lb ed="#P" n="51"/>ornata qualem Hector Aiaci dedit. Extrinsecus redimita, intrinsecus vero mortua est caro. Exordium 
+      <lb ed="#P" n="52"/>veneris blandum, progressus autem foedus calamitosusque est, extrema illius gaudii luctus occupat. Ea 
+      <lb ed="#P" n="53"/>propter in eius baltheo Homerus fraud em inesse: ait. inquit enim vt Argyropilus transtulit. Fraus quoque 
+      <lb ed="#P" n="54"/>inest, adimens longe mentem sapienti. Quare si libido magis sit iniusta quam ira &amp; incontinentia, quae est circa 
+      <lb ed="#P" n="55"/>illam, foedior erit ea quae est circa iram. Illa est absolute incontinentia. Haec cum addito solum, &amp; sic 
+      quodan<lb ed="#P" n="56" break="no"/>modo est vitium. Ira autem non est sic vitium. Quarto, omnis peccans cum voluptate plus peccat quam peccans cum 
+      tri<lb ed="#P" n="57" break="no"/>stitia: at incontinentia per concupiscentiam cum oblectamento fit, incontinentia irae cum dolore: nemo enim vtitur 
+      pro<lb ed="#P" n="58" break="no"/>cacitate &amp; libidine dolens, nisi doleat tamquam de malefacto vt de scelere per poenitudinem satiffaciat, &amp; hoc 
+      <lb ed="#P" n="59"/>convenit viro respectu cuiussibet peccati: sed displicentiam capiti iracundus de paruipensione sibi illata: licet 
+      <lb ed="#P" n="60"/>ira tumidus, imprudens oblectetur in vltione. Si ergo ea magis iniusta sunt quibus. i. in quae irasci est ma¬ 
+      <!--245.xml-->
+      <pb ed="#P" n="113-v"/>
+               <lb ed="#P" n="1"/>gis iustum, voluptatis incontinentia magis iniusta erit, quia perperam cum voluptate operatur: at in iram non est 
+      <lb ed="#P" n="2"/>voluptas vt palam est: ergo circa cupiditates incontinentiam foediorem esse quam circa iram oportet. Et ex his quae  
+      <lb ed="#P" n="3"/>crebriter dicta sunt, patet incontinentiam simplicicer circa corporis illecebras versari. Ac voluptatum 
+      dif<lb ed="#P" n="4" break="no"/>ferentiae hic parumper sunt sumendae. Ab huiusce determinationis exordio dictum est illarum quasdam 
+      <lb ed="#P" n="5"/>esse humanas ac naturales genere quodam &amp; magnitudine genere, vt carnes, pisces, panes, &amp; caetera 
+      <lb ed="#P" n="6"/>quae pene omnia animalia comedunt: magnitudine certam mensuram ascendendo descendendoque: quasdam 
+      <lb ed="#P" n="7"/>vero ferales: quarum quaedam ob laesum tum habitudinis tum rationis principium eueniunt: quaedam ob 
+      <lb ed="#P" n="8"/>morbos, quaedam ob consuetudinem. Circa harum trium primas hoc est circa humanas, temperantia &amp; 
+      intem<lb ed="#P" n="9" break="no"/>perantia versantur. Hinc quoque euenit vt neque belluas temperatas, neque intemperatas esse, quia non 
+      ha<lb ed="#P" n="10" break="no"/>bent humanas &amp; naturales voluptates, nisi metaphorice dicamus, comparando vnum genus animalium 
+      <lb ed="#P" n="11"/>ad aliud, vt quomodo vnum genus animalium ab alio differt petulantia contumelia coitu ac 
+      voraci<lb ed="#P" n="12" break="no"/>tate. Nam porcus vorax salax caper &amp; carniuorus lupus, sunt intemperati comparatiue. Hoc est 
+      excer<lb ed="#P" n="13" break="no"/>cent veuerea. Aries rarenter. Item canis &amp; lupus sunt voraces respectu aliorum, neque electionem neque  
+      <lb ed="#P" n="14"/>rationem habent, sed a natura electione sana &amp; ratione priuati sunt totaliter, sicut homines amentes. 
+      <lb ed="#P" n="15"/>Nullus autem homo discedit a rationalitate secundum actum primum, hoc est animam: homo enim non 
+      <lb ed="#P" n="16"/>potest esse animal brutum. Nabuchodonosor non factus est bos re ipsa, nec vxor Loth statua salis. quae 
+      <lb ed="#P" n="17"/>tamen vere conuersa est in effigiem salis, hoc est sapientiae: docens parere superiori mandanti sicut 
+      sa<lb ed="#P" n="18" break="no"/>cra lectio bibliaca indicat. Demens tamen a vita humana per actum secundum exorbitat, primo 
+      Meta<lb ed="#P" n="19" break="no"/>physicae: Hominum genus arte &amp; ratione viuit: ferae sensu, imaginatione memoriaque Saepius oratores &amp; 
+      <lb ed="#P" n="20"/>legistae per genus speciem vel specialissimam intelligunt. Post haec ponit vnam conclusionem 
+      hypo<lb ed="#P" n="21" break="no"/>theticam quae est haec. Animalium brutorum feritas minus malum est quam hominum, sed terribilius 
+      quid<lb ed="#P" n="22" break="no"/>dam. Sicut theologi de peccato carnis collatiue ad spiritualia vitia dicunt quod minoris sunt culpae 
+      ma<lb ed="#P" n="23" break="no"/>ioris tamen infamiae. Quadrifatiam priorem partem conclusionis probat. Primo sic. Omnis 
+      praui<lb ed="#P" n="24" break="no"/>tas hominis intellectum extinctum habentis, est minus imputabilis quam intellectum habentis non 
+      <lb ed="#P" n="25"/>penitus extinctum sed deprauatum: at feritas est malitia hominis habentis intellectum extinctum 
+      <lb ed="#P" n="26"/>quantum ad regimen &amp; vsum: humana autem malitia habet solum intellectum deprauatum. Non enim 
+      <lb ed="#P" n="27"/>corruptum est id quod est optimum puta intellectus vt in homine: sed homo bestialis non habet 
+      in<lb ed="#P" n="28" break="no"/>tellectum quo ad vsum, sic autem vt cum vitiis feritas confertur, perinde sit ac si quis inanimatum 
+      <lb ed="#P" n="29"/>cum animato comparet, vtrum sit peius. Bestialem inanimatum deputat quo ad animae vsum: ac si 
+      <lb ed="#P" n="30"/>diceret opus inanimati est minus malum quam opus animati in malum tendentis, at bestialis est 
+      inani<lb ed="#P" n="31" break="no"/>matus: igitur. Et hic virtualiter tangitur alia ratio conclusionis probatiua. Semper enim prauitas 
+      <lb ed="#P" n="32"/>eius quod non habet principium minus nocere potest. Per principium intellectum intelligit: quia 
+      <lb ed="#P" n="33"/>sine actu intellectus, actus voluntatis dimouetur. Virtualiter hic secunda ratio tangitur. Tertia ratio 
+      <lb ed="#P" n="34"/>talis est. Malitia hominis si qua sit hominis non habentis principium humanorum actuum est innocentior quam 
+      <lb ed="#P" n="35"/>habentis: at feritas est malitia non habentis principium: humana vero malitia habet principium: igitur. 
+      <lb ed="#P" n="36"/>Quarta ratio: dum confertur vitio feritas perinde est atque si quispiam iniustitiam ad hominem iniustum 
+      <lb ed="#P" n="37"/>comparet: at iniustitia est malum minus imputabile quam homo iniustus. Iniustitia enim per se sumpta 
+      <lb ed="#P" n="38"/>tum appetitus peruersitatem includit: sic feritas quia de intellectu nihil prorsus habet ad sensum ante 
+      <lb ed="#P" n="39"/>dictum, attamen opus facit, appetitum tamquam feralem habet: iniustus intellectum &amp; appetitum habet. 
+      <lb ed="#P" n="40"/>Homo namque malus, plura damna potest facere quam ipsa fera de pernicioso viro si ingenium habeat proptum 
+      <lb ed="#P" n="41"/>est. Recte enim dicitur, gladius est in furioso, vtrumque tamen est aliquo modo peius, supple altero. Hic 
+      <lb ed="#P" n="42"/>consuetudine scilicet intemperatus: haec scilicet feritas natura. Licet omnes animae pares fuerint quoad 
+      <lb ed="#P" n="43"/>substantiam, tamen corporis dispositio non parum ad intellectus acrimoniam facit. Molles carne 
+      <lb ed="#P" n="44"/>sunt apta mente &amp; cholerici irae incontinentes, sunt ad literas promptissimi. Hinc vulgo dicitur: 
+      ta<lb ed="#P" n="45" break="no"/>lis furorem habet poeticum, quia talis ad sublimia est aptior. 
+    </p>
+            <p xml:id="JMAet9-d29767-d1e313">
+               <lb ed="#P" n="46"/>⁋ Circa hoc caput dubitatur. Dictum est quod est continentia irae quam cupiditatis est minus mala. Oppositum 
+      <lb ed="#P" n="47"/>probatur tripliciter. Primo, difficilius est resistere concupiscentiae quam irae, ex secundo libro, &amp; quanto 
+      diffici<lb ed="#P" n="48" break="no"/>lius est reluctari affectui tanto succumbere est minus vituperabile. Secundo, illud vitium est peius quod 
+      de<lb ed="#P" n="49" break="no"/>prauat nobiliorem animae partem, at ira est huiusmodi: deturpat enim appetitum irascibilem: 
+      incon<lb ed="#P" n="50" break="no"/>tinentia cupiditatis concupiscibilem, modo appetitus irascibilis est concupiscibilis praestantior. 
+      Ter<lb ed="#P" n="51" break="no"/>tio illi incontinentes sunt deteriores cum quibus homines magis timent viuere: tales autem sunt 
+      <lb ed="#P" n="52"/>irae incontinentes, quorum societatem prudentes diligentissime euitant. 
+    </p>
+            <p xml:id="JMAet9-d29767-d1e331">
+               <lb ed="#P" n="53"/>⁋ Ad primum dicitur, quod difficultate proueniente ex parte obiecti communiter occurrentis, si homo in  
+      <lb ed="#P" n="54"/>coetu mulierum habitet concedo, ex parte impetus nego: si homo teneat sese in casta virorum societate 
+      ten<lb ed="#P" n="55" break="no"/>peranter viuendo in quotidiana operis excercitatione non est difficile cupiditati (licet sit intrinsecus)  
+      <lb ed="#P" n="56"/>resistere. adde quod cupiditas a renibus &amp; neruis procedit: virtus enim in lumbis eius est, dicit <ref xml:id="JMAet9-d29767-Rd1e341">Gregorius, 
+        <lb ed="#P" n="57"/>exponens illud Iob</ref>: quod de confessore in matutinis secundum Romanum vsum legimus: sic de foemina quod 
+      <lb ed="#P" n="58"/>in vmbilico eius, a cordis calore ira emergit: in cuius argumentum cum homo irascitur sanguis circa cor 
+      <lb ed="#P" n="59"/>ebullit, calefit homo iratus &amp; alteratur sicut saepius in me experior: propterea in natos descendit, quia 
+      <lb ed="#P" n="60"/>ex corde, seminis non parua pars in vigore emergit. Hinc iracundorum natos tales videmus: sic 
+      Aristo<lb ed="#P" n="61" break="no"/>teles in litera ratus est, duo exempla ad hoc de vitio gentili introducens.
+    </p>
+            <p xml:id="JMAet9-d29767-d1e356">
+               <pc type="pilcrow">¶</pc> Ad secundum dico, quod 
+      argu<lb ed="#P" n="62" break="no"/>mentum praesupponit falsum in quo priscorum multi &amp; Neotericorum non pauci stant, idem re ipsa 
+      <lb ed="#P" n="63"/>est appetitus concupiscibilis &amp; irascibilis: nec discrimen vllum est reale, licet hi termini pro appetitu 
+      <lb ed="#P" n="64"/>supponentes alia connotata habere possunt, consignificatio irascibilis est alia connotatione praestantior. de 
+      <!--246.xml-->
+      <pb ed="#P" n="114-r"/>
+               <lb ed="#P" n="1"/>hoc in sententiis sum loquutus latius. Ad tertium dico, quod prudens in neutrius societatem gaudet: at 
+      ira<lb ed="#P" n="2" break="no"/>cundus potest in verbera exire non contentus verborum strepitu, talisque tamquam fera pessima est fugiendus, quando  
+      <lb ed="#P" n="3"/>ad manus itur. Secundo modo, quis iracundus est quem pulsare pudet, quia scholasticus est: at est contra eius 
+      <lb ed="#P" n="4"/>honorem vel non audet paruifacientem ferire, sed in verba contumeliosa solet irrumpere &amp; peccata occulta 
+      ven<lb ed="#P" n="5" break="no"/>tilare, is non solum ira laborat, sed est coluber ipsa nequitia nequior, vel suspecta flagitia tamquam explorata 
+      <lb ed="#P" n="6"/>exprobrate: is priore haud est minus fugiendus, penitusque indignus cum quo habitetur. Tertius est 
+      ira<lb ed="#P" n="7" break="no"/>cundus, iram intra se decoquens, qui ratione eam pertim occulit, sed eam totaliter non occultat, quin percipiatur, 
+      <lb ed="#P" n="8"/>nulli tamen est iniurius, vbi sedatus est illum irae pudet. Iste autem non est prauus sed bonus, discoopertus, 
+      <lb ed="#P" n="9"/>&amp; fidus amicus. Quo vitio parui corpore si mente polleant vulgo laborant. Hoc inter scholasticos viros 
+      <lb ed="#P" n="10"/>facile capies: quare inflati aliqui eorum, nisi oppositum aliis indiciis monstrent putantur. Adhuc nonnulla 
+      <lb ed="#P" n="11"/>de ira annectam. Iratus corporis aut bonis fortunae nocet solum, hominem ferit, eius libros lacerat, aut  
+      <lb ed="#P" n="12"/>boues mactat. Incontinens animam suam exorbitat, mulieres insidiose violans: quarum mores euertit. Ex 
+      in<lb ed="#P" n="13" break="no"/>continentia multa mala oriuntur. Troianum excidium intemperies Helenae ac Paridis peperit, &amp; ita fit saepius. 
+      <lb ed="#P" n="14"/>Ex tertia ratione Aristotelis, corollatia infero. Ille grauius exorbitat qui hominem a tergo pulsans 
+      <lb ed="#P" n="15"/>necat quam is qui eum occidit a fronte. Huic enim elabendi aut sese defendendi locus conceditur: non autem illi a tergo. 
+      <lb ed="#P" n="16"/>ldemque est dicere, converte te &amp; defende, &amp; interim eum ferire, perinde ac si nihil diceret. Amplius qui toxico 
+      <lb ed="#P" n="17"/>hominem e medio tollit, grauissime delinquit. Tales si inueniantur ad Phalaridis tormenta sunt 
+      mit<lb ed="#P" n="18" break="no"/>tendi quatenus alios doceant a talibus fraudibus abstinere. Praeterea melius tibi sit iracundum ac castum 
+      <lb ed="#P" n="19"/>tecum habere commensalem quam voluptarium, pudicitiae filiae aut vxoris insidiantem. Noli eius incontinentiam ad 
+      <lb ed="#P" n="20"/>foeminas extra tuam familiam conferre, &amp; iram in tua mensa. Cape caetera paria in collatione, vnus iniuria 
+      <lb ed="#P" n="21"/>lacessitus irascitur nullum ferit nec maledicit cuiquam de tali irato loquor.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

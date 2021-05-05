@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 5</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 5</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="JMAet9-d37443"><!-- mair-l9c5 -->
+            <head xml:id="JMAet9-d37443-Hd1e103">Caput 5</head>
+            <p xml:id="JMAet9-d37443-d1e106">
+      <!--309.xml-->
+               <pb ed="#P" n="144-v"/>
+               <lb ed="#P" n="1"/>
+               <quote xml:id="JMAet9-d37443-Qd1e114" type="lemma">BEneuolentia autem</quote> &amp;c. In hoc capite philosophus de beneuolentia docet &amp; dicit primo quod nec est ami 
+      <lb ed="#P" n="2"/>citia, nec amatio, sed est amicitiae principium, Diuturna tamen beneuolentia &amp; consueta, fit amicitia: &amp; quod non  
+      <lb ed="#P" n="3"/>est principium amicitiae quae est ob bonum vtile aut delectabile, cum in his non sit beneuolentia: sed est origo ami 
+      <lb ed="#P" n="4"/>citiae ob honestum. Et hic loquitur de primo actu amicitiae, scilicet de beneuolentia quae est actus interior 
+      ami<lb ed="#P" n="5" break="no"/>citiae a quo opera exteriora amicitiae prodeunt. Prima conclusio est. beneuolentia amicitiae persimilis est: non tamen est 
+      <lb ed="#P" n="6"/>amicitia. Nam beneuolentia est ad ignotos &amp; latens, hoc amicitiae minime convenit, vt ex tertio capite octaui huius 
+      <lb ed="#P" n="7"/>perspicuum est. Scito quod hic in allegatione. in quarto aut octauo huius, intelligendo precise librum vnum 
+      ethico<lb ed="#P" n="8" break="no"/>rum. Nonnumquam etiam totale opus intelligo, secundum materias subiectas sermonem cape. Secunda conclusio. Nec etiam 
+      <lb ed="#P" n="9"/>beneuolentia est amatio. Probatur quia beneuolentia non intentionis vehementiam habet, aut appetitionem 
+      ve<lb ed="#P" n="10" break="no"/>hementem, haec autem amationem sequuntur, igitur beneuolentia amatio non est. Tertio argumentor ad idem quia 
+      <lb ed="#P" n="11"/>amatio est postquam mutua consuetudine contracta est: beneuolentia autem fit repente: vt circa certantes &amp; agonistas 
+      <lb ed="#P" n="12"/>fieri solet. Spectantes enim sunt beneuoli alteri aut alteris, &amp; vnus est vni beneuolus &amp; alter alteri, &amp; eos 
+      il<lb ed="#P" n="13" break="no"/>lius beneneuolentiae causa saepicule fugit. Illis ergo sunt beneuoli &amp; eis bona volunt, nihil tamen simul 
+      ege<lb ed="#P" n="14" break="no"/>runt, sedi vt dictum est) repente fiunt beneuoli: tenuiterque eos diligunt.
+    </p>
+            <p xml:id="JMAet9-d37443-d1e146">
+               <pc type="pilcrow">¶</pc> Tertia conclusio. Videtur igitur be 
+      <lb ed="#P" n="15"/>neuolentia principium esse perinde ac ea voluptas quae aspectu afficitur. Sane nemo taliter adamat si non antea 
+      <lb ed="#P" n="16"/>forma delectatus fuerit: verum qui specie gaudet non continuo &amp; adamat, sed cum absentem desiderat praesentemque 
+      af<lb ed="#P" n="17" break="no"/>fectat. Sic igitur &amp; amicos impossibile est esse nisi beneuoli fuerint. Beneuoli vero non continuo amant: volunt enim 
+      <lb ed="#P" n="18"/>duntaxat iis bona quibus beneuoli sunt: sed nihil egerunt simul, neque pro illis molestiam aut sollicitudinem 
+      suscepe<lb ed="#P" n="19" break="no"/>runt vllam. Postea quandam obiectionem eluit inquiens. Quapropter quispiam &amp;c. Diceret enim aliquis quod beneuolentia 
+      <lb ed="#P" n="20"/>(vt communiter dicitur) est ociosa amicitia, &amp; beneuolentia diuturna &amp; in consuetudinem veniens, fit ami 
+      <lb ed="#P" n="21"/>citia. Consequentiam in effectu negat philosophus dicens hoc translatitie esse dictum, loco huius esse 
+      ca<lb ed="#P" n="22" break="no"/>ptum. Beneuolus est factus amicus vel beneuolus incipit esse amicus. Quarta conclusio. Beneuolentia non 
+      <lb ed="#P" n="23"/>est principium amicitiae propter vtile nec amicitiae ob voluptatem. Nam ob vtilitatem atque voluptatem 
+      <lb ed="#P" n="24"/>nulla est beneuolentia. Siquidem beneuolentia eius gratia est cui beneuoli sumus: sed ille qui beneficium 
+      acci<lb ed="#P" n="25" break="no"/>pit, retribuit vicissim pro iis quae accipit gratiam, paria faciens: &amp; qui optat alicui prosperitatis successum 
+      <lb ed="#P" n="26"/>euenire, alicuius spe per eum commodi consequendi, non illi sed sibi beneuolus citius diceretur. 
+      Quem<lb ed="#P" n="27" break="no"/>admodum nec diceretur amicus, si illi propter aliquem vsum obsequium praestiterit. Sequitur quinta 
+      con<lb ed="#P" n="28" break="no"/>clusio quae dicit, quod beneuolus est principium amicitiae quae est ob virtutem. propterea dicit litera. 
+      Omni<lb ed="#P" n="29" break="no"/>no autem beneuolentia ob virtutem ac bonitatem aliquam fit, cum cuipiam quispiam pulcher aut fortis 
+      <lb ed="#P" n="30"/>aut aliquod tale videtur: &amp; vt in certaminibus ante retulimus. Hoc est dum dicitur de aliquo quod est fortis, 
+      <lb ed="#P" n="31"/>eruditus, probus, mox sumus illi beneuoli, Postea beneuolentiam intendimus, quo amicitia dicatur, quia be 
+      <lb ed="#P" n="32"/>neuolentia pro remissa qualitate capta erit pars amicitiae. 
+    </p>
+            <p xml:id="JMAet9-d37443-d1e191">
+               <lb ed="#P" n="33"/>⁋ Dubitatur primo vtrum amicitia sit beneuolentia. secundo an amicitia sit amatio. Respondetur ad pri 
+      <lb ed="#P" n="34"/>orem dubitationem quod amicitia potest pro actu &amp; habitu accipi, pariter &amp; beneuolentia. secundo quod beneuo 
+      <lb ed="#P" n="35"/>lentia potest capi pro actu vel habitu remisso &amp; amicitia pro actu vel habitu intenso, &amp; sic nunquam amicitia 
+      <lb ed="#P" n="36"/>est beneuolentia, comparando actum ad actum, aut habitum ad habitum: si tamen beneuolentia capiatur 
+      <lb ed="#P" n="37"/>pro qualitate siue intensa siue remissa, tunc omnis amicitia est beneuolentia, non autem e contrario, puta 
+      <lb ed="#P" n="38"/>non conuertuntur: quia amicitia aliqua connotat quae beneuolentia non connotat. 
+    </p>
+            <p xml:id="JMAet9-d37443-d1e207">
+               <lb ed="#P" n="39"/>⁋ Ad secundam dubitationem respondetur quod amatio dicit qualitatem intensam amandi: sicut enim 
+      gram<lb ed="#P" n="40" break="no"/>matici docent &amp; oratores obseruant, plus est amare quam diligere: tunc beneuolentia capiendo pro actu vel 
+      ha<lb ed="#P" n="41" break="no"/>bitu remisso non est amatio, vt notum est: sed beneuolentia fit amscitia assuefactione: sicut forma 
+      remis<lb ed="#P" n="42" break="no"/>sa fit intensa, vel aer fit aqua, non quod forma remissa vnquam erit intensa cuius est pars: sic nec beneuolentia 
+      <lb ed="#P" n="43"/>hoc modo capiendo est amatio.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>
