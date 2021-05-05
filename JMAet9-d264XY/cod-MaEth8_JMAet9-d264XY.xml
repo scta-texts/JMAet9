@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 9</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 9</title>
+               <date when="2021-05-05">May 05, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-MaEth8">Paris 1530</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-05-05" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+        <div xml:id="starts-on">
+          <pb ed="#P" n="100-r"/>
+        </div>
+      </front>
+      <body>
+        <div xml:id="JMAet9-d264XY"><!--  alias="mair-l6c9" -->
+            <head xml:id="JMAet9-d264XY-Hd1e103">Caput 9</head>
+            <p xml:id="JMAet9-d264XY-d1e106">
+               <lb ed="#P" n="34"/>
+               <quote xml:id="JMAet9-d264XY-Qd1e110" type="lemma">AT vero quaerere &amp; consultare differunt</quote> &amp;c. Ostenditur quando sunt aliqua duo quorum vnum est alio 
+      gna<lb ed="#P" n="35" break="no"/>lius, illa inter se dispescuntur, at rogatio &amp; consultatio sunt hmoni, &amp; omne consultare est quaerere non autem 
+      <lb ed="#P" n="36"/>contra, hoc ex tertio lib perspicuum est. Bona consultatio non est scientia. Probatur, Scientia non est inquisitio 
+      <lb ed="#P" n="37"/>bona consultatio est inquisitio, proinde sciem. ia non est bona consultatio. Maior est liquida. Non enim inquirimus de iis 
+      <lb ed="#P" n="38"/>quorum sciam ac certitudinem habemus.
+    </p>
+            <p xml:id="JMAet9-d264XY-d1e123">
+               <pc type="pilcrow">¶</pc> Sequitur. Atqui nec bona communiectatio. lam ondit bonam consultationem non 
+      <lb ed="#P" n="39"/>esse bonam cmuniectationem, hoc pacto. Bona communiectatio fit sine discussione &amp; sic extemplo (ob putitatem eim orga 
+      <lb ed="#P" n="40"/>norum &amp; subtilitatem sensuum aliqui subito iudicant) at bona consultatio non fit citra discursum: proinde bona 
+      con<lb ed="#P" n="41" break="no"/>sultatio non est bona communiectatio, cum non fiat eadem tempestatis mensura. Bona enim consultatio cum libramine &amp; mo 
+      <lb ed="#P" n="42"/>ra peragitur, &amp; non est ita in communiectatione. Vn aiuntiquit Aristo.) longo spatio consultandum, celeriter postea agendum. 
+      <lb ed="#P" n="43"/>Recte itaque ait Salust. Prius, quam incipias consulto, at vbi consulueri, mature facto opus est. Praeterea diuersa sunt 
+      <lb ed="#P" n="44"/>solertia &amp; bona consultatio, solertia autem est spens bonae communiectationis medii inuentrix, quod est causa coniungendi 
+      <lb ed="#P" n="45"/>duo extrema, ex quibus conclusio oritur. In posterioribus, iquit Aristo, solers extemplo ad propositum medium invenit. 
+      <lb ed="#P" n="46"/>Vt si pauper cum diuite loquatur statis coniectat illum pecuniam peterae, vel si duo inimici amicitiam ineant, sollers di 
+      <lb ed="#P" n="47"/>cet quod propter vnum tertium amici fiant. Vt de pace iter Herodem &amp; Pilatum ob Christum. Non est opinio, hoc inferius 
+      <lb ed="#P" n="48"/>ostenditur.
+    </p>
+            <p xml:id="JMAet9-d264XY-d1e150">
+               <pc type="pilcrow">¶</pc> Sequitur in ita. Sed cum is qui male &amp;c. Nunc affirmatiue explanat quid sit ex parte gnis ipsa 
+      consultatio<lb ed="#P" n="49" break="no"/>&amp; hoc pacto dicit. Cum is qui prperam deliberat hoc et consulit, peccet, &amp; erret: &amp; is qui benen consultat recte deliberet: 
+      li<lb ed="#P" n="50" break="no"/>quidum est bonam consultationem esse quandam rectitudinem. Ecce affirmatiua propositio quam indagatur genus ipsius 
+      consulta<lb ed="#P" n="51" break="no"/>tionis. Non autem est rectitudo scientiae neque opinationis. Facileid monstratur. Quia in rectitudine scientiae minime er 
+      <lb ed="#P" n="52"/>ratur, neque etiam opinionis. Illius enim rectitudinem veritas atque falsitas peccatum ac lapsus. Insuper idomne cuius est opinio 
+      <lb ed="#P" n="53"/>est determinatum ac citra controuersiam capitur, consultatio adhuc non est sine rocinatione attamena mente assentien 
+      <lb ed="#P" n="54"/>do, ita esse aut non esse deficit. Haec eni scilicet bona consultatio non est enunciatio postquam est quaestio. Etenim opinio 
+      <lb ed="#P" n="55"/>non est inquisitio, sed iam est assensus determinatus enunciationis, qui vero consultat rem dextere. 
+      <lb ed="#P" n="56"/>siue perperam aliud inuestigat rationemque subducit, verum ipsa consultatio bona siue recta est 
+      quae<lb ed="#P" n="57" break="no"/>dam consilii rectitudo, quocirca indagandum est primum quidnam sit consilium: &amp; circa quam mate¬ 
+      <!--219.xml-->
+      <pb ed="#P" n="100-v"/>
+               <lb ed="#P" n="1"/>ria insudet, cum vero plurifariam rectitudo dicatur, proprie rectitudo est rationi consentanea, 
+      vulga<lb ed="#P" n="2" break="no"/>riter malis conuenit. eum qui Herculis boues furatus est recte cacum, quod nomen malum sonat, appellamus. 
+      <lb ed="#P" n="3"/>Liquidum est non omnem rectitudinem bonam consultationem esse, icontinens enim &amp; flagitiosus accommoda media ad 
+      <lb ed="#P" n="4"/>malum finem excogitat &amp; rationem subducendo inuenit medium. Verbi causa Achitophel dissidium capitale in  
+      <lb ed="#P" n="5"/>ter Dauidem &amp; Absalonem filium eius aio volutans tandem post cogitationem iussit Absalonem cum paternis concubi 
+      <lb ed="#P" n="6"/>nis dormire vt hoc notorio iproperio Israelitarum corda Absaloni conglutinaret, ac eadem a Dauidico 
+      stu<lb ed="#P" n="7" break="no"/>dio alienaret. Ista est rectitudo consilii ad malum finem, extendendo rectitudinem cum vulgo, sed non satis es. Primum 
+      <lb ed="#P" n="8"/>igitur requisitum ad bonam consultationem est vera rectitudo medii, &amp; non vulgaris ac translatitia. Sequitur. Bamn vero 
+      <lb ed="#P" n="9"/>consultasse bonum quoddam esse videtur. In primis probum finem tuae consultationi praescribes, &amp; ea conditio haud suffi 
+      <lb ed="#P" n="10"/>cit. Certe possumus bonum finem iniquis mediis consequi. Succurrereiopi est bonum, se furto illi subuenire est veti 
+      <lb ed="#P" n="11"/>tum. Non enim sunt facienda mala vt inde eueniant bona. Dicit ita. At poest quispiam &amp; hoc ratione falsa attingere. 
+      Si<lb ed="#P" n="12" break="no"/>cut in speculabilibus ex falsis verum concluditur sedo priorum.
+    </p>
+            <p xml:id="JMAet9-d264XY-d1e206">
+               <pc type="pilcrow">¶</pc> Sic in agibilibus bonus finis perniciosis mediis 
+      <lb ed="#P" n="13"/>interdum perficitur. Nonne vides ex duabus falsis in toto sequi verum vt ex his. Omnis asinus est homo, omne 
+      visibi<lb ed="#P" n="14" break="no"/>le est asinus, ergo omne visibile est homo. In barbara. Sic iniquis mediis in toto aliqui sibi parant honorem, 
+      di<lb ed="#P" n="15" break="no"/>uitias, ad alium scopum, iste id quod rationi consentaneum est assequitur, verumtamem non per illd quod oportet, sed medius 
+      <lb ed="#P" n="16"/>terminus falsus ac deceptorius esse poest. Tertium requisitum ad rectum consilium annectit, quod est idoneitas tempo 
+      <lb ed="#P" n="17"/>ris negocium digerendi, nec bonitas scopi ac mediorum ad digestum consilium sufficit, sed insuper congrua tempestas 
+      <lb ed="#P" n="18"/>subducendi rationem requiritur, vt pote ne nimis celeriter nec nimis tarde in ea materia procedatur, sed vt 
+      <lb ed="#P" n="19"/>vniuersa cum maturitatem digerantur. Dicit ittea. Praeterea fieri poest vt alius longo deliberans interuallo opta 
+      <lb ed="#P" n="20"/>tum consequatur, alius vero ex templo ac in tempestatis curriculo. Illa praeceps non est bona consultatio, hinc 
+      vetu<lb ed="#P" n="21" break="no"/>sto aiunt prouerbio. Consilium nox ipsa dabit. Perinde acsi diceretur, in ardua re a quiete omnibus 
+      paca<lb ed="#P" n="22" break="no"/>tis deliberabimus ac sententiam inquiremus. Ipse ego non plurimis rebus implicitus quia mihi curta 
+      <lb ed="#P" n="23"/>supellex est, quando dono mutuo, aut alia via nonnihil a me alii expetunt respondere assueui, crastina 
+      <lb ed="#P" n="24"/>luce aut perendic redeas, interea a studio respirans materiam illam hinc inde voluto &amp; me 
+      circunscri<lb ed="#P" n="25" break="no"/>ptum raro offendo. Alias autem cum protinus responderim, stati me poenituit. Pecuniam enim mutuo 
+      <lb ed="#P" n="26"/>tradens eam ad graecas Calendas recepi vel acriter solutionem petens ex amico capitalem hostem peperi. Aut 
+      il<lb ed="#P" n="27" break="no"/>lis mutuum protinus inficiabar, quibus consentaneum erat mutuum praebere. Sequitur in lita. Insuper fit vt absolute quispi 
+      <lb ed="#P" n="28"/>am. Nunc consultationem diducit quod duo sunt scopi respectu quorum bona consultatio emergit, scilicet finis 
+      <lb ed="#P" n="29"/>absolutus &amp; vltimus scilicet ipsa felicitas. Alter terminus est particularis vt quanam via possim in socium collegil 
+      <lb ed="#P" n="30"/>lesu cantebrigiae recipi. Hic limes ad vltimum terminum em ordinabilis etiam per alios interstites fines. Vt volo 
+      <lb ed="#P" n="31"/>in hoc collegio literas amplecti vt magis idoneus in Parisiorum Lutetia fiam. hinc literis puer virili compera 
+      <lb ed="#P" n="32"/>tis omne sadium in diuinum cultum impendam. Postea diffinitionem bonae consultationis affert iquiens. Si igitur 
+      pruden<lb ed="#P" n="33" break="no"/>tium est benen consulere ea est directio secundm vtilitatem aliquem ad finem, cuius prudentia est directrix, si alias 
+      virtu<lb ed="#P" n="34" break="no"/>tes dirigat suiipsius fimbrias moderatur bonum consilium est consilii rectitudo ad finem bonum per 
+      <lb ed="#P" n="35"/>iusta media ac conuenienti tempore assequendum.
+    </p>
+            <p xml:id="JMAet9-d264XY-d1e263" ana="#heading">
+               <lb ed="#P" n="36"/>Tract. III. Lib. VI. Cap. X.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

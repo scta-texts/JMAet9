@@ -46,7 +46,9 @@
    </teiHeader>
    <text xml:lang="la">
       <front>
-         <div xml:id="starts-on"/>
+        <div xml:id="starts-on">
+          <pb ed="#P" n="43-r"/>
+        </div>
       </front>
       <body>
          <div xml:id="JMAet9-d11390"><!-- mair-l3c6 -->
@@ -258,13 +260,13 @@
       <lb ed="#P" n="62"/>&amp; vbi vires locum habent: sed hoc martyres non habuerunt. Rnsum est, quod erat in eis contrapugnatio intrini 
       <lb ed="#P" n="63"/>seca contra carnem &amp; spiritum. Nemo enim carnem suam odio habet. Secundo martyres carnificibus reluctabani 
       <lb ed="#P" n="64"/>verbo &amp; non corporis viribus: propterea ab Apostolo ad Ephesios &amp; ab aliis sanctis verissime dicuntur 
-      <!--103.xml-->
+      <!--<!-\-103.xml-\->
       <pb ed="#P" n="44-v"/> 
-               <!-- duplicate page  -->
-               <!--104.xml-->
+               <!-\- duplicate page  -\->
+               <!-\-104.xml-\->
                <pb ed="#P" n="45-r"/>
-               <!-- duplicate page -->
-               <!--105.xml-->
+               <!-\- duplicate page -\->
+               <!-\-105.xml-\->-->
                <pb ed="#P" n="44-v"/>
                <lb ed="#P" n="1"/>fortes. At dicis capiendo bellum secundo modo, licet secunda acceptio sit priore multo latior: Plerique 
       he<lb ed="#P" n="2" break="no"/>roici viri fortitudine hoc modo sumpta vacabant. Patet de eremicolis, coenobitis &amp; plerisque aliis 

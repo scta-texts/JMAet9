@@ -45,9 +45,7 @@
       </revisionDesc>
    </teiHeader>
    <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on"/>
-      </front>
+      <front><div xml:id="starts-on"><pb ed="#P" n="143-r"/></div></front>
       <body>
          <div xml:id="JMAet9-d37188"><!-- mair-l9c4 -->
             <head xml:id="JMAet9-d37188-Hd1e103">Caput 4</head>

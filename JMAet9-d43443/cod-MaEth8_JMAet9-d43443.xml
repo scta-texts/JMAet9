@@ -46,8 +46,10 @@
    </teiHeader>
    <text xml:lang="la">
       <front>
-         <div xml:id="starts-on"/>
-      </front>
+          <div xml:id="starts-on">
+            <pb ed="#P" n="168-r"/>
+          </div>
+        </front>
       <body>
          <div xml:id="JMAet9-d43443"><!-- mair-l10c9 -->
             <head xml:id="JMAet9-d43443-Hd1e103">Caput 9</head>
@@ -75,10 +77,10 @@
       <lb ed="#P" n="55"/>sunt qui non ob ignominiam sed metum obtemperant. Nec ob turpitudinem sed ob poenam a prauis abstinent. 
       <lb ed="#P" n="56"/>Cui sententiae Horatiana carmina applaudunt. 
       <!--357.xml-->
-      <pb ed="#P" n="168-v"/> 
-               <!-- duplicate of 167v -->
-               <!--358.xml-->
-               <pb ed="#P" n="169-r"/> 
+      <!--<pb ed="#P" n="168-v"/> 
+               <!-\- duplicate of 167v -\->
+               <!-\-358.xml-\->
+               <pb ed="#P" n="169-r"/>--> 
                <!-- duplicate of 168r -->
                <!--359.xml-->
                <pb ed="#P" n="168-v"/>

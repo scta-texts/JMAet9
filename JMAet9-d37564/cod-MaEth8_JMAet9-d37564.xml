@@ -46,8 +46,10 @@
    </teiHeader>
    <text xml:lang="la">
       <front>
-         <div xml:id="starts-on"/>
-      </front>
+          <div xml:id="starts-on">
+            <pb ed="#P" n="145-r"/>
+          </div>
+        </front>
       <body>
          <div xml:id="JMAet9-d37564"><!-- mair-l9c6 -->
             <head xml:id="JMAet9-d37564-Hd1e103">Caput 6</head>

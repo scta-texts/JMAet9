@@ -46,7 +46,9 @@
    </teiHeader>
    <text xml:lang="la">
       <front>
-         <div xml:id="starts-on"/>
+        <div xml:id="starts-on">
+          <pb ed="#P" n="72-r"/>
+        </div>
       </front>
       <body>
          <div xml:id="JMAet9-d19805"><!-- mair-l5c1 -->
